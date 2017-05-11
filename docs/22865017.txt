@@ -1,0 +1,11 @@
+RESPECT-PTSD: re-engineering systems for the primary care treatment of PTSD, a randomized controlled trial.
+
+BACKGROUND Although collaborative care is effective for treating depression and other mental disorders in primary care, there have been no randomized trials of collaborative care specifically for patients with Posttraumatic stress disorder (PTSD).
+OBJECTIVE To compare a collaborative approach, the Three Component Model (3CM), with usual care for treating PTSD in primary care.
+DESIGN The study was a two-arm, parallel randomized clinical trial. PTSD patients were recruited from five primary care clinics at four Veterans Affairs healthcare facilities and randomized to receive usual care or usual care plus 3CM. Blinded assessors collected data at baseline and 3-month and 6-month follow-up.
+PARTICIPANTS Participants were 195 Veterans. Their average age was 45 years, 91% were male, 58% were white, 40% served in Iraq or Afghanistan, and 42% served in Vietnam.
+INTERVENTION All participants received usual care. Participants assigned to 3CM also received telephone care management. Care managers received supervision from a psychiatrist.
+MAIN MEASURES PTSD symptom severity was the primary outcome. Depression, functioning, perceived quality of care, utilization, and costs were secondary outcomes.
+KEY RESULTS There were no differences between 3CM and usual care in symptoms or functioning. Participants assigned to 3CM were more likely to have a mental health visit, fill an antidepressant prescription, and have adequate antidepressant refills. 3CM participants also had more mental health visits and higher outpatient pharmacy costs.
+CONCLUSIONS Results suggest the need for careful examination of the way that collaborative care models are implemented for treating PTSD, and for additional supports to encourage primary care providers to manage PTSD.
+

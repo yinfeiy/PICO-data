@@ -1,0 +1,12 @@
+Effect of low versus high dialysate sodium concentration on blood pressure and endothelial-derived vasoregulators during hemodialysis: a randomized crossover study.
+
+BACKGROUND Intradialytic hypertension affects ∼15% of hemodialysis patients and is associated with increased morbidity and mortality. While intradialytic hypertension is associated with increases in endothelin 1 relative to nitric oxide (NO), the cause of these imbalances is unknown. In vitro evidence suggests that altering plasma sodium levels could affect endothelial-derived vasoregulators and blood pressure (BP). Thus, we hypothesized that compared to high dialysate sodium, low dialysate sodium concentration would lower endothelin 1 levels, increase NO release, and reduce BP.
+STUDY DESIGN 3-week, 2-arm, randomized, crossover study.
+SETTING & PARTICIPANTS 16 patients with intradialytic hypertension.
+INTERVENTION Low (5 mEq/L below serum sodium) versus high (5 mEq/L above serum sodium) dialysate sodium concentration.
+OUTCOMES Endothelin 1, nitrite (NO2(-)), and BP.
+MEASUREMENTS Mixed linear regression was used to compare the effect of dialysate sodium (low vs high) and randomization arm (low-then-high vs high-then-low) on intradialytic changes in endothelin 1, NO2(-), and BP values.
+RESULTS The average systolic BP throughout all hemodialysis treatments in a given week was lower with low dialysate sodium concentrations compared with treatments with high dialysate sodium concentrations (parameter estimate, -9.9 [95% CI, -13.3 to -6.4] mm Hg; P < 0.001). The average change in systolic BP during hemodialysis also was significantly lower with low vs high dialysate sodium concentrations (parameter estimate, -6.1 [95% CI, -9.0 to -3.2] mm Hg; P < 0.001). There were no significant differences in intradialytic levels of endothelin 1 or NO2(-) with low vs high dialysate sodium concentrations.
+LIMITATIONS Carryover effects limited the power to detect significant changes in endothelial-derived vasoregulators, and future studies will require parallel trial designs.
+CONCLUSIONS Low dialysate sodium concentrations significantly decreased systolic BP and ameliorated intradialytic hypertension. Longer studies are needed to determine the long-term effects of low dialysate sodium concentrations on BP and clinical outcomes.
+

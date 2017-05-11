@@ -1,0 +1,11 @@
+Continuous low-level heatwrap therapy for treating acute nonspecific low back pain.
+
+OBJECTIVE To evaluate the efficacy of 8 hours of continuous low-level heatwrap therapy for the treatment of acute nonspecific low back pain (LBP).
+DESIGN Prospective, randomized, parallel, single-blind (investigator), placebo-controlled, multicenter clinical trial.
+SETTING Five community-based research facilities.
+PARTICIPANTS Two-hundred nineteen subjects, aged 18 to 55 years, with acute nonspecific LBP.
+INTERVENTION Subjects were stratified by baseline pain intensity and gender and randomized to one of the following groups: evaluation of efficacy (heatwrap, n=95; oral placebo, n=96) and blinding (oral ibuprofen, n=12; unheated back, wrap n=16). All treatments were administered for 3 consecutive days with 2 days of follow-up.
+MAIN OUTCOME MEASURES Primary: day 1 mean pain relief (0- to 5-point verbal response scale). Secondary: muscle stiffness (101-point numeric rating scale), lateral trunk flexibility (fingertip-floor distance), and Roland-Morris Disability Questionnaire over 3 days of treatment and 2 days of follow-up.
+RESULTS Heatwrap therapy was shown to provide significant therapeutic benefits when compared with placebo during both the treatment and follow-up period. On day 1, the heatwrap group had greater pain relief (1.76+/-.10 vs 1.05+/-.11, P <.001), less muscle stiffness (43.1+/-1.21 vs 47.6+/-1.21, P=.008), and increased flexibility (18.6+/-.44 cm vs 16.5+/-.45 cm, P=.001) compared with placebo. Disability was also reduced in the heatwrap group (5.3 vs 7.4, P=.0002). Adverse events were mild and infrequent.
+CONCLUSION Continuous low-level heatwrap therapy was shown to be effective for the treatment of acute, nonspecific LBP.
+

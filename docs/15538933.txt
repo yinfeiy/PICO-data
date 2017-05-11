@@ -1,0 +1,8 @@
+Blockade of endogenous growth hormone-releasing hormone receptors dissociates nocturnal growth hormone secretion and slow-wave sleep.
+
+OBJECTIVES A temporal association between non-rapid eye movement (NREM) sleep stages 3 and 4 and nocturnal augmentation of GH release was found long ago, yet the precise mechanism for this association has not been identified. It has been shown, however that pulsatile GHRH administration increases both slow-wave sleep (SWS) and GH. Based on these data, a role for GHRH as an inducer of SWS was proposed. To test this hypothesis, we have performed the corollary experiment whereby the action of endogenous GHRH has been antagonized.
+DESIGN Healthy men (20-33 years old) had an infusion of GHRH antagonist ((N-Ac-Tyr(1), D-Arg(2)) GHRH-29 (NH(2))) or saline for a 12-h period, between 2100 and 0900 h. An i.v. bolus of GHRH was given at 0700 h and GH samples were drawn from 0700 to 0900 h to document the efficacy of GH suppression by the GHRH antagonist.
+METHODS A limited montage sleep study was recorded from 2300 to 0700 h during each admission. Plasma GH concentrations were analyzed by the use of a sensitive chemiluminometric assay.
+RESULTS Effectiveness of the GHRH antagonist was validated in all subjects by demonstrating 93+/-1.8% (P=0.012) suppression of GH response to a GHRH bolus. Polysomnography demonstrated that the percentage of SWS was not different when saline and GHRH antagonist nights were compared (P=0.607); other quantifiable sleep parameters were also unchanged.
+CONCLUSIONS We conclude that endogenous GHRH is indispensable for the nocturnal augmentation of GH secretion, but that it is unlikely to participate in the genesis of SWS.
+

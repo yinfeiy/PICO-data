@@ -1,0 +1,4 @@
+Successful face recognition is associated with increased prefrontal cortex activation in autism spectrum disorder.
+
+This study examines whether deficits in visual information processing in autism-spectrum disorder (ASD) can be offset by the recruitment of brain structures involved in selective attention. During functional MRI, 12 children with ASD and 19 control participants completed a selective attention one-back task in which images of faces and houses were superimposed. When attending to faces, the ASD group showed increased activation relative to control participants within multiple prefrontal cortex areas, including dorsolateral prefrontal cortex (DLPFC). DLPFC activation in ASD was associated with increased response times for faces. These data suggest that prefrontal cortex activation may represent a compensatory mechanism for diminished visual information processing abilities in ASD.
+

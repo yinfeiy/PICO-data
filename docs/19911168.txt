@@ -1,0 +1,7 @@
+Dose-dependent effects of the CRF(1) receptor antagonist R317573 on regional brain activity in healthy male subjects.
+
+BACKGROUND Corticotropin-releasing factor receptor type 1 (CRF(1)) antagonists have been proposed as therapeutic agents in the treatment of mood and anxiety disorders although clinical evidence supporting their development and understanding of a dose-response relationship has been lacking.
+METHODS We tested two doses of the CRF(1) antagonist R317573 for effects on regional cerebral glucose metabolism (rCMglu) using [(18)F] fluoro-2-deoxy-D: -glucose (FDG) positron emission tomography (PET) following single-dose challenges in a double-blind, placebo-controlled, cross-over design, in 12 healthy male volunteers.
+RESULTS Single 30- and 200-mg doses of R317573 resulted in dose-related changes in rCMglu. Relative increases in rCMglu were observed in frontal cortical regions while relative decreases occurred in the putamen and right amygdala after both doses. Relative decreases occurred in cerebellum and right parahippocampal gyrus following the higher dose.
+CONCLUSIONS R317573 appears to produce acute dose-dependent changes in rCMglu. Effects occurred in regions that may be behaviorally relevant to mood and anxiety disorders. In some regions, these effects may be related to the receptor (target) density. Measuring acute effects on rCMglu with FDG-PET may offer a method for defining pharmacologically active doses for central nervous system targets for which selective radiotracers are lacking.
+

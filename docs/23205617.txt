@@ -1,0 +1,7 @@
+An internet-based cognitive-behavioural training for acute tinnitus: secondary analysis of acceptance in terms of satisfaction, trial attrition and non-usage attrition.
+
+OBJECTIVES Recent studies on tinnitus have focused on the efficacy of Internet-based interventions. Other core features of the quality of service, e.g. acceptance and attrition, have often been overlooked. This study analyses Internet-based training regarding acceptance and attrition in a trial on minimal-contact interventions for acute tinnitus. Whenever possible, we give information on other forms of training for comparison.
+METHODS In a randomised controlled trial with 337 participants, 87 persons took part in the Internet training.
+RESULTS The participants were as satisfied with the Internet-based training as with a face-to-face group training. There was a 34.48% dropout from the Internet-based training (dropout attrition). The training attrition from the Internet-based training was even higher at 64.4%.
+CONCLUSIONS Two out of three indicators for acceptance-satisfaction and dropout attrition-provide comparable results between the Internet-based training and a face-to-face group training. The third indicator, training attrition, shows a better result for the group training. Future research should focus on attrition in order to enhance the overall effectiveness of training.
+

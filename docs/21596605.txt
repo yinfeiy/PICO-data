@@ -1,0 +1,7 @@
+Poor self-rated health is not associated with a high total allostatic load in type 2 diabetic patients--but high blood pressure is.
+
+OBJECTIVE Allostatic load has been linked to self-rated health (SRH), cardiovascular disease and mortality in non-diabetic individuals. The aim of this study was to construct an allostatic load score and to find any correlations with SRH.
+METHODS The subjects included in the study came from a randomized, controlled trial of type 2 diabetes. Blood samples were drawn, urine was collected for 24h, and questionnaires, including SRH, were filled out on three occasions: at baseline; after the 10-week intervention; and at a follow-up 3 months after the intervention. Allostatic load was estimated using a wide range of variables, including systolic and diastolic blood pressure, pulse pressure, cortisol, catecholamines, HbA(1c), insulin, plasma glucose and waist circumference.
+RESULTS There was no association between SRH and allostatic load. However, three other components were significantly correlated with allostatic load at the baseline investigation and the two follow-up investigations - namely, systolic blood pressure, diastolic blood pressure and HbA(1c).
+CONCLUSION The absence of an association between allostatic load and SRH in diabetic individuals contrasts with previous findings in non-diabetic women, and shows that it is hazardous to apply findings in one population to another, especially diabetic and non-diabetic populations.
+

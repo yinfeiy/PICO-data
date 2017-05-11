@@ -1,0 +1,8 @@
+Maintaining tissue orientation during mohs micrographic surgery: scalpel versus marker.
+
+BACKGROUND Critical to the accuracy of Mohs surgery is the ability to maintain proper orientation of excised tissue with respect to the surrounding skin. Several techniques have been described for maintaining this orientation, although no prior investigations directly compare these techniques.
+OBJECTIVE To compare the incidence of tissue orientation loss resulting from inability to identify skin score marks with that occurring from failure to identify marks made using a gentian violet marker during Mohs micrographic surgery (MMS). We also sought to determine the incidence of scars resulting from skin scoring.
+MATERIALS AND METHODS Patients undergoing MMS were prospectively randomized to have their tissue margins oriented using light scoring using a scalpel versus marking them using a gentian violet marker. Incidence of scoring scars and tissue orientation loss were the primary outcome measures.
+RESULTS Data were analyzed for 101 tumors. There were no instances of tissue orientation loss in the scalpel or marker arms, nor were there any visible score mark scars at follow-up.
+CONCLUSION Incidence of excessive scars resulting from lightly scored tissue or loss of tissue orientation caused by lost gentian violet markings appears to be low. Both methods worked well within the confines of this study.
+

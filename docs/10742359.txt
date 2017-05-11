@@ -1,0 +1,7 @@
+Impact of an encounter-based prompting system on resident vaccine administration performance and immunization knowledge.
+
+OBJECTIVES To evaluate an encounter-based immunization prompting system on resident performance in administering vaccines and knowledge of immunization guidelines.
+DESIGN/METHODS Prospective randomized, controlled trial. Subjects were first- and second-year pediatric residents in a hospital-based continuity clinic. The intervention group received manual prompts of immunizations due. Postclinic chart review compared immunizations due with those administered. Acceptable and unacceptable reasons for not administering vaccines were assigned. Resident knowledge was measured by a 70-item examination.
+RESULTS The intervention group had significantly less missed opportunities/vaccine administration errors (11.4% vs 21.6%). The most common reason for unacceptable errors in the intervention group: vaccine was given too early; in the control group: vaccine was postponed to next visit. Pre- and postintervention knowledge scores were similar: intervention group (75.5% vs 80.7%, control group; 76.5% vs 81.3%).
+CONCLUSION An immunization prompting system in a hospital-based pediatric resident continuity clinic reduced missed opportunities/vaccine administration errors without significantly impacting resident knowledge of immunization guidelines.immunization schedule, vaccination, immunization, prompting systems, resident education.
+

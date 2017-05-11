@@ -1,0 +1,11 @@
+Needle versus loop diathermy excision of the transformation zone for the treatment of cervical intraepithelial neoplasia: a randomised controlled trial.
+
+OBJECTIVE To determine whether lower rates or incomplete resection of cervical intraepithelial neoplasia (CIN) may be achieved by needle excision of the transformation zone (NETZ) than with loop excision (LLETZ).
+DESIGN A prospective randomised controlled trial.
+SETTING A gynaecological oncology centre and a teaching hospital in West London.
+POPULATION Four hundred and four women due to receive treatment for suspected CIN.
+METHODS Women were randomised to receive either LLETZ or NETZ.
+MAIN OUTCOME MEASURES The study was designed to demostrate a difference in the proportion of women with clear histological margins of 82% for LLETZ compared to 94% for NETZ with 90% power at a 5% significance level, allowing for absence of CIN in the treatment specimen in 15%.
+RESULTS Four randomised women were excluded from the analysis, as they were ineligible for the study. Three hundred and forty-seven (87%) had CIN in the treatment specimen and could be included in the analysis of excision margins. More women in the NETZ arm had clear histological margins (84.8%vs 75%, (P= 0.03). The median volume of specimens in the NETZ arm was 739 mm(3) larger (P= 0.33) and they were less likely to be removed in multiple pieces (2.5%vs 29.5%, RR 0.09, 95% CI 0.04 to 0.20). Needle excision took longer to perform (median treatment time 210 vs 90 seconds, P<0.0001) and surgeons more often reported the procedure as 'difficult' (9.5%vs 3.0%, RR = 3.17%, 95% CI 1.33 to 7.58). No difference in peri-operative or post-operative complication rates could be demonstrated between the two groups.
+CONCLUSION NETZ is more likely to produce a specimen in one piece and with clear margins compared to LLETZ.
+

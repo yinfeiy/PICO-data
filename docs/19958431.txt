@@ -1,0 +1,8 @@
+Different therapeutic modalities for treatment of melasma.
+
+BACKGROUND Chemical peels and topical depigmenting agents have become a popular modality in the treatment of melasma.
+AIMS To compare the clinical efficacy of trichloroacetic acid peel 20%vs. Jessner's solution peel vs. the topical mixture of hydroquinone 2% and kojic acid.
+PATIENTS AND METHODS Forty five patients with melasma were randomly assigned into three groups of fifteen patients each. Group A received Jessner's solution peel, group B received trichloroacetic acid peel 20%, and group C received topical hydroquinone 2% and kojic acid. All patients were seen in follow-up period after 16 weeks; clinical evaluation using Melasma Area and Severity Index (MASI) score and photography were recorded before and after treatment and after 16 weeks.
+RESULTS There was a decrease in MASI score in all three groups after treatment and after follow-up period but after treatment MASI score was statistically significantly lower in group A than group C (P = 0.01), and it was also statistically significantly lower in group B than group C (P < 0.001) but there was no statistically significant difference between groups A and B. After the follow-up period, MASI score was statistically significantly lower in group A than group C (P < 0.001), statistically significantly lower in group B than group C (P < 0.001), and statistically significantly lower in group B than group A (P = 0.035). The statistical analysis was done through one-way anova followed by least significant difference (LSD).
+CONCLUSION Trichloroacetic acid 20% showed better results than Jessner's solution as peeling agent and hydroquinone 2% with kojic acid as a topical agent in the treatment of melasma.
+

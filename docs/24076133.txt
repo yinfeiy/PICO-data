@@ -1,0 +1,8 @@
+Local contextual processing in major depressive disorder.
+
+OBJECTIVE The study investigated local contextual processing in patients with major depressive disorder (MDD). This was defined as the ability to utilize predictive contextual information to facilitate detection of predictable versus random targets.
+METHOD We recorded EEG in 15 MDD patients and 14 age-matched controls. Recording blocks consisted of targets preceded by randomized sequences of standards and by sequences of standards that included a predictive sequence signaling the occurrence of a subsequent target event.
+RESULTS Both MDD patients and age-matched controls demonstrated a significant reaction time (RT) and P3b latency differences between predicted and random targets. However, patients demonstrated a specific prolongation of these measures during processing of predicted targets, as well as an attenuation of P3b amplitudes for the predictive sequence. In addition, patients target N1 amplitudes were attenuated compared with controls.
+CONCLUSION MDD patients were able to utilize predictive context in order to facilitate processing of deterministic targets, however, this ability was limited compared to controls, as demonstrated by context-dependent P3b deficits.
+SIGNIFICANCE These findings suggest that patients with major depression have altered processing of local contextual processing.
+

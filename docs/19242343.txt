@@ -1,0 +1,11 @@
+Pharmacokinetics and pharmacodynamics of six epoetin alfa dosing regimens in anemic critically ill patients without acute blood loss.
+
+OBJECTIVE To describe the pharmacokinetic profiles of six different dosing regimens for epoetin alfa, and whether more rapid and robust reticulocytosis can be elicited with more frequent administration of epoetin alfa in anemic critically ill patients.
+DESIGN Randomized, open-label, multicenter, 28-day clinical trial.
+SETTING Ten centers in the United States.
+PATIENTS Adult (age >or=18 years) critically ill patients with hemoglobin <or=12 g/dL, expected hospitalization of >or=7 days, with no ongoing acute blood loss.
+INTERVENTIONS One of six dosing epoetin alfa regimens for 15 days, as follows: 40,000 IU once weekly, subcutaneously (group A) or intravenously (IV) (group B); 15,000 IU every other day, subcutaneously (group C) or IV (group D); or 40,000 IU day 1 and 3, subcutaneously (group E) or IV (group F), followed by 15,000 IU once every other day on [corrected] days 5-15 [corrected]
+MEASUREMENTS Serum erythropoietin concentration, absolute reticulocyte count, and adverse events.
+MAIN RESULTS Of the 60 patients who were enrolled (60% men, mean age 53 years, mean Acute Physiology and Chronic Health Evaluation II score, 19.5), 30 were evaluable for both pharmacokinetics and pharmacodynamics (50%). Erythropoietin exposure was approximately ten times greater for IV dosing than for subcutaneous dosing. Mean absolute reticulocyte count peaked at day 11 or 15 in each group and appeared to be greater for subcutaneous dosing (mean peak response 149-169 x 10(9)/L) compared with IV dosing (mean peak response 138-147 x 10(9)/L) at most visits. The most frequently reported adverse events were pyrexia (18%), hypokalemia (15%), and hypophosphatemia (15%).
+CONCLUSIONS In this study of anemic critically ill patients treated with epoetin alfa, all dosing regimens were well tolerated and appeared to effect reticulocytosis, with a peak at day 11 or 15 in most patients. The pharmacokinetics of epoetin alfa did not predict pharmacodynamic response in anemic critically ill patients.
+

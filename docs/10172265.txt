@@ -1,0 +1,4 @@
+Protocol for the Multicenter Acute Stroke Trial--thrombolysis study.
+
+The rationale for the Multicenter Acute Stroke Trial (MAST) is presented in a companion article appearing in this issue. Acute ischaemic stroke is the third major cause of death in developed countries, and a major cause of disability. Despite a very poor prognosis, no treatment has demonstrated an efficacy in lowering the mortality and disability resulting from stroke events. Thrombolysis has been proven to reduce mortality in myocardial infarction, and it has been shown able to induce recanalisation when administered to acute stroke patients. A recent meta analysis of small-sized studies suggests that thrombolysis could offer some benefit to stroke patients, by reducing the mortality and severe invalidity by 56%; these results need to be confirmed in adequately designed and sized studies.
+

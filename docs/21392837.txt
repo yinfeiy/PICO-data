@@ -1,0 +1,7 @@
+Pharmacist directed home medication reviews in patients with chronic heart failure: a randomised clinical trial.
+
+BACKGROUND Chronic heart failure (CHF) accounts for significant morbidity, mortality and health expenditure. Furthermore, patients with CHF are often on numerous pharmacological agents for their comorbidities. The objective of this study was to determine whether a pharmacist directed home medication review intervention had positive effects on CHF patient outcomes.
+METHODS A total of 120 patients hospitalised for CHF were randomised to receive a pharmacist directed post-discharge home medication review (n = 64, 53.3%) or standard care (n = 56, 46.7%). Participants were followed for 6 months. Primary outcomes were death, CHF hospitalisation and length of hospital stay.
+RESULTS There were no between group differences in mortality (hazard ratio = 1.41, 0.50 to 3.97; P = 0.514) or CHF hospitalizations (incidence rate ratio [IRR] = 1.74 95% CI: 0.85-3.60 P = 0.131) over the 6 month follow-up period. Days of hospital stay for CHF exacerbations in the 6 month follow-up were significantly greater in the intervention group (IRR = 2.34 95% CI: 1.80-3.05 P = 0.000).
+CONCLUSIONS Post-discharge pharmacy directed home medication review appeared to have no effect on mortality and health care utilisation above that achieved with standard care. The post-acute management of CHF must be a collaborative multi-disciplinary effort by the health care team as it is the additive effect of interventions that are most effective.
+

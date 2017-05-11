@@ -1,0 +1,7 @@
+Does alliance predict symptoms throughout treatment, or is it the other way around?
+
+OBJECTIVE Scholars increasingly recognize that therapeutic alliance and symptomatic change are associated with one another. A common assumption is that alliance predicts symptomatic change. However, the issue is far from settled. One challenge in determining the causality is the establishment of temporal precedence showing that alliance, as opposed to previous symptomatic change, drives subsequent symptomatic reduction.
+METHOD To make further advances in untangling this chicken-and-egg question, we employed autoregressive cross-lagged modeling over 4 time points in a sample of 149 depressive patients receiving supportive-expressive psychotherapy or clinical management combined with pharmacotherapy or clinical management combined with placebo.
+RESULTS Using this methodology, we found that both alliance and symptoms across treatment made significant and unique contributions in predicting subsequent symptomatic levels throughout treatment. Additionally, alliance, but not symptoms, predicted subsequent alliance levels. No differences were found between treatments.
+CONCLUSIONS Our findings imply that alliance temporally precedes symptomatic levels throughout treatment.
+

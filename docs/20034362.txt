@@ -1,0 +1,7 @@
+Effect of pravastatin on kidney function and urinary protein excretion in autosomal dominant polycystic kidney disease.
+
+OBJECTIVE Autosomal dominant polycystic kidney disease (ADPKD) is progressive, resulting in end-stage kidney failure in most patients. Experimental and clinical studies have suggested that statins may slow the progression of chronic kidney disease in general and ADPKD specifically.
+MATERIAL AND METHODS This randomized open-label clinical trial was conducted to assess the effect of pravastatin 20 mg on kidney function and urinary protein excretion in patients with ADPKD. Sixty patients were initially recruited but 49 of these received either pravastatin 20 mg or no treatment for 2 years. Trial visits were conducted every 3 months, assessing kidney function by estimated glomerular filtration rate and 24 h urine creatinine clearance and urinary protein excretion.
+RESULTS There were no significant (p > 0.05) changes in markers of kidney function or urinary protein excretion between groups over the 2 years despite a significant fall in total serum cholesterol in pravastatin-treated patients (p = 0.029).
+CONCLUSION This trial found that taking 20 mg pravastatin for 2 years had no significant effect on kidney function or urinary protein excretion in patients with ADPKD. The lack of statistical power limits the external validity of these findings. A larger, longer duration study using a higher dose of a more potent statin is required.
+

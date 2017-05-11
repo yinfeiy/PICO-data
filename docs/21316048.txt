@@ -1,0 +1,11 @@
+Anastrozole single-dose protocol in women with oligo- or anovulatory infertility: results of a randomized phase II dose-response study.
+
+OBJECTIVE To compare the effects of anastrozole and clomiphene citrate (CC) on follicular development and ovulation in infertile women with ovulatory dysfunction.
+DESIGN Phase II, prospective, randomized, assessor-blind, multicenter, dose-finding, noninferiority study.
+SETTING Outpatient.
+PATIENT(S) Infertile women with ovulatory dysfunction, aged 18-35 years, and body mass index <35 kg/m(2).
+INTERVENTION(S) Single-dose anastrozole at 5 mg (n = 39), 10 mg (n = 39), 20 mg (n = 39), or 30 mg (n = 38) or a 5-day course of CC at 50 mg/d (n = 39) as starting doses.
+MAIN OUTCOME MEASURE(S) The primary endpoint was the ovulation rate in the first treatment cycle (cycle 1). Ovulation was defined as a midluteal phase serum P level ≥ 10 ng/mL or clinical pregnancy.
+RESULT(S) In cycle 1 the ovulation rates for a single dose of anastrozole at 5, 10, 20, and 30 mg were 46.2%, 41.0%, 23.1%, and 28.9%, respectively, whereas that for CC at 50 mg/d was 61.5%. Among women with fewer than six menses per year, the cumulative ovulation rates over three cycles were comparable in the anastrozole 5 mg (52.4%) and CC 50 mg/d (42.3%) groups.
+CONCLUSION(S) In terms of ovulation rates in cycle 1, single-dose anastrozole at 5, 10, 20, and 30 mg was not as effective as CC at 50 mg/d for 5 days (noninferiority was not shown).
+

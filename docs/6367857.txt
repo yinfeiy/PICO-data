@@ -1,0 +1,4 @@
+Adjuvant therapy of breast cancer: the Southwest Oncology Group experience.
+
+The Southwest Oncology Group in a prospective randomized study compared one year of adjuvant combination chemotherapy with continuous CMFVP (cyclophosphamide, methotrexate, 5-fluorouracil, vincristine, and prednisone) to two years of intermittent L-phenylalanine mustard (L-PAM) in women with operable breast cancer with histologically positive axillary lymph nodes. In fully and partially evaluable patients with a 68-month median follow-up, treatment failures have occurred in 27% of 172 receiving CMFVP and 47% of 186 women given L-PAM (p = 0.002). The advantage for women receiving CMFVP was seen for all subsets regardless of menopausal status except among women who were premenopausal and had 1-3 positive nodes. Based on this study, a second study was implemented using both the estrogen-receptor (ER) content of the primary tumor and axillary nodal status to select therapy.
+

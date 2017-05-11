@@ -1,0 +1,7 @@
+Anatomical benefit from ranibizumab treatment of predominantly classic neovascular age-related macular degeneration in the 2-year anchor study.
+
+PURPOSE To compare lesion anatomical responses to ranibizumab versus verteporfin photodynamic therapy (PDT) in the ANCHOR (Anti-VEGF Antibody for the Treatment of Predominantly Classic Choroidal Neovascularization [CNV] in Age-Related Macular Degeneration) study.
+METHODS In this 2-year, Phase III, randomized, multicenter, double-masked trial, 423 patients received ranibizumab (0.3 or 0.5 mg) monthly + sham PDT or PDT + monthly sham injection. Photodynamic therapy (or sham PDT) was administered at Day 0 and then quarterly as needed. A central reading center assessed fundus photography and fluorescein angiography images. A subset (n = 61) had optical coherence tomography assessments. Main outcome measures included mean change from baseline at Months 12 and 24 for area of classic CNV and total area of leakage from CNV.
+RESULTS At Months 12 and 24, ranibizumab was superior to PDT (P < 0.0001) for mean changes from baseline in total area of lesion, CNV area, and total area CNV leakage. Month 12 optical coherence tomographies showed greater center point thickness decrease from baseline with ranibizumab than with PDT (P = 0.0003). Ranibizumab benefits over PDT were evident by 3 months (fluorescein angiography) and 7 days (optical coherence tomography).
+CONCLUSION Differences between the PDT and the ranibizumab groups in lesion anatomical outcomes were early, sustained, and favored ranibizumab.
+

@@ -1,0 +1,9 @@
+Drug therapy of ventricular tachycardia: a cost comparison of randomized noninvasive and invasive approaches.
+
+OBJECTIVE Economic evaluation of noninvasive (suppression of ventricular arrhythmias detected by ambulatory monitoring) and invasive (suppression of arrhythmias induced by programmed stimulation) approaches to antiarrhythmic drug selection for ventricular tachyarrhythmias.
+DESIGN/SETTING Randomized clinical trial/tertiary-care hospital.
+PATIENTS Of 124 consecutive patients referred for treatment of symptomatic ventricular tachyarrhythmias, 57 consenting patients were eligible to have drug therapy selected by either noninvasive or invasive approaches.
+MEASUREMENTS Costs of initial and follow-up (26 +/- 15 months) admissions for the two groups were compared. This economic evaluation also considered relative efficacies of the approaches using the primary outcome variable of symptomatic, sustained ventricular tachyarrhythmia recurrence (including sudden death).
+RESULTS Initial hospitalization for therapy selection was less costly by the noninvasive approach ($6,869 +/- 4,019) than by the invasive approach ($13,164 +/- 6,740) (P less than 0.001). However, the noninvasive approach generated higher follow-up hospital costs ($9,204 +/- 9,217) than the invasive approach ($3,784 +/- 4,944) (P = 0.01). Thus, total hospital costs of the noninvasive ($16,073 +/- 9,423) and invasive approaches ($16,949 +/- 7,174) were equivalent. The two-year actuarial probability of a recurrent, sustained, symptomatic ventricular tachyarrhythmia was greater in noninvasive (0.50 +/- 0.10) than in invasive (0.20 +/- 0.08) approach patients (P = 0.02).
+CONCLUSIONS The lower initial hospital costs of the noninvasive approach are offset by greater follow-up costs. Within two years the costs of the two approaches are equivalent. Thus, greater antiarrhythmic efficacy can be achieved by the invasive approach to drug selection without increasing total hospital costs.
+

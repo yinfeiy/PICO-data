@@ -1,0 +1,4 @@
+An evaluation method providing confidence intervals applied to radioimmunoassay.
+
+A method for evaluation of radioimmunoassay results is described. The order of the single tubes in each assay run is randomized. A polynomial is fitted to untransformed data (y = counts per minute; x = concentration of curve.A confidence interval is calculated for each sample, taking into account the variance of the standard curve and that of the actual duplicate assay jointly.
+

@@ -1,0 +1,7 @@
+Is the effect of mobile phone radiofrequency waves on human skin perfusion non-thermal?
+
+OBJECTIVE To establish whether SkBF can be modified by exposure to the radiofrequency waves emitted by a mobile phone when the latter is held against the jaw and ear.
+METHODS Variations in SkBF and Tsk in adult volunteers were simultaneously recorded with a thermostatic laser Doppler system during a 20-minute "radiofrequency" exposure session and a 20-minute "sham" session. The skin microvessels' vasodilatory reserve was assessed with a heat challenge at the end of the protocol.
+RESULTS During the radiofrequency exposure session, SkBF increased (vs. baseline) more than during the sham exposure session. The sessions did not differ significant in terms of the Tsk time-course response. The skin microvessels' vasodilatory ability was found to be greater during radiofrequency exposure than during sham exposure.
+CONCLUSIONS Our results reveal the existence of a specific vasodilatory effect of mobile phone radiofrequency emission on skin perfusion.
+

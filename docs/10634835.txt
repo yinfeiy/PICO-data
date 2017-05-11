@@ -1,0 +1,7 @@
+Randomised controlled trial of patient triggered and conventional fast rate ventilation in neonatal respiratory distress syndrome.
+
+AIM To compare patient triggered, with conventional fast rate, ventilation in a randomised controlled trial using the incidence of chronic lung disease as the primary outcome measure.
+METHODS Three hundred and eighty six preterm infants with birthweights from 1000 to 2000 g, and requiring ventilation for respiratory distress syndrome within 24 hours of birth, were randomised to receive either conventional or trigger ventilation with the SLE 2000 ventilator.
+RESULTS There were no significant differences in the incidence of chronic lung disease (28 day and 36 week definitions), death, pneumothorax, intraventricular haemorrhage, number of ventilator days, or length of oxygen dependency between groups.
+CONCLUSIONS Patient triggered ventilation in preterm infants with respiratory distress syndrome is feasible. No significant differences, when compared with conventional fast rate ventilation in important medium and longer term outcome measures, were evident.
+

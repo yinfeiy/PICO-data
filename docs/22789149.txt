@@ -1,0 +1,8 @@
+The impact of patient and physician computer mediated communication skill training on reported communication and patient satisfaction.
+
+OBJECTIVE The objective was to evaluate parallel patient and physician computer-mediated communication skill training on participants' report of skill use and patient satisfaction.
+METHODS Separate patient and clinician web-tools comprised of over 500, 10-s video clips demonstrating patient-centered skills in various ways. Four clinician members of the American Academy of Family Physicians National Research Network participated by enrolling 194 patients into a randomized patient trial and 29 physicians into a non-randomized clinician trial of respective interventions. All participants completed baseline and follow-up self-report measures of visit communication and satisfaction.
+RESULTS Intervention patients reported using more skills than controls in five of six skill areas, including identification of problems/concerns, information exchange, treatment adherence, shared decision-making and interpersonal rapport (all p<.05); post intervention, physicians reported using more skills in the same 5 areas (all p<.01). Intervention group patients reported higher levels of satisfaction than controls in five of six domains (all p<.05).
+CONCLUSION Communication skill training delivered in a computer mediated format had a positive and parallel impact on both patient and clinician reported use of patient-centered communication and in patient satisfaction.
+PRACTICE IMPLICATIONS Computer-mediated interventions are cost and time effective thereby increasing patient and clinician willingness to undertake training.
+

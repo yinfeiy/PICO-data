@@ -1,0 +1,9 @@
+A randomized controlled trial of guided self-help for improving the experience of caring for carers of clients with depression.
+
+AIM To evaluate the effectiveness of a cognitive behaviour therapy guided self-help manual for enhancing the experience of caregiving of family carers of individuals with depression.
+BACKGROUND The prevalence of depression is increasing markedly in Thailand. While primary carers give most of the support for individuals with depression, they receive little support from mental health services in this critical role.
+DESIGN A randomized controlled trial.
+METHOD Carers were randomized to guided self-help (n = 27), while the control group received standard information and support (n = 27). Both groups also received a short weekly telephone call. Participants were assessed at three time points; the outcome measure was the Experience of Caregiving Inventory. A doubly multivariate analysis of variance (anova) procedure, including between-group and within-group factors, was implemented. Fieldwork was from October 2007-May 2008.
+RESULTS Fifty-four carers completed the study and intent-to-treat analyses were undertaken. The findings showed there was a significant reduction in the total negative experience of caring, from baseline to post-treatment, in the intervention group recipients of the manual compared with the control group and treatment effects were maintained at one-month follow-up. Similarly, a significant improvement in the total positive experience of caring occurred, from baseline to post-treatment, in the intervention group in contrast with the control group and these outcomes were sustained at one-month follow-up.
+CONCLUSION Guided self-help strengthen carers' positive and reduces their negative, experience of caring. The study contributes to the limited evidence base about this approach in a developing country such as Thailand.
+

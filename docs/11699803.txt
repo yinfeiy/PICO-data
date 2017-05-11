@@ -1,0 +1,7 @@
+Multisite, double-blind, placebo-controlled trial of porcine secretin in autism.
+
+OBJECTIVE To examine the efficacy of intravenous porcine secretin for the treatment of autistic disorder.
+METHOD Randomized, double-blind, placebo-controlled, crossover design. Fifty-six subjects with autistic disorder received either a secretin or placebo infusion at baseline and the other substance at week 4. Subjects were given the Autism Diagnostic Observation Schedule (ADOS) and other pertinent developmental measures at baseline and at weeks 4 and 8 to assess drug effects.
+RESULTS For the primary efficacy analysis, change of ADOS social-communication total score from week 0 to week 4, no statistically significant difference was obtained between placebo (-0.8 +/- 2.9) and secretin groups (-0.6 +/- 1.4; t54 = 0.346, p < .73). The other measures showed no treatment effect for secretin compared with placebo.
+CONCLUSION There was no evidence for efficacy of secretin in this randomized, placebo-controlled, double-blind trial.
+

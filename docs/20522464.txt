@@ -1,0 +1,10 @@
+Effect of addition of single dose of oral montelukast to standard treatment in acute moderate to severe asthma in children between 5 and 15 years of age: a randomised, double-blind, placebo controlled trial.
+
+OBJECTIVE To study the effect of the addition of a single dose of oral montelukast to standard therapy in acute moderate to severe asthma.
+DESIGN Double-blind randomised controlled trial. Setting Emergency room/outpatient paediatric services of a tertiary care hospital.
+PATIENTS Children aged 5-15 years (without prior use of montelukast) with acute moderate to severe asthma exacerbation, as defined using Modified Pulmonary Index Score (MPIS) > or =9, were enrolled.
+INTERVENTION Children received montelukast (5-12 years: 5 mg and >12 years: 10 mg) or placebo orally in addition to the standard therapy. MPIS and forced expiratory volume in 1 second (FEV(1)) were recorded before administering study medication and thereafter, hourly for 4 hours.
+MAIN OUTCOME MEASURES The primary outcome was decrease in MPIS to less than 9 at the end of 4 hours.
+RESULTS 117 children (60 in montelukast group and 57 in placebo group) were enrolled in the study. The number of children with decrease in MPIS to less than 9 at 4 hours was 33 (55%) in the montelukast group and 36 (63.2%) in the placebo group (p=0.37). There was significant improvement in MPIS and FEV(1) within both the groups from baseline to the end of 4 hours. No differences in side effects and hospitalisation rates were noticed between the two groups.
+CONCLUSION Single dose oral montelukast added to standard therapy of inhaled bronchodilators and systemic glucocorticoids did not provide additional clinical benefit in children with acute moderate to severe asthma. Trial registration number The trial was registered at the http://clinicaltrials.gov site (trial ID: NCT00565955).
+

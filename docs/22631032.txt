@@ -1,0 +1,12 @@
+Evaluation of the pharmacodynamics of acetylsalicylic acid 81 mg with or without esomeprazole 20 mg in healthy volunteers.
+
+BACKGROUND The absence of a pharmacokinetic interaction between the proton pump inhibitor esomeprazole (40 mg) and acetylsalicylic acid (aspirin, ASA; 325 mg) has previously been established.
+OBJECTIVE This study set out to investigate the potential for pharmacodynamic interaction between low-dose ASA and esomeprazole in healthy volunteers, by measuring ASA antiplatelet activity.
+STUDY DESIGN This was a single-center, open-label, two-period, randomized crossover study.
+PARTICIPANTS Healthy male and female volunteers aged 18-75 years were included. All volunteers received ASA 81 mg once daily for 5 days prior to the study (pre-screen). Subjects were eligible for inclusion if they had aspirin reactivity units (ARU, as measured by the VerifyNow ASA assay) of <550 on Day 6.
+INTERVENTION After pre-screening and a washout period of at least 14 days, eligible volunteers received ASA 81 mg with or without esomeprazole 20 mg once daily for 5 days in randomized order, with a 14-day washout between treatments.
+MAIN OUTCOME MEASURE The main outcome measure was the antiplatelet activity of ASA, as assessed by ARU ratio relative to baseline in the VerifyNow ASA assay; suppression of serum thromboxane B(2) (TXB(2)) was a secondary endpoint. Statistical comparisons were made using linear mixed models.
+RESULTS A total of 29 volunteers (19 aged ≥50 years; 8 women; 21 men) were evaluable for pharmacodynamic analysis (per protocol). All volunteers on both treatments achieved ARU <550 at Day 6. The geometric mean ratio of Day 6 to Day 1 (baseline) platelet aggregation was 0.70 (95% confidence interval [CI] 0.68, 0.72) with ASA alone and 0.71 (95% CI 0.69, 0.74) with ASA + esomeprazole. The ratio of platelet aggregation (ASA + esomeprazole/ASA) was 1.02 (95% CI 0.99, 1.05). ASA administered alone or with esomeprazole reduced serum TXB(2) by more than 99.5%. The ratio of suppression of serum TXB(2) levels (ASA + esomeprazole/ASA) was 1.06 (95% CI 0.88, 1.29). The combination of ASA and esomeprazole was well tolerated.
+CONCLUSION No pharmacodynamic interaction between low-dose ASA and esomeprazole was found with regard to platelet function.
+TRIAL REGISTRATION Registered at ClinicalTrials. gov as NCT01199328.
+

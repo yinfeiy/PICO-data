@@ -1,0 +1,9 @@
+Effects of glucagon-like peptide-1(7-36)amide on motility and sensation of the proximal stomach in humans.
+
+BACKGROUND Glucagon-like peptide-1(7-36)amide (GLP-1) retards gastric emptying, reduces food intake, and inhibits antroduodenal and stimulates pyloric motility.
+AIMS To assess the effects of synthetic GLP-1 on fundus tone and volume waves, gastric compliance, and perception of gastric distension.
+SUBJECTS Eleven healthy male volunteers.
+METHODS Background infusions were saline, or GLP-1 at 0.3 or 0.9 pmol/ kg/min on separate days in random order. Interdigestive fundus motility was recorded by barostat (maximum capacity of intragastric bag 1200 ml) during basal and peptide periods of 60 minutes each. Thereafter stepwise isobaric distensions were performed with ongoing peptide infusion, and gastric sensation was scored.
+RESULTS Low and high loads of GLP-1 induced physiological and supraphysiological plasma immunoreactivities, respectively. GLP-1 dose dependently diminished fundus tone (162.9 (15.0) and 259.5 (17.2) v 121.1 (6.0) ml with saline; p<0.0001). It greatly reduced volume waves and total volume displaced by these events (p<0.0001). Gastric compliance derived from isobaric distension rose in a dose related manner (42.6 (5.5) and 63.6 (7.7) v 27.0 (3.5) ml/mm Hg; p=0.0004) with a concomitant reduction of the pressure at half maximum bag volume (6.4 (0.4) and 5.5 (0.4) v 7.2 (0.1) mm Hg; p<0.0001). GLP-1 did not change perception of isobaric distension but reduced the perception score related to corresponding bag volume (p<0.0001).
+CONCLUSIONS GLP-1 is a candidate physiological inhibitory regulator of fundus motility. It allows the stomach to afford a larger volume without increase in sensation.
+

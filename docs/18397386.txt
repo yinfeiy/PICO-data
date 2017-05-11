@@ -1,0 +1,8 @@
+Clinical trial: exposure to ribavirin predicts EVR and SVR in patients with HCV genotype 1 infection treated with peginterferon alpha-2a plus ribavirin.
+
+BACKGROUND The impact of reduced drug exposure on outcomes in patients with chronic hepatitis C has not been determined in routine clinical practice.
+AIM To examine the impact of exposure to peginterferon alpha-2a and ribavirin on early virological response (EVR) and sustained virological response (SVR) in treatment-naive patients with HCV genotype 1 infection enrolled in a large expanded access programme.
+METHODS Eight hundred and ninety-one patients treated for 48 weeks with an initial ribavirin dose of 800 or 1000/1200 mg/day were evaluated. Ribavirin 1000 mg/day (<75 kg) or 1200 mg/day (>or=75 kg) and peginterferon alpha-2a 180 microg/week were considered optimal. The impact of reduced drug exposure (expressed as a percentage of optimal) on EVR and SVR was evaluated.
+RESULTS Mean ribavirin exposure in week 0-12 was 70% and 96% in patients assigned to ribavirin 800 and 1000/1200 mg/day, respectively. EVR and SVR rates were lower in patients assigned to ribavirin 800 than 1000/1200 mg/day (EVR, 75% vs. 84%, respectively, P < 0.001; SVR, 45% vs. 54%, respectively, P = 0.011). Furthermore, there was a strong correlation between achievement of EVR and SVR and ribavirin dose over the first 12 weeks expressed either as absolute dose or proportion of optimal dose received (P < 0.001 for both).
+CONCLUSIONS Ribavirin exposure to week 12 is significantly associated with EVR and SVR in genotype 1 patients. Maintenance of an optimal ribavirin dose is the most important modifiable factor during combination therapy for chronic hepatitis C.
+

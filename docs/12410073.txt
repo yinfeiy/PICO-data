@@ -1,0 +1,7 @@
+A randomized, double-blind, placebo-controlled trial of porcine versus synthetic secretin for reducing symptoms of autism.
+
+OBJECTIVE To compare the effects of a single dose of biologic and synthetic porcine secretin to placebo on a variety of autism symptoms.
+METHOD Eighty-five children with autism without other medical conditions and not taking other psychotropic medications participated (ages between 3 and 12 years, mean IQ = 55). Children were grouped into trios matched by age and communication level and then randomly assigned to one of three treatment groups: biologic secretin (2 CU/kg), synthetic secretin (0.4 microg/kg), and placebo. Measures collected 1 week before and 4 weeks after infusion included autism symptoms, language skills, and problem behaviors, gathered from parents, teachers, and investigators, who were all blind to treatment. Two-factor, repeated-measures analyses of variance (3 treatment levels by 2 repeated measures, pre- and postinfusion) were used to examine efficacy.
+RESULTS Direct observation measures did not show change over time related to secretin. Parent reports showed an overall reduction of symptom severity for all treatment groups, including the placebo group. One teacher-report measure showed decreases in autism symptoms in the placebo and synthetic secretin groups.
+CONCLUSIONS No evidence that either biologic or synthetic secretin provided amelioration of symptoms beyond placebo was observed. This held true when children with and without gastrointestinal problems were examined separately.
+

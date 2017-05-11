@@ -1,0 +1,7 @@
+Use of ketorolac is associated with decreased pneumonia following rib fractures.
+
+BACKGROUND The effectiveness of the nonsteroidal anti-inflammatory drug ketorolac in reducing pulmonary morbidity after rib fractures remains largely unknown.
+METHODS A retrospective cohort study was conducted spanning January 2003 to June 2011 assessing pneumonia within 30 days and potential adverse effects of ketorolac among all patients with rib fractures who received ketorolac <4 days after injury compared with a random sample of those who did not.
+RESULTS Among 202 patients who received ketorolac and 417 who did not, ketorolac use was associated with decreased pneumonia (odds ratio, .14; 95% confidence interval, .04 to .46) and increased ventilator-free days (difference, 1.8 days; 95% confidence interval, 1.1 to 2.5) and intensive care unit-free days (difference, 2.1 days; 95% confidence interval, 1.3 to 3.0) within 30 days. The rates of acute kidney injury, gastrointestinal hemorrhage, and fracture nonunion were not different.
+CONCLUSIONS Early administration of ketorolac to patients with rib fractures is associated with a decreased likelihood of pneumonia, without apparent risks.
+

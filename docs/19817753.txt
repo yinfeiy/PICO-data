@@ -1,0 +1,8 @@
+The effect of oral steroids with and without vitamin D3 on early efficacy of immunotherapy in asthmatic children.
+
+BACKGROUND The possibility of additional strategies to enhance the effectiveness of specific immunotherapy (SIT) is highly attractive.
+AIM The aim of our study was to assess the influence of oral corticosteroids and oral corticosteroids combined with vitamin D(3) on the early clinical and immunological effects of SIT.
+METHODS It was a randomized, double-blind, placebo-controlled trial conducted in 54 asthmatic children allergic to house dust mites. Intervention was based on receiving a single dose of oral steroid, with or without vitamin D(3), or placebo only on the day of the build-up phase of SIT.
+RESULTS After 12 months of SIT, the median daily inhaled corticosteroid (ICS) dose, which controls the symptoms of asthma, was reduced by 25% in the steroid group. However, a 50% reduction of the median daily ICS dose was observed in the control group. The clinical effects of SIT were not affected in the steroid+D(3) group. Concomitantly, we found that intervention with prednisone significantly impaired the induction of T regulatory lymphocytes. Importantly, the clinical and immunological effects of SIT were not affected by intervention with steroids administered with vitamin D(3).
+CONCLUSIONS Our study failed to show a beneficial effect of oral corticosteroids on allergen-specific immunotherapy. We observed that the combined administration of a corticosteroid drug and allergen extract suppressed the early clinical and immunological effects of SIT and that vitamin D(3) prevented this 'adverse' influence of steroids.
+

@@ -1,0 +1,4 @@
+Transcutaneous electrical nerve stimulation in the treatment of myofascial pain dysfunction.
+
+The effect of transcutaneous electrical nerve stimulation (TENS) plus conservative therapy (ibuprofen, bite plate, self-physiotherapy) on myofascial pain dysfunction (MPD) was determined. A single-blind trial as done in 10 patients with MPD with subthreshold TENS (frequency 35 Hz, pulse width 100 milliseconds, modulation 50%) compared with sham TENS at 8 visits over 14 weeks. Pain was assessed on a visual analogue scale before and after TENS at each visit and the data were analysed with the analysis of variance (ANOVA) for repeated measures. A highly significant effect was seen for time (F = 4.80, P = 0.0003) but not for TENS. Subthreshold TENS did not increase the symptom relief produced by conservative treatment with the protocol used.
+

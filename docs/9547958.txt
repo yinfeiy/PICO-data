@@ -1,0 +1,8 @@
+Simulating a memory impairment: can amnesics implicitly outperform simulators?
+
+OBJECTIVES The purpose of this study was to examine the effectiveness of a variety of tests in differentiating simulating test performances from genuine memory-impaired and normal (control) test performances.
+DESIGN A simulation design was implemented, based on an analogue design in which normal participants were given experimental instructions to feign a mental impairment and are compared to (a) other normal participants with instructions to perform honestly, and (b) a comparison group, for example, acquired brain-injured persons, with similar instructions.
+METHOD Forty individuals comprised the simulating and control group and all participants were randomly assigned to the simulating and control groups. Twenty memory-impaired patients, all of whom had been diagnosed as suffering from a memory impairment following acquired brain damage, participated as the memory-impaired control group. The simulation group was directed to imitate a person with a memory impairment. The primary outcome measure involved identifying those tests, if any, where simulators were significantly different from normal and memory-impaired participants.
+RESULTS On 5 of the 15 tasks administered, simulators performed significantly differently from normal and memory-impaired participants. Of these 5 tasks, the coin-in-the-hand, when administered in conjunction with the autobiographical interview, identified 95 per cent of the simulators without misclassifying any of the memory-impaired or normal participants.
+CONCLUSION It is suggested that these two tests, when administered jointly, might be of use in clinical settings to assist in the detection of malingerers.
+

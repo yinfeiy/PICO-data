@@ -1,0 +1,4 @@
+Evaluation of rapid radiation treatment schedules utilizing two treatment sessions per day.
+
+The authors studied normal human skin reactions to two different rapid radiotherapy schedules of 2 sessions per day and evaluated their effectiveness in relief of pain and local tumor control. Patients were randomized to three treatment groups: SCHEDULE A (control): conventional one treatment per day regimen totalling 3,760 rads in 22-23 days; SCHEDULE B: 2 sessions per day totalling 3,440 rads in 10-11 days; and SCHEDULE C: 2 sessions per day totalling 3,568 rads in 10-11 days. The pattern and magnitude of skin reactions in the three schedules are nearly identical but tumor regression and pain relief were achieved faster in the rapid fractionation schedules.
+

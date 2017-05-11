@@ -1,0 +1,7 @@
+Effect of enamel pretreatment on shear bond strength of brackets bonded with resin-modified glass-ionomer cement.
+
+AIM To evaluate the shear bond strength of brackets bonded with resin-modified glass-ionomer cement (RMGIC) using various methods of enamel conditioning.
+METHODS Forty-five human premolars were randomly divided into five groups. The roots of these teeth were fixed in acrylic resin cylinders, and brackets were bonded to the teeth's crowns using the following material combinations: RMGIC only; RMGIC and corresponding primer; RMGIC, acid etching, and Scotchbond Multipurpose; RMGIC and two-step self-etching primer; and RMGIC and one-step primer. All specimens were submitted to pH cycling for 14 days before shear bond strength was assessed in a universal test machine.
+RESULTS The medians and standard deviations (in MPa) were RMGIC only = 8.34 ± 1.11; RMGIC and corresponding primer = 7.05 ± 2.24; RMGIC, acid etching, and Scotchbond Multipurpose = 7.00 ± 4.79; RMGIC and two-step self-etching primer = 0.54 ± 0.30; and RMGIC and one-step primer = 10.61 ± 4.58. The value for RMGIC and two-step self-etching primer was significantly lower than all other values.
+CONCLUSION It can be concluded that the tested RMGIC is suitable for bonding orthodontic brackets, even when used by itself. Different enamel preparations do not improve its performance. However, they can worsen its bonding capacity as the combination with the two-step primer system clearly shows.
+

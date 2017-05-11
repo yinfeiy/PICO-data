@@ -1,0 +1,7 @@
+Less tachycardia in adults when using atropine 0.9 mg compared with 1.2 mg plus neostigmine 2.5 mg.
+
+OBJECTIVE Compare the increase in heart rate in adults after 0.9 vs. 1.2 mg of atropine plus neostigmine 2.5 mg as the non-depolarizing muscle relaxant reversal agent.
+MATERIAL AND METHOD A randomized, double blind, controlled trial on 46 adults ASA I-II, undergoing elective gynecological or general surgery with balanced general anesthesia was performed. The subjects were randomized into two groups, After surgery, the study group received 0.9 mg of atropine, while the control group received 1.2 mg of atropine. Both groups received 2.5 mg of neostigmine simultaneously.
+RESULTS The heart rate and blood pressure were taken at 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, and 30 min after the injection. The increase in heart rate and blood pressure between the two groups were compared. The heart rate (at 3, 4, 5, and 6 min) of patients in the study group increased significantly less than that of patients in the control group. There was no significant difference in blood pressure between groups and no side effects occurred.
+CONCLUSION The authors conclude that 0.9 mg of atropine with 2.5 mg neostigmine can be safely used as the reversal agent for a non-depolarizing muscle relaxant, particularly in patients for whom any increase in heart rate would be harmful.
+

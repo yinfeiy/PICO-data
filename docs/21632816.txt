@@ -1,0 +1,10 @@
+Effect of intensive insulin therapy on the somatotropic axis of critically ill children.
+
+CONTEXT Intensive insulin therapy (IIT) improved outcome in the adult and pediatric intensive care unit (PICU) compared with conventional insulin therapy (CIT). IIT did not increase the anabolic hormone IGF-I in critically ill adults, but feeding in critically ill children and pediatric hormonal responses may differ. Twenty-five percent of the children with IIT experienced hypoglycemia, which may have evoked counterregulatory responses.
+OBJECTIVE We hypothesized that IIT reactivates the somatotropic axis and anabolism in PICU patients.
+DESIGN This was a preplanned subanalysis of a randomized controlled trial on IIT.
+PATIENTS We studied 369 patients who stayed in PICU for at least 3 d (study 1) and 126 patients in a nested case-control study (study 2).
+MAIN OUTCOME MEASURES Circulating insulin, C-peptide, GH, IGF-I, bioavailable IGF-I, IGF-binding protein (IGFBP)-1, IGFBP-3, and acid-labile subunit were analyzed upon admission and d 3. In the nested case-control study, the somatotropic axis, cortisol, and glucagon were analyzed before and after hypoglycemia.
+RESULTS On d 3, C-peptide was more than 10-fold lower (P < 0.0001) in the IIT group than in the CIT group. IIT increased circulating GH (P = 0.04) and lowered bioavailable IGF-I (P = 0.002). IIT also decreased IGFBP-3 (P = 0.0005) and acid-labile subunit (P = 0.007), while increasing IGFBP-1 (P = 0.04) and the urea/creatinine ratio, a marker of catabolism (P = 0.03). In the nested case-control study, IGFBP-1 was increased after hypoglycemia, whereas the somatotropic axis and the counterregulatory hormones cortisol and glucagon did not change.
+CONCLUSIONS Despite improved PICU outcome, IIT did not counteract the catabolic state of critical illness. Suppression of portal insulin may have resulted in lower bioavailable IGF-I.
+

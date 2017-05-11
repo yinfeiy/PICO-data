@@ -1,0 +1,7 @@
+Effect of device-guided breathing exercises on blood pressure in patients with hypertension: a randomized controlled trial.
+
+OBJECTIVE Hypertension is a chronic disorder with a high prevalence worldwide. Despite considerable efforts, it is sometimes hard to reach treatment goals for blood pressure (BP) with classical treatment options. Reducing breathing frequency has been advocated as a method to reduce BP.
+METHODS A randomized, single-blind, controlled trial was conducted in 30 non-diabetic patients with hypertension over a period of 9 weeks to evaluate the effect of a device that helps to slow breathing (Resperate) on BP and quality of life (QoL). The control group listened to music and used no other therapeutic device.
+RESULTS There was no significant difference in change in BP between intervention and control; BP -4.2 mmHg (95% CI -12.4 to 3.9)/-2.6 mmHg (95% CI -8.4 to 3.3). This result did not alter in post hoc analyses, when patients not achieving target breathing frequency (<10 breaths/min) or non-compliant patients were excluded. QoL did not change over time.
+CONCLUSIONS We found no effect of the Resperate on BP or QoL compared with the control group. We conclude that, at this moment, this device has no added value in the treatment of hypertension.
+

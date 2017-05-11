@@ -1,0 +1,7 @@
+A clinical trial of glutathione supplementation in autism spectrum disorders.
+
+BACKGROUND Recent evidence shows that subjects diagnosed with an autism spectrum disorder (ASD) have significantly lower levels of glutathione than typically developing children. The purpose of this study was to examine the use of two commonly used glutathione supplements in subjects diagnosed with an ASD to determine their efficacy in increasing blood glutathione levels in subjects diagnosed with an ASD.
+MATERIAL/METHODS The study was an eight-week, open-label trial using oral lipoceutical glutathione (n=13) or transdermal glutathione (n=13) in children, 3-13 years of age, with a diagnosis of an ASD. Subjects underwent pre- and post-treatment lab testing to evaluate plasma reduced glutathione, oxidized glutathione, cysteine, taurine, free and total sulfate, and whole-blood glutathione levels.
+RESULTS The oral treatment group showed significant increases in plasma reduced glutathione, but not whole-blood glutathione levels following supplementation. Both the oral and transdermal treatment groups showed significant increases in plasma sulfate, cysteine, and taurine following supplementation.
+CONCLUSIONS The results suggest that oral and transdermal glutathione supplementation may have some benefit in improving some of the transsulfuration metabolites. Future studies among subjects diagnosed with an ASD should further explore the pharmacokinetics of glutathione supplementation and evaluate the potential effects of glutathione supplementation upon clinical symptoms.
+

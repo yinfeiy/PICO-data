@@ -1,0 +1,7 @@
+Brief Report: Cobicistat Compared With Ritonavir as a Pharmacoenhancer for Atazanavir in Combination With Emtricitabine/Tenofovir Disoproxil Fumarate: Week 144 Results.
+
+BACKGROUND Cobicistat (COBI) is a pharmacoenhancer with no antiretroviral activity.
+METHODS International, randomized double-blind active-controlled trial to evaluate the efficacy and safety of COBI vs ritonavir (RTV) as a pharmacoenhancer of atazanavir in combination with emtricitabine/tenofovir disoproxil fumarate in HIV treatment-naive patients followed through week 144.
+RESULTS At Week 144, virologic suppression was achieved in 72% (COBI) and 74% (RTV) of patients. Adverse events leading to study drug discontinuation occurred in 11% of patients in each group. Median changes in serum creatinine (mg/dL) were +0.13 (COBI) and +0.07 (RTV) and were unchanged from week 48.
+CONCLUSIONS Once-daily COBI is a safe and effective pharmacoenhancer of the protease inhibitor atazanavir.
+

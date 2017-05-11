@@ -1,0 +1,7 @@
+Effect of intravenous dezocine on fentanyl-induced cough during general anesthesia induction: a double-blinded, prospective, randomized, controlled trial.
+
+PURPOSE To evaluate the suppressive effect of intravenous dezocine on fentanyl-induced cough during the induction of general anesthesia.
+METHODS A total of 120 patients, American Society of Anesthesiologists (ASA) physical status I-II, were randomized into two equally sized groups (n = 60). These two groups were given either intravenous dezocine 0.1 mg/kg or a matching placebo (equal volume of 0.9% saline) 10 min before the induction of general anesthesia. Patients were induced with midazolam 0.1 mg/kg, fentanyl 5 μg/kg, propofol 1-1.5 mg/kg, and suxamethonium 1.5 mg/kg. The injection time of fentanyl was less than 2 s in all patients. The occurrence of cough was recorded 2 min after fentanyl bolus.
+RESULTS No patient in the dezocine group had cough, and 42 patients in the control group had cough. This difference was statistically different between these two groups (P = 0.000).
+CONCLUSION These results demonstrate that intravenous dezocine 0.1 mg/kg 10 min prior to induction was effective in suppressing fentanyl-induced cough in our patients.
+

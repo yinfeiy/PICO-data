@@ -1,0 +1,9 @@
+An emergency clinical pathway for stroke patients--results of a cluster randomised trial (isrctn41456865).
+
+BACKGROUND Emergency Clinical Pathways (ECP) for stroke have never been tested in randomized controlled trials (RCTs).
+OBJECTIVE To evaluate the effectiveness of an ECP for stroke patients in Latium (Italy) emergency system.
+METHODS cluster-RCT designed to compare stroke patient referrals by Emergency Medical Service (EMS) and Emergency Room (ER) health professionals trained in the ECP, with those of non-trained EMS and ER controls. Primary outcome measure was the proportion of eligible (aged </= 80 and symptom onset </= 6 hours) stroke patients referred to a stroke unit (SU). Intention to treat (ITT) and per-protocol (PP) analyses were performed, and risk ratios (RR) adjusted by age, gender and area, were calculated.
+RESULTS 2656 patients in the intervention arm and 2239 in the control arm required assistance; 78.3% of the former and 80.6% of the latter were admitted to hospitals, and respectively 74.8% and 78.3% were confirmed strokes. Of the eligible confirmed strokes, 106/434 (24.4%) in the intervention arm and 43/328 (13.1%) in the control arm were referred to the SU in the ITT analysis (RR = 2.01; 95% CI: 0.79-4.00), and respectively 105/243 (43.2%) and 43/311 (13.8%) in the PP analysis (RR = 3.21; 95%CI: 1.62-4.98). Of patients suitable for i.v. thrombolysis, 15/175 (8.6%) in the intervention arm and 2/115 (1.7%) in the control arm received thrombolysis (p = 0.02) in the ITT analysis, and respectively 15/99 (15.1%) and 2/107 (1.9%)(p = 0.001) in the PP analysis.
+CONCLUSION Our data suggest potenti efficiency and feasibility of an ECP. The integration of EMS and ERs with SU networks for organised acute stroke care is feasible and may ameliorate the quality of care for stroke patients.
+TRIAL REGISTRATION Current Controlled Trials (ISRCTN41456865).
+

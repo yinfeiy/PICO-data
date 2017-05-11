@@ -1,0 +1,7 @@
+Enhanced induction of apoptosis in lung adenocarcinoma after preoperative chemotherapy with tegafur and uracil (UFT).
+
+PURPOSE To determine if the preoperative administration of tegafur and uracil (UFT) to patients with lung adenocarcinoma could induce apoptosis.
+METHODS We conducted a randomized prospective study on 30 patients with lung adenocarcinoma, divided into two groups of 15 patients each. One group received UFT 600 mg/day preoperatively for 7 consecutive days and a control group received no chemotherapy or radiotherapy. The apoptotic index (AI) was determined by the terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate biotin nick end-labeling (TUNEL) method. Expression of Ki-67 was examined by immunohistochemical staining. The concentration of 5-fluorouracil (5-FU) in tumor tissue was measured by chemical assay.
+RESULTS The AI of lung adenocarcinoma cells increased significantly in the UFT-treated group but not in the control group. A significant positive correlation was seen between the AI and the 5-FU concentrations in the tumor tissue.
+CONCLUSIONS The continuous oral administration of UFT for 7 days preoperatively resulted in enhanced apoptosis and a significant positive correlation between the AI and 5-FU concentrations in lung adenocarcinoma. Therefore, it may be possible to evaluate the effects of adjuvant chemotherapy based on the AI.
+

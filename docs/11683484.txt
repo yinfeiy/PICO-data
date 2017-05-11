@@ -1,0 +1,10 @@
+Caffeine eliminates psychomotor vigilance deficits from sleep inertia.
+
+STUDY OBJECTIVES This study sought to establish the effects of caffeine on sleep inertia, which is the ubiquitous phenomenon of cognitive performance impairment, grogginess and tendency to return to sleep immediately after awakening.
+DESIGN 28 normal adult volunteers were administered sustained low-dose caffeine or placebo (randomized double-blind) during the last 66 hours of an 88-hour period of extended wakefulness that included seven 2-hour naps during which polysomnographical recordings were made. Every 2 hours of wakefulness, and immediately after abrupt awakening from the naps, psychomotor vigilance performance was tested.
+SETTING N/A.
+PARTICIPANTS N/A.
+INTERVENTIONS N/A.
+MEASUREMENTS AND RESULTS In the placebo condition, sleep inertia was manifested as significantly impaired psychomotor vigilance upon awakening from the naps. This impairment was absent in the caffeine condition. Caffeine had only modest effects on nap sleep.
+CONCLUSIONS Caffeine was efficacious in overcoming sleep inertia. This suggests a reason for the popularity of caffeine-containing beverages after awakening. Caffeine's main mechanism of action on the central nervous system is antagonism of adenosine receptors. Thus, increased adenosine in the brain upon awakening may be the cause of sleep inertia.
+

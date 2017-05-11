@@ -1,0 +1,7 @@
+Effects of intranasal oxytocin on the neural basis of face processing in autism spectrum disorder.
+
+BACKGROUND Autism spectrum disorder (ASD) is associated with altered face processing and decreased activity in brain regions involved in face processing. The neuropeptide oxytocin has been shown to promote face processing and modulate brain activity in healthy adults. The present study examined the effects of oxytocin on the neural basis of face processing in adults with Asperger syndrome (AS).
+METHODS A group of 14 individuals with AS and a group of 14 neurotypical control participants performed a face-matching and a house-matching task during functional magnetic resonance imaging. The effects of a single dose of 24 IU intranasally administered oxytocin were tested in a randomized, placebo-controlled, within-subject, cross-over design.
+RESULTS Under placebo, the AS group showed decreased activity in the right amygdala, fusiform gyrus, and inferior occipital gyrus compared with the control group during face processing. After oxytocin treatment, right amygdala activity to facial stimuli increased in the AS group.
+CONCLUSIONS These findings indicate that oxytocin increases the saliency of social stimuli and in ASD and suggest that oxytocin might promote face processing and eye contact in individuals with ASD as prerequisites for neurotypical social interaction.
+

@@ -1,0 +1,11 @@
+Local warming and insertion of peripheral venous cannulas: single blinded prospective randomised controlled trial and single blinded randomised crossover trial.
+
+OBJECTIVE To determine whether local warming of the lower arm and hand facilitates peripheral venous cannulation.
+DESIGN Single blinded prospective randomised controlled trial and single blinded randomised crossover trial.
+SETTING Neurosurgical unit and haematology ward of university hospital.
+PARTICIPANTS 100 neurosurgical patients and 40 patients with leukaemia who required chemotherapy.
+INTERVENTIONS Neurosurgical patients' hands and forearms were covered for 15 minutes with a carbon fibre heating mitt. Patients were assigned randomly to active warming at 52 degrees C or passive insulation (heater not activated). The same warming system was used for 10 minutes in patients with leukaemia. They were assigned randomly to active warming or passive insulation on day 1 and given alternative treatment during the subsequent visit.
+MAIN OUTCOME MEASURES PRIMARY: success rate for insertion of 18 gauge cannula into vein on back of hand. SECONDARY: time required for successful cannulation.
+RESULTS In neurosurgical patients, it took 36 seconds (95% confidence interval 31 to 40 seconds) to insert a cannula in the active warming group and 62 (50 to 74) seconds in the passive insulation group (P=0.002). Three (6%) first attempts failed in the active warming group compared with 14 (28%) in the passive insulation group (P=0.008). The crossover study in patients with leukaemia showed that insertion time was reduced by 20 seconds (8 to 32, P=0.013) with active warming and that failure rates at first attempt were 6% with warming and 30% with passive insulation (P<0.001).
+CONCLUSIONS Local warming facilitates the insertion of peripheral venous cannulas, reducing both time and number of attempts required. This may decrease the time staff spend inserting cannulas, reduce supply costs, and improve patient satisfaction.
+

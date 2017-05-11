@@ -1,0 +1,4 @@
+Impacts of a disease management program for dually eligible beneficiaries.
+
+The LifeMasters Supported SelfCare demonstration program provides disease management (DM) services to Florida Medicare beneficiaries who are also enrolled in Medicaid and have congestive heart failure (CHF), diabetes, or coronary artery disease (CAD). The population-based program provides primarily telephonic patient education and monitoring services. Findings from the randomized, intent-to-treat design over the first 18 months of operations show virtually no overall impacts on hospital or emergency room (ER) use, Medicare expenditures, quality of care, or prescription drug use for the 33,000 enrollees. However, for beneficiaries with CHF who resided in high-cost South Florida counties, the program reduced Medicare expenditures by 9.6 percent.
+

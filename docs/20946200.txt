@@ -1,0 +1,7 @@
+Randomized comparative study of group versus individual cognitive behavioural therapy for obsessive compulsive disorder.
+
+OBJECTIVE The primary aim of the study was to compare the effectiveness of group and individual cognitive behaviour therapy (CBT) for obsessive compulsive disorder (OCD).
+METHOD One hundred and ten out-patients with OCD were randomly assigned to 15 sessions of either group CBT or individual CBT. Outcome measures were administered before and after treatment, as well as at 6- and 12-month follow-ups. The study was supplemented by a meta-analysis of accomplished comparative studies of group vs. individual CBT for OCD.
+RESULTS Large and stable pre-post effect sizes were found for both treatment conditions in the study (d = 1.06-1.24 on the Yale-Brown Obsessive Compulsive Scale). There were no significant between-group differences in outcome at any data point (ds= -0.13 to 0.15). The meta-analysis of four accomplished comparative studies (including the present one) found a between-group mean effect size of (d= 0.15 favouring individual over group CBT at posttreatment (95% confidence interval, -0.12, 0.42).
+CONCLUSION The results of this study suggest that OCD can be treated effectively with a group format of CBT, thus sparing some therapist resources, although the four accomplished comparative studies do not rule out the possibility of a small superiority of individually conducted CBT.
+

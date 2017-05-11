@@ -1,0 +1,11 @@
+Prevention of venous thromboembolism after knee arthroplasty. A randomized, double-blind trial comparing enoxaparin with warfarin.
+
+OBJECTIVE To compare the effectiveness and safety of fixed-dose enoxaparin and adjusted dose warfarin in preventing venous thromboembolism after knee arthroplasty.
+DESIGN A randomized, double-blind controlled trial.
+SETTING 8 university hospitals.
+PATIENTS 670 consecutive patients who had knee arthroplasty.
+INTERVENTION Patients were randomly assigned to receive enoxaparin (30 mg subcutaneously every 12 hours) or adjusted-dose warfarin (international normalized ratio, 2.0 to 3.0). Both regimens were started after surgery.
+MEASUREMENTS The primary end point was the incidence of deep venous thrombosis in patients with adequate bilateral venograms; the secondary end point was hemorrhage.
+RESULTS Among the 417 patients with adequate venograms, 109 of 211 warfarin recipients (51.7%) had deep venous thrombosis compared with 76 of 206 enoxaparin recipients (36.9%) (P = 0.003). The absolute risk difference was 14.8% in favor of enoxaparin (95% Cl, 5.3% to 24.1%) Twenty-two warfarin recipients (10.4%) and 24 enoxaparin recipients (11.7%) had proximal venous thrombosis (P>0.2). The absolute risk difference was 1.2% in favor of warfarin (Cl, -7.2% to 4.8%). The incidence of major bleeding was 1.8% (6 of 334 patients) in the warfarin group and 2.1% (7 of 336 patients) in the enoxaparin group (P>0.2). The absolute risk difference was 0.3% in favor of warfarin (Cl, -2.4% to 1.8%).
+CONCLUSIONS A postoperative, fixed-dose enoxaparin regimen is more effective than adjusted-dose warfarin in preventing deep venous thrombosis after knee arthroplasty. No differences were seen in the incidence of proximal venous thrombosis or clinically overt hemorrhage.
+

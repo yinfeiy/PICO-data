@@ -1,0 +1,8 @@
+Clinical trial: once-daily mesalamine granules for maintenance of remission of ulcerative colitis - a 6-month placebo-controlled trial.
+
+BACKGROUND Ulcerative colitis (UC) is a chronic relapsing and remitting idiopathic inflammatory bowel disorder.
+AIM To evaluate once-daily mesalamine (mesalazine) granules (MG) for maintenance of remission of UC.
+METHODS Randomized, double-blind, placebo-controlled trial of patients (n=209 MG, n=96 placebo) with UC in remission [revised Sutherland Disease Activity Index (SDAI) rectal bleeding=0, mucosal appearance <2] who took MG 1.5 g or placebo once-daily for up to 6 months. Primary efficacy endpoint: the percentage of patients who remained relapse-free at month 6/end of treatment. Relapse was defined as SDAI rectal bleeding score ≥1 and a mucosal appearance score ≥2, a UC flare, or initiation of medication to treat a UC flare.
+RESULTS The percentage of relapse-free patients at month 6/end of treatment was higher with MG than placebo (78.9% vs. 58.3%, P < 0.001) in the intent-to-treat analysis. Significant differences (P ≤ 0.025) favouring MG were observed for most secondary endpoints including improvement in rectal bleeding, physician's disease activity rating, stool frequency, the SDAI at month 6/end of treatment, patients classified as a treatment success and relapse-free duration. The incidence of adverse events was similar between groups.
+CONCLUSIONS Once-daily mesalamine (mesalazine) was effective in maintaining remission of UC for 6 months.
+

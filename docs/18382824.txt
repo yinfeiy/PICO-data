@@ -1,0 +1,9 @@
+Determinants of improvement in walking capacity among individuals with chronic stroke following a multi-dimensional exercise program.
+
+OBJECTIVE To identify the determinants of improvement in walking capacity following therapeutic exercise in chronic stroke survivors.
+DESIGN A secondary analysis of data obtained from a prospective, single-blind, randomized controlled intervention trial.
+SUBJECTS Sixty-three community-dwelling individuals (mean age = 65 years, age range = 50-87 years) with a chronic stroke (post-stroke duration: mean = 5.5 years, range = 1-28 years).
+METHODS Subjects were randomized into a leg exercise group (n = 32) or an arm exercise group (n = 31). Subjects in each group underwent 3 1-hour exercise sessions per week for 19 weeks. Walking capacity, cardiorespiratory fitness, isometric knee extensor muscle strength, balance ability, and balance confidence were evaluated before and after the interventions. Multiple regression analysis was performed to identify the determinants of improvement in walking capacity.
+RESULTS After controlling for age, gender, post-stroke duration, and baseline walking capacity, gain in paretic leg muscle strength and peak oxygen consumption remained independently associated with gain in walking capacity (R2 = 0.229).
+CONCLUSION Enhancement of cardiorespiratory fitness and paretic leg muscle strength are both significant determinants in improving walking capacity among chronic stroke survivors. However, the rather weak relationship (R2 = 0.229) indicates that other factors not measured in this study may also contribute to the improvement in walking capacity.
+

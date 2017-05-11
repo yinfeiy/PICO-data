@@ -1,0 +1,8 @@
+Intra-luminal nicotine reduces smooth muscle tone and contractile activity in the distal large bowel.
+
+BACKGROUND Nicotine may be of therapeutic value in ulcerative colitis (UC), although its mechanism of action has not been established.
+OBJECTIVE To examine the effect of a solution of nicotine on sustained resting pressure (tone) and contractile activity in the human colon.
+METHODS Ten healthy volunteers, and seven with UC in symptomatic remission took part; all were non-smokers. All 17 subjects were given nicotine or placebo solution on two separate occasions in a randomized sequence. A water-perfused manometry catheter, with openings at 5, 10 and 15 cm from the tip, was placed by rigid sigmoidoscopy in the recto-sigmoid region. Baseline tone and activity were measured for 15 min prior to instillation of 20 ml of saline alone or with nicotine, 1.2 mg, at pH 4.5. Observations were made over the subsequent 15-20 min.
+RESULTS Baseline spontaneous activity in all subjects showed both high- and low-frequency components; in three patients with UC, the low-frequency activity was of high amplitude. The nicotine reduced both tone and activity in all subjects, with reduction or abolition of the large contractions in UC. Tone in all 17 subjects was reduced significantly at 3 min after nicotine (P = 0.000015, sign test); the rate of recovery varied in individuals. Results from normals and UC did not differ significantly from each other. No significant change in tone or activity was observed with the saline solution.
+CONCLUSION Intra-luminal nicotine significantly reduces both smooth muscle tone and contractile activity in the recto-sigmoid colon in both normal subjects and patients with UC.
+

@@ -1,0 +1,7 @@
+MRI signal hyperintensities in geriatric depression.
+
+OBJECTIVE The authors rated periventricular and subcortical signal hyperintensities on magnetic resonance imaging (MRI) scans in elderly patients with depression and in normal subjects with similar demographic features to examine whether such changes discriminate patients with depression from normal subjects and whether they are associated with any clinical variables.
+METHOD Two established hyperintensity rating systems were used to compare the MRI brain scans of 48 elderly patients with depression diagnosed according to DSM-III-R with the scans of 39 normal elderly subjects.
+RESULTS Elderly depressed patients manifested significantly more severe hyperintensity ratings in the subcortical gray matter than age-matched comparison subjects. Significant differences were not identified between patients with similar current ages and cerebrovascular disease risk who had early-onset or late-onset depression.
+CONCLUSIONS These findings support those of neuroimaging studies implicating the basal ganglia in depression and geriatric depression. The data suggest that the relationship observed in some reports between late-onset depression and MRI hyperintensities is most likely a function of cerebrovascular disease risk and age.
+

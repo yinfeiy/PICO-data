@@ -1,0 +1,4 @@
+The effect of implementing the Outcome Questionnaire-45.2 feedback system in Norway: A multisite randomized clinical trial in a naturalistic setting.
+
+It has been claimed that the monitoring of ongoing psychotherapy is of crucial importance for improving the quality of mental health care. This study investigated the effect of using the Norwegian version of the patient feedback system OQ-Analyst using the Outcome Questionnaire-45.2. Patients from six psychiatric clinics in Southern Norway (N = 259) were randomized to feedback (FB) or no feedback (NFB). The main effect of feedback was statistical significant (p = .027), corroborating the hypothesis that feedback would improve the quality of services, although the size of the effect was small to moderate (d = 0.32). The benefits of feedback have to be considered against the costs of implementation.
+

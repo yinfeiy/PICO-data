@@ -1,0 +1,7 @@
+Influence of exercise training on leptin levels in patients with stable coronary artery disease: A pilot study.
+
+BACKGROUND This study was designed to examine the influence of exercise training on leptin levels in patients with stable coronary artery disease (CAD).
+METHODS Sixty-four male patients, mean age 55.6 ± 6.0 years, were randomized either to six weeks of aerobic training, three times a week, at 60-80% of maximal heart rate (training group, Ex, n = 32) or to a control group (n = 32). Exercise stress test was performed and body mass index (BMI), waist-to-hip ratio (WHR), waist circumference and plasma leptin levels were measured at the beginning and end of the study.
+RESULTS Physical capacity increased significantly only in Ex patients (max workload in METs from 7.7 ± 1.4 to 8.2 ± 1.4, p < 0.05). There were no significant differences between initial and final results in either group in terms of BMI, WHR or waist circumference. Although, at the end of the study, leptin levels did not change in Ex patients (6.7 ± 3.2 vs 6.9 ± 3.6 ng/mL, NS), they did increase significantly in the control group (8.0 ± 4.0 vs 9.3 ± 5.2 ng/mL, p < 0.02).
+CONCLUSIONS A short period of exercise training in CAD patients improved their physical capacity, but did not influence BMI, WHR and waist circumference. Exercise training prevented an increase in leptin levels during the study period.
+

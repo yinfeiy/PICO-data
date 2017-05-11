@@ -1,0 +1,8 @@
+Predicting completion of treatment among foreign-born adolescents treated for latent tuberculosis infection in Los Angeles.
+
+SETTING Two health clinics in Los Angeles County, California.
+OBJECTIVE To identify factors associated with completion of care among foreign-born adolescents treated for latent tuberculosis infection (LTBI).
+DESIGN A total of 766 low-income adolescents (79% participation rate), including 610 foreign-born, were recruited. In prospective face-to-face interviews, data were obtained on socio-demographic and lifestyle characteristics, psychosocial factors and clinic-related variables. Medical chart data were abstracted regarding clinic appointment keeping and completion of treatment. Univariate and multivariate logistic regression analyses were performed to identify factors associated with completion of care.
+RESULTS Foreign-born adolescents were more likely to complete care than US-born adolescents, with 82% completion of care rate. In logistic regression analyses after controlling for age, medication taking behavior (OR 1.26, 95%CI 1.15-1.39), living with both parents (OR 1.74, 95%CI 1.02-2.97), sexual intercourse (OR 0.66, 95%CI 0.36-1.19) and speaking mostly or only English with parents (OR 0.39, 95%CI 0.15-1.03) were independently associated with completion of care.
+CONCLUSION These findings contribute to our understanding of the factors that may explain why some adolescents complete care whereas others do not. They provide supportive evidence that tailored intervention programs should be developed to support the screening and completion of treatment of foreign-born adolescents.
+

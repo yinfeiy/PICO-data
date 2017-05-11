@@ -1,0 +1,12 @@
+Comparison of the antiemetic effect of ramosetron and combined ramosetron and midazolam in children: a double-blind, randomised clinical trial.
+
+CONTEXT Postoperative nausea and vomiting remains a clinically important problem after strabismus surgery in children.
+OBJECTIVE To study the benefit of adding midazolam to ramosetron on the incidence of postoperative nausea, retching or vomiting and on the incidence of postoperative agitation.
+DESIGN A randomised, double-blind comparison.
+SETTING The operating theatre suite and day care unit of Seoul National University Hospital. The study period was January to December 2010.
+PATIENTS In total, 405 paediatric patients (aged 4-12 years) undergoing strabismus surgery were enrolled and randomly assigned to one of two groups, ramosetron or ramosetron with midazolam.
+INTERVENTION Patients received either ramosetron 6 μg kg or ramosetron 6 μg kg and midazolam 0.1 mg kg prior to induction of anaesthesia.
+MAIN OUTCOME MEASURES The incidences of nausea, retching or vomiting in the first 48 h after surgery, and the incidence of emergence agitation in the post-anaesthetic care unit.
+RESULT The incidences of nausea, retching or vomiting during the first and second 24-h periods after surgery were similar in the two groups. There was a small, clinically insignificant reduction in delirium scores in the ramosetron with midazolam group.
+CONCLUSION Adding midazolam to ramosetron had no advantages over ramosetron alone in reducing the incidence of postoperative nausea and vomiting in children undergoing strabismus surgery.
+

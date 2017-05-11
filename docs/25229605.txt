@@ -1,0 +1,8 @@
+Acute effects of static active or dynamic active stretching on eccentric-exercise-induced hamstring muscle damage.
+
+OBJECTIVES To examine whether an acute bout of active or dynamic hamstring-stretching exercises would reduce the amount of muscle damage observed after a strenuous eccentric task and to determine whether the stretching protocols elicit similar responses.
+DESIGN A randomized controlled clinical trial.
+METHODS Thirty-six young male students performed 5 min of jogging as a warm-up and were allocated to 1 of 3 groups: 3 min of static active stretching (SAS), 3 min of dynamic active stretching (DAS), or control (CON). All subjects performed eccentric exercise immediately after stretching. Heart rate, core temperature, maximal voluntary isometric contraction, passive hip flexion, passive hamstring stiffness (PHS), plasma creatine kinase activity, and myoglobin were recorded at prestretching, at poststretching, and every day after the eccentric exercises for 5 d.
+RESULTS After stretching, the change in hip flexion was significantly higher in the SAS (5°) and DAS (10.8°) groups than in the CON (-4.1°) group. The change in PHS was significantly higher in the DAS (5.6%) group than in the CON (-5.7%) and SAS (-6.7%) groups. Furthermore, changes in muscle-damage markers were smaller in the SAS group than in the DAS and CON groups.
+CONCLUSIONS Prior active stretching could be useful for attenuating the symptoms of muscle damage after eccentric exercise. SAS is recommended over DAS as a stretching protocol in terms of strength, hamstring range of motion, and damage markers.
+

@@ -1,0 +1,9 @@
+Gender difference in the response to an angiotensin-converting enzyme inhibitor and a diuretic in hypertensive patients of African descent.
+
+BACKGROUND The efficacy of angiotensin-converting enzyme (ACE) inhibitors in decreasing blood pressure in African patients is controversial.
+OBJECTIVE We examined the ambulatory blood pressure (ABP) response to a diuretic and an ACE inhibitor in hypertensive patients of East African descent and evaluated the individual characteristics that determined treatment efficacy.
+DESIGN A single-blind randomized AB/BA crossover design.
+SETTING Hypertensive families of East African descent from the general population in the Seychelles.
+PARTICIPANTS Fifty-two (29 men and 23 women) out of 62 eligible hypertensive patients were included.Main outcome measures ABP response to 20 mg lisinopril (LIS) daily and 25 mg hydrochlorothiazide (HCT) daily given for a 4-week period. Results The daytime systolic/diastolic ABP response to HCT was 4.9 [95% confidence interval (CI) 1.2-8.6]/3.6 (1.0-6.2) mmHg for men and 12.9 (9.2-16.6)/6.3 (3.7-8.8) mmHg for women. With LIS the response was 18.8 (15.0-22.5)/14.6 (12.0-17.1) mmHg for men and 12.4 (8.7-16.2)/7.7 (5.1-10.2) mmHg for women. The night-time systolic/diastolic response to HCT was 5.0 (0.6-9.4)/2.7 [(-0.4)-5.7] mmHg for men and 11.5 (7.1-16.0)/5.7 (2.6-8.8) mmHg for women, and to LIS was 18.7 (14.2-22.1)/15.4 (12.4-18.5) mmHg for men and 3.5 [(-1.0)-7.9]/2.3 [(-0.8)-5.4] mmHg for women. Linear regression analyses showed that gender is an independent predictor of the ABP responses to HCT and to LIS.
+CONCLUSIONS Hypertensive patients of African descent responded better to LIS than to HCT. Men responded better to LIS than to HCT and women responded similarly to both drugs.
+

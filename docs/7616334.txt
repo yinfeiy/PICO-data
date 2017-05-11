@@ -1,0 +1,10 @@
+Primary care-based ambulatory opioid detoxification: the results of a clinical trial.
+
+OBJECTIVE To determine the feasibility of primary care-based ambulatory opioid detoxification (AOD) using two protocols: clonidine and clonidine plus naltrexone.
+SETTING The Central Medical Unit (CMU)--a freestanding primary care medical clinic staffed by physicians and nurse practitioners.
+PATIENTS Injection drug users (IDUs) seeking substance abuse treatment between the ages of 18 and 50 years who were addicted to opioids (e.g., heroin) and not currently in drug treatment.
+INTERVENTIONS In the clonidine protocol, clonidine was administered every 4 hours "as needed" for up to 12 days. In the clonidine plus naltrexone protocol, clonidine was administered and naltrexone was administered in increasing doses over five days. Both protocols included "adjuvant" medications for muscle cramps, insomnia, and vomiting. Successfully detoxified patients were referred to ongoing drug treatment.
+DESIGN A prospective nonrandomized clinical trial.
+MEASUREMENTS AND MAIN RESULTS One hundred forty opioid-addicted IDUs were referred to the medical clinic for AOD. Among the 125 patients who enrolled in the study, 57 selected clonidine and 68 selected clonidine/naltrexone. The treatment groups (clonidine vs clonidine/naltrexone) were similar at baseline with respect to: age at first heroin use (21 years vs 23 years), mean admission opioid craving score (45/100 vs 49/100), and withdrawal symptom score (19/72 vs 18/72). Overall, 70% (88/125) of the AODs were successful, including 42% (24/57) for clonidine and 94% (64/68) for clonidine/naltrexone (p < 0.001).
+CONCLUSIONS This study suggests that primary care-based AOD can be safely and effectively carried out by primary care providers and that clonidine/naltrexone may be more effective in this setting than is clonidine alone. Ambulatory opioid detoxification can give internists a larger role in initiating drug treatment for IDUs who are addicted to opioids.
+

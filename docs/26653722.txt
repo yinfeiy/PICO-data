@@ -1,0 +1,7 @@
+NSAID Pretreatment Inhibits Prostaglandin Release in Femtosecond Laser-Assisted Cataract Surgery.
+
+PURPOSE To investigate whether short-term nonsteroidal anti-inflammatory drug (NSAID) pretreatment on the day of surgery inhibits prostaglandin release. Previous studies detected elevated prostaglandin levels after femtosecond laser treatment and identified them as a potential mediator for laser-induced miosis.
+METHODS Patients underwent either image-guided femtosecond laser cataract surgery or conventional cataract surgery (n = 75). Half of the eyes per group received topical NSAID treatment on the day of surgery. Aqueous humor was collected from all patients. ELISA measurements were performed to detect aqueous humor prostaglandin levels.
+RESULTS Femtosecond laser cataract surgery led to higher prostaglandin levels than conventional cataract surgery (P = .007). In both groups, NSAID pretreatment led to reduced prostaglandin release. In the femtosecond laser group, patients pretreated with NSAIDs had significantly lower prostaglandin values (65.3 ± 13.2 pg/mL) than patients not pretreated with NSAIDs (294.4 ± 66.5 pg/mL) (P = .0009).
+CONCLUSIONS The short-term NSAID treatment prevented prostaglandin release in patients treated with image-guided femtosecond laser. Therefore, it has potential to limit intraoperative laser-induced miosis.
+

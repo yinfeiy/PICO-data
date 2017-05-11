@@ -1,0 +1,7 @@
+Palliative brachytherapy with or without primary stent placement in patients with oesophageal cancer, a randomised phase III trial.
+
+PURPOSE To investigate whether a combination of self-expanding metal stent (SEMS) and brachytherapy provided more rapid and prolonged effect on dysphagia without increased pain compared to brachytherapy alone in patients with incurable oesophageal cancer.
+METHODS 41 Patients were randomised to SEMS followed by brachytherapy, 8 Gy×3 (n=21) or brachytherapy alone, 8 Gy×3 (n=20). Change in dysphagia and pain three and seven weeks after randomisation (FU1 and FU2) was assessed by patient-reported outcome. Dysphagia, other symptoms and health-related quality of life were assessed every four weeks thereafter. The study was closed before the estimated patient-number was reached due to slow recruitment.
+RESULTS Patients receiving SEMS followed by brachytherapy had significantly improved dysphagia at FU1 compared to patients receiving brachytherapy alone (n=35). Difference in pain was not observed. At FU2, patients in both arms (n=21) had less dysphagia. Four patients in the combined treatment arm experienced manageable complications, no complications occurred after brachytherapy alone.
+CONCLUSION For the relief of dysphagia, SEMS followed by brachytherapy is preferable and safe for patients in need of immediate alleviation, while brachytherapy with or without preceding SEMS provides relief within a few weeks after treatment.
+

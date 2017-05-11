@@ -1,0 +1,12 @@
+Efficacy and safety of leuprolide acetate 3-month depot 11.25 milligrams or 30 milligrams for the treatment of central precocious puberty.
+
+CONTEXT GnRH agonist (GnRHa) monthly injections are frequently used in the treatment of central precocious puberty (CPP). The 3-month leuprolide depot 11.25- and 30-mg formulations are newly approved treatment options.
+OBJECTIVE The aim of the study was to investigate the safety and efficacy of leuprolide acetate 3-month depot formulations for the treatment of CPP in children.
+DESIGN This was a phase III, randomized, open-label, dose-ranging 6-month study.
+SETTING Twenty-two U.S. medical centers (including Puerto Rico) participated.
+PATIENTS Children diagnosed with CPP (n = 84), who were either treatment naive or previously treated with GnRHa, were recruited. Chronological age at onset of pubertal signs was less than 8 yr in girls and less than 9 yr in boys, and bone age was advanced over chronological age at least 1 yr.
+INTERVENTION Leuprolide acetate depot (11.25 or 30 mg) was administered im every 3 months.
+MAIN OUTCOME MEASURES Biochemical [peak-stimulated LH, estradiol (girls), and testosterone (boys)] and anthropometric (growth rate, bone age acceleration, pubertal progression) parameters and safety were assessed.
+RESULTS Peak-stimulated LH was suppressed in the 11.25- and 30-mg dose groups in 78.4 and 95.2%, respectively, of children from months 2 through 6. There were nine treatment failures (peak-stimulated LH >4 IU/liter) in the 11.25-mg group and two in the 30-mg group. Basal sex steroid suppression, growth rates, pubertal progression, bone age advancement, and adverse events were similar with either dose.
+CONCLUSIONS Treatment with leuprolide acetate 3-month depot formulations (11.25 and 30 mg) effectively suppressed the GnRH axis, was well tolerated, and may positively impact patient convenience and compliance.
+

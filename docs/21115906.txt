@@ -1,0 +1,7 @@
+Inhibin A is down-regulated during chemotherapy in patients with breast cancer.
+
+BACKGROUND Inhibins are dimeric glycoproteins, composed of an alpha-subunit (INH-α) and one of two possible beta-subunits (βA or βB), with substantial roles in human reproduction and in endocrine-responsive tumours. Aims of this study were to determine the serological measurement of inhibin A (α-βA) in breast cancer patients during chemotherapy.
+PATIENTS AND METHODS A series of 30 breast cancer patients who underwent standardised chemotherapy were prospectively evaluated before chemotherapeutic treatment as well as four weeks after chemotherapy and two years after chemotherapy for the serological expression of inhibin A. For statistical analysis the Wilcoxon rank sum test was used for paired samples. Statistical significance was assumed at p<0.05.
+RESULTS The concentration of inhibin A showed a significant decrease between data obtained before chemotherapy and after chemotherapy (p<0.005) and two-year follow-up (p<0.001). Interestingly, there were no differences in inhibin A concentrations between the four-week and two-year follow-up (p=0.744).
+DISCUSSION Chemotherapy significantly decreases inhibin A concentration during chemotherapy. This might reflect a suppression of ovarian function, being also a marker for chemotherapy-induced amenorrhoea. Moreover, it has been suggested that inhibin A might be a tumour marker for breast cancer, and therefore a sudden increase in its concentration might be indicative of breast cancer recurrence.
+

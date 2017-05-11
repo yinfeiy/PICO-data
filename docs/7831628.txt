@@ -1,0 +1,7 @@
+Measurement of transfer factor during constant exhalation.
+
+BACKGROUND Transfer factor of the lung for carbon monoxide (TLCO) was measured by a new method based on analysis of the ratio of the concentrations of carbon monoxide to an inert gas (methane) relative to lung volume during a constant exhalation. Since this new technique is based solely upon exhalation, anomalies associated with inspiration and breath holding do not affect results. Additionally, because prolonged breath holding is not required, measurements can readily be made in dyspnoeic patients.
+METHODS Exhalation TLCO (TLCO,ex) was compared with the standard (Jones and Meade) 10 second breath holding TLCO (TLCO,bh) in 100 consecutive patients. Patients did not practise the exhalation manoeuvre prior to testing.
+RESULTS The comparative results were very close; mean difference (bias) +/- standard deviation (precision) was 0.05 (0.84) mmol/min/kPa. The relation was equally strong in patients with severe pulmonary disease; for patients with FEV1 < 1.51 the mean difference was 0.21 (0.80) mmol/min/kPa.
+CONCLUSIONS Since the results were essentially identical between the techniques, it seems that comparable pathophysiological factors affect TLCO during breath holding and constant exhalation. Constant exhalation may therefore be a useful alternative to the breath holding technique for clinical measurement of TLCO.
+

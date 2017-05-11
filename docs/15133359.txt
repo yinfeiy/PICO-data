@@ -1,0 +1,8 @@
+A randomized comparison of alternative techniques to achieve coronary sinus cannulation during biventricular implantation procedures.
+
+INTRODUCTION Biventricular pacing system implantation is a time-consuming and challenging procedure. A critical step in biventricular pacemaker implantation is coronary sinus (CS) cannulation. CS cannulation can be achieved either using dedicated guiding catheters (guiding catheter alone positioning strategy, GCA) or with the aid of an electrophysiology catheter advanced inside the guiding catheter (electrophysiology catheter aided positioning strategy, EPA).
+AIM OF THE STUDY To evaluate whether the EPA technique is useful for reducing CS cannulation time compared to a conventional GCA technique.
+METHODS Thirty-four consecutive patients were randomly assigned to the GCA (18 patients) or EPA (16 patients) CS cannulation strategy.
+RESULTS Time to successful catheterization of CS was 5.0 +/- 2.4 min in the EPA group versus 10.1 +/- 5.4 min in the GCA group p = 0.004. Fluoroscopy time was 4.6 +/- 2.3 min in the EPA group versus 9.2 +/- 4.9 min in the GCA group p = 0.004. Total contrast dye volume to search and engage the CS ostium was 0.0 ml in the EPA group versus 14.3 +/- 3.4 ml in the GCA group p < 0.001.
+CONCLUSIONS Cannulation of CS with the adjunct of an electrophysiology catheter to dedicated delivery systems significantly reduces procedural time, fluoroscopy time and contrast dye volume compared to a conventional strategy.
+

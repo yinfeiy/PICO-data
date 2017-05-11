@@ -1,0 +1,8 @@
+Virtual reality for acute pain reduction in adolescents undergoing burn wound care: a prospective randomized controlled trial.
+
+BACKGROUND Effective pain management remains a challenge for adolescents during conscious burn wound care procedures. Virtual reality (VR) shows promise as a non-pharmacological adjunct in reducing pain.
+AIMS This study assessed off-the-shelf VR for (1) its effect on reducing acute pain intensity during adolescent burn wound care, and (2) its clinical utility in a busy hospital setting.
+METHODS Forty-one adolescents (11-17 years) participated in this prospective randomized controlled trial. Acute pain outcomes including adolescent self-report, nursing staff behavioral observation, caregiver observation and physiological measures were collected. Length of procedure times and adolescent reactions were also recorded to inform clinical utility.
+RESULTS Nursing staff reported a statistically significant reduction in pain scores during dressing removal, and significantly less rescue doses of Entonox given to those receiving VR, compared to those receiving standard distraction. For all other pain outcomes and length of treatment, there was a trend for lower pain scores and treatment times for those receiving VR, but these differences were not statistically significant.
+CONCLUSION Despite only minimal pain reduction achieved using off-the-shelf VR, other results from this trial and previous research on younger children with burns suggest a customized, adolescent and hospital friendly device may be more effective in pain reduction.
+

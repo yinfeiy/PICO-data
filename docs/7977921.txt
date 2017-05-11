@@ -1,0 +1,7 @@
+Preventing disability and falls in older adults: a population-based randomized trial.
+
+OBJECTIVES Because preventing disability and falls in older adults is a national priority, a randomized controlled trial was conducted to test a multicomponent intervention program.
+METHODS From a random sample of health maintenance organization (HMO) enrollees 65 years and older, 1559 ambulatory seniors were randomized to one of three groups: a nurse assessment visit and follow-up interventions targeting risk factors for disability and falls (group 1, n = 635); a general health promotion nurse visit (group 2, n = 317); and usual care (group 3, n = 607). Data collection consisted of a baseline and two annual follow-up surveys.
+RESULTS After 1 year, group 1 subjects reported a significantly lower incidence of declining functional status and a significantly lower incidence of falls than group 3 subjects. Group 2 subjects had intermediate levels of most outcomes. After 2 years of follow-up, the differences narrowed.
+CONCLUSIONS The results suggest that a modest, one-time prevention program appeared to confer short-term health benefits on ambulatory HMO enrollees, although benefits diminished by the second year of follow-up. The mechanisms by which the intervention may have improved outcomes require further investigation.
+

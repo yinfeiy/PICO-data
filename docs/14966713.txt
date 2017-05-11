@@ -1,0 +1,10 @@
+Reliance on visual information after stroke. Part II: Effectiveness of a balance rehabilitation program with visual cue deprivation after stroke: a randomized controlled trial.
+
+OBJECTIVE To test the hypothesis that balance rehabilitation with visual cue deprivation improves balance more effectively than rehabilitation with free vision.
+DESIGN Single-blind, randomized controlled trial.
+SETTING Public rehabilitation center in France.
+PARTICIPANTS Twenty patients with hemiplegia after a single-hemisphere stroke that occurred at least 12 months before the study.
+INTERVENTION Patients were randomly assigned to 1 of 2 balance rehabilitation programs-with and without visual cue deprivation. In all other respects, the programs were identical. Each lasted for 1 hour and was implemented 5 days a week for 4 weeks. All patients completed the program. Mean outcome measures Balance under 6 sensory conditions was assessed by computerized dynamic posturography (EquiTest), gait velocity, timed stair climbing, and self-assessment of ease of gait before and after program completion.
+RESULTS After completing the program, balance, gait velocity, and self-assessment of gait improved significantly in all patients. The improvements in gait velocity (P= .03) and timed stair climbing (P= .01) correlated significantly with improved balance. Balance improved more in the vision-deprived group than in the free-vision group.
+CONCLUSIONS Balance improved more after rehabilitation with visual deprivation than with free vision. Visual overuse may be a compensatory strategy for coping with initial imbalance exacerbated by traditional rehabilitation.
+

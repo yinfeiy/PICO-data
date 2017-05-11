@@ -1,0 +1,11 @@
+A randomized, double-blind, placebo-controlled trial of pentoxifylline for the treatment of recurrent aphthous stomatitis.
+
+OBJECTIVE To evaluate pentoxifylline for the treatment of recurrent aphthous stomatitis.
+DESIGN A 60-day, randomized, double-blind, placebo-controlled trial with a 60-day no treatment follow-up.
+SETTING An oral medicine specialist referral center in Manchester.
+PARTICIPANTS Forty-nine volunteers who passed the initial assessment for recurrent aphthous stomatitis entered a pretrial phase in which their eligibility for the trial phase of the study was assessed. Sixteen subjects were deemed ineligible, and 7 failed to attend or withdrew. The remaining 26 subjects were randomized to placebo or treatment. Six subjects withdrew because of adverse effects, and 1 was unavailable for follow-up.
+INTERVENTION Pentoxifylline (also called oxpentifylline), 400 mg 3 times daily, or matching placebo.
+MAIN OUTCOME MEASURE A reduction in the median pain score, ulcer size, number of ulcers, or total number of ulcer episodes.
+RESULTS Patients taking pentoxifylline had less pain and reported smaller and fewer ulcers compared with baseline. Patients taking placebo reported no improvement in these variables. Patients taking pentoxifylline also reported more ulcer-free days than those taking placebo. However, the differences were small and, with the exception of median ulcer size (P = .05), did not reach statistical significance. Adverse effects were common with pentoxifylline, but not significantly different from those experienced by patients taking placebo.
+CONCLUSIONS Although pentoxifylline may have some benefit in the treatment of recurrent aphthous stomatitis, the benefit is limited. It may have a role in the treatment of patients unresponsive to other treatments, but cannot yet be recommended as a first-line treatment.
+

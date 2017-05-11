@@ -1,0 +1,10 @@
+Percutaneous tracheostomy in critically ill patients: a prospective, randomized comparison of two techniques.
+
+OBJECTIVE To prospectively compare two commonly used methods for percutaneous dilational tracheostomy (PDT) in critically ill patients.
+DESIGN Prospective, randomized, clinical trial.
+SETTING Trauma and general intensive care units of a university tertiary teaching hospital, which is also a level 1 trauma center.
+PATIENTS One hundred critically ill patients with an indication for PDT.
+INTERVENTIONS PDT with the Ciaglia technique using the Ciaglia PDT introducer set and the Griggs technique using a Griggs PDT kit and guidewire dilating forceps.
+MEASUREMENTS AND MAIN RESULTS Surgical time, difficulties, and surgical and anesthesia complications were measured at 0-2 hrs, 24 hrs, and 7 days postprocedure. Groups were well matched, and there were no differences between the two methods in surgical time or in anesthesia complications. Major bleeding complications were 4.4 times more frequent with the Griggs PDT kit. With the Ciaglia PDT kit, both intraoperative and at 2 and 24 hrs, surgical complications were less common (p = .023) and the procedure was more often completed without expert assistance (p = .013). Tracheostomy bleeding was not associated with either anticoagulant therapy or an abnormal clotting profile. Multivariate analysis identified the predictors of PDT complications as the Griggs PDT kit (p = .027) and the Acute Physiology and Chronic Health Evaluation (APACHE) II score (p = .041). The significant predictors of time required to complete PDT were the APACHE II score (p = .041), a less experienced operator (p = .0001), and a female patient (p = .013).
+CONCLUSIONS Patients experiencing PDT with the Ciaglia PDT kit had a lower surgical complication rate (2% vs. 25%), less operative and postoperative bleeding, and less overall technical difficulties than did patients undergoing PDT with the Griggs PDT kit. Ciaglia PDT is, therefore, the preferred technique for percutaneous tracheostomy in critically ill patients.
+

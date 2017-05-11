@@ -1,0 +1,8 @@
+Quitting a weight loss program is associated with anhedonia: preliminary findings of the Lifestyle Intervention Treatment Evaluation Study in northern Finland.
+
+OBJECTIVES To examine whether a diagnosis for major depression, chronic depression or specific symptoms of depression is associated with the risk of quitting a weight loss program.
+STUDY DESIGN The study involved 82 overweight adults participating in the Lifestyle Intervention Treatment Evaluation (LITE) follow-up study at Oulu University Hospital in northern Finland.
+METHODS Psychiatric diagnostic assessments were based on the Structured Clinical Interview for DSMIV disorders (SCID-I) conducted by a clinical psychiatrist. Anhedonia (lack of pleasure) was assessed as one of the core symptoms of major depression and chronic depression (dysthymia). Anhedonia was defined to be present if the participants reported having suffered a major loss of interest during the previous month.
+RESULTS Twenty participants (24.4%) quit during the 6-month intervention period. Anhedonia put individuals at risk of quitting the weight loss program (bivariate analysis OR 3.1, 95% CI 0.8-11.6, p=0.091, multivariate analysis OR 6.5, 95% CI 1.1-38.2, p=0.038). However, a diagnosis for major depression or chronic depression did not predict quitting.
+CONCLUSIONS Individual assessments of obesity and overweight should also include an assessment for subthreshold depression, mainly anhedonia.
+

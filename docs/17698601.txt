@@ -1,0 +1,7 @@
+Predictors of incident depression after hip fracture surgery.
+
+OBJECTIVE Depression after hip fracture surgery is prevalent and associated with increased mortality rates and impaired functional recovery. The incidence of new-onset depressive symptoms in patients initially not depressed after hip fracture surgery and their relationship with functional recovery is unknown.
+METHODS A cohort of 139 nondepressed elderly patients (>60 years) hospitalized for hip fracture surgery were followed up for six months. Clinically significant depressive symptoms were defined as a score of 7 or more on the 15-item Geriatric Depression Scale.
+RESULTS The authors found a cumulative incidence rate of 20.5% adjusted for dropouts. Multiple Cox-regression analyses yielded the presence of subthreshold symptoms of depression, anxiety, pain, and cognitive impairment at baseline, the premorbid level of mobility, and a history of (treated) depression as risk factors for incident depression (p <0.05). A forward, conditional procedure identified postoperative pain (hazard ratio [HR] = 1.32, 95% confidence interval [CI]: 1.14-1.53, Wald chi(2) = 13.57, df = 1, p <0.001) and baseline anxiety (HR = 1.25, 95% CI: 1.08-1.44, Wald chi(2) = 8.86, df = 1, p = 0.003) as the strongest independent risk factors. Incident depression was associated with a less favorable outcome at 3 months follow-up.
+CONCLUSION This exploratory study identified two treatable baseline characteristics that predicted incident depression in nondepressed patients after hip-fracture surgery.
+

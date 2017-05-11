@@ -1,0 +1,10 @@
+Mediterranean diet and high dietary acid load associated with mixed nuts: effect on bone metabolism in elderly subjects.
+
+OBJECTIVES To analyze the effect of differing diet on the acid load content on bone metabolism.
+DESIGN Multicentric, randomized, single-blind, parallel-group clinical trial.
+SETTING Outpatient clinics.
+PARTICIPANTS Two hundred thirty-eight elderly men and women aged 60 to 80 at high risk for cardiovascular disease were randomly assigned to three interventional groups: a recommended low-fat diet (control diet group), a Mediterranean diet supplemented with virgin olive oil, or a Mediterranean diet supplemented with mixed nuts.
+MEASUREMENTS Main outcomes were 12-month changes from baseline in bone formation and resorption markers and bone mass measured according to quantitative ultrasound scanning.
+RESULTS The baseline data on the anthropometric, bone densitometry, and biochemical variables did not differ between the three groups. Dietary potential renal acid load (PRAL) and daily net endogenous acid production (NEAP) at baseline did not differ between groups. After intervention, subjects allocated to the Mediterranean diet with mixed nuts had a significant increase of PRAL and NEAP. In comparison, subjects in the Mediterranean diet with nuts group had higher parathyroid hormone (PTH) levels (2.63, 95% confidence interval (CI)=-1.01-6.35, P=.02) and a nonsignificantly higher (0.31, 95% CI=-0.13-0.74, P=.14) urine free deoxypyridoxine:creatinine ratio, a marker of bone resorption, than the control group and the Mediterranean diet with virgin olive oil group.
+CONCLUSION A Mediterranean dietary pattern associated with a high dietary acid load derived from consumption of mixed nuts does not seem to have a much greater effect on bone metabolism biomarkers, with the exception of PTH levels, than a Mediterranean diet without mixed nuts or a control diet in elderly subjects.
+

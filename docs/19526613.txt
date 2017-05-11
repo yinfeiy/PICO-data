@@ -1,0 +1,7 @@
+Leucocyte depletion of perioperative blood transfusion does not affect long-term survival and recurrence in patients with gastrointestinal cancer.
+
+BACKGROUND Perioperative red blood cell (RBC) transfusion may be associated with a poor prognosis in cancer surgery. Allogeneic leucocytes are assumed to play a causal role. This study evaluated the long-term effect of transfusion with leucocyte-depleted (LD) blood in patients with gastrointestinal cancer.
+METHODS The Transfusion Associated Complications = Transfusion Induced Complications? (TACTIC) study is a multicentre randomized controlled trial evaluating the short-term benefits of LD versus non-LD RBC transfusions. The present study evaluated 5-year survival and cancer recurrence among 512 patients with gastrointestinal cancer included in the TACTIC study.
+RESULTS Some 89.2 per cent of patients had a primary tumour and 79.7 per cent underwent surgery with curative intent; 243 patients received perioperative RBC transfusion (median 3 units). The 5-year overall survival rate of patients with any type of gastrointestinal cancer was 50.8 per cent in the LD group and 45.8 per cent in the non-LD group (P = 0.191). Corresponding 5-year disease-free survival rates were 60.0 and 56.6 per cent (P = 0.482), and recurrence rates 32.9 and 34.3 per cent (P = 0.864).
+CONCLUSION Leucocyte depletion is not associated with better long-term survival and lower recurrence rates in patients with gastrointestinal cancer.
+

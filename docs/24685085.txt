@@ -1,0 +1,7 @@
+[Prophylactic use of low molecular weight heparin in combination with graduated compression stockings in post-operative patients with gynecologic cancer].
+
+OBJECTIVE The aim of this study was to compare the efficacy of low molecular weight heparin (LMWH) combined with graduated compression stockings (GCS) with GCS alone as prophylactic measures for venous thromboembolism (VTE) in post-operative patients with gynecologic cancer.
+METHODS Patients diagnosed with gynecologic cancer undergoing primary major surgery between 2010 and 2011 in our institute were randomized to receive LMWH+GCS or GCS as VTE prophylaxis post-operatively.
+RESULTS Altogether 247 patients were enrolled. The incidence of VTE in patients treated with LMWH + GCS was significantly lower than that in patients using GCS alone (0.8% Vs. 8.1%, P = 0.01). There were no severe bleeding complications in the patients with prophylactic use of LMWH and the occurrence rate of wound dehiscence was comparable between the two groups (P > 0.05). Multivariable logistic regression analysis revealed that age over 60 years (P = 0.015) , duration of operation over 3 hours (P = 0.04) and without prophylactic use of LMWH (P = 0.02) were independent risk factors for VTE.
+CONCLUSIONS Dual prophylaxis with LMWH and GCS should be recommended for gynecologic cancer patients undergoing major surgery for its better efficacy than GCS. Prophylactic use of LMWH is safe and convenient. Patients with older age and prolonged operation time are at highest risk of developing VTE post-operatively.
+

@@ -1,0 +1,8 @@
+A comparative study of ofloxacin and cefixime for treatment of typhoid fever in children. The Dong Nai Pediatric Center Typhoid Study Group.
+
+BACKGROUND Despite concerns about safety in children, fluoroquinolone antibiotics have become the treatment of choice in patients with multidrug-resistant typhoid fever in Vietnam. However, quinolone-resistant strains of Salmonella typhi have recently been reported from Vietnam; and if quinolone resistance becomes established, alternative oral treatment options will be needed.
+OBJECTIVE Cefixime, an orally administered third generation cephalosporin, was compared with ofloxacin for the treatment of uncomplicated typhoid fever in children.
+METHODS In an open trial children with suspected typhoid fever were randomized to receive either ofloxacin (10 mg/kg/day in two divided doses) for 5 days or cefixime (20 mg/kg/day in two divided doses) for 7 days.
+RESULTS S. typhi was isolated from 82 patients (44 in the cefixime group, 38 in the ofloxacin group) and 70 (85%) of the isolates were multidrug-resistant. Median (95% confidence interval, range) fever clearance times were 4.4 (4 to 5.2, 0.2 to 9.9) days for ofloxacin recipients and 8.5 (4.2 to 9, 1.8 to 15.2) days for cefixime-treated patients (P < 0.0001). There were 11 treatment failures (10 acute and one relapse) in the cefixime group and 1 acute treatment failure in the ofloxacin group (mean difference, 22%; 95% confidence interval, 9 to 36%).
+CONCLUSION Short course treatment with cefixime may provide a useful alternative treatment in cases of uncomplicated typhoid fever in children, but it is less effective than short course treatment with ofloxacin.
+

@@ -1,0 +1,10 @@
+Nicotine infusion acutely impairs insulin sensitivity in type 2 diabetic patients but not in healthy subjects.
+
+OBJECTIVES The aim of this study was to examine if an acute nicotine infusion alters insulin sensitivity to a similar degree in type 2 diabetic patients as in healthy control subjects.
+DESIGN . Double-blind, cross-over, placebo-controlled, randomized experimental study. Nicotine 0.3 microg kg-1 min(-1) or NaCl was infused (2 h) during a euglycaemic hyperinsulinaemic clamp (4 h) to assess insulin sensitivity.
+SETTING University research laboratory.
+SUBJECTS Six male and female type 2 diabetic patients [DM2; age 54 +/- 10 (mean +/- SD) years; body mass index (BMI) 25.6 +/- 2.9 kg m(-2)] treated with diet or one oral hypoglycaemic agent and six age- and BMI-matched control subjects (Ctr).
+MAIN OUTCOME MEASURE Insulin sensitivity (rate of glucose infusion per kg fat free body mass and minute), nicotine and free fatty acid (FFA) levels, pulse rate and blood pressure.
+RESULTS The infusions produced similar nicotine levels in both groups. In the absence of nicotine, DM2 were more insulin resistant than Ctr (6.7 +/- 0.4 vs. 10.9 +/- 0.3 mg kg-1 LBM min(-1), respectively; P < 0.0001). This insulin resistance was further aggravated by the nicotine infusion in DM2 but not in Ctr (4.6 +/- 0.3 vs. 10.9 +/- 0.3 mg kg(-1) LBM min(-1); P < 0.0001). Only minor differences were seen in FFA levels, pulse rates and blood pressure.
+CONCLUSIONS At this low infusion rate, nicotine aggravated the insulin resistance in DM2 but not in Ctr. This finding may be because of the (dysmetabolic) diabetic state per se or to an increased sensitivity to environmental factors associated with a genetic predisposition for type 2 diabetes. These results show that diabetic subjects are particularly susceptible to the detrimental effects of nicotine.
+

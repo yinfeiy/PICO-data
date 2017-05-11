@@ -1,0 +1,7 @@
+Cisplatin, epirubicin, leucovorin and 5-fluorouracil (PELF) is more active than 5-fluorouracil, doxorubicin and methotrexate (FAMTX) in advanced gastric carcinoma.
+
+BACKGROUND 5-Fluorouracil (5-FU), doxorubicin and methotrexate (FAMTX) and cisplatin, epirubicin, leucovorin and 5-FU (PELF) have both been reported to be superior to the combination 5-FU, doxorubicin and mitomycin C (FAM) in advanced gastric carcinoma. On the basis of the presence and dose intensity of the included agents, we hypothesised that PELF would be superior to FAMTX.
+PATIENTS AND METHODS Two hundred patients with untreated advanced gastric carcinoma were randomised to receive PELF or FAMTX for a maximum of six cycles or until disease progression.
+RESULTS The complete response (CR) rates to PELF and FAMTX were, respectively, 13% [95% confidence intervals (CI) 6% to 20%] and 2% (95% CI 0% to 5%; P = 0.003), and the objective response rates [CR plus partial response (PR) rates] 39% (95% CI 29% to 49%) and 22% (95% CI 13% to 30%; P = 0.009), thus significantly favouring the PELF combination. The survival rates after 12 months (30.8% versus 22.4%) and 24 months (15.7% versus 9.5%) were also higher among patients receiving PELF, but these differences were not statistically significant. The toxicities were qualitatively different but quantitatively similar. Both regimens seem to be feasible provided that careful patient monitoring is assured.
+CONCLUSIONS PELF is significantly more active than FAMTX and deserves further research in the adjuvant setting.
+

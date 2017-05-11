@@ -1,0 +1,10 @@
+Effectiveness of web-based tailored smoking cessation advice reports (iQuit): a randomized trial.
+
+AIMS To determine whether web-based tailored cessation advice, based on social cognitive theory and the perspectives on change model, was more effective in aiding a quit attempt than broadly similar web-based advice that was not tailored.
+DESIGN Participants were allocated randomly to one of two groups, to receive either a cessation advice report and progress report that were tailored to individual-level characteristics or a cessation advice report that presented standardized (non-tailored) content. Tailoring was based on smoking-related beliefs, personal characteristics and smoking patterns, self-efficacy and outcome expectations.
+SETTING Participant enrolment and baseline assessments were conducted remotely online via the study website, with the advice reports presented by the same website.
+PARTICIPANTS Participants (n = 1758) were visitors to the QUIT website who were based in the United Kingdom, aged 18 years or over and who smoked cigarettes or hand-rolled tobacco.
+MEASUREMENTS Follow-up assessments were made at 6 months by telephone interview. The primary outcome measure was self-reported 3 months prolonged abstinence, and secondary outcomes were 1 month prolonged abstinence, 7-day and 24-hour point prevalence abstinence.
+FINDINGS The intervention group did not differ from the control group on the primary outcome (9.1% versus 9.3%; odds ratio = 1.02 95% confidence interval 0.73-1.42) or on any of the secondary outcomes. Intervention participants gave more positive evaluations of the materials than control participants.
+CONCLUSIONS A web-based intervention that tailored content according to smoking-related beliefs, personal characteristics and smoking patterns, self-efficacy and outcome expectations, was not more effective than web-based materials presenting broadly similar non-tailored information.
+

@@ -1,0 +1,7 @@
+Longitudinal quality of life study in patients with metastatic gastric cancer. Analysis modalities and clinical applicability of QoL in randomized phase II trial in a digestive oncology.
+
+OBJECTIVES The aim of this study was to compare the longitudinal quality of life (QoL) between LV5FU2-irinotecan and LV5FU2 alone or LV5FU2-cisplatin in a randomized Phase II trial in patients with metastatic gastric adenocarcinoma.
+METHODS Among 134 eligible patients, QLQ-C30 scores were collected and described at each 2 monthly follow-up visit during 6 months. The frequencies of QLQ-C30 score improvement were calculated and mixed models for repeated measurements were applied with or without extreme poorest imputation for missing scores. The "survival" until definitive global health score (GHS) deterioration was estimated.
+RESULTS At the 3rd follow-up, patients with a stable or improved global health ranged from 11% in the LV5FU2-cisplatin arm to 18% in the LV5FU2-irinotecan arm. The irinotecan-based-therapy presented 14 to 15 scores with a better QoL. The time until definitive GHS deterioration was globally similar between treatment arms.
+CONCLUSION This study highlights a better impact of LV5FU2-irinotecan and the interest of QoL assessment in phase II trials to complement the risk-benefit judgement.
+

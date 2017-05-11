@@ -1,0 +1,8 @@
+Growth hormone effects on cortical bone dimensions in young adults with childhood-onset growth hormone deficiency.
+
+UNLABELLED Growth hormone (GH) treatment in young adults with childhood-onset GH deficiency has beneficial effects on bone mass. The present study shows that cortical bone dimensions also benefit from GH treatment, with endosteal expansion and increased cortical thickness leading to improved bone strength.
+INTRODUCTION In young adults with childhood-onset growth hormone deficiency (CO GHD), GH treatment after final height is reached has been shown to have beneficial effects on spine and hip bone mineral density. The objective of the study was to evaluate the influence of GH on cortical bone dimensions.
+METHODS Patients (n = 160; mean age, 21.2 years; 63% males) with CO GHD were randomised 2:1 to GH or no treatment for 24 months. Cortical bone dimensions were evaluated by digital x-ray radiogrammetry of the metacarpal bones every 6 months.
+RESULTS After 24 months, cortical thickness was increased compared with the controls (6.43%, CI 3.34 to 9.61%; p = 0.0001) and metacarpal index (MCI) (6.14%, CI 3.95 to 8.38%; p < 0.0001), while the endosteal diameter decreased (-4.64%, CI -7.15 to -2.05; p < 0.001). Total bone width did not change significantly (0.68%, CI -1.17 to 2.57%; not significant (NS)). A gender effect was seen on bone width (p < 0.0001), endosteal diameter (p < 0.01) and cortical thickness (p < 0.01), but not with MCI (NS).
+CONCLUSIONS Cortical bone reacts promptly to reinstitution of GH beyond the attainment of final height by increasing the cortical thickness through endosteal bone growth. This leads to a higher peak bone mass and may reduce the risk of cortical bone fragility later in life.
+

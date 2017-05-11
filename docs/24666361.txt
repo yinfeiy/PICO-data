@@ -1,0 +1,8 @@
+Predictors of local adverse effects caused by topical tretinoin cream 0·1% in the Veterans Affairs Topical Tretinoin Chemoprevention trial.
+
+BACKGROUND Topical tretinoin is commonly prescribed, but its frequent adverse effects are barriers to use. Predictors of resistance or susceptibility to retinoid irritation are not known.
+OBJECTIVE To identify baseline patient characteristics associated with adverse effects of topical tretinoin.
+METHODS This cohort study used data collected from 324 participants in the Veterans Affairs Topical Tretinoin Chemoprevention trial who were randomized to apply tretinoin cream on the face and ears. Univariate and multivariate logistic regression models were used to examine the associations between baseline characteristics and local adverse effects.
+RESULTS One hundred and ninety-seven patients (61% of those randomized to tretinoin) reported local adverse effects within 6 months. Clinical signs of severe photodamage at baseline [odds ratio (OR) 0·15, 95% confidence interval (CI) 0·04-0·54] and history of acne (OR 0·46, 95% CI 0·27-0·77) were associated with a decreased risk of adverse effects to tretinoin. The use of other topical medications at enrolment (OR 1·88, 95% CI 1·15-3·08) predicted an increase in adverse effects.
+CONCLUSIONS In this study population, the common indications of topical tretinoin treatment were associated with lower risks of adverse effects. The concurrent use of other topical medications may worsen irritation caused by tretinoin.
+

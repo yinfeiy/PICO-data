@@ -1,0 +1,8 @@
+Rifampicin plus isoniazid for the prevention of tuberculosis in an immigrant population.
+
+OBJECTIVES To compare the tolerance, adherence and effectiveness of two approaches for the treatment of latent tuberculosis infection (LTBI): 6 months of isoniazid (6H) vs. 3 months of isoniazid plus rifampicin (3RH).
+POPULATION Immigrants with LTBI.
+METHODS Participants were enrolled in a controlled, randomised clinical trial in Barcelona, Spain, from April 2001 to April 2005. Monthly follow-up was done to assess tolerance, side effects and adherence. Effectiveness was evaluated at 5 years.
+RESULTS In the 590 subjects enrolled, the rate of adherence was greater in the 3RH than in the 6H arm (72% vs. 52.4%, P = 0.001). No differences between study arms were observed with respect to hepatotoxicity or side effects. Variables associated with non-adherence were diagnosis by screening (OR 1.88, 95%CI 1.26-2.82, P = 0.001), illegal immigration status (OR 1.48, 95%CI 1.01-2.15, P = 0.03), unemployment (OR 1.91, 95%CI 1.28-2.85, P = 0.0008), illiteracy (OR 1.73, 95%CI 1.04-2.88, P = 0.02), lack of family support (OR 3.7, 95%CI 2.54-5.4, P = 0.001) and the 6-month treatment regimen (OR 2.45, 95%CI 1.68-3.57, P = 0.0001). None of the patients who completed either treatment developed tuberculosis.
+CONCLUSIONS The 3RH regimen facilitates adherence to LTBI treatment and offers a safe, well-tolerated and effective alternative.
+

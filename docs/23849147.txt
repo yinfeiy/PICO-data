@@ -1,0 +1,7 @@
+Bayesian adaptive trials offer advantages in comparative effectiveness trials: an example in status epilepticus.
+
+OBJECTIVE We present a novel Bayesian adaptive comparative effectiveness trial comparing three treatments for status epilepticus that uses adaptive randomization with potential early stopping.
+STUDY DESIGN AND SETTING The trial will enroll 720 unique patients in emergency departments and uses a Bayesian adaptive design.
+RESULTS The trial design is compared to a trial without adaptive randomization and produces an efficient trial in which a higher proportion of patients are likely to be randomized to the most effective treatment arm while generally using fewer total patients and offers higher power than an analogous trial with fixed randomization when identifying a superior treatment.
+CONCLUSION When one treatment is superior to the other two, the trial design provides better patient care, higher power, and a lower expected sample size.
+

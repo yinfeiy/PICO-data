@@ -1,0 +1,7 @@
+Placebo-controlled clinical trial evaluating 9.5% hydrogen peroxide high-adhesion whitening strips.
+
+OBJECTIVE To evaluate the effectiveness and tolerability of an experimental 9.5% hydrogen peroxide whitening strip relative to a placebo control over a three-week period.
+METHODS In this parallel-design, double-blind clinical trial, 54 adult volunteers were randomized to an experimental 9.5% hydrogen peroxide whitening strip or placebo strip balancing for age and baseline tooth color, and received treatment. Strips were worn on the maxillary arch 30 minutes daily for 20 days. Efficacy was measured objectively as L*a*b* color change from digital images at Days 4, 7, 15, and 21.
+RESULTS As early as Day 4 and at all subsequent visits, the 9.5% strip group experienced significant (p < 0.004) color improvement relative to placebo for b* and L* color parameters. The amount of color improvement increased with continuing peroxide strip use. Mean ± SE between-group differences in Ab* were -0.6 ± 0.16, -0.8 ± 0.15, -1.6 ± 0.19, and -1.9 ± 0.20 at Days 4, 7, 15, and 21, respectively. Similar results were noted for AL*. Minor tooth sensitivity was the most common adverse event, as reported by 12% of subjects in the 9.5% strip group and 11% of subjects in the placebo group. No subjects discontinued treatment due to an adverse event.
+CONCLUSION This placebo-controlled clinical trial demonstrated that an experimental 9.5% hydrogen peroxide strip yielded significant tooth whitening relative to a placebo strip as early as after three days of product use.
+

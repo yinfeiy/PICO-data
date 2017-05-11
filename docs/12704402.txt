@@ -1,0 +1,9 @@
+Effect of a high-protein, energy-restricted diet on weight loss and energy expenditure after weight stabilization in hyperinsulinemic subjects.
+
+OBJECTIVE To determine the effect of replacing some dietary carbohydrate with protein, during energy restriction, on weight loss, total energy expenditure (TEE), resting energy expenditure (REE), respiratory quotient (RQ), and the thermic effect of feeding (TEF) in subjects with hyperinsulinemia.
+DESIGN Parallel, clinical intervention study of 12 weeks energy restriction (6.5 MJ/day) and 4 weeks energy balance (8.2 MJ/day) in two groups of subjects randomly assigned to either a high-protein (HP) diet (27% of energy (%E) as protein, 45%E as carbohydrate) or a lower-protein (LP) diet (16%E as protein, 57%E as carbohydrate).
+SUBJECTS A total of 36 obese nondiabetic volunteers with hyperinsulinemia (10 males/26 females, aged 34-65 y, BMI 28-43 kg/m(2), fasting insulin 12-45 mU/l).
+MEASUREMENTS Body weight and composition, TEE, REE, and RQ were measured at baseline and at week 16. In addition, the TEF to an HP or LP meal was determined for 3 h, at baseline and at week 16.
+RESULTS After 16 weeks, weight loss was similar in response to each diet; the overall decrease was 7.9+/-0.6 kg (P<0.001), of which 6.8+/-0.5 kg was fat (P<0.001). REE fell similarly with each diet; the overall decrease was 719+/-106 kJ/day (P<0.001). The TEF was 2% greater after the HP than after the LP meal at baseline (P<0.01) and 0.8% greater at week 16 (P=0.35). After 16 weeks, the TEF was not reduced in either dietary group. There was no change in TEE after 16 weeks.
+CONCLUSION In subjects with hyperinsulinemia an energy-restrictive diet containing an increased protein-to-carbohydrate ratio does not enhance weight loss or significantly affect energy expenditure. Caloric restriction, rather than the macronutrient composition of the diet, is the most important determinant of weight loss.
+

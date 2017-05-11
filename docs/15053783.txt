@@ -1,0 +1,7 @@
+Metoprolol CR/XL improves systolic and diastolic left ventricular function in patients with chronic heart failure.
+
+AIMS To investigate whether metoprolol controlled release/extended release (CR/XL) once daily would improve diastolic and systolic left ventricular function in patients with chronic heart failure and decreased ejection fraction.
+METHODS In an echocardiographic substudy to the Metoprolol CR/XL Randomized Intervention Trial in Heart Failure (MERIT-HF), 66 patients were examined three times during a 12-month period blinded to treatment group, assessing left ventricular dimensions and ejection fraction, and Doppler mitral inflow parameters, all measured in a core laboratory.
+RESULTS In the metoprolol CR/XL group left ventricular ejection fraction increased from 0.26 to 0.31 (P = 0.009) after a mean observation period of 10.6 months, and deceleration time of the early mitral filling wave (E) increased from 189 to 246 ms (P = 0.0012), time velocity integral of E-wave increased from 8.7 to 11.2 cm (P = 0.018), and the duration of the late mitral filling wave (A) increased from 122 to 145 ms (P = 0.014). No significant changes were seen in the placebo group regarding any of these variables.
+CONCLUSION Metoprolol CR/XL once daily in addition to standard therapy improved both diastolic and systolic function in patients with chronic heart failure and decreased ejection fraction.
+

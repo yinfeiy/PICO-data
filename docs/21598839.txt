@@ -1,0 +1,4 @@
+The effects of encoding in hypnosis and post-hypnotic suggestion on academic performance.
+
+This study examined the relationship between proactive learning in hypnosis, post-hypnotic suggestion, and academic performance. Participants (N = 56) were randomly assigned to a control group or a treatment group. The treatment group was hypnotized and read a passage while in hypnosis. Concurrently, they were given a post-hypnotic suggestion, which attempted to aid recognition and performance on a test immediately following the hypnosis session. Both groups completed a multiple-choice test based on the aforementioned passage. An analysis of covariance discerned the effect of proactive learning and post-hypnotic suggestion on test performance, while controlling for the variance introduced by scholastic aptitude as measured by the ACT. Results indicated that the hypnosis sessions predicted significantly impaired test performance.
+

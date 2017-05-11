@@ -1,0 +1,8 @@
+Effect of clinical context on simulator-based assessment of blood pressure taking - a pilot randomized study.
+
+BACKGROUND Blood pressure measurement is an essential clinical skill that can readily be assessed in objective structured clinical examination (OSCE). While the use of simulators can enhance test validity and reliability, the given clinical context may also affect student performance.
+AIMS To investigate the impact of variations in clinical context on blood pressure measurement in a simulator-based OSCE.
+METHOD We randomized 162 first-year medical students into four groups that received different lead-in statements before measuring blood pressure on a manikin simulator. These statements described hypothetical patients with different likelihoods of having systemic hypertension.
+RESULTS The lead-in that described the highest likelihood of hypertension was associated with significantly higher reported readings and lower accuracy. The lead-in that suggested normality yielded the best performance.
+CONCLUSION Student performance in simulator-based OSCE may be affected by the clinical context provided. However, we argue that construct validity should be viewed in light of the application of a test, in that patients may also present with different cues and likelihoods of having hypertension. Variations in construct design should be further explored to enhance the training and assessment of clinical competence that reflects the unpredictability encountered in daily clinical practice.
+

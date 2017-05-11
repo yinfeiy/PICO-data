@@ -1,0 +1,7 @@
+Children's Yale-Brown Obsessive Compulsive Scale modified for pervasive developmental disorders.
+
+OBJECTIVE To examine the psychometric properties of the Children's Yale-Brown Obsessive Compulsive Scales (CYBOCS) modified for pervasive developmental disorders (PDDs).
+METHOD Raters from five Research Units on Pediatric Psychopharmacology (RUPP) Autism Network were trained to reliability. The modified scale (CYBOCS-PDD), which contains only the five Compulsion severity items (range 0-20), was administered to 172 medication-free children (mean 8.2 +/- 2.6 years) with PDD (autistic disorder, n = 152; Asperger's disorder, n = 6; PDD not otherwise specified, n = 14) participating in RUPP clinical trials. Reliability was assessed by intraclass correlation coefficient (ICC) and internal consistency by Cronbach's alpha coefficient. Correlations with ratings of repetitive behavior and disruptive behavior were examined for validity.
+RESULTS Eleven raters showed excellent reliability (ICC = 0.97). The mean CYBOCS score was 14.4 (+/- 3.86) with excellent internal consistency (alpha = .85). Correlations with other measures of repetitive behavior ranged from r = 0.11 to r = 0.28 and were similar to correlations with measures of irritability (r = 0.24) and hyperactivity (r = 0.25). Children with higher scores on the CYBOCS-PDD had higher levels of maladaptive behaviors and lower adaptive functioning.
+CONCLUSIONS The five-item CYBOCS-PDD is reliable, distinct from other measures of repetitive behavior, and sensitive to change.
+

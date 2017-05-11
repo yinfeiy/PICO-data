@@ -1,0 +1,7 @@
+Resource utilization and costs of care in the diabetes control and complications trial.
+
+OBJECTIVE To describe in detail the resources used and costs incurred in the clinical management of patients with insulin-dependent diabetes mellitus (IDDM) in the Diabetes Control and Complications Trial (DCCT).
+RESEARCH DESIGN AND METHODS The resources used for intensive and conventional therapy and to deal with the side effects of therapy were assessed at each of the 29 DCCT clinics and summarized. Unit costs were derived from the DCCT, manufacturers, and Medicare and chosen to reflect what an item would cost to a single-payer national health system. Costs were calculated as the product of resources used and unit costs. The costs of the research component of the DCCT were not included.
+RESULTS In the DCCT, the annual cost of intensive therapy ($4,000 and $5,800/year for multiple daily injections and continuous subcutaneous insulin infusion, respectively) was approximately three times the cost of conventional therapy ($1,700/year). A large portion of the difference in cost was related to the greater frequency of outpatient visits and the greater resources used in self-care.
+CONCLUSIONS DCCT intensive therapy is more expensive than conventional therapy, but it offers the hope of cost savings as a result of averted complications.
+

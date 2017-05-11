@@ -1,0 +1,7 @@
+Position of anterior capsulorhexis and posterior capsule opacification.
+
+PURPOSE To evaluate whether the position of the anterior continuous curvilinear capsulorhexis influences the rate of posterior capsule opacification (PCO).
+METHODS A total of 119 patients, aged 61-86 years, underwent cataract surgery with phacoemulsification performed by a single surgeon. The patients were randomized to implantation with either a silicone intraocular lens (IOL) (SI40NB, Allergan) or an AcrySof IOL (MA60BM, Alcon). Three years after surgery, the rate of PCO was analysed using the evaluation of posterior capsule opacification computer software (EPCO). The results were related to the capsulorhexis position, which was assessed with a retroillumination photograph.
+RESULTS If the capsulorhexis was located partially or completely off the optics of the IOL, compared to totally on the IOL, significantly more PCO was found (p = 0.0014). When comparing within each IOL type, patients with AcrySof IOLs were found to have significantly less PCO when the capsulorhexis was totally on the optic (p = 0.0048). This difference was also significant in the silicone group (p = 0.041).
+CONCLUSION A relatively small and central capsulorhexis allowing for the complete covering of the IOL optics by the rhexis edges seems to protect against PCO in cataract surgery, with both round-edged silicone IOLs and sharp-edged hydrophobic acrylic IOLs.
+

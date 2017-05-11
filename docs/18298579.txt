@@ -1,0 +1,7 @@
+Effect of food on the antiviral activity of didanosine enteric-coated capsules: a pilot comparative study.
+
+OBJECTIVES To determine the effect of food on the antiviral activity of enteric-coated (EC) capsules of didanosine (ddI).
+METHODS We conducted a pilot, randomized, open-label study of 28-day ddI-EC capsules monotherapy-administered in a fasted state (group 1, n=11) or with food (group 2, n=10) to treatment-naïve chronically HIV-1-infected individuals. To assess the antiviral efficacy, HIV-1 RNA was determined at baseline, day 3, day 7 and weekly thereafter. The area under the HIV-1 RNA curve minus baseline weighted by time (AUCMB/day) was calculated.
+RESULTS Mean baseline HIV-1 RNA was 4.2 log(10) copies/mL in group 1 and 3.8 log(10) copies/mL in group 2. After 28 days, the mean HIV-1 RNA reduction was 0.99 log(10) copies/mL [95% confidence interval (CI) 0.45-1.53] for group 1 and 0.89 log(10) copies/mL (95% CI 0.38-1.40) for group 2. AUCMB/day values were 0.775 log(10) copies/mL (95% CI 0.33-1.22) and 0.774 log(10) copies/mL (95% CI 0.48-1.07), respectively, showing no difference in the rate of decrease of HIV-1 RNA (P=0.995). Mean ddI plasma levels at day 28 were 0.0234 mg/L for group 1 and 0.0227 mg/L for group 2 (P=0.96).
+CONCLUSIONS In this pilot study, the administration of food did not have any significant effect on the antiviral activity of ddI-EC capsules.
+

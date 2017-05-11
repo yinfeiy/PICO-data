@@ -1,0 +1,7 @@
+Relationship of dietary intake to gastrointestinal symptoms in children with autistic spectrum disorders.
+
+BACKGROUND Gastrointestinal (GI) symptoms and abnormalities in stool consistency are frequently reported by parents of children with autism spectrum disorders (ASD). The purpose of this study was to 1) describe dietary intake of a cohort of children with ASD compared with normative data and 2) determine whether GI symptoms and stool consistency are related to dietary intake.
+METHODS Data from diet diaries of children (3-8 years) with ASD (n = 62) were analyzed by a registered pediatric dietician to compare to RDA standards for total calories, protein, carbohydrate, and fat. Dietary intake was correlated with descriptors of stool consistency using cumulative logistic regression methods.
+RESULTS Intake of calories, carbohydrates, and fat were in the average range; protein intake was increased (211% of RDA). Reported frequency of GI abnormalities, including abnormal stool consistency (e.g., bulky or loose), was increased (54%). No statistically significant relationships between stool consistency and dietary intake were observed.
+CONCLUSIONS In this sample, there was a high rate of reported gastrointestinal symptoms, despite lack of medical causes. Intake was adequate for calories and carbohydrates and increased for protein. The children did not exhibit excessive carbohydrate intake. There was no association of nutrient intake to changes in stool consistency.
+

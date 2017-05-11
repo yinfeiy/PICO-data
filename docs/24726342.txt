@@ -1,0 +1,7 @@
+Assessment of acute bronchodilator effects from specific airway resistance changes in stable COPD patients.
+
+BACKGROUND In COPD patients, reversibility is currently evaluated from the changes of forced expiratory volume at 1s (ΔFEV1) and forced vital capacity (ΔFVC). By lowering peripheral airway smooth muscle tone, bronchodilators should decrease dynamic hyperinflation, gas trapping, and possibly dyspnea at rest. Hence, we hypothesize that specific airway resistance changes (ΔsRAW) should better characterize the acute response to bronchodilators.
+METHODS On two days, 60 COPD patients underwent dyspnea evaluation (VAS score) and pulmonary function testing at baseline and one hour after placebo or 300μg indacaterol administration.
+RESULTS Spirographic and ΔsRAW-based criteria identified as responders 24 and 45 patients, respectively. ΔsRAW correlated with changes of intrathoracic gas volume (ΔITGV) (r=0.61; p<0.001), residual volume (ΔRV) (r=0.60; p<0.001), ΔFVC (r=0.44; p=0.001), and ΔVAS (r=0.73; p<0.001), while ΔFEV1 correlated only with ΔFVC (r=0.34; p=0.008). Significant differences in terms of ΔITGV (p=0.002), ΔRV (p=0.023), and ΔVAS (p<0.001) occurred only if patients were stratified according to ΔsRAW.
+CONCLUSIONS In assessing the acute functional effect of bronchodilators, ΔsRAW-based criterion is preferable to FEV1-FVC-based criteria, being more closely related to bronchodilator-induced improvements of lung mechanics and dyspnea at rest.
+

@@ -1,0 +1,11 @@
+Safety of ferumoxytol in patients with anemia and CKD.
+
+BACKGROUND Iron deficiency anemia is a common complication in patients with chronic kidney disease (CKD). Currently available intravenous (IV) iron replacement therapies have either inconvenient regimens of administration or adverse event profiles that limit their utility in the outpatient setting. Ferumoxytol is a novel, semisynthetic, carbohydrate-coated, superparamagnetic iron oxide nanoparticle that is administered IV as an injection. The main objective of this study was to assess the safety of ferumoxytol for the treatment of patients with CKD stages 1 to 5 and 5D.
+STUDY DESIGN Phase 3, randomized, double-blind, placebo-controlled, crossover, multicenter study of a single 510-mg dose of ferumoxytol versus saline as placebo.
+SETTING & PARTICIPANTS 750 patients with CKD stages 1 to 5 and 5D.
+INTERVENTION An IV injection of either 17 mL of ferumoxytol or saline placebo over 17 seconds on day 0 and the alternate agent on day 7.
+OUTCOMES & MEASUREMENTS Descriptive comparison of adverse events, laboratory tests, and vital signs.
+RESULTS Of 750 randomly assigned patients with CKD, 60% were not on dialysis therapy. 713 patients received ferumoxytol, and 711 received placebo. There were 420 adverse events reported; 242 in 152 patients (21.3%) with ferumoxytol and 178 in 119 patients (16.7%) with placebo. The incidence of related adverse events was 5.2% with ferumoxytol and 4.5% with placebo. The most common related adverse events after each treatment included symptoms related to the injection/infusion site, dizziness, pruritus, headache, fatigue, and nausea. Serious adverse events occurred in 21 patients (2.9%) after ferumoxytol and 13 patients (1.8%) after placebo. Serious related adverse events were observed in 1 patient (0.1%) after each treatment. There was no meaningful decrease in blood pressure after administration of ferumoxytol or placebo.
+LIMITATIONS Follow-up was 7 days after each study treatment.
+CONCLUSIONS Ferumoxytol is well tolerated and has a safety profile similar to placebo in anemic patients with CKD stages 1 to 5 and 5D.
+

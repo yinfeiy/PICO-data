@@ -1,0 +1,8 @@
+Pilot study of a moderate dose multivitamin/mineral supplement for children with autistic spectrum disorder.
+
+OBJECTIVE Determine the effect of a moderate dose multivitamin/mineral supplement on children with autistic spectrum disorder.
+DESIGN Randomized, double-blind, placebo-controlled 3-month study.
+SUBJECTS Twenty (20) children with autistic spectrum disorder, ages 3-8 years.
+RESULTS A Global Impressions parental questionnaire found that the supplement group reported statistically significant improvements in sleep and gastrointestinal problems compared to the placebo group. An evaluation of vitamin B(6) levels prior to the study found that the autistic children had substantially elevated levels of B6 compared to a control group of typical children (75% higher, p < 0.0000001). Vitamin C levels were measured at the end of the study, and the placebo group had levels that were significantly below average for typical children, whereas the supplement group had near-average levels.
+DISCUSSION The finding of high vitamin B(6) levels is consistent with recent reports of low levels of pyridoxal-5-phosphate and low activity of pyridoxal kinase (i.e., pyridoxal is only poorly converted to pyridoxal-5-phosphate, the enzymatically active form). This may explain the functional need for high-dose vitamin B(6) supplementation in many children and adults with autism.
+

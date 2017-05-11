@@ -1,0 +1,7 @@
+Clonidine premedication improves metabolic control in type 2 diabetic patients during ophthalmic surgery.
+
+BACKGROUND In stressful conditions, increasing blood glucose concentrations are closely related to an increase in catecholamines and cortisol release. Clonidine, a centrally acting alpha(2)-adrenoceptor agonist, has neuroendocrine effects, including inhibition of sympathoadrenal activity. We therefore evaluated the effect of clonidine on blood glucose control and insulin requirements during ophthalmic surgery when given as premedication in type 2 diabetic patients.
+METHODS After randomization, patients were premedicated with clonidine or flunitrazepam (control). Patients were given insulin by continuous i.v. infusion to maintain blood glucose in the range 5.5-11.1 mmol litre(-1). Blood glucose concentrations were measured every 15 min during surgery, and hourly for 6 h after surgery. Plasma C-peptide and counter-regulatory hormones were also measured.
+RESULTS Glycaemia was significantly lower in the clonidine group (P<0.01) and the median amount of insulin administered was significantly reduced: clonidine group 9.0 (interquartile range 5.1) units; control 18.6 (10.2) units; P<0.01). Plasma catecholamine concentrations were lower in patients given clonidine (P<0.05) but there was no difference in cortisol concentrations.
+CONCLUSION Premedication of type 2 diabetic patients with clonidine 90 min before surgery improves blood glucose control and decreases insulin requirements during ophthalmic surgery.
+

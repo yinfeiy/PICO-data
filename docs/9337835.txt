@@ -1,0 +1,7 @@
+Exhaled NO during graded changes in inhaled oxygen in man.
+
+BACKGROUND Nitric oxide (NO) is present in the exhaled air of animals and humans. In isolated animal lungs the amount of exhaled NO is decreased during hypoxia. A study was undertaken to determine whether changes in arterial oxygen tension affect levels of exhaled NO in humans.
+METHODS Sixteen healthy subjects were randomised to inhale different gas mixtures of oxygen and nitrogen in a double blind crossover study. Eight gas mixtures of oxygen and nitrogen (fractional inspired oxygen concentration (FiO2) 0.1 to 1.0) were administered. Exhaled NO was measured with a chemiluminescence detector from end expiratory single breath exhalation.
+RESULTS A dose-dependent change in exhaled NO during graded oxygen breathing was observed (p = 0.0012). The mean (SE) exhaled NO concentration was 31 (3) ppb at baseline, 39 (4) ppb at an FiO2 of 1.0, and 26 (3) ppb at an FiO2 of 0.1.
+CONCLUSIONS The NO concentration in exhaled air in healthy humans is dependent on oxygen tension. Hyperoxia increases the level of exhaled NO, which indicates increased NO production. The mechanism behind this phenomenon remains to be elucidated.
+

@@ -1,0 +1,10 @@
+Treatment of posterior uveitis with a fluocinolone acetonide implant: three-year clinical trial results.
+
+OBJECTIVES To evaluate the safety and efficacy of 0.59-mg and 2.1-mg fluocinolone acetonide (FA) intravitreous implants in noninfectious posterior uveitis.
+DESIGN A 3-year, multicenter, randomized, historically controlled trial of the 0.59-mg FA intravitreous implant in 110 patients and the 2.1-mg FA intravitreous implant in 168 patients.
+MAIN OUTCOME MEASURES Recurrence rate, vision, and complications.
+RESULTS Uveitis recurrence was reduced in implanted eyes from 62% (during the 1-year preimplantation period) to 4%, 10%, and 20% during the 1-, 2-, and 3-year postimplantation periods, respectively, for the 0.59-mg dose group (P < .01) and from 58% to 7%, 17%, and 41%, respectively, for the 2.1-mg dose group (P < .01). More implanted eyes than nonimplanted eyes had improved visual acuity (P < .01). Implanted eyes had higher incidences of intraocular pressure elevation (> or = 10 mm Hg) than nonimplanted eyes (P < .01), and glaucoma surgery was required in 40% of implanted eyes vs 2% of nonimplanted eyes (P < .01). Cataracts were extracted in 93% of phakic implanted eyes vs 20% of phakic nonimplanted eyes (P < .01).
+CONCLUSIONS The FA implant significantly reduced uveitis recurrence and improved or stabilized visual acuity in subjects with noninfectious posterior uveitis. Most subjects required cataract extraction, and a significant proportion required intraocular pressure-lowering surgery.
+APPLICATION TO CLINICAL PRACTICE The FA implant provides an alternative therapy for prolonged control of inflammation in noninfectious posterior uveitis.
+TRIAL REGISTRATION clinicaltrials.gov Identifier: NCT00407082.
+

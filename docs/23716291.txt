@@ -1,0 +1,7 @@
+Learning curve in multidetector CT coronary angiography (MDCT-CA).
+
+PURPOSE Coronary angiography using multidetector computed tomography (MDCT-CA) is a recent technique for the nonivasive study of coronary arteries. This study assessed the diagnostic accuracy of coronary artery stenosis evaluation obtained by three readers at different levels of training or at different points of the learning curve proposed by the international guidelines.
+MATERIALS AND METHODS Three radiologists in training with different levels of experience in MDCT-CA scored 50 cases at various time points of the learning curve: baseline, 4 weeks, 8 weeks and 6 months. The trainee radiologists evaluated the degree of stenosis on each coronary segment, and overall accuracy was calculated on a per-segment, pervessel and per-patient basis.
+RESULTS All readers improved analysis accuracy per segment (range, 73-90%); sensitivity reached 45% per segment, 84% per vessel and 93% per patient; specificity was 99% per segment and vessel and 98% per patient. Positive and negative predictive values increased to 94% and 92%, respectively.
+CONCLUSIONS Although all readers improved in diagnostic performance with growing experience with MDCT-CA, a longer training period may be necessary to achieve adequate levels of expertise in MDCT-CA to be able to perform as independent readers.
+

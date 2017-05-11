@@ -1,0 +1,11 @@
+The effectiveness of Picture Exchange Communication System (PECS) training for teachers of children with autism: a pragmatic, group randomised controlled trial.
+
+OBJECTIVE To assess the effectiveness of expert training and consultancy for teachers of children with autism spectrum disorder in the use of the Picture Exchange Communication System (PECS).
+METHOD 
+DESIGN Group randomised, controlled trial (3 groups: immediate treatment, delayed treatment, no treatment).
+PARTICIPANTS 84 elementary school children, mean age 6.8 years.
+TREATMENT A 2-day PECS workshop for teachers plus 6 half-day, school-based training sessions with expert consultants over 5 months.
+OUTCOME MEASURES Rates of: communicative initiations, use of PECS, and speech in the classroom; Autism Diagnostic Observation Schedule-Generic (ADOS-G) domain scores for Communication and Reciprocal Social Interaction; scores on formal language tests.
+RESULTS Controlling for baseline age, developmental quotient (DQ) and language; rates of initiations and PECS usage increased significantly immediately post-treatment (Odds Ratio (OR) of being in a higher ordinal rate category 2.72, 95% confidence interval 1.22-6.09, p < .05 and OR 3.90 (95%CI 1.75-8.68), p < .001, respectively). There were no increases in frequency of speech, or improvements in ADOS-G ratings or language test scores.
+CONCLUSIONS The results indicate modest effectiveness of PECS teacher training/consultancy. Rates of pupils' initiations and use of symbols in the classroom increased, although there was no evidence of improvement in other areas of communication. TREATMENT effects were not maintained once active intervention ceased.
+

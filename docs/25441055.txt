@@ -1,0 +1,7 @@
+Does cognition predict treatment response and remission in psychotherapy for late-life depression?
+
+OBJECTIVES To identify cognitive predictors of geriatric depression treatment outcome.
+METHOD Older participants completed baseline measures of memory and executive function, health, and baseline and post-treatment Hamilton Depression Scales (HAM-D) in a 12-week trial comparing psychotherapies (problem-solving vs. supportive; N = 46). We examined cognitive predictors to identify treatment responders (i.e., HAM-D scores reduced by ≥50%) and remitters (i.e., post-treatment HAM-D score ≤10).
+RESULTS Empirically derived decision trees identified poorer performance on switching (i.e., Trails B), with a cut-score of ≥82 predicting psychotherapy responders. No other cognitive or health variables predicted psychotherapy outcomes in the decision trees.
+CONCLUSIONS Psychotherapies that support or improve the executive skill of switching may augment treatment response for older patients exhibiting executive dysfunction in depression. If replicated, Trails B has potential as a brief cognitive tool for clinical decision-making in geriatric depression.
+

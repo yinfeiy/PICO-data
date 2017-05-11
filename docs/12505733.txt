@@ -1,0 +1,7 @@
+Is the orientation of the apical defibrillation paddle of importance during manual external defibrillation?
+
+OBJECTIVE Transthoracic impedance (TTI) is a factor determining the magnitude of the transmyocardial current during external defibrillation. Minimising TTI increases the chances of successful defibrillation. Most external defibrillation paddles are rectangular in shape and can, therefore, be placed in a transverse or longitudinal orientation. The apical paddle is often placed in a transverse orientation. This may theoretically result in a higher TTI than a longitudinal orientation because of poorer contact at the lateral paddle edges. We compared TTI with the apical paddle in both a transverse and longitudinal orientation.
+MATERIALS AND METHODS Twenty sequential anaesthetised patients were studied. A pair of defibrillator paddles were instrumented to measure paddle force. TTI was recorded pre-operatively at end-expiration with the apical paddle in both longitudinal and transverse orientations. The sternal paddle was placed in a longitudinal orientation for all measurements.
+RESULTS TTI decreased in both transverse and longitudinal orientations as paddle force increased. Transverse paddle orientation resulted in a significantly (P<0.01) higher TTI than longitudinal orientation at all paddle forces below 12 kg force.
+CONCLUSION The longitudinal orientation of a rectangular defibrillation paddle provides a lower TTI than orientation horizontally.
+

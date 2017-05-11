@@ -1,0 +1,7 @@
+Methodological issues in designing a multisite trial of risperidone in children and adolescents with autism.
+
+OBJECTIVE To describe the methodological challenges and decisions made in developing a multisite, controlled study of risperidone in children and adolescents with autism.
+METHODS Review the design considerations for clinical trials in children with autistic disorder accompanied by severe tantrums, aggressive and/or self-injurious behaviors. These design considerations include the definition of inclusion criteria that are relevant to clinical practice and matching study design to the goal of evaluating short- and long-term effects. Additional ethical and scientific issues concern the length of trial and sample size.
+RESULTS We undertook a short-term, placebo-controlled study to evaluate the efficacy and safety of risperidone in children and adolescents with autistic disorder. This trial design was followed by an extended open-label maintenance on risperidone to confirm durability of treatment effects and to monitor safety. Finally, a placebo-controlled discontinuation study tested the need for continuous treatment.
+CONCLUSIONS In the absence of standard pharmacological treatment for children with autistic disorder, a placebo-controlled study remains the most appropriate method of testing efficacy and safety. The clinical relevance of this study is enhanced by the addition of an extended maintenance phase followed by a placebo discontinuation.
+

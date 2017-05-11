@@ -1,0 +1,7 @@
+A randomized trial of tailored skin cancer prevention messages for adults: Project SCAPE.
+
+OBJECTIVES We evaluated the impact of a mailed, tailored intervention on skin cancer prevention and skin self-examination behaviors of adults at moderate and high risk for skin cancer.
+METHODS Adults at moderate and high risk for skin cancer were recruited in primary health care settings in Honolulu, HI, and Long Island, NY. After completing a baseline survey, participants were randomized to 2 groups. The treatment group received tailored materials, including personalized risk feedback, and the control group received general educational materials. Multivariate analyses compared sun protection and skin self-examination between groups, controlling for location, risk level, gender, and age.
+RESULTS A total of 596 adults completed the trial. The tailored materials had a significant effect on overall sun-protection habits, the use of hats, the use of sunglasses, and the recency of skin self-examination. Some effects were moderated by location and risk level.
+CONCLUSIONS Tailored communications including personalized risk feedback can improve sun-protection behaviors and skin self-examination among adults at increased risk for skin cancer. These convenient, low-cost interventions can be implemented in a variety of settings and should be tested further to assess their long-term effectiveness.
+

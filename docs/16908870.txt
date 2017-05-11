@@ -1,0 +1,6 @@
+A randomized comparison of the effect of two prelinguistic communication interventions on the acquisition of spoken communication in preschoolers with ASD.
+
+PURPOSE This randomized group experiment compared the efficacy of 2 communication interventions (Responsive Education and Prelinguistic Milieu Teaching [RPMT] and the Picture Exchange Communication System [PECS]) on spoken communication in 36 preschoolers with autism spectrum disorders (ASD).
+METHOD Each treatment was delivered to children for a maximum total of 24 hr over a 6-month period. Spoken communication was assessed in a rigorous test of generalization at pretreatment, posttreatment, and 6-month follow-up periods.
+RESULTS PECS was more successful than RPMT in increasing the number of nonimitative spoken communication acts and the number of different nonimitative words used at the posttreatment period. Considering growth over all 3 measurement periods, an exploratory analysis showed that growth rate of the number of different nonimitative words was faster in the PECS group than in the RPMT group for children who began treatment with relatively high object exploration. In contrast, analogous slopes were steeper in the RPMT group than in the PECS group for children who began treatment with relatively low object exploration.
+

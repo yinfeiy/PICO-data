@@ -1,0 +1,11 @@
+Effect of a mixed kinesio taping-compression technique on quality of life and clinical and gait parameters in postmenopausal women with chronic venous insufficiency: double-blinded, randomized controlled trial.
+
+OBJECTIVE To investigate the short-term effect of a mixed Kinesio taping (KT) model on range of ankle motion (ROAM), gait, pain, perimeter of lower limbs, and quality of life in postmenopausal women with chronic venous insufficiency (CVI).
+DESIGN Double-blinded, randomized controlled trial.
+SETTING Clinical setting.
+PARTICIPANTS Consecutive postmenopausal women (N=130; mean age ± SD, 65.44±14.7y) with mild CVI. No participant withdrew because of adverse effects.
+INTERVENTION Participants were randomly assigned to either (1) an experimental group to receive a mixed KT-compression treatment following KT recommendations for gastrocnemius muscle enhancement and functional correction of the ankle, and adding 2 tapes to simulate traditional compression bandages (no KT guidelines); or (2) a placebo control group for sham KT. Both interventions were performed 3 times a week during a 4-week period.
+MAIN OUTCOME MEASURES ROAM, gait, pain, perimeter of right and left lower limb, and quality of life were assessed at baseline and 48 hours posttreatment.
+RESULTS Quality of life was better in the intervention group by a mean of 8.76 points (95% confidence interval [CI], 4.96-12.55). The experimental group also showed significant pre-/posttreatment improvements in both lower limbs in gait dorsiflexion ROAM (95% CI, 1.02-2.49), cadence (95% CI, 3.45-1.47), stride length (95% CI, 21.48-10.83), step length (95% CI, 1.68-6.61), stance phase (95% CI, 61-107), and foot (95% CI, .56-.92) and malleolus (95% CI, 1.15-1.63) circumference. None of these variables were significantly modified in the placebo group. Both groups reported a significant reduction in pain.
+CONCLUSIONS Ankle dorsiflexion during gait, walking parameters, peripheral edema, venous pain, and quality of life remain improved in patients with CVI at 1 month after mixed KT-compression therapy. KT may have a placebo effect on pain perception.
+

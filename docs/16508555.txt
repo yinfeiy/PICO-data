@@ -1,0 +1,9 @@
+Minimal clinically important change for pain intensity, functional status, and general health status in patients with nonspecific low back pain.
+
+STUDY DESIGN Cohort study.
+OBJECTIVES To estimate the Minimal Clinically Important Change (MCIC) of the pain intensity numerical rating scale (PI-NRS), the Quebec Back Pain Disability Scale (QBPDS), and the Euroqol (EQ) in patients with low back pain.
+SUMMARY OF BACKGROUND DATA MCIC can provide valuable information for researchers, healthcare providers, and policymakers.
+METHODS Data from a randomized controlled trial with 442 patients with low back pain were used. The MCIC was estimated over a 12-week period, and three different methods were used: 1) mean change scores, 2) minimal detectable change, and 3) optimal cutoff point in receiver operant curves. The global perceived effect scale (GPE) was used as an external criterion. The effect of initial scores on the MCIC was also assessed.
+RESULTS The MCIC of the PI-NRS ranged from 3.5 to 4.7 points in (sub)acute patients and 2.5 to 4.5 points in chronic patients with low back pain. The MCIC of the QBPDS was estimated between 17.5 to 32.9 points and 8.5 to 24.6 points for (sub)acute and chronic patients with low back pain. The MCIC for the EQ ranged from 0.07 to 0.58 in (sub)acute patients and 0.09 to 0.28 in patients with chronic low back pain.
+CONCLUSION Reporting the percentage of patients who have made a MCIC adds to the interpretability of study results. We present a range of MCIC values and advocate the choice of a single MCIC value according to the specific context.
+

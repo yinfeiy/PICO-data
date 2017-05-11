@@ -1,0 +1,10 @@
+MSLT in primary insomnia: stability and relation to nocturnal sleep.
+
+STUDY OBJECTIVES To assess the stability of the multiple sleep latency test (MSLT) in primary insomnia and its relation to total sleep time.
+DESIGN Randomized, double-blind, placebo controlled, clinical trial.
+SETTING Outpatient with sleep laboratory assessments in months 1 and 8 of treatment.
+PARTICIPANTS Ninety-five primary insomniacs, 32-64 years old and 55 age- and sex-matched general population-based, representative controls.
+INTERVENTIONS After a screening nocturnal polysomnograms (NPSG) and MSLT the following day, participants with primary insomnia were randomized to take zolpidem 10 mg (n = 50) or placebo (n = 45) nightly for 12 months. During months 1 and 8, while taking their prescribed treatments, NPSGs and MSLTs the following day were conducted. A population-based sample served as controls and received a single NPSG followed by MSLT.
+RESULTS Mean daily sleep latency on the screening MSLT of insomniacs was normally distributed across the full range of MSLT scores and significantly higher than those of a population-based representative control sample (P < 0.006). The insomniacs with the highest screening MSLTs had the shortest screening total sleep times (P < 0.05). The MSLTs of insomniacs during treatment in study month 1 were correlated (r = 0.44, P < 0.001) with their month 8 MSLT. The mean MSLT score of the zolpidem group did not differ from that of the placebo group, and the stability within treatment groups also did not differ.
+CONCLUSIONS These data support the hypothesis that some insomniacs show a reliable disorder of hyperarousal with increased wake drive both at night and during the day.
+

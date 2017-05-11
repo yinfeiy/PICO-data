@@ -1,0 +1,7 @@
+Whole-body CT screening: scan delay and contrast injection duration for optimal enhancement of abdominal organs and deep vessels.
+
+PURPOSE To assess the optimal scan delays and contrast injection durations for contrast-enhanced whole-body computed tomography (CT).
+MATERIALS AND METHODS One hundred forty-two patients were randomized into three groups: protocol A-scan delay of 65 s after starting contrast injection over 30 s; protocol B-105 and 70 s; and protocol C-145 and 110 s, respectively. Contrast enhancement and diagnostic acceptability were assessed.
+RESULTS Qualitative assessment was subtle among the three protocols. Homogenous enhancement of deep veins was more assuredly achieved with protocol C.
+CONCLUSION With protocol C, qualitatively acceptable enhancement can be obtained in whole-body CT.
+

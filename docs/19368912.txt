@@ -1,0 +1,11 @@
+What is the optimum maximal gonadotropin dosage used in microdose flare-up cycles in poor responders?
+
+OBJECTIVE To find out the optimum maximal dosage of recombinant follicle stimulating hormone (rFSH) in microdose gonadotropin-releasing hormone analog (GnRH-a) flare cycles in poor responders.
+DESIGN Prospective randomized study.
+SETTING Private infertility clinic.
+PATIENT(S) A total of 119 women were taken into the study.
+INTERVENTION(S) The study group underwent a microdose protocol with a GnRH-agonist followed by rFSH administration. On the third day of GnRH-a administration, 119 patients were randomized in three groups to receive daily fixed doses of 300 IU of rFSH (group A, n = 38), or 450 IU of rFSH (group B, n = 39), or 600 IU of rFSH (group C, n = 42).
+MAIN OUTCOME MEASURE(S) Peak E(2) levels, days of stimulation with rFSH, total rFSH dosage, total number of oocytes retrieved, M2 oocytes retrieved, total number of embryos, number of embryos transferred, number of Grade-1 embryos transferred, clinical pregnancy rate (positive fetal cardiac activity), and cancellation rates of stimulation and embryo transfer.
+RESULT(S) Clinical pregnancy rates were 13.1%, 15.3%, and 16.1% for group A, group B, and group C, respectively. There were no significant differences in the age, peak serum E(2) concentration, days of stimulation with rFSH, total number of M2 oocytes retrieved, number of embryos transferred, clinical pregnancy rates, and cancellation rates of stimulation and embryo transfer between the three groups except for total rFSH dosage.
+CONCLUSION(S) There is no need to use doses above 300 IU of rFSH to increase the pregnancy rate in microdose cycles. In addition, because the duration of stimulation does not differ between the groups, the usage of 300 IU rFSH in microdose cycles results in less total amount of rFSH consumed in a cycle compared with higher dosages, and this would obviously cost less money to the patients.
+

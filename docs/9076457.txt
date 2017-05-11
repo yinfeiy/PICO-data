@@ -1,0 +1,7 @@
+Long-term follow-up of cytostatic intravesical instillation in patients with superficial bladder carcinoma. Is short-term, intensive instillation better than maintenance therapy?
+
+OBJECTIVES Comparisons of two 3-year protocols, one 20-week protocol of mitomycin C instillation and one 3-year protocol of doxorubicin instillation for the prevention of recurrent tumors and progression in patients whose superficial bladder tumors had been removed by transurethral resection.
+METHODS A prospective, randomized parallel group multicenter trial was conducted. 419 patients were evaluated after a median follow-up of 57 months. Cox proportional hazards analysis was performed.
+RESULTS An overall recurrence rate of 22.7% and an overall progression rate of 9.8% was found. For time to progression a significant overall treatment effect was detected dependent on the recurrence status before entry into the study (p = 0.0059). Pairwise comparisons showed the mitomycin protocol with short-term intensive (weekly) combined with long-term maintenance instillation to have a highly beneficial effect compared to long-term maintenance instillation only especially for patients entering the study with recurrent tumors (RR = 0.06, 95% CI: [0.008, 0.506].
+CONCLUSION These results show that intensive therapeutic instillation may have an advantage over less intensive, prophylactic regimens.
+

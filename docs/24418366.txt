@@ -1,0 +1,11 @@
+The effect of recent bereavement on outcomes in a primary care depression intervention study.
+
+OBJECTIVES Although bereavement and depression are both common in older primary care patients, the effect of bereavement on depression intervention outcomes is unknown. We examined whether standard interventions for depression in primary care were as effective for bereaved as for non-bereaved depressed patients.
+DESIGN Randomized controlled trial.
+SETTING Twenty community-based primary care practices in New York City, greater Philadelphia, and Pittsburgh. Randomization to either intervention or usual care occurred by practice.
+PARTICIPANTS Patients aged 60 years or older who met criteria for major depression or clinically significant minor depression (N = 599). Patients who did not complete the bereavement measure or who were missing 4-month data were excluded (final N = 417).
+INTERVENTION Study-trained depression care managers offered guideline-concordant recommendations to primary care physicians at intervention sites and assisted patients with treatment adherence. Patients who did not wish to take antidepressants could receive interpersonal psychotherapy.
+MEASUREMENTS Bereavement was captured using the Louisville Older Persons Events Schedule. Depression severity was assessed using the 24-item Hamilton Depression Rating Scale (HDRS). Outcomes at 4 months were remission (HDRS ≤7) and response (HDRS reduction ≥50% from baseline).
+RESULTS Logistic regressions indicated that, for non-bereaved participants, response and remission were higher in intervention than usual care. However, recently bereaved older adults were less likely to achieve response or remission at 4 months if treated in the intervention condition.
+CONCLUSIONS Standard depression care management appears to be ineffective among recently bereaved older primary care patients. Greater attention should be paid in primary care to emotional distress in the context of bereavement.
+

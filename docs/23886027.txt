@@ -1,0 +1,8 @@
+A randomized double blind placebo controlled clinical trial of N-Acetylcysteine added to risperidone for treating autistic disorders.
+
+BACKGROUND This study examined the efficacy and safety of N-acetylcysteine (NAC) augmentation for treating irritability in children and adolescents with autism spectrum disorders (ASD).
+METHOD Forty children and adolescents met diagnostic criteria for ASD according to DSM-IV. They were randomly allocated into one of the two groups of NAC (1200 mg/day)+risperidone or placebo+risperidone. NAC and placebo were administered in the form of effervescent and in two divided doses for 8 weeks. Irritability subscale score of Aberrant Behavior Checklist (ABC) was considered as the main outcome measure. Adverse effects were also checked.
+RESULTS The mean score of irritability in the NAC+risperidone and placebo+risperidone groups at baseline was 13.2(5.3) and 16.7(7.8), respectively. The scores after 8 weeks were 9.7(4.1) and 15.1(7.8), respectively. Repeated measures of ANOVA showed that there was a significant difference between the two groups after 8 weeks. The most common adverse effects in the NAC+risperidone group were constipation (16.1%), increased appetite (16.1%), fatigue (12.9%), nervousness (12.9%), and daytime drowsiness (12.9%). There was no fatal adverse effect.
+CONCLUSIONS Risperidone plus NAC more than risperidone plus placebo decreased irritability in children and adolescents with ASD. Meanwhile, it did not change the core symptoms of autism. Adverse effects were not common and NAC was generally tolerated well.
+TRIAL REGISTRATION This trial was registered at http://www.irct.ir. The registration number of this trial was IRCT201106103930N6.
+

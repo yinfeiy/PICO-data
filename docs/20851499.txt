@@ -1,0 +1,9 @@
+Early treatment of cold sores with topical ME-609 decreases the frequency of ulcerative lesions: a randomized, double-blind, placebo-controlled, patient-initiated clinical trial.
+
+BACKGROUND Prior pilot studies support the use of antiviral medications with topical corticosteroids for herpes simplex labialis (HSL). ME-609 (Xerese, Xerclear) is a combination of 5% acyclovir and 1% hydrocortisone developed for the topical treatment of HSL.
+OBJECTIVES The primary study end point was the prevention of ulcerative HSL lesions.
+METHODS In all, 2437 patients with a history of HSL were randomized to self-initiate treatment with ME-609, 5% acyclovir in ME-609 vehicle, or ME-609 vehicle (placebo) at the earliest sign of a cold sore recurrence. Cream was applied 5 times/d for 5 days. A total of 1443 patients experienced a recurrence and initiated treatment with ME-609 (n = 601), acyclovir (n = 610), or placebo (n = 232).
+RESULTS Of patients receiving ME-609, 42% did not develop an ulcerative lesion compared with 35% of patients receiving acyclovir in ME-609 vehicle (P = .014) and 26% of patients receiving placebo (P < .0001). In patients with ulcerative lesions, healing times were reduced in the ME-609 and acyclovir groups compared with placebo (P < .01 for both). The cumulative lesion area for all lesions was reduced 50% in patients receiving ME-609 compared with the placebo group (P < .0001). There were no differences among groups in the number of patients with positive herpes simplex virus cultures. The side-effect profile was similar among treatments.
+LIMITATIONS The study did not contain a group treated with a topical corticosteroid alone.
+CONCLUSIONS ME-609 prevented progression of cold sores to ulcerative lesions and significantly reduced the cumulative lesion area compared with acyclovir and placebo. ME-609 treatment offers additional therapeutic benefit compared with therapy with topical acyclovir alone.
+

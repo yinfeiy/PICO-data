@@ -1,0 +1,7 @@
+Differential effects of vitamin K1 on AFP and DCP levels in patients with unresectable HCC and in HCC cell lines.
+
+PURPOSE DCP is a useful HCC tumor marker, which reflects a defect in vitamin K metabolism. We tested the hypothesis that vitamin K treatment of HCC patients might suppress this marker and possibly AFP also.
+EXPERIMENTAL DESIGN HCC patients who had both elevated AFP and DCP were included. A phase I cohort was treated with escalating vitamin K1 intravenous weekly doses and a 27-patient phase II cohort was then treated with a fixed oral daily dose.
+RESULTS A maximum tolerated dose was not reached up to 100-fold the normal vitamin K1 dose. No toxicities were found up to 1,000 mg/infusion. In the phase II cohort, 93% of patients had tumor marker responses by decreased DCP levels, but only 22% had responses by decreased AFP levels. CT scans showed 11% of patients had PRs, 59% had stable tumors and 29.6% had tumor progression. Mechanism studies showed that vitamin K1 induced phosphorylation of JNK and c-Jun and caspase-mediated apoptosis.
+CONCLUSIONS Vitamin K1 was non-toxic at high doses, strongly inhibited plasma DCP levels, but weakly suppressed AFP levels. The results provide evidence that the two tumor markers are not directly linked and that DCP levels may not reflect HCC cell growth, as DCP levels were decreased in patients without AFP change, and were suppressed in vitro at 1% of the vitamin K1 concentration needed to inhibit AFP.
+

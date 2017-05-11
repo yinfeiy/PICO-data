@@ -1,0 +1,8 @@
+Psychological well-being correlates with free thyroxine but not free 3,5,3'-triiodothyronine levels in patients on thyroid hormone replacement.
+
+CONTEXT AND OBJECTIVE An association between mood disorders and overt thyroid dysfunction is well established, but there are few data on the potential for thyroid hormone levels closer to the reference range to correlate with psychological well-being.
+DESIGN, SETTING, AND PATIENTS We analyzed the relationship between psychological well-being and free T(4) (fT4), free T(3) (fT3), TSH, and total rT(3) in 697 patients on thyroid hormone replacement therapy at entry to a randomized, controlled trial of combined T(4) and T(3) replacement therapy. All patients were on 100 mug or more T(4).
+INTERVENTIONS AND MAIN OUTCOME MEASURES Psychological well-being was assessed with General Health Questionnaire-12 (GHQ-12), Thyroid Symptom Questionnaire, and Hospital Anxiety and Depression Scale.
+RESULTS fT(4) and TSH showed a strong correlation with GHQ-12 scores (fT4 - b: -0.16, P = 0.005; TSH - b: 0.663, P = 0.04). No correlations were seen between the GHQ scores and fT3 (b: 0.318, P = 0.275), rT(3) (b: 0.095, P = 0.95), rT(3) to fT4 ratio (b: 71.83, P = 0.09) or fT3 to rT(3) ratio (b: 0.05, P = 0.32). The correlations remained when the data set was limited to patients with TSH in the range 0.3-4.0 mIU/liter. Similar correlations were seen with the Thyroid Symptom Questionnaire, although not with the Hospital Anxiety and Depression Scale scores.
+CONCLUSIONS Differences in fT4 and TSH concentration, even within the reference range, may be a determinant of psychological well-being in treated hypothyroid patients although not necessarily with symptoms typical of anxiety or depression.
+

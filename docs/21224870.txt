@@ -1,0 +1,7 @@
+Efficient tetanus toxoid immunization on vitamin D supplementation.
+
+BACKGROUND/OBJECTIVES Vitamin D mediates immunomodulatory functions, and its deficiency has been associated with an increased prevalence of immunological diseases. The supplementation of vitamin D might be therapeutically beneficial, for example, in lupus erythematosus patients. However, its affect on established recall immune responses is undefined.
+SUBJECTS/METHODS In all, 32 individuals were randomized in a placebo controlled, double-blind setting, and received vitamin D (daily 2000 IU) for 10 weeks followed by tetanus toxoid (TT) booster immunization.
+RESULTS During vitamin D supplementation the median 25-hydroxyvitamin D serum concentration increased to 80.3 nM, which as expected decreased in the placebo group to 29.1 nM during the ultraviolet-deprived winter months. The TT-specific immunoglobulin G (IgG) boost efficiency was marginal higher in the vitamin D group (P = 0.04). The increase of the 25-hydroxyvitamin D levels correlated with the increase of TT-IgG serum concentrations. The induction of specific serum IgA and specific antibody secreting cells was comparable between both groups. Accordingly, the TT-specific and polyclonally triggered T-cell cytokine profiles were stable as well.
+CONCLUSIONS Vitamin D supplementation was successful and booster immunization induced efficiently specific antibodies titers.
+

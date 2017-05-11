@@ -1,0 +1,4 @@
+Double-blind placebo-controlled trial of secretin: effects on aberrant behavior in children with autism.
+
+Secretin has been proposed as a treatment alternative for autistic spectrum disorders, but empirical support is lacking. A double-blind placebo-controlled study examined the effect of a single dose of synthetic human secretin on aberrant behavior. Parent and teacher data from the Aberrant Behavior Checklist for eight male children were analyzed for reliable change in a clinical replication series. By parent and teacher report, the majority of change occurred either on the placebo trial or reflected deterioration subsequent to secretin infusion. Repeated-measures multivariate analysis of variance results were similar. Results are consistent with other studies, suggesting that secretin may not be an effective treatment option.
+

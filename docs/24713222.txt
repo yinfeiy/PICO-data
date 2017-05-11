@@ -1,0 +1,11 @@
+Hemodialysis catheter design and catheter performance: a randomized controlled trial.
+
+BACKGROUND A complication of long-term use of tunneled cuffed catheters for hemodialysis is the high rate of infection and thrombus-related dysfunction. Specific mechanical features of tunneled cuffed catheters may improve hemodynamic performance and decrease thrombosis and infection rates. However, there currently is no proven advantage of one design over another.
+STUDY DESIGN Single-center randomized clinical trial.
+SETTING & PARTICIPANTS 302 hemodialysis patients who required a tunneled cuffed catheter as temporary or definite vascular access.
+INTERVENTION Palindrome Symmetric Tip Dialysis Catheter or HemoStar Long-Term Hemodialysis Catheter.
+OUTCOMES & MEASUREMENTS The primary end point was primary assisted patency. Secondary end points were incidence of catheter-related bloodstream infections (CRBSIs), thrombosis, and 2 indicators of rheologic function: mean effective blood flow rate and urokinase use.
+RESULTS Mean primary assisted patency was 135.9 days for Palindrome and 136.5 days for HemoStar (P=0.8). Definite CRBSI occurred in 0.24 and 0.10/1,000 catheter-days for Palindrome and HemoStar, respectively (P=0.3). Removal rates for thrombosis that could not be resolved with thrombolysis were 0.53 and 0.43/1,000 catheter-days for Palindrome and HemoStar, respectively (P=0.7). Urokinase use was lower for Palindrome than for HemoStar, as evidenced by a lower number of urokinase infusions/1,000 catheter-days (17 and 35; P<0.001) and higher number of catheters that never required thrombolysis (58% and 45%; P=0.03). Mean effective blood flow rate was higher for Palindrome than for HemoStar (333 and 304mL/min; P<0.001).
+LIMITATIONS Single-center nonblinded trial.
+CONCLUSIONS Primary assisted patency and incidence of infection and thrombosis were similar for both catheter types. The Palindrome catheter required less thrombolysis and achieved higher blood flow rates than the HemoStar catheter. These findings suggest that mechanical catheter design may improve catheter rheology, but does not affect risks for thrombosis and infection and hence catheter survival.
+

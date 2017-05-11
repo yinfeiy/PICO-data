@@ -1,0 +1,11 @@
+Efficiency of slush nitrogen vitrification of human oocytes vitrified with or without cumulus cells in relation to survival rate and meiotic spindle competence.
+
+OBJECTIVE To evaluate the efficiency of slush nitrogen vitrification of human oocytes with or without cumulus cells in terms of survival rate and maintenance of meiotic spindle.
+DESIGN Randomized, comparative study.
+SETTING Medical center.
+PATIENT(S) A total of 274 oocytes obtained from 46 couples undergoing infertility treatment.
+INTERVENTION(S) Metaphase II oocytes were divided into groups A and B, vitrified with and without cumulus cells, respectively.
+MAIN OUTCOMES MEASURE(S) Survival rates and maintenance of meiotic spindle observed immediately after warming and 3 hours after incubation.
+RESULT(S) No statistically significant difference was detected between the two groups in terms of survival rate, but a significantly higher percentage of detectable spindle was observed in group B (completely denuded oocytes), either immediately after warming or 3 hours after incubation.
+CONCLUSION(S) Complete denudation of oocytes before slush nitrogen vitrification does not influence survival rates but positively affects oocyte meiotic spindle competence. These data support the hypothesis that cumulus cells during vitrification represent an obstacle to cryoprotectant penetration more than having a protective role for the oocyte.
+

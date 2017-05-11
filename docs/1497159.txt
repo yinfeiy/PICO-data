@@ -1,0 +1,11 @@
+Rapid-sequence intubation of head trauma patients: prevention of fasciculations with pancuronium versus minidose succinylcholine.
+
+INTRODUCTION Fasciculations during rapid-sequence intubation may lead to increased intracranial pressure and emesis with aspiration. Standard rapid-sequence intubation requires a nondepolarizing blocking agent before succinylcholine administration.
+HYPOTHESIS Prevention of fasciculations during rapid-sequence intubation of head trauma patients can be accomplished as safely and effectively with minidose succinylcholine as with a defasciculating dose of pancuronium.
+DESIGN A prospective, randomized, double-blind study.
+SETTING An inner-city county trauma center with 70,000 patient visits per year.
+PARTICIPANTS Sequential adult head trauma patients requiring rapid-sequence intubation who had no contraindications to succinylcholine or pancuronium.
+INTERVENTIONS Each head trauma patient requiring rapid-sequence intubation who met the inclusion criteria received standard rapid-sequence intubation maneuvers and lidocaine (1 mg/kg) IV. Patients were randomized to receive either minidose succinylcholine (0.1 mg/kg) or pancuronium (0.03 mg/kg) IV one minute prior to the full paralytic dose of succinylcholine (1.5 mg/kg) IV. Fasciculations were recorded using a graded visual scale.
+RESULTS Of 46 patients, eight of 19 (42%) in the pancuronium group and six of 27 (22%) in the succinylcholine group experienced fasciculations. No statistically significant difference in fasciculations was detected between the two groups using chi 2 analysis. Complete relaxation of the cords was present in all but two patients, one in each group. No patient in either group experienced emesis or significant dysrhythmias.
+CONCLUSION Pretreatment with minidose succinylcholine causes no greater incidence of fasciculations than pancuronium in rapid-sequence intubation of head trauma patients in an ED setting. Thus succinylcholine may be used as the sole paralytic agent in rapid-sequence intubation of head trauma patients.
+

@@ -1,0 +1,7 @@
+Randomized clinical trial of radiofrequency ablation or conventional high ligation and stripping for great saphenous varicose veins.
+
+BACKGROUND This randomized clinical trial compared early outcomes after radiofrequency ablation (RFA) and conventional surgery for varicose veins.
+METHODS Consecutive patients with symptomatic varicose veins due to isolated great saphenous vein (GSV) incompetence and suitable for RFA were randomized to either RFA or conventional surgery (saphenofemoral disconnection and stripping). Clinical, radiological and patient-based outcomes were recorded at 1 and 5 weeks after intervention.
+RESULTS RFA resulted in successful obliteration of the GSV in all 47 patients. Complete above-knee stripping was unsuccessful in seven of 41 patients. RFA took longer than conventional surgery: median interquartile range 76 (67-84) versus 48 (39-54) min; P < 0.001. Patients returned to their normal activities significantly earlier after RFA (median 3 (2-5) versus 12.5 (4-21) days; P < 0.001). Postoperative pain was significantly less after RFA (median score on visual analogue scale 1.70 (0.50-4.30) versus 4.0 (2.35-6.05); P = 0.001). Patient satisfaction, quality of life improvement and analgesic requirements significantly favoured RFA.
+CONCLUSION RFA took longer to perform but resulted in a significantly better early outcome than conventional surgery in suitable patients with great saphenous varicose veins.
+

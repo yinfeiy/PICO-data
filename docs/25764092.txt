@@ -1,0 +1,7 @@
+Lateral MI Explains the Presence of Prominent R Wave (R ≥ S) in V1.
+
+AIMS It is necessary to clarify if the presence of a prominent R wave in V1, in post-myocardial infarction (MI) patients, is due to the involvement of the posterior wall (currently inferobasal segment) or the lateral wall (as has been demonstrated recently by electrocardiographic contrast-enhanced cardiac magnetic resonance [ECG-CE-CMR] correlations studies).
+METHODS In 155 patients with inferolateral zone MI, as detected by CE-CMR, the following ECG parameters were evaluated and correlated with MI location according to CE-CMR: R/S ratio in V1 ≥ 1 (classic criteria for posterior MI), R/S ratio in V1 ≥ 0.5, and R in V1 ≥ 3 mm.
+RESULTS R/S ≥ 1 criterion: Present in 20 cases: 3 of lateral MI, 17 of inferolateral MI, 0 of inferior MI. Absent in 135 cases, 81 of lateral/inferolateral MI (28/53), 54 of inferior MI (SE 19.8%, SP 100%). R/S ≥ 0.5 criterion: Present in 47 cases: 6 of lateral MI, 39 of inferolateral MI, 2 of inferior MI. Absent in 108 cases, 56 of lateral/inferolateral MI (25/31), 52 of inferior MI (SE 44.6%, SP 96.4%). R ≥ 3 mm criterion: Present in 30 cases: 5 of IM lateral, 23 of inferolateral MI, 2 of inferior MI. Absent in 125 cases, 73 lateral/inferolateral MI (26/47), 52 inferior MI (SE 27.7%, SP 96.4%).
+CONCLUSIONS The presence of prominent the R wave in V1 is due to the lateral MI and not to the involvement of inferobasal segment of inferior wall (old posterior wall).
+

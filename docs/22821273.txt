@@ -1,0 +1,10 @@
+Different cardiac biomarkers to detect peri-procedural myocardial infarction in contemporary coronary stent trials: impact on outcome reporting.
+
+OBJECTIVE To assess the differential implications of cardiac biomarker type on peri-procedural myocardial infarction (PMI) reporting.
+SETTING The Resolute 'All-Comers' stent trial.
+INTERVENTIONS Blood samples for creatine kinase (CK), CK-myoband (CK-MB) mass or cardiac troponin (cTn) (optional) were collected before and at 6, 12 and 18 h after the assigned percutaneous coronary intervention or at discharge. PMIs were adjudicated using either the 2007 universal definition of MI (type-4a) or the extended historical definition of MI.
+PATIENTS 2121/2292 patients (92.5%) had an analysable dataset for either biomarker. 890/2121 patients (42%) presented with an acute coronary syndrome (ACS). 267/890 patients (30%) were within 24 h of an ST-segment elevation MI.
+MAIN OUTCOME MEASURES Type-4a MI was diagnosed in 208/2121 patients (9.8%) when cTn was used (CK-MB mass if cTn not available), and in 93/2121 of patients (4.4%) when CK-MB mass was used (cTn if CK-MB mass not available). With the extended historical CK-based definition of MI, PMI was diagnosed in 65/2121 patients (3.1%). Adjudication of type-4a MI in patients with an ACS was problematic with <10% of the potential type-4a MI being confirmed as an event, as compared with approximately 95% in stable patients undergoing elective PCI. Type-4a MI was not associated with the subsequent hazard for cardiac mortality (p=0.6).
+CONCLUSIONS The percentage of adjudicated PMI events is driven by the MI-definition criteria and biomarker type. Type-4a MI may not be a reliable component of the primary composite end point in coronary stent investigations which recruit patients with ACS.
+TRIAL REGISTRATION NUMBER http://www.ClinicalTrials.gov; Unique identifier: NCT00617084.
+

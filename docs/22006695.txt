@@ -1,0 +1,7 @@
+Effects of body orientation on maximum voluntary arm torques.
+
+INTRODUCTION Increased reliance on bulbospinal motor systems has been implicated in individuals with chronic stroke during maximum voluntary arm joint torque generation.
+METHODS Maximum isometric single-joint and multi-joint arm strength was observed in two body orientations (sitting and supine) while maintaining identical head/neck/trunk/extremity joint configurations in order to identify bulbospinal contributions to maximum joint torque generation in 11 individuals with stroke and 10 individuals without stroke.
+RESULTS During sitting, shoulder flexion was greater for both groups, whereas shoulder extension and elbow flexion, part of the "flexion synergy," were greater only in individuals with stroke.
+CONCLUSIONS Body orientation influenced isometric arm strength, notably the constituents of flexion synergy in individuals with stroke, suggesting bulbospinal motor pathway involvement. From a practical perspective, clinical evaluation of single joint strength in the supine position may underestimate strength available during activities of daily living that are performed in an upright orientation.
+

@@ -1,0 +1,7 @@
+Tetrahydrobiopterin as a treatment for autism spectrum disorders: a double-blind, placebo-controlled trial.
+
+OBJECTIVE The purpose of this study was to determine if tetrahydrobiopterin (BH4) reduced core symptoms of autism spectrum disorder (ASD).
+METHOD In this study, 46 children, 3-7 years of age diagnosed with an ASD were randomly assigned to double-blind treatment with 20 mg/kg/day BH4 or placebo for 16 weeks. The primary outcome measure was the Clinical Global Impressions Improvement and Severity Scales (CGI-I and CGI-S); secondary outcomes were the Preschool Language Scale-4 (PLS-4), Social Responsiveness Scale (SRS), Aberrant Behavior Checklist (ABC), and Vineland Adaptive Behavior Scales (Vineland).
+RESULTS Overall, no differences were found on global improvement as measured with the CGI-I or CGI-S. Secondary measures indicated significant improvements for BH4 relative to placebo with regard to social awareness, autism mannerisms, hyperactivity, and inappropriate speech. Side effects were minimal and similar between both active medication and placebo.
+CONCLUSIONS These results indicate that BH4 offers promise in reducing symptoms of ASD. Clinical Trials.gov Identifier: NCT00850070.
+

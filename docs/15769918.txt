@@ -1,0 +1,8 @@
+Controlled clinical trial of IV cyclophosphamide versus IV methylprednisolone in severe neurological manifestations in systemic lupus erythematosus.
+
+BACKGROUND Severe neurological involvement in systemic lupus erythematosus (NPSLE) is one of the most dreadful complications of the disease.
+OBJECTIVE To identify the best drug, dose, and treatment.
+PATIENTS AND METHODS The study was a controlled clinical trial at two tertiary care centres of patients with SLE according to the ACR criteria, with incident (no more than 15 days) onset of severe NP manifestations such as seizures, optic neuritis, peripheral or cranial neuropathy, coma, brainstem disease, or transverse myelitis. Induction treatment with 3 g of IV methylprednisolone (MP) followed by either IV monthly cyclophosphamide (Cy) versus IV MP bimonthly every 4 months for 1 year and then IV Cy or IV MP every 3 months for another year. The primary end point was response to treatment: at least 20% improvement from basal conditions on clinical, laboratory, or specific neurological testing variables.
+RESULTS Overall, a response rate of 75% was observed. Of the 32 patients studied, 18/19 receiving Cy and 7/13 receiving MP responded to treatment (p<0.03).
+CONCLUSIONS Cy seems to be more effective than MP in the treatment of acute, severe NPSLE.
+

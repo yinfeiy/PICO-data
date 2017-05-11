@@ -1,0 +1,7 @@
+The effects of treatment with interleukin-1 receptor antagonist on the inflamed synovial membrane in rheumatoid arthritis.
+
+OBJECTIVE To evaluate the effects of treatment with interleukin-1 receptor antagonist (IL-1Ra) on synovial tissue in rheumatoid arthritis (RA).
+METHODS Twelve patients with RA entering a randomized clinical trial of human recombinant IL-1Ra underwent synovial biopsies before and after treatment. Cellular infiltration and adhesion molecule expression were evaluated after immunohistochemical staining.
+RESULTS There was a notable reduction in intimal layer macrophages and subintimal macrophages and lymphocytes after treatment with IL-1Ra at 150 mg/day (n=3). Increased cellular infiltration was observed in all patients receiving placebo (n=3); variable changes were observed after IL-1Ra 30 mg/day (n=6). In a limited study of adhesion molecule expression, down-regulation of E-selectin and vascular cell adhesion molecule-1 was observed after treatment with IL-1Ra 150 mg/day, but not after IL-1Ra 30 mg/day or placebo. The apparent arrest of progressive joint damage seen in four patients after treatment with IL-1Ra was associated with reduced intimal layer macrophage accumulation in all patients.
+CONCLUSION Treatment of RA with IL-1Ra resulted in reduced mononuclear cell infiltration of synovial membrane, which may represent the in vivo inhibition of biologically relevant IL-1ss-mediated pathogenic effects.
+

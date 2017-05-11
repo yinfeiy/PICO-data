@@ -1,0 +1,7 @@
+Bolus injection of contrast agents with various iodine concentrations and delivery rates for intracranial three-dimensional CT angiography: evaluation of intracranial arteriovenous contrast using a multidetector-row CT scanner.
+
+PURPOSE We evaluated the difference in computed tomography (CT) attenuation values of the intracranial arterial and venous systems among the various contrast injection protocols (higher iodine delivery rate or higher concentration of the agent) on the source images of intracranial three-dimensional CT angiography (3D-CTA) using a multidetector-row CT (MDCT) scanner.
+MATERIALS AND METHODS We used 100 ml of iopamidol 300 at an injection rate of 3.0 ml/s, 100 ml of iopamidol 300 at an injection rate of 3.7 ml/s, and 80 ml of iopamidol 370 at an injection rate of 3.0 ml/s. There were 10 patients in each group. Attenuation values of the bilateral internal carotid arteries (ICAs), basilar artery trunk, bilateral cavernous sinuses (CSs), and Galenic vein were measured quantitatively on the axial CT angiographic source images obtained by four-channel MDCT.
+RESULTS Injection of the high-concentration contrast with a higher iodine-delivery rate achieved good arteriovenous contrast at the cavernous portion. With the same rate of iodine delivery, injection of the intermediate concentrate agent increased the CT value of not only the ICAs but also the CSs.
+CONCLUSION High-concentration contrast could increase ICA attenuation without intracavernous attenuation gain during the "first-pass" phase.
+

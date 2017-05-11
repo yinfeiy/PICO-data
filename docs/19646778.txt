@@ -1,0 +1,9 @@
+A prospective randomized trial of topical pimecrolimus for cetuximab-associated acnelike eruption.
+
+BACKGROUND Clinical trials addressing the acneiform rash associated with epidermal growth factor receptor inhibitors are lacking.
+OBJECTIVE We evaluated the ability of topical pimecrolimus to reduce the severity of cetuximab-related facial rash.
+METHODS In all, 24 patients with metastatic colorectal cancer with cetuximab facial rash received twice daily pimecrolimus application for 5 weeks to half of the face. At baseline, week 2, and week 5, a dermatologist performed facial lesion counts, patients reported perceived severity of rash-related symptoms, and standardized facial photographs were obtained for blinded evaluation of global rash severity.
+RESULTS Treatment sides had greater decrease in lesion counts than observation sides of face at weeks 2 (P < .001) and 5 (P = .02). However, there were no significant differences in patients' assessment of symptoms and in review of facial photographs for rash severity between treatment and observation sides.
+LIMITATIONS This study was not placebo controlled.
+CONCLUSIONS Pimecrolimus application did not translate into clinically meaningful benefit for patients with cetuximab-related facial rash.
+

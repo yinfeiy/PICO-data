@@ -1,0 +1,8 @@
+Cognitive control therapy and transcranial direct current stimulation for depression: a randomized, double-blinded, controlled trial.
+
+BACKGROUND Based on findings that major depressive disorder (MDD) is associated to decreased dorsolateral prefrontal cortical (DLPFC) activity; interventions that increase DLPFC activity might theoretically present antidepressant effects. Two of them are cognitive control therapy (CCT), a neurocognitive intervention that uses computer-based working memory exercises, and transcranial direct current stimulation (tDCS), which delivers weak, electric direct currents over the scalp.
+METHODS We investigated whether tDCS enhanced the effects of CCT in a double-blind trial, in which participants were randomized to sham tDCS and CCT (n=17) vs. active tDCS and CCT (n=20). CCT and tDCS were applied for 10 consecutive workdays. Clinicaltrials.gov identifier: NCT01434836.
+RESULTS Both CCT alone and combined with tDCS ameliorated depressive symptoms after the acute treatment period and at follow-up, with a response rate of approximately 25%. Older patients and those who presented better performance in the task throughout the trial (possibly indicating greater engagement and activation of the DLPFC) had greater depression improvement in the combined treatment group.
+LIMITATIONS Our exploratory findings should be further confirmed in prospective controlled trials.
+DISCUSSION CCT and tDCS combined might be beneficial for older depressed patients, particularly for those who have cognitive resources to adequately learn and improve task performance over time. This combined therapy might be specifically relevant in this subgroup that is more prone to present cognitive decline and prefrontal cortical atrophy.
+

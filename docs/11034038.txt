@@ -1,0 +1,10 @@
+Randomized, placebo-controlled trial of oral phytonadione for excessive anticoagulation.
+
+STUDY OBJECTIVE To compare the efficacy of managing excessive anticoagulation in the absence of bleeding by either omitting warfarin therapy alone or administering oral phytonadione in addition to omitting warfarin therapy.
+DESIGN Randomized, double-blind, placebo-controlled study.
+SETTING Clinical pharmacy anticoagulation service in a group model health maintenance organization.
+SUBJECTS Thirty nonbleeding patients with international normalized ratios (INRs) ranging from 6.0-10.0.
+INTERVENTIONS Patients were randomized to receive either a single oral dose of phytonadione 2.5 mg or placebo. Both groups omitted warfarin doses until the INR became less than or equal to 4.0.
+MEASUREMENTS AND RESULTS The mean calculated time to reach an INR of 4.0 was significantly greater in the placebo than the phytonadione group (2.6 vs 1.4 days, p=0.006). Overcorrection of anticoagulation was significantly more common in patients receiving phytonadione. Overt warfarin resistance was not observed in either group after reinitiating warfarin therapy. No major bleeding or thromboembolic complications occurred, and minor bleeding episodes were similar in both groups.
+CONCLUSION The addition of oral phytonadione 2.5 mg reduced the time to achieve an INR of 4.0 by approximately 1 day compared with omitting warfarin therapy alone. Adverse events did not differ between the two groups. Both strategies were effective in managing asymptomatic patients with INRs of 6.0-10.0. Oral phytonadione may be most appropriate for patients at high risk for bleeding in whom the benefit of prompt INR reduction would outweigh the thromboembolic risk associated with INR overcorrection.
+

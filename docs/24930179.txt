@@ -1,0 +1,9 @@
+The effects of prism adaptation on egocentric metric distance estimation.
+
+OBJECTIVE The present experiment evaluated whether training involving throwing transferred to metric distance estimation (i.e., describing in feet and inches the distance between oneself and targets).
+BACKGROUND In prior work, we found that metric estimation training negatively transferred to throwing. We explained our results in terms of cognitive intrusion. The present study tested that possibility by swapping our training and transfer tasks.
+METHOD During pretesting, participants verbally estimated the metric distances between themselves and targets, or they threw a beanbag to targets. During training, participants donned goggles that distorted their vision. While wearing the goggles, they threw a beanbag to targets. Half received feedback. During posttesting, participants removed the distorting goggles and completed the same task that they performed during pretesting.
+RESULTS The results indicated that the distorting goggles degraded throwing at the beginning of training, visual feedback improved throwing during training, the effects of training with feedback persisted into the throwing posttest, and the effects of training with feedback did not transfer to the verbal metric estimation posttest.
+CONCLUSION Training involving throwing was effective, but did not transfer to verbal metric distance estimation. This supports our argument that the negative transfer observed in our previous study stemmed from cognitive intrusion.
+APPLICATION The present experiment suggests that the creation of distance estimation training should begin with a careful analysis of the transfer task, and that distance estimation training programs should explicitly teach trainees that their training will not generalize to all distance estimation tasks.
+

@@ -1,0 +1,11 @@
+Interferential therapy electrode placement technique in acute low back pain: a preliminary investigation.
+
+OBJECTIVE To determine the efficacy of interferential therapy (IFT) electrode placement technique compared with a control treatment in subjects with acute low back pain (LBP).
+DESIGN Single-blind, randomized, controlled trial with a 3-month follow-up.
+SETTING Outpatient physiotherapy departments in hospital and university settings.
+PATIENTS A random sample of 60 eligible patients with back pain (28 men, 32 women) were recruited by general practitioners and self-referral for physiotherapy treatment and randomly assigned to 1 of 3 groups.
+INTERVENTIONS (1) "IFT painful area" and The Back Book, (2) "IFT spinal nerve" and The Back Book, and (3) "Control," The Back Book only. Standardized IFT stimulation parameters were used: carrier frequency 3.85 kHz; 140 Hz constant; pulse duration 130 micros; 30 minutes' duration.
+MAIN OUTCOME MEASURES Pain Rating Index, Roland-Morris Disability Questionnaire (RMDQ), and EuroQol were completed by subjects pretreatment, at discharge, and 3-month follow-up.
+RESULTS All groups had significant improvements in all outcomes at follow-up. Subjects managed by IFT spinal nerve and The Back Book displayed both a statistically significant (p = .030) and clinically meaningful reduction in functional disability (RMDQ), compared with management via IFT painful area and The Back Book combined or The Back Book alone.
+CONCLUSIONS The findings showed that IFT electrode placement technique affects LBP-specific functional disability, providing preliminary implications for future clinical studies.
+

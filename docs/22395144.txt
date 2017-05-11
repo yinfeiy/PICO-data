@@ -1,0 +1,9 @@
+Utility of the bladder flap at cesarean delivery: a randomized controlled trial.
+
+OBJECTIVE To test the hypothesis that omission of the bladder flap in primary and repeat cesarean deliveries shortens operating time without increasing intraoperative and postoperative complications.
+METHODS We randomized 258 women undergoing primary and repeat cesarean deliveries at 32 weeks of gestation or more to creation (n=131) or omission (n=127) of the bladder flap. Emergency cesarean deliveries, planned vertical uterine incisions, and previous abdominal surgeries besides cesarean deliveries were excluded. The primary outcome measure was total operating time. Secondary outcomes were bladder injury, incision-to-delivery time, incision-to-fascial closure time, estimated blood loss, postoperative microhematuria, postoperative pain, hospital days, endometritis, and urinary tract infection. Analysis followed the intention-to-treat principle.
+RESULTS The median skin incision to delivery interval was shorter with omission of the bladder flap (9 [range 1-43] compared with 10 [range 2-70] minutes; P=.04), but there was no difference in total operating time (51 [range 18-124] minutes compared with 51 [range 16-178]; P=.10). No bladder injuries occurred in either group and there were no significant differences in estimated blood loss, change in hemoglobin level, postoperative microhematuria, postoperative pain, hospital days, endometritis, or urinary tract infection.
+CONCLUSION Omission of the bladder flap at primary and repeat cesarean deliveries does not increase intraoperative or postoperative complications. Incision-to-delivery time is shortened but total operating time appears unchanged.
+CLINICAL TRIAL REGISTRATION ClinicalTrials.gov,www.ClinicalTrials.gov, NCT00918996.
+LEVEL OF EVIDENCE I.
+

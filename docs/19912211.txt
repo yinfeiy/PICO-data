@@ -1,0 +1,7 @@
+Bipolar transurethral resection of the prostate causes less bleeding than the monopolar technique: a single-centre randomized trial of 202 patients.
+
+OBJECTIVE To compare bipolar with the conventional monopolar transurethral resection of the prostate (TURP) for blood loss and speed of resection.
+PATIENTS AND METHODS In all, 202 consecutive patients from the hospital waiting list were randomized to undergo TURP using either a bipolar system (Surgmaster TURis, Olympus, Tokyo, Japan) or a monopolar system (24 F, Storz, Tübingen, Germany). The blood loss during and after surgery was measured using a photometer. Other variables compared included indices of resection speed and transfusion rate.
+RESULTS There were no statistically significant differences in operative duration, resection weight, resection speed or radicality of resection. However, the median blood loss was 235 mL for the bipolar and 350 mL for monopolar TURP (P < 0.001). The decrease in blood haemoglobin concentration during the day of surgery was smaller in the bipolar group (5.5% vs 9.6%P < 0.001). Fewer patients were transfused with erythrocytes (4% vs 11%, P < 0.01), which can be explained by the much lower 75th percentile for blood loss in the bipolar group (at 472 vs 855 mL, respectively).
+CONCLUSIONS Bipolar TURP using the TURis system was performed with the same speed as monopolar TURP but caused 34% less bleeding, the difference being greatest (81%) for the largest blood losses. Bipolar TURP also required fewer erythrocyte transfusions than the conventional monopolar technique.
+

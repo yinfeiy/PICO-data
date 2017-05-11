@@ -1,0 +1,7 @@
+Pilot study of the effectiveness of weighted vests.
+
+OBJECTIVE In this pilot study, we determined the effectiveness of a weighted vest on attention to task for second-grade general education students with difficulty attending.
+METHOD We used an intervention and a control group and an ABA design to compare participants' percentage of time on task with and without a vest. Ten participants from nine elementary schools in a suburban Texas school district were randomly assigned to an intervention or a control group. Control group participants wore a nonweighted vest. Participants, classroom teachers, and research assistants who coded the data were blind as to the group to which the participants were assigned.
+RESULTS A repeated measures analysis of variance indicated no significant differences between groups or between baseline, intervention, and withdrawal conditions.
+CONCLUSION Our results indicated that the weighted vests were not effective in increasing time on task. These results should be generalized cautiously owing to the small sample size and participant selection process.
+

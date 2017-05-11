@@ -1,0 +1,11 @@
+Administrative Data Feedback for Effective Cardiac Treatment: AFFECT, a cluster randomized trial.
+
+CONTEXT Hospital report cards are increasingly being implemented for quality improvement despite lack of strong evidence to support their use.
+OBJECTIVE To determine whether hospital report cards constructed using linked hospital and prescription administrative databases are effective for improving quality of care for acute myocardial infarction (AMI).
+DESIGN The Administrative Data Feedback for Effective Cardiac Treatment (AFFECT) study, a cluster randomized trial.
+SETTING AND PATIENTS Patients with AMI who were admitted to 76 acute care hospitals in Quebec that treated at least 30 AMI patients per year between April 1, 1999, and March 31, 2003.
+INTERVENTION Hospitals were randomly assigned to receive rapid (immediate; n = 38 hospitals and 2533 patients) or delayed (14 months; n = 38 hospitals and 3142 patients) confidential feedback on quality indicators constructed using administrative data.
+MAIN OUTCOME MEASURES Quality indicators pertaining to processes of care and outcomes of patients admitted between 4 and 10 months after randomization. The primary indicator was the proportion of elderly survivors of AMI at each study hospital who filled a prescription for a beta-blocker within 30 days after discharge.
+RESULTS At follow-up, adjusted prescription rates within 30 days after discharge were similar in the early vs late groups (for beta-blockers, odds ratio [OR], 1.06; 95% confidence interval [CI], 0.82-1.37; for angiotensin-converting enzyme inhibitors, OR, 1.17; 95% CI, 0.90-1.52; for lipid-lowering drugs, OR, 1.14; 95% CI, 0.86-1.50; and for aspirin, OR, 1.05; 95% CI, 0.84-1.33). In addition, adjusted mortality was similar in both groups, as were length of in-hospital stay, physician visits after discharge, waiting times for invasive cardiac procedures, and readmissions for cardiac complications.
+CONCLUSIONS Feedback based on one-time, confidential report cards constructed using administrative data is not an effective strategy for quality improvement regarding care of patients with AMI. A need exists for further studies to rigorously evaluate the effectiveness of more intensive report card interventions.
+

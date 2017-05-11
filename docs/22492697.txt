@@ -1,0 +1,7 @@
+Laryngeal preservation with induction chemotherapy for hypopharyngeal squamous cell carcinoma: 10-year results of EORTC trial 24891.
+
+BACKGROUND We report the 10-year results of the EORTC trial 24891 comparing a larynx-preservation approach to immediate surgery in hypopharynx and lateral epilarynx squamous cell carcinoma.
+MATERIAL AND METHODS Two hundred and two patients were randomized to either the surgical approach (total laryngectomy with partial pharyngectomy and neck dissection, followed by irradiation) or to the chemotherapy arm up to three cycles of induction chemotherapy (cisplatin 100 mg/m(2) day 1 + 5-FU 1000 mg/m(2) day 1-5) followed for complete responders by irradiation and otherwise by conventional treatment. The end points were overall survival [OS, noninferiority: hazard ratio (preservation/surgery) ≤ 1.428, one-sided α = 0.05], progression-free survival (PFS) and survival with a functional larynx (SFL).
+RESULTS At a median follow-up of 10.5 years on 194 eligible patients, disease evolution was seen in 54 and 49 patients in the surgery and chemotherapy arm, respectively, and 81 and 83 patients had died. The 10-year OS rate was 13.8% in the surgery arm and 13.1% in the chemotherapy arm. The 10-year PFS rates were 8.5% and 10.8%, respectively. In the chemotherapy arm, the 10-year SFL rate was 8.7%.
+CONCLUSION This strategy did not compromise disease control or survival (that remained poor) and allowed more than half of the survivors to retain their larynx.
+

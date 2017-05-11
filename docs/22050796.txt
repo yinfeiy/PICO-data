@@ -1,0 +1,11 @@
+Rapid injection of propofol reduces vascular pain and facilitates Laryngeal Mask Airway insertion.
+
+STUDY OBJECTIVE To compare the clinical efficacy of a rapid injection of propofol in regard to pain and ability to facilitate Laryngeal Mask Airway (LMA) insertion.
+DESIGN Randomized, single-blinded, placebo-controlled study.
+SETTING University hospital.
+PATIENTS 120 ASA physical status 1 and 2 patients undergoing elective orthopedic surgeries.
+INTERVENTIONS Patients were randomly allocated to one of 4 groups. Group A patients were pretreated with normal saline followed by propofol 2.0 mg/kg at 3.3 mg/sec. Group B patients were pretreated with lidocaine 0.5 mg/kg followed by propofol 2.0 mg/kg at 3.3 mg/sec. In Group C, patients were pretreated with lidocaine 1.0 mg/kg followed by propofol 2.0 mg/kg at 3.3 mg/sec. In Group D, patients were pretreated with normal saline followed by propofol 2.0 mg/kg at 50 mg/sec.
+MEASUREMENTS Pain on injection was measured using a 4-point scale. Scale and success rate of smooth LMA insertion also were recorded.
+MAIN RESULTS Rapid injection was less painful than after pretreatment with lidocaine 0.5 mg/kg, but was similar to slow injection after pretreatment with lidocaine 1.0 mg/kg. Rapid injection facilitated LMA insertion, unlike slow injection with lidocaine 0.5 mg/kg pretreatment, and was similarly successful to slow injection after pretreatment with lidocaine 1.0 mg/kg.
+CONCLUSIONS The rapid administration of propofol reduces pain and facilitates LMA insertion versus slow administration of propofol.
+

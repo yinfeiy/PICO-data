@@ -1,0 +1,7 @@
+The added value of a brief self-efficacy coaching on the effectiveness of a 12-week physical activity program.
+
+BACKGROUND Self-efficacy has been found to be an important precondition for behavioral change in sedentary people. The current study examined the effectiveness and added value of including a 15-minute self-efficacy coaching at the start of a 12-week lifestyle physical activity (PA) program.
+METHODS Participants were randomly assigned to a standard-intervention group (without additional self-efficacy coaching, N = 116) or extra-intervention group (with additional self-efficacy coaching, N = 111). Body mass index (BMI), cardiovascular fitness, self-reported PA, and self-efficacy beliefs were assessed at baseline and immediately after the intervention period. Perceived adherence to the PA program was assessed postintervention.
+RESULTS At posttest, a significant increase in cardiovascular fitness and decrease in BMI were found in both groups. Significant intervention effects emerged on PA behavior, self-efficacy, and program adherence, in favor of the extra-intervention group. Self-efficacy mediated the intervention effect on program adherence whereas no evidence was found for its role as mediator of PA change.
+CONCLUSIONS Adding a 15-minute self-efficacy coaching at the start of a lifestyle PA program is a promising strategy to enhance the intervention effects on PA behavior, self-efficacy beliefs, and program adherence. However, the role of self-efficacy as mediator of the intervention effect on in PA was not fully supported.
+

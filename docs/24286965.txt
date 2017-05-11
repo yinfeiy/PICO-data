@@ -1,0 +1,8 @@
+Continuous glucose monitoring in acute coronary syndrome.
+
+BACKGROUND Diabetes mellitus is an independent risk factor for cardiovascular disease.
+OBJECTIVE To compare the efficacy of devices for continuous glucose monitoring and capillary glucose monitoring in hospitalized patients with acute coronary syndrome using the following parameters: time to achieve normoglycemia, period of time in normoglycemia, and episodes of hypoglycemia.
+METHODS We performed a pilot, non-randomized, unblinded clinical trial that included 16 patients with acute coronary artery syndrome, a capillary or venous blood glucose ≥ 140 mg/dl, and treatment with a continuous infusion of fast acting human insulin. These patients were randomized into 2 groups: a conventional group, in which capillary measurement and recording as well as insulin adjustment were made every 4h, and an intervention group, in which measurement and recording as well as insulin adjustment were made every hour with a subcutaneous continuous monitoring system. Student's t-test was applied for mean differences and the X(2) test for qualitative variables.
+RESULTS We observed a statistically significant difference in the mean time for achieving normoglycemia, favoring the conventional group with a P = 0.02.
+CONCLUSION Continuous monitoring systems are as useful as capillary monitoring for achieving normoglycemia.
+

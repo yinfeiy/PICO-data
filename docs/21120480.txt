@@ -1,0 +1,7 @@
+A two-part phase II study of cediranib in patients with advanced solid tumours: the effect of food on single-dose pharmacokinetics and an evaluation of safety, efficacy and imaging pharmacodynamics.
+
+BACKGROUND Cediranib (RECENTIN™) is an oral, highly potent VEGF inhibitor. This study evaluated the effect of food on the pharmacokinetics of cediranib and compared the administration of continual cediranib via two dosing strategies using this as a platform to investigate pharmacodynamic imaging biomarkers.
+METHODS Sixty patients were randomised to receive two single doses of cediranib in either fed/fasted or fasted/fed state (Part A). In continual dosage phase (Part B), patients were randomised to a fixed-dose or dose-escalation arm. Exploratory pharmacodynamic assessments were performed using DCE-MRI and CT enhancing fraction (EnF).
+RESULTS In part A, plasma AUC and C (max) of cediranib were lower in the presence of food by a mean of 24 and 33%, respectively (94% CI: AUC, 12-34% and C (max), 20-43%), indicating food reduces cediranib plasma exposure. In part B, cediranib 30 mg/day appeared to be the most sustainable for chronic dosing. Continuous cediranib therapy was associated with sustained antivascular effects up to 16 weeks, with significant reductions in DCE-MRI parameters and CT EnF.
+CONCLUSIONS It is recommended that cediranib be administered at least 1 h before or 2 h after food. Evidence of antitumour activity was observed, with significant sustained effects upon imaging vascular parameters.
+

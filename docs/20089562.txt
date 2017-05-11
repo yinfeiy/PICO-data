@@ -1,0 +1,7 @@
+Epirubicin and cyclophosphamide versus epirubicin and docetaxel as first-line therapy for women with metastatic breast cancer: final results of a randomised phase III trial.
+
+BACKGROUND This randomised phase III trial was carried out to compare the efficacy and safety of epirubicin and cyclophosphamide (EC) with epirubicin and docetaxel (Taxotere) (ED) as first-line chemotherapy for metastatic breast cancer.
+PATIENTS AND METHODS Patients (n = 240) were randomly assigned to receive either ED (epirubicin 75 mg/m(2) and docetaxel 75 mg/m(2)) or EC (epirubicin 90 mg/m(2) and cyclophosphamide 600 mg/m(2)). The primary end point was objective response rate (ORR). Secondary end points were progression-free survival (PFS), overall survival (OS), and safety.
+RESULTS ORR for patients randomly assigned to receive EC and ED were 42% and 47%, respectively (P = 0.63). Median PFS [10.1 versus 10.3 months; hazard ratio (HR) 0.98; log-rank P = 0.38] and OS (19.9 versus 30.0 months; HR 0.663; log-rank P = 0.21) were comparable in both arms. Although grade 3/4 leucopenia occurred more frequently with ED (81% versus 73%; P = 0.01), there were no significant differences in the incidence of febrile neutropenia and grade 3/4 infections. Grade 3/4 non-haematologic toxicity was infrequent in both arms. Congestive heart failure was observed in one patient in each arm.
+CONCLUSION In this randomised trial, no differences in the efficacy study end points were observed between the two treatment arms.
+

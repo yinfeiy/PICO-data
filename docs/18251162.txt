@@ -1,0 +1,7 @@
+Effect of vitamin K2 on the recurrence in patients with hepatocellular carcinoma.
+
+BACKGROUND/AIMS Vitamin K2 (VK2) appears to have a potent inhibitory activity for cell growth including HCC cells. We investigated whether VK2 could reduce incidence of tumor recurrence after treatment of HCC. Forty-five patients with cured or possibly cured HCC were randomly selected, assigning patients to treatment (n=21) or control group (n=24) with randomization list.
+METHODOLOGY For the treatment group, forty-five mg of Glakay was given orally every day after therapy for HCC. No patients complained of adverse effects. Abdominal ultrasonography and dynamic CT were performed at 3-month intervals. Recurrence was confirmed by abdominal angiography.
+RESULTS Recurrence of HCC occurred in 7 cases (33.3%) for the treatment group and 12 cases (50.0%) for the control group during mean observation periods of 19.5 and 16.5 months, respectively. Administration of VK2 was not an independent variable for the recurrence on univariate analysis. Cumulative incidence of HCC recurrence did not differ between the two groups, and the cumulative survival rate tended to be high in treatment group (p =0.054). Cox regression analysis revealed that serum albumin concentration alone was an independent factor affecting the recurrence.
+CONCLUSIONS These findings suggest that VK2 does not appear to prevent recurrence of HCC after curative treatment. Our study is preliminary and large-scale trials are needed to determine whether VK2 is of benefit to decrease the recurrence of HCC.
+

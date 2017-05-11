@@ -1,0 +1,7 @@
+[Accelerated postoperative radiotherapy in patients with advanced larynx cancer].
+
+AIM The aim of study was test efficacy of accelerated postoperative radiotherapy--concomitant boost in patients with advanced larynx cancer.
+METHODS AND MATERIALS The prospective study included 112 patients with advanced larynx cancer after radical surgical treatment. Patients had postoperative radiation therapy, conventional (C) or accelerated (CB).
+RESULTS The 3-year overall survival in CB was 59%, in C--58% (p = 0.2), 3-year locoregional control in CB--83%, in C--75% (p = 0.01), the 3-year disease free survival was in CB--72%, C--66% (p = 0.1).
+CONCLUSION Concomitant boost postoperative radiation therapy did not improve overall survival, loco-regional control, disease free survival. Patients with close surgical margins, longer interval between surgery and radiation, high level of hemoglobin, T4 had benefit from accelerated radiotherapy.
+

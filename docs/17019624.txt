@@ -1,0 +1,4 @@
+Risperidone improves behavioral symptoms in children with autism in a randomized, double-blind, placebo-controlled trial.
+
+Subgroup analysis of children (5-12 years) with autism enrolled in an 8-week, double-blind, placebo-controlled trial of risperidone for pervasive developmental disorders. The primary efficacy measure was the Aberrant Behavior Checklist-Irritability (ABC-I) subscale. Data were available for 55 children given risperidone (n=27) or placebo (n=28); mean baseline ABC-I ( +/- SD) was 20.6 (8.1) and 21.6 (10.2). Risperidone [mean dose ( +/- SD): 1.37 mg/day (0.7)] resulted in significantly greater reduction from baseline to endpoint in ABC-I versus placebo [mean change ( +/- SD): -13.4 (1.5) vs. -7.2 (1.4), P<0.05; ES=-0.7]. The most common adverse effect with risperidone was somnolence (74% vs. 7% with placebo). Risperidone treatment was well tolerated and significantly improved behavioral problems associated with autism.
+

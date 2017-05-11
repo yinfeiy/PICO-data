@@ -1,0 +1,11 @@
+Randomised controlled trial of graded exercise in patients with the chronic fatigue syndrome.
+
+OBJECTIVE To test the efficacy of a graded aerobic exercise programme in the chronic fatigue syndrome.
+DESIGN Randomised controlled trial with control treatment crossover after the first follow up examination.
+SETTING Chronic fatigue clinic in a general hospital department of psychiatry.
+SUBJECTS 66 patients with the chronic fatigue syndrome who had neither a psychiatric disorder nor appreciable sleep disturbance.
+INTERVENTIONS Random allocation to 12 weeks of either graded aerobic exercise or flexibility exercises and relaxation therapy. Patients who completed the flexibility programme were invited to cross over to the exercise programme afterwards.
+MAIN OUTCOME MEASURE The self rated clinical global impression change score, "very much better" or "much better" being considered as clinically important.
+RESULTS Four patients receiving exercise and three receiving flexibility treatment dropped out before completion. 15 of 29 patients rated themselves as better after completing exercise treatment compared with eight of 30 patients who completed flexibility treatment. Analysis by intention to treat gave similar results (17/33 v 9/33 patients better). Fatigue, functional capacity, and fitness were significantly better after exercise than after flexibility treatment. 12 of 22 patients who crossed over to exercise after flexibility treatment rated themselves as better after completing exercise treatment 32 of 47 patients rated themselves as better three months after completing supervised exercise treatment 35 of 47 patients rated themselves as better one year after completing supervised exercise treatment.
+CONCLUSION These findings support the use of appropriately prescribed graded aerobic exercise in the management of patients with the chronic fatigue syndrome.
+

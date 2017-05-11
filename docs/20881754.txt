@@ -1,0 +1,7 @@
+Multicenter, double-blind, placebo-controlled crossover study to assess the acute prokinetic efficacy of nizatidine-controlled release (150 and 300 mg) in patients with gastroesophageal reflux disease.
+
+INTRODUCTION The aim of the study is to test whether nizatidine delivered via a unique bimodal pulsatile-controlled release system, nizatidine controlled release (CR), accelerates gastric emptying in patients with gastroesophageal reflux disease (GERD).
+METHODS Combined data were analyzed on 39 patients with delayed gastric emptying (DGE) from 2 studies (n = 84) assessing the prokinetic effect of nizatidine CR. A single-blind placebo baseline was followed by double-blind nizatidine CR (150 and 300 mg) in randomized sequence, 2 to 5 days apart. Each dose was followed 1 hour later by an egg-beater meal, labeled with Tc99m. Gamma camera images were obtained at meal completion, 1-, 2-, 3- and 4-hour postmeal. All the 84 patients were classified at baseline with DGE (gastric retention >6.3% at 4 hours) or normal gastric emptying.
+RESULTS In the 39 patients identified with DGE, change from placebo baseline (CFB) for percent gastric retention at 4-hour postmeal with nizatidine CR (150 and 300 mg) was each improved and statistically significant (P < 0.05). In a subgroup of diabetic patients with DGE (n = 10), the CFB with nizatidine CR (300 mg) was significant (P < 0.05) at 3- and 4-hour postmeal.
+CONCLUSIONS Nizatidine CR (150 and 300 mg) significantly enhanced gastric emptying of a standard meal in patients with GERD with DGE.
+

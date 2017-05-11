@@ -1,0 +1,7 @@
+[Validity of cardiotocography in the detection of umbilical cord complications].
+
+OBJECTIVE The purpose of this study was to investigate the validity of cardiotocography for the detection of cord complications.
+MATERIAL AND METHODS A low-risk population of 4196 cases was selected in which cord complications have been recognized in 34.3%. Cases with cord complications and controls were paired by parity, gestational age, maternal age and mode of delivery. 25 pairs were randomly selected. 50 tracings were presented twice to 4 obstetricians in a double-blind manner. As parameters for the determination of the validity of fetal monitoring the reliability, positive (ppv) and negative predictive value (npv), sensitivity and specificity were used. Inter- and intra-observer variability were also examined.
+RESULTS Reliability 52%, ppv 52%, npv 52%, sensitivity 46%, specificity 58%. Interobserver variability: All 4 obstetricians agreed in 47 of 100 evaluations. The level of agreement was higher in the controls (63%) than in the cord complication group (56%). The intraobserver variability was 25%.
+CONCLUSIONS Cardiotocography is not useful for the detection of cord complications. The range of possibilities has not been exploited yet, even for the evaluation of the fetal state.
+

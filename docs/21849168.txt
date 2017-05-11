@@ -1,0 +1,11 @@
+Effect of gravity on robot-assisted motor training after chronic stroke: a randomized trial.
+
+OBJECTIVES To determine the efficacy of 2 distinct 6-week robot-assisted reaching programs compared with an intensive conventional arm exercise program (ICAE) for chronic, stroke-related upper-extremity (UE) impairment. To examine whether the addition of robot-assisted training out of the horizontal plane leads to improved outcomes.
+DESIGN Randomized controlled trial, single-blinded, with 12-week follow-up.
+SETTING Research setting in a large medical center.
+PARTICIPANTS Adults (N=62) with chronic, stroke-related arm weakness stratified by impairment severity using baseline UE motor assessments.
+INTERVENTIONS Sixty minutes, 3 times a week for 6 weeks of robot-assisted planar reaching (gravity compensated), combined planar with vertical robot-assisted reaching, or intensive conventional arm exercise program.
+MAIN OUTCOME MEASURE UE Fugl-Meyer Assessment (FMA) mean change from baseline to final training.
+RESULTS All groups showed modest gains in the FMA from baseline to final with no significant between group differences. Most change occurred in the planar robot group (mean change ± SD, 2.94 ± 0.77; 95% confidence interval [CI], 1.40-4.47). Participants with greater motor impairment (n=41) demonstrated a larger difference in response (mean change ± SD, 2.29 ± 0.72; 95% CI, 0.85-3.72) for planar robot-assisted exercise compared with the intensive conventional arm exercise program (mean change ± SD, 0.43 ± 0.72; 95% CI, -1.00 to 1.86).
+CONCLUSIONS Chronic UE deficits because of stroke are responsive to intensive motor task training. However, training outside the horizontal plane in a gravity present environment using a combination of vertical with planar robots was not superior to training with the planar robot alone.
+

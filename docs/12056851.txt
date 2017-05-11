@@ -1,0 +1,8 @@
+Clinical evaluation of the WOMAC 3.0 OA Index in numeric rating scale format using a computerized touch screen version.
+
+BACKGROUND The Western Ontario and McMaster Universities (WOMAC) Osteoarthritis Index is a previously described self-administered questionnaire covering three domains: pain, stiffness and function. It has been validated in patients with osteoarthritis (OA) of the hip or knee in a paper-based format.
+AIM To validate the WOMAC 3.0 using a numerical rating scale in a computerized touch screen format allowing immediate evaluation of the questionnaire. In the computed version cartoons, written and audio instruments were included in order facilitate application.
+METHODS Fifty patients, demographically balanced, with radiographically proven primary hip or knee OA completed the classical paper and the new computerized WOMAC version. Subjects were randomized either to paper format or computerized format first to balance possible order effects.
+RESULTS The intra-class correlation coefficients for pain, stiffness and function values were 0.915, 0.745 and 0.940, respectively. The Spearman correlation coefficients for pain, stiffness and function were 0.88, 0.77 and 0.87, respectively.
+CONCLUSION These data indicate that the computerized WOMAC OA index 3.0 is comparable to the paper WOMAC in all three dimensions. The computerized version would allow physicians to get an immediate result and if present a direct comparison with a previous exam.
+

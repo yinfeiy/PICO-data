@@ -1,0 +1,9 @@
+Anxiolytics in patients suffering a suspected acute coronary syndrome: multi-centre randomised controlled trial in Emergency Medical Service.
+
+BACKGROUND The prehospital treatment of pain and discomfort among patients who suffer from acute coronary syndrome (ACS) needs a treatment strategy which combines relief of pain with relief of anxiety.
+AIM The aim of the present study was to evaluate the impact on pain and anxiety of the combination of an anxiolytic and an analgesic as compared with an analgesic alone in the prehospital setting of suspected ACS.
+METHODS A multi-centre randomised controlled trial compared the combination of Midazolam (Mi)+Morphine (Mo) and Mo alone. All measures took part: Prior to randomisation, 15 min thereafter and on admission to a hospital. Inclusion criteria were: 1) pain raising suspicion of ACS and 2) pain score ≥4.
+PRIMARY ENDPOINT Pain score after 15 min.
+RESULTS In all, 890 patients were randomised to Mi+Mo and 873 to Mo alone. Pain was reduced from a median of 6 to 4 and finally to 3 in both groups. The mean dose of Mo was 5.3 mg in Mi+Mo and 6.0 mg in Mo alone (p<0.0001). Anxiety was reported in 66% in Mi+Mo and in 64% in Mo alone at randomisation (NS); 15 min thereafter in 31% and 39% (p=0.002) and finally in 12% and 26% respectively (p<0.0001). On admission to a hospital nausea or vomiting was reported in 9% in Mi+Mo and in 13% in Mo alone (p=0.003). Drowsiness differed; 15% and 14% were drowsy in Mi+Mo versus 2% and 3% in Mo alone respectively (p<0.001).
+CONCLUSION Despite the fact that the combination of anxiolytics and analgesics as compared with analgesics alone reduced anxiety and the requirement of Morphine in the prehospital setting of acute coronary syndrome, this strategy did not reduce patients' estimation of pain (primary endpoint). More effective pain relief among these patients is warranted.
+

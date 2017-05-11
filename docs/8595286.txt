@@ -1,0 +1,10 @@
+A randomised controlled trial comparing two schedules of antenatal visits: the antenatal care project.
+
+OBJECTIVE To compare the clinical and psychological effectiveness of the traditional British antenatal visit schedule (traditional care) with a reduced schedule of visits (new style care) for low risk women, together with maternal and professional satisfaction with care.
+DESIGN Randomised controlled trial.
+SETTING Places in south east London providing antenatal care for women receiving shared care and planning to deliver in one of three hospitals or at home.
+SUBJECT 2794 women at low risk fulfilling the trial's inclusion criteria between June 1993 and July 1994.
+MAIN OUTCOME MEASURES Measures of fetal and maternal morbidity, health service use, psychosocial outcomes, and maternal and professional satisfaction.
+RESULTS Pregnant women allocated to new style care had fewer day admissions (0.8 v 1.0; P=0.002) and ultrasound scans (1.6 v 1.7; P=0.003) and were less often suspected of carrying fetuses that were small for gestational age (odds ratio 0.73; 95% confidence interval 0.54 to 0.99). They also had some poorer psychosocial outcomes; for example, they were more worried about fetal wellbeing antenatally and coping with the baby postnatally, and they had more negative attitudes to their babies, both in pregnancy and postnatally. These women were also more dissatisfied with the number of visits they received (odds ratio 2.50; 2.00 to 3.11).
+CONCLUSIONS Patterns of antenatal care involving fewer routine visits for women at low risk may lead to reduced psychosocial effectiveness and dissatisfaction with frequency of visits. The number of antenatal day admissions and ultrasound scans performed may also be reduced. For the variables reported, the visit schedules studied are similar in their clinical effectiveness. Uncertainty remains as to the clinical effectiveness of reduced visit schedules for rare pregnancy problems.
+

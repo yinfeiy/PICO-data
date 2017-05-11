@@ -1,0 +1,7 @@
+Double-blind placebo-controlled trial of pentoxifylline added to risperidone: effects on aberrant behavior in children with autism.
+
+BACKGROUND There are several lines of evidence to indicate that the immune system plays an important role in the pathophysiology of autism. The objective of this study was to access the effects of pentoxifylline plus risperidone in the treatment of autistic disorder.
+METHODS Forty children between the ages 4 and 12 years with a DSM IV-TR clinical diagnosis of autism were recruited. The children presented with a chief complaint of severely disruptive symptoms related to autistic disorder. Patients were randomly allocated to pentoxifylline+risperidone or placebo+risperidone for a 10-week, double-blind, placebo-controlled study. The dose of risperidone was titrated up to 3 mg/day, pentoxifylline was titrated to 600 mg/day. Patients were assessed at baseline and after 2, 4, 6, 8 and 10 weeks of starting medication. The measure of the outcome was the Aberrant Behavior Checklist-Community (ABC-C).
+RESULTS The difference between the two protocols was significant as the group that received pentoxifylline had greater reduction in ABC-C subscale scores for Irritability, Lethargy/Social Withdrawal, Stereotypic Behavior, Hyperactivity/Noncompliance and Inappropriate Speech.
+CONCLUSION The results suggest that combination of atypical antipsychotic medications and pentoxifylline might have synergistic effects in treatment of behavioral problems of children with autism.
+

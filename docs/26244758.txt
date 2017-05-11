@@ -1,0 +1,10 @@
+A Comparison of Outcomes Following Laparoscopic and Open Hysterectomy With or Without Lymphadenectomy for Presumed Early-Stage Endometrial Cancer: Results From the Medical Research Council ASTEC Trial.
+
+OBJECTIVES Laparoscopic hysterectomy (LH) is increasingly used for the management of endometrial malignancy. Its benefits may be particularly pronounced as these women are more likely to be older or obese. The aim of this study was to determine whether outcomes for LH are comparable to the open hysterectomy (OH).
+DESIGN This was a prospective cohort study nested within the multicenter ASTEC (A Study in the Treatment of Endometrial Cancer) randomized controlled trial (1998-2005).
+POPULATION Women with presumed early endometrial cancer were included.
+METHODS Laparoscopic hysterectomy was compared with OH with or without systematic lymphadenectomy.
+MAIN OUTCOME MEASURES Overall survival, time to first recurrence, complication rates, and surgical outcomes were the main outcome measures.
+RESULTS Of 1408 women, 1309 (93%) received OH, and 99 (7%) had LH. LH was associated with longer operating time (median, LH 105 minutes [interquartile range (IQR), 60-150] vs OH 80 minutes [IQR, 60-95]; P < 0.001) but 50% shorter hospital stay (median, LH 4 days [IQR, 3-5] vs OH 6 days [IQR, 5-7]). The number of harvested lymph nodes was similar (median, LH 13 [IQR, 10-16] vs OH 12 [IQR, 11-13]; P = 0.67). LH had fewer intraoperative and postoperative adverse events (9% difference, LH 21% vs OH 30%; borderline significance; P = 0.07). The rate of conversion to laparotomy for the LH group was high (27%). The median follow-up was 37 months. After adjusting for significant prognostic factors, the hazard ratio for overall survival in those who underwent LH compared with those who underwent OH was 0.67 (95% confidence interval, 0.31-1.43) (P = 0.30).
+CONCLUSIONS Laparoscopic hysterectomy for early endometrial cancer is safe. Although it requires longer operating time it is associated with shorter hospital stay and favorable morbidity profile. Further studies are required to assess the long-term safety.
+

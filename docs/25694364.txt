@@ -1,0 +1,4 @@
+Computer-Assisted Face Processing Instruction Improves Emotion Recognition, Mentalizing, and Social Skills in Students with ASD.
+
+This study examined the extent to which a computer-based social skills intervention called FaceSay was associated with improvements in affect recognition, mentalizing, and social skills of school-aged children with Autism Spectrum Disorder (ASD). FaceSay offers students simulated practice with eye gaze, joint attention, and facial recognition skills. This randomized control trial included school-aged children meeting educational criteria for autism (N = 31). Results demonstrated that participants who received the intervention improved their affect recognition and mentalizing skills, as well as their social skills. These findings suggest that, by targeting face-processing skills, computer-based interventions may produce changes in broader cognitive and social-skills domains in a cost- and time-efficient manner.
+

@@ -1,0 +1,7 @@
+Omega-3 fatty acids supplementation in children with autism: a double-blind randomized, placebo-controlled pilot study.
+
+BACKGROUND There is increasing evidence that fatty acid deficiencies or imbalances may contribute to childhood neurodevelopmental disorders.
+METHODS We conducted a randomized, double-blind, placebo-controlled 6-week pilot trial investigating the effects of 1.5 g/d of omega-3 fatty acids (.84 g/d eicosapentaenoic acid, .7 g/d docosahexaenoic acid) supplementation in 13 children (aged 5 to 17 years) with autistic disorders accompanied by severe tantrums, aggression, or self-injurious behavior. The outcome measure was the Aberrant Behavior Checklist (ABC) at 6 weeks.
+RESULTS We observed an advantage of omega-3 fatty acids compared with placebo for hyperactivity and stereotypy, each with a large effect size. Repeated-measures ANOVA indicated a trend toward superiority of omega-3 fatty acids over placebo for hyperactivity. No clinically relevant adverse effects were elicited in either group.
+CONCLUSIONS The results of this study provide preliminary evidence that omega-3 fatty acids may be an effective treatment for children with autism.
+

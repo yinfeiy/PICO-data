@@ -1,0 +1,13 @@
+Randomized crossover study comparing efficacy of transnasal endoscopy with that of standard endoscopy to detect Barrett's esophagus.
+
+BACKGROUND Unsedated transnasal endoscopy (TNE) may be safer and less expensive than standard endoscopy (SE) for detecting Barrett's esophagus (BE). Emerging technologies require robust evaluation before routine use.
+OBJECTIVE To evaluate the sensitivity, specificity, and acceptability of TNE in diagnosing BE compared with those of SE.
+DESIGN Prospective, randomized, crossover study.
+SETTING Single, tertiary-care referral center.
+PATIENTS This study enrolled consecutive patients with BE or those referred for diagnostic assessment.
+INTERVENTION All patients underwent TNE followed by SE or the reverse. Spielberger State-Trait Anxiety Inventory short-form questionnaires, a visual analogue scale, and a single question addressing preference for endoscopy type were administered.
+MAIN OUTCOME MEASUREMENTS Diagnostic accuracy and tolerability of TNE were compared with those of SE.
+RESULTS Of 95 patients randomized, 82 completed the study. We correctly diagnosed 48 of 49 BE cases by TNE for endoscopic findings of columnar lined esophagus compared with the criterion standard, SE, giving a sensitivity and specificity of 0.98 and 1.00, respectively. The BE median length was 3 cm (interquartile range [IQR] 1-5 cm) with SE and 3 cm (IQR 2-4 cm) with TNE, giving high correlations between the two modalities (R(2) = 0.97; P < .001). The sensitivity and specificity for detecting intestinal metaplasia by TNE compared with those by SE was 0.91 and 1.00, respectively. The mean (± standard deviation) post-endoscopy Spielberger State-Trait Anxiety Inventory short-form score for TNE (30.0 ± 1.10 standard error of the mean [SEM]) was lower than that for SE (30.7 ± 1.29 SEM), (P = .054). The visual analogue scale scores were no different (P = .07). The majority of patients (59%) expressed a preference for TNE.
+LIMITATIONS This is a small study, with limited generalizability, a high prevalence of patients with BE, differential drop-out between the two procedures, and use of sedation.
+CONCLUSION TNE is an accurate and well-tolerated method for diagnosing BE compared with SE. TNE warrants further evaluation as a screening tool for BE.
+

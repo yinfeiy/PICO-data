@@ -1,0 +1,7 @@
+Benzodiazepine and opioid sedation attenuate the sympathetic response to fiberoptic bronchoscopy. Prophylactic labetalol gave no additional benefit. Results of a randomized double-blind placebo-controlled study.
+
+BACKGROUND Hypertension and tachycardia are common during fiber-optic bronchoscopy (FOB), and this may lead to cardiac ischemia. The prophylactic addition of a beta-adrenergic anatagonist might mask this response and prevent the deleterious cardiovascular effects of FOB.
+METHODS We performed a randomized double-blind placebo-controlled trial of labetalol 10mg iv given with midazolam-alfentanil sedation. We monitored heart rate (HR) and systolic/diastolic blood pressure (SBP/DBP) throughout the bronchoscopy and calculated the rate-pressure product (RPP=(HRxSBP)/100). One-hundred twenty patients were enrolled.
+RESULTS In the placebo group, there was no rise in HR, SBP, DBP or RPP, and there was no difference between the placebo and labetalol groups. Adverse events during bronchoscopy were similar in both groups. In a subgroup of patients undergoing interventional bronchoscopy, there was a trend towards lower SBP (p=0.06).
+CONCLUSIONS Patients undergoing FOB under adequate midazolam-alfentanil sedation do not develop excessive sympathetic drive that may lead to cardiac stress. The addition of labetalol did not confer additional benefit or risk to the patients. (ClinicalTrials.gov number, NCT00394537).
+

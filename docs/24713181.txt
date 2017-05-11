@@ -1,0 +1,11 @@
+Effect of body mass index on hemiparetic gait.
+
+OBJECTIVE To evaluate the relationship between body mass index (BMI) and spatiotemporal, kinematic, and kinetic gait parameters in chronic hemiparetic stroke survivors.
+DESIGN Secondary analysis of data collected in a randomized controlled trial comparing two 12-week ambulation training treatments.
+SETTING Academic medical center.
+PARTICIPANTS Chronic hemiparetic stroke survivors (N = 108, >3 months poststroke)
+METHODS Linear regression analyses were performed of BMI, and selected pretreatment gait parameters were recorded using quantitative gait analysis.
+MAIN OUTCOME MEASURES Spatiotemporal, kinematic, and kinetic gait parameters.
+RESULTS A series of linear regression models that controlled for age, gender, stroke type (ischemic versus hemorrhagic), interval poststroke, level of motor impairment (Fugl-Meyer score), and walking speed found BMI to be positively associated with step width (m) (β = 0.364, P < .001), positively associated with peak hip abduction angle of the nonparetic limb during stance (deg) (β = 0.177, P = .040), negatively associated with ankle dorsiflexion angle at initial contact of the paretic limb (deg) (β = -0.222, P = .023), and negatively associated with peak ankle power at push-off (W/kg) of the paretic limb (W/kg)(β = -0.142, P = .026).
+CONCLUSIONS When walking at a similar speed, chronic hemiparetic stroke subjects with a higher BMI demonstrated greater step width, greater hip hiking of the paretic lower limb, less paretic limb dorsiflexion at initial contact, and less paretic ankle power at push-off as compared to stroke subjects with a lower BMI and similar level of motor impairment. Further studies are necessary to determine the clinical relevance of these findings with respect to rehabilitation strategies for gait dysfunction in hemiparetic patients with higher BMIs.
+

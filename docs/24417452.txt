@@ -1,0 +1,7 @@
+Evaluating intervention using time aids in children with disabilities.
+
+OBJECTIVE The aim of this study was to evaluate complex intervention using time aids for children with intellectual and developmental disabilities who exhibit limitations in daily time management.
+METHODS Participating children (n = 47) (F17/M30) were aged 6-11 with ADHD, autism spectrum disorders, mild or moderate intellectual disability, spina bifida, and cerebral palsy. This study used a Randomized Block and Waiting List control group design, with 25 children allocated to control and 22 to intervention group. In total 10 children (21.3%), five from each group, dropped out, leaving 37 children in the data analysis.
+RESULTS Children in both groups gained significantly in time-processing ability between the first and second data collection, but the children in the intervention group improved time-processing ability significantly more than controls. The control group also displayed significant changes after receiving intervention between the second and third data collection. The intervention had a large effect (ES Cohen's d = 0.81) on time-processing ability and a medium effect (ES Cohen's d = 0.68) on managing one's time.
+CONCLUSIONS This study provides preliminary evidence that time-processing ability and managing one's time can be improved by intervention using time aids in children with intellectual and developmental disabilities, supporting the need to consider time aids in intervention in these children.
+

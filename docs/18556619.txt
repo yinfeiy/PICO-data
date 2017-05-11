@@ -1,0 +1,7 @@
+A randomized controlled trial for reducing risks for sexually transmitted infections through enhanced patient-based partner notification.
+
+OBJECTIVES We sought to assess the effectiveness of approaches targeting improved sexually transmitted infection (STI) sexual partner notification through patient referral.
+METHODS From January 2002 through December 2004, 600 patients with Neisseria gonorrhoeae or Chlamydia trachomatis were recruited from STI clinics and randomly assigned to either a standard-of-care group or a group that was counseled at the time of diagnosis and given additional follow-up contact. Participants completed an interview at baseline, 1 month, and 6 months and were checked at 6 months for gonorrhea or chlamydial infection via nucleic acid amplification testing of urine.
+RESULTS Program participants were more likely to report sexual partner notification at 1 month (86% control, 92% intervention; adjusted odds ratio [AOR] = 1.8; 95% confidence interval [CI] = 1.02, 3.0) and were more likely to report no unprotected sexual intercourse at 6 months (38% control, 48% intervention; AOR = 1.5; 95% CI = 1.1, 2.1). Gonorrhea or chlamydial infection was detected in 6% of intervention and 11% of control participants at follow-up (AOR = 2.2; 95% CI = 1.1, 4.1), with greatest benefits seen among men (for gender interaction, P = .03).
+CONCLUSIONS This patient-based sexual partner notification program can help reduce risks for subsequent STIs among urban, minority patients presenting for care at STI clinics.
+

@@ -1,0 +1,8 @@
+The influence of ventricular fibrillation duration on defibrillation efficacy using biphasic waveforms in humans.
+
+OBJECTIVES The purpose of this study was to prospectively investigate the influence of ventricular fibrillation (VF) durations of 5, 10 and 20 s on the defibrillation threshold (DFT) during implantable cardioverter-defibrillator (ICD) implantation.
+BACKGROUND Although the DFT using monophasic waveforms has been shown to increase with VF duration in humans, the effect of VF duration on defibrillation efficacy using biphasic waveforms in humans is not known.
+METHODS Thirty patients undergoing primary ICD implantation or pulse generator replacement were randomly assigned to have the DFT determined using biphasic shocks at two durations of VF each (5 and 10 s, 10 and 20 s or 5 and 20 s).
+RESULTS There was no statistically significant difference in the mean DFT comparing VF durations of 5 s (9.5+/-6.0 J) and 10 s (10.8+/-7.0 J) (p=0.4). The mean DFT significantly increased from 10.9+/-6.1 J at 10 s of VF to 12.6+/-5.6 J (p=0.03) at 20 s of VF, and from 7.0+/-3.5 J at 5 s of VF to 10.5+/-6.3 J (p=0.04) at 20 s of VF. An increase in the DFT was observed in 14 patients as VF duration increased. There were no clinical characteristics that differentiated patients with and without an increase in the DFT.
+CONCLUSIONS Defibrillation efficacy decreases with increasing VF duration using biphasic waveforms in humans. Ventricular fibrillation durations greater than 10 s may negatively affect the effectiveness of ICD therapy.
+

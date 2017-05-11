@@ -1,0 +1,7 @@
+Assessment of radiotherapy combined with adjuvant chemotherapy in the treatment of patients with advanced nasopharyngeal carcinoma: a prospective study.
+
+PURPOSE To explore the clinical efficacy of radiotherapy combined with concurrent combination chemotherapy in the treatment of patients with advanced nasopharyngeal carcinoma (NPC).
+METHODS Two hundred patients with stage III/IV NPC were randomly allocated into the treatment group (N=100) and the control group (N=100). Patients in the control group received conventional fractionated radiotherapy, while patients in the treatment group received conventional fractionated radiotherapy combined with concurrent combination chemotherapy with cisplatin and 5-fluorouracil (5-FU). Short-term efficacy, radiotherapy toxicity, shortand long-term survival were compared.
+RESULTS The short-term response rate of the treatment group was 96%, which was significantly higher than that of the control group (87%, p<0.05). The local radiation toxicity of the treatment group was similar to that of the control group p>0.05), but the hematological and gastrointestinal toxicities were significantly higher in the treatment group p<0.05). The 1-, 3- and 5-year overall survival rates were 87, 80, and 76%, respectively, in the treatment group and 74, 64, and 51%, respectively, in the control group, significantly favoring the treatment group p<0.05).
+CONCLUSION Radiotherapy with concurrent combination chemotherapy can improve the prognosis of patients with advanced NPC but at the cost of significant toxicity.
+

@@ -1,0 +1,8 @@
+Initial clinical experience with implantation of left ventricular lead guided by Overlay Ref for the treatment of congestive heart failure.
+
+BACKGROUND Cardiac resynchronization therapy (CRT) improves clinical outcome in selected patients with advanced congestive heart failure. The Overlay Ref technique may facilitate the procedure for implanting left ventricular (LV) pacing leads to deliver CRT.
+AIM To assess the feasibility of deploying a LV pacing lead into a coronary sinus side branch guided by Overlay Ref.
+METHODS Data from 88 consecutive patients who met the CRT implantation criteria in our hospital between 28 November 2007 and 30 December 2009 were randomly assigned to two groups. Forty-four patients underwent CRT device implantation using Overlay Ref to guide target vein selection and advance a specifically designed pacing lead into the target vein (Overlay Ref group); 44 patients were conventionally implanted (control group).
+RESULTS LV lead implantation was successful in all patients. Mean CRT total procedure times (skin-to-skin) were: Overlay Ref group, 80.7 ± 18.0 min; control group, 98.5 ± 32.2 min; p = 0.029. Mean placement of LV pacing lead into target vein times were: Overlay Ref group, 16.2 ± 7.7 min; control group, 36.4 ± 23.4 min; p=0.004. Mean total fluoroscopy times were: Overlay Ref group, 13.6 ± 4.3 min; control group, 23.8 ± 15.7 min; p=0.007. Mean LV lead fluoroscopy times were: Overlay Ref group, 5.7 ± 2.9 min; control group, 14.4 ± 4.6 min; p=0.003. No major complications occurred.
+CONCLUSIONS Overlay Ref facilitates location of and entry into the coronary sinus, and shortens the duration of LV pacing lead implantation into the target vein.
+

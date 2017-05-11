@@ -1,0 +1,8 @@
+Nurse and patient communication profiles in a home-based telehealth intervention for heart failure management.
+
+OBJECTIVE This study compared differences in nurse and patient communication profiles between two telehealth modes: telephone and videophone, and evaluated longitudinal changes in communication, nurse perceptions, and patient satisfaction.
+METHODS Subjects were enrolled in a randomized controlled clinical trial evaluating a 90-day home-based intervention for heart failure. Telephone (n=14) and videophone (n=14) interactions were audio taped and analyzed using the Roter Interaction Analysis System.
+RESULTS Nurses were more likely to use open-ended questions, back-channel responses, friendly jokes, and checks for understanding on the telephone compared to videophone. Compliments given and partnership were more common on the videophone. Patients were more likely to give lifestyle information and approval comments on the telephone, and used more closed-ended questions on the videophone. Nurses perceptions of the interactions were not different between the telephone and videophone, nor did their perceptions change significantly over the course of the intervention. There were no significant differences in patient satisfaction between the telephone and videophone.
+CONCLUSIONS The results of this study did not support use of a videophone over the telephone.
+PRACTICE IMPLICATIONS It is critical to match technologies to patient needs and use the least complex technology possible. When considering use a videophone, health care providers should critically examine the trade-offs between additional complexities with the added value of the visual interaction.
+

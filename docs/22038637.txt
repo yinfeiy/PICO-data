@@ -1,0 +1,7 @@
+[Prophylactic intraaortic balloon pumping in high-risk cardiac surgery patients].
+
+BACKGROUND We examined the impact of prophylactic IABP insertion in EuroSCORE-stratified high-risk cardiac surgery patients with a score ≥8.
+MATERIAL AND METHODS A randomized trial with 104 patients either without prophylactic IABP insertion (group A, n=52) or with IABP (group B, n=52) was conducted. The primary endpoint was 30-day mortality.
+RESULTS The median age of the patients was 74 years and 43% of participants were females. The 30-day mortality did not differ between group A (17.3%) and group B (13.4%; p=0.78). The median hospital stay was 14 days in both groups. Intra- and postoperative IABP support was required by 13 patients (21%) in group A. The median ventilation time (14 hours versus 13 hours), median catecholamine dose, frequency of dialysis-dependent acute renal failure (28% versus 18%), cardiac indices, and frequency of a low cardiac output syndrome (26% versus 25%) did not significantly differ between groups.
+CONCLUSION Prophylactic preoperative IABP insertion in EuroSCORE-stratified high-risk patients is not associated with decreased 30-day mortality.
+

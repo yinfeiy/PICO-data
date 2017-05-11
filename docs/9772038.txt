@@ -1,0 +1,7 @@
+Involvement of cholecystokininA receptors in transient lower esophageal sphincter relaxations triggered by gastric distension.
+
+OBJECTIVE Transient lower esophageal sphincter relaxations (TLESRs) are the main mechanism underlying gastroesophageal reflux. In the present study we evaluated the effect of loxiglumide, a specific cholecystokininA (CCKA)-receptor antagonist, on the occurrence of TLESRs evoked by gastric distension.
+METHODS Eight healthy subjects underwent esophageal manometry using a 10-lumen sleeve assembly during placebo or loxiglumide (10 mg/kg/h) in a randomized double-blind order. Gastric distension was induced by inflation of 400 ml of air.
+RESULTS Basal lower esophageal pressure (LESP) and swallow-induced relaxation were not affected by loxiglumide. Loxiglumide significantly reduced the number of TLESRs, from 11.5 (5.8-18.3) to 6.0 (3.3-14.3) during the total recording period of 1 h, and from 5.5 (4.25-7.5) to 2.0 (0.5-6.8) during the first 15 min. The number of common cavities was significantly decreased by loxiglumide, from 8.0 (4.0-20.0) to 5.0 (2.0-7.8). TLESRs represented the main mechanism (60% during placebo, 74% during loxiglumide) underlying common cavities, followed by swallow-induced relaxation.
+CONCLUSIONS Loxiglumide significantly reduces the number of TLESRs triggered by gastric distension without interfering with swallow-related relaxation of the lower esophageal sphincter, suggesting the involvement of CCKA receptors in the reflex pathway mediating TLESRs.
+

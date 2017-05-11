@@ -1,0 +1,8 @@
+A randomized controlled trial of nonlinear frequency compression versus conventional processing in hearing aids: speech and language of children at three years of age.
+
+OBJECTIVE To determine the effect of nonlinear frequency compression (NLFC) on children's development of speech and language at three years of age.
+DESIGN A randomized controlled trial was conducted as part of the population-based longitudinal study on outcomes of children with hearing impairment (LOCHI). Participants were randomly assigned to fitting with NLFC (Phonak Naida V SP or UP) or with conventional processing in hearing aids, prescribed by using either the NAL or the DSL formula. Standardized tests of speech production, receptive and expressive language were administered, and parent ratings were collected. All assessments were double-blinded.
+STUDY SAMPLE Participants were 44 of the 450 children in the LOCHI cohort.
+RESULTS Compared to children using conventional processing, receptive and expressive language was higher but receptive vocabulary and consonant articulation scores were lower for children who use NLFC. There was increased substitution of affricates by fricatives for children using NLFC, compared to children using conventional amplification. After allowing for the effect of multiple demographic variables, the difference in global language scores between groups was not significant (effect: 0.8 [95% confidence interval: - 6.7, 8.3]).
+CONCLUSIONS There is insufficient evidence to indicate a difference in language ability between children using NLFC and those using conventional amplification.
+

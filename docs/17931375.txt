@@ -1,0 +1,10 @@
+A study on the effect of the duration of subcutaneous heparin injection on bruising and pain.
+
+AIM This study was carried out to determine the effect of injection duration on bruising and pain following the administration of the subcutaneous injection of heparin.
+BACKGROUND Although different methods to prevent bruising and pain following the subcutaneous injection of heparin have been widely studied and described, the effect of injection duration on the occurrence of bruising and pain is little documented.
+DESIGN This study was designed as within-subject, quasi-experimental research.
+METHOD The sample for the study consisted of 50 patients to whom subcutaneous heparin was administered. Heparin was injected over 10 seconds on the right abdominal site and 30 seconds on the left abdominal site. Injections areas were assessed for the presence of bruising at 48 and 72 hours after each injection. Dimensions of the bruising on the heparin applied areas were measured using transparent millimetric measuring paper. The visual analog scale (VAS) was used to measure pain intensity and a stop-watch was used to time the pain period. Data were analysed using chi-square test, Mann-Whitney U, Wilcoxon signed ranks tests and correlation.
+RESULTS The percentage of bruising occurrence was 64% with the injection of 10 seconds duration and 42% in the 30-second injection. It was determined that the size of the bruising was smaller in the 30-second injection. Pain intensity and pain period were statistically significantly lower for the 30-second injection than for the 10-second injection.
+CONCLUSIONS It was determined that injection duration had an effect on bruising and pain following the subcutaneous administration of heparin. This study should be repeated on a larger sample.
+RELEVANCE TO CLINICAL PRACTICE When administering subcutaneous heparin injections, it is important to extend the duration of the injection.
+

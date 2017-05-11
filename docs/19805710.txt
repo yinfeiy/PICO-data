@@ -1,0 +1,11 @@
+Randomized clinical trial of behavioral intervention and nutrition education to improve caloric intake and weight in children with cystic fibrosis.
+
+OBJECTIVE To evaluate the efficacy of a behavioral plus nutrition education intervention, Be In CHARGE!, compared with that of a nutrition education intervention alone on caloric intake and weight gain in children with cystic fibrosis and pancreatic insufficiency.
+DESIGN Randomized controlled trial.
+SETTING Cystic fibrosis centers in the eastern, midwestern, and southern United States.
+PARTICIPANTS Seventy-nine children aged 4 to 12 years below the 40th percentile for weight for age were recruited. Sixty-seven completed the intervention and 59 completed a 24-month follow-up assessment.
+INTERVENTION Comparison of a behavioral plus nutrition education intervention with a nutrition education intervention alone.
+MAIN OUTCOME MEASURES Primary outcomes were changes from pretreatment to posttreatment in caloric intake and weight gain. Secondary outcomes were changes from pretreatment to posttreatment in percentage of the estimated energy requirement and body mass index z score. These outcomes were also examined 24 months posttreatment.
+RESULTS After treatment, the behavioral plus nutrition education intervention as compared with the nutrition education intervention alone had a statistically greater average increase on the primary and secondary outcomes of caloric intake (mean, 872 vs 489 cal/d, respectively), percentage of the estimated energy requirement (mean, 148% vs 127%, respectively), weight gain (mean, 1.47 vs 0.92 kg, respectively), and body mass index z score (0.38 vs 0.18, respectively). At the 24-month follow-up, children in both conditions maintained an estimated energy requirement of around 120% and did not significantly differ on any outcomes.
+CONCLUSIONS A behavioral plus nutrition education intervention was more effective than a nutrition education intervention alone at increasing dietary intake and weight over a 9-week period. However, across the 24-month follow-up, both treatments achieved similar outcomes. Trial Registration clinicaltrials.gov Identifier: NCT00006169.
+

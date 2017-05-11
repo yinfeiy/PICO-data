@@ -1,0 +1,4 @@
+Plasma dilution and the rate of infusion of Ringer's solution.
+
+Changes in the volume of the fluid space expanded by i.v. infusion of Ringer's acetate solution have been analysed recently using mathematical models. Data obtained by such analyses allow simulation of the dilution of the plasma volume during infusion of the solution at different rates. To obtain basic kinetic data for such simulations, the plasma dilution-time curves were measured during and after i.v. infusion of Ringer's solution 25 ml kg-1 over 30 min in 15 healthy male volunteers (mean age 31 yr) and over 30, 45 and 80 min in six females (mean age 32 yr). Based on these experiments, nomograms were constructed from which the rate of infusion of Ringer's solution and the infusion time required to obtain a defined plasma dilution in both males and females can be estimated together with the infusion rate needed to maintain the dilution at the level reached.
+

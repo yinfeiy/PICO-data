@@ -1,0 +1,9 @@
+Magnetic resonance imaging in the evaluation of clinical treatment of otospongiosis: a pilot study.
+
+OBJECTIVES To evaluate the applicability of magnetic resonance imaging (MRI) as a method for monitoring the activity of otospongiotic lesions before and after clinical treatment.
+STUDY DESIGN Prospective, randomized, controlled, double-blind study.
+SETTING One single tertiary care institution in a large, cosmopolitan city.
+METHODS Twenty-six patients (n = 42 ears) with clinical, audiometric, and tomographic diagnosis of otosclerosis were enrolled. If computed tomography (CT) demonstrated active lesions, these patients underwent MRI to detect otospongiotic foci, seen as areas of gadolinium enhancement. Patients were divided into 3 groups and received treatment with placebo, sodium alendronate, or sodium fluoride for 6 months. After this period, clinical and audiometric evaluations and a second MRI were performed. Each MRI was evaluated by both a neuroradiologist and an otolaryngologist in a subjective (visual) and objective (using specific eFilm Workstation software) manner.
+RESULTS Otospongiosis was most predominantly identified in the region anterior to the oval window, and this site was reliable for comparing pre- and posttreatment scans. The patients in the alendronate and sodium fluoride groups had MRI findings that suggested a decrease in activity of otospongiotic lesions, more relevant in the alendronate group. These findings were statistically significant for both subjective and objective MRI evaluations.
+CONCLUSIONS MRI shows higher sensitivity than clinical or audiometric assessment for detecting reduction in activity of otospongiosis. The objective MRI evaluation based on software analysis was the most accurate method of monitoring clinical treatment response in otospongiosis.
+

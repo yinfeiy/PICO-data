@@ -1,0 +1,9 @@
+Effect of topical rh-TGF-beta 1 on second intention wound healing in horses.
+
+OBJECTIVE To investigate the effects on wound healing of transforming growth factor-beta 1 as a topical treatment to full-thickness, excisional wounds of the distal limb of horses.
+DESIGN A randomised block study using four horses, each with wounds assigned to four treatment groups.
+ANIMALS Four adult Standardbred geldings.
+PROCEDURE Four, 4 cm2, full-thickness wounds were created on the dorsomedial and dorsolateral aspect of the metacarpus or metatarsus of each limb of four horses, giving a total of 64 wounds. For each limb, wounds were randomly assigned to four treatment groups: no treatment (control), carrier (Methyl Cellulose gel), 50 ng/wound rhTGF-beta 1 in carrier, and 500 ng/wound rhTGF-beta 1 in carrier. Wounds were treated on day 0 and day 8. Effects of treatment were evaluated on the basis of the presence of exuberant granulation tissue requiring excision, number of times excision was required, total wound area, area of epithelialisation, area of granulation, and histological evaluation of biopsy samples of wounds on day 8 and excised wounds on day 21.
+RESULTS Topical application of TGF-beta 1 at the two concentrations studied had no significant effect on the total area of wounds (P = 0.7), the area of granulation tissue (P = 0.78), the area of epithelialisation (P = 0.92), histological assessment or subjective clinical assessment of wounds.
+CONCLUSION TGF-beta 1 had no beneficial effects on wound healing. Additional trials are needed to test if it has value for wound treatment in horses.
+

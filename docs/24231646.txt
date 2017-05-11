@@ -1,0 +1,7 @@
+Humoral immunity after kidney transplantation: impact of two randomized immunosuppressive protocols.
+
+BACKGROUND Controlling alloimmune humoral response is a challenge in transplantation. Few studies have evaluated the impact of maintenance immunosuppression on blood humoral parameters.
+MATERIAL/METHODS We performed a post-hoc analysis on 307 kidney transplant recipients included in a prospective randomized trial comparing tacrolimus/mycophenolate mofetil (Tac/MMF) vs. cyclosporine/azathioprine (CsA/AZA), both used with antithymocyte globulin induction and steroids. Humoral parameters were analyzed at D0, D15, and M12.
+RESULTS IgG, IgA, and IgM levels decreased significantly as soon as D15 in both groups (–35%, –26%, and –35% respectively, vs. D0). At M12, although peripheral B-cell counts did not differ between the groups, Tac/MMF regimen was associated with lower IgG, IgA, and IgM levels than CsA/AZA (–5.9%, –14.6%, and –34%, respectively). Hypogammaglobulinemia at D15 was not associated with an increased risk of infections during the first year. The proportion of HLA-sensitized patients decreased in the Tac/MMF group (15.9% at D0 and 6.7% at M12, p=0.02) and remained stable in the CsA/AZA group (10.3% at D0 and 8.9% at M12, p=0.5). More patients sensitized at baseline became non-sensitized at M12 with Tac/MMF than with CsA/AZA.
+CONCLUSIONS Our results suggest humoral immunosuppression is better with Tac/MMF than with CsA/AZA during the first year of kidney transplantation.
+

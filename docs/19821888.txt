@@ -1,0 +1,10 @@
+Comparison of fluid types for resuscitation after acute blood loss in mallard ducks (Anas platyrhynchos).
+
+OBJECTIVE The purpose of this study was to determine the LD(50) for acute blood loss in mallard ducks (Anas platyrhynchos), compare the mortality rate among 3 fluid resuscitation groups, and determine the time required for a regenerative RBC response.
+DESIGN Prospective study.
+SETTING Medical College of Wisconsin Research facility.
+ANIMALS Eighteen mallard ducks were included for the LD(50) study and 28 for the fluid resuscitation study.
+INTERVENTIONS Phlebotomy was performed during both the LD(50) and fluid resuscitation studies. Ducks in the fluid resuscitation study received a 5 mL/kg intravenous bolus of crystalloids, hetastarch (HES), or a hemoglobin-based oxygen-carrying solution (HBOCS).
+MEASUREMENTS AND MAIN RESULTS The LD(50) for acute blood loss was 60% of total blood volume. This blood volume was removed in the fluid resuscitation study to create a model of acute blood loss. Following fluid administration, 6 birds in the crystalloid group (66%), 4 birds in the HES group (40%), and 2 birds in the HBOCS group (20%) died. No statistical difference in mortality rate was seen among the 3 fluid resuscitation groups. Relative polychromasia evaluated post-phlebotomy demonstrated regeneration starting at 24 hours and continuing through 48 hours.
+CONCLUSIONS The LD(50) for acute blood loss in mallard ducks was 60% of their total blood volume. Although no statistical difference in mortality rate was appreciated among the 3 fluid resuscitation groups, a trend of decreased mortality rate was observed in the HBOCS group. An early regenerative response was apparent following acute blood loss.
+

@@ -1,0 +1,7 @@
+Clinical and microbial evaluation of a histatin-containing mouthrinse in humans with experimental gingivitis.
+
+OBJECTIVE P-113, a 12 amino acid histatin-based peptide, was evaluated in a mouthrinse formulation for safety, prevention of the development of experimental gingivitis, and for its effects on periodontal flora.
+METHOD 159 periodontally healthy subjects abstained from oral hygiene procedures and self-administered either 0.005%, 0.01%, 0.05% P-113 or placebo mouthrinse formulations twice daily over a four week treatment period. During this time, the safety, anti-plaque, and anti-gingivitis effects of P-113 were evaluated.
+RESULTS There was a significant reduction in plaque (p=0.046) and a reduction in gingivitis (p=0.086) for subjects using 0.01% P-113 mouthrinse. Significantly more subjects in the 0.01% and 0.05% treatment groups showed a small increase in plaque index of <0.25 as compared to the placebo group (p<0.05). Similar trends were noted for changes in the % of sites with bleeding on probing in the 0.01% P-113 group. There were no treatment-related adverse events, and there were no adverse shifts in supragingival microflora during the study.
+CONCLUSION These data suggest that P-113 mouthrinse is safe and reduces plaque, gingivitis and gingival bleeding in the human experimental gingivitis model.
+

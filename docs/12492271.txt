@@ -1,0 +1,9 @@
+Ankle cryotherapy facilitates soleus function.
+
+STUDY DESIGN A 2-factor (group and time) experimental design with repeated measures on time.
+OBJECTIVES To determine the effects of ankle cryotherapy on voluntary and resting motor function of the soleus over a 60-minute period. To determine if a relationship exists between changes in torque production and Hoffmann reflex (H-reflex) following ankle joint cryotherapy treatment.
+BACKGROUND Controversy surrounds the use of cryotherapy prior to activity and rehabilitation. While cooling muscle may have a deleterious effect on motor function, cooling the joint may enhance motor function around the joint. The H-reflex is a good resting measure of motoneuronal activity. However, its relationship to voluntary activity is unknown.
+METHODS AND MEASURES Thirty subjects were pretested (baseline) for normalized H-reflex (defined as the ratio of maximum H-reflex [Hmax] to maximum direct motor response [Mmax]) and peak plantar flexion torque. A crushed ice bag was placed over the ankle of 15 subjects for 30 minutes. H-reflex and torque measurements were collected immediately following the cryotherapy treatment at 30, 60, and 90 minutes. Surface temperatures were recorded from the ankle and electrode site with each measurement interval.
+RESULTS Both peak H-reflex and plantar flexion torque at 30, 60, and 90 minutes increased relative to baseline measurements. Each measurement was also greater than the corresponding control at 30, 60, and 90 minutes. A weak correlation (r = 0.38; P = 0.036) existed between changes in H-reflex and plantar flexion torque at 30 minutes.
+CONCLUSIONS The soleus motoneuron pool is facilitated following a 30-minute crushed ice application to the ankle and over a 60-minute postcooling period. These data support the use of joint cooling prior to activity and rehabilitation.
+

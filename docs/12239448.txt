@@ -1,0 +1,7 @@
+Stepwise hook extension technique for radiofrequency ablation therapy of hepatocellular carcinoma.
+
+OBJECTIVE Our study was designed to examine the efficacy of stepwise hook extension technique for radiofrequency ablation (RFA) therapy of hepatocellular carcinoma in a randomized controlled study.
+METHOD Twenty patients with hepatocellular carcinoma measuring <25 mm were divided randomly into two equal groups. RFA was applied using our new stepwise hook extension technique in patients of group 1, and the full extension method in group 2. The 10-hook electrode of LeVeen needle was deployed in four steps to full extension during ablation in group 1, and full extension at start of treatment in group 2.
+RESULTS Roll-off was achieved in all 10 patients of group 1, indicative of sufficient tumor coagulation, but only in 3 of 10 patients of group 2. The median time to completion of treatment was 6 min and 55 s (range 3 min to 14 min and 3 s) and 15 min (6-15 min), respectively. The total power output used for RF was lower in group 1 than in group 2 (median 271 vs. 1,045 W.m). The diameters of RFA-induced lesions were not significantly different between the groups (group 1: 27, range 23-37 mm; group 2: 23, 0-42 mm).
+CONCLUSIONS Application of RFA using stepwise hook extension technique is superior to the full extension method since it produces the same therapeutic effects within a short period using a lower energy.
+

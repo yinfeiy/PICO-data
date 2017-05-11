@@ -1,0 +1,11 @@
+Action observation treatment improves recovery of postsurgical orthopedic patients: evidence for a top-down effect?
+
+OBJECTIVE To assess whether action observation treatment (AOT) may also improve motor recovery in postsurgical orthopedic patients, in addition to conventional physiotherapy.
+DESIGN Randomized controlled trial.
+SETTING Department of rehabilitation.
+PARTICIPANTS Patients (N=60) admitted to our department postorthopedic surgery were randomly assigned to either a case (n=30) or control (n=30) group. Exclusion criteria were age 18 years or younger and 90 years or older, Mini-Mental State Examination score of 21 of 30 or lower, no ambulating order, advanced vision impairment, malignancy, pneumonia, or heart failure.
+INTERVENTIONS All participants underwent conventional physiotherapy. In addition, patients in the case group were asked to observe video clips showing daily actions and to imitate them afterward. Patients in the control group were asked to observe video clips with no motor content and to execute the same actions as patients in the case group afterward. Participants were scored on functional scales at baseline and after treatment by a physician blinded to group assignment.
+MAIN OUTCOMES MEASURES Changes in FIM and Tinetti scale scores, and dependence on walking aids.
+RESULTS At baseline, groups did not differ in clinical and functional scale scores. After treatment, patients in the case group scored better than patients in the control group (FIM total score, P=.02; FIM motor subscore, P=.001; Tinetti scale score, P=.04); patients in the case group were assigned more frequently to 1 crutch (P=.01).
+CONCLUSIONS In addition to conventional physiotherapy, AOT is effective in the rehabilitation of postsurgical orthopedic patients. The present results strongly support top-down effects of this treatment in motor recovery, even in nonneurologic patients.
+

@@ -1,0 +1,7 @@
+Lack of a pharmacokinetic interaction between steady-state roflumilast and single-dose midazolam in healthy subjects.
+
+AIMS The aim of this study was to investigate the effects of roflumilast, an investigational PDE4 inhibitor for the treatment of COPD and asthma, on the pharmacokinetics of the CYP3A probe drug midazolam and its major metabolites.
+METHODS In an open, randomized (for midazolam treatment sequence) study, 18 healthy male subjects received single doses of midazolam (2 mg oral and 1 mg i.v., 1 day apart) alone, repeated doses of roflumilast (500 microg once daily for 14 days) alone, and repeated doses of roflumilast together with single doses of midazolam (2 mg oral and 1 mg i.v., 1 day apart).
+RESULTS A comparison of clearance and peak and systemic exposure to midazolam following administration of roflumilast indicated no effect of roflumilast dosed to steady state on the pharmacokinetics of midazolam. Point estimates (90% CI) were 0.97 (0.84, 1.13) for the AUC of i.v. midazolam and 0.98 (0.82, 1.17) for that of oral midazolam with and without roflumilast.
+CONCLUSIONS Therapeutic steady state concentrations of roflumilast and its N-oxide do not alter the disposition of the CYP3A substrate midazolam in healthy subjects. This finding suggests that roflumilast is unlikely to alter the clearance of drugs that are metabolized by CYP3A4.
+

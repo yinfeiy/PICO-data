@@ -1,0 +1,11 @@
+Effect of interferon gamma on infection-related death in patients with severe injuries. A randomized, double-blind, placebo-controlled trial.
+
+OBJECTIVE To assess the efficacy of interferon gamma in reducing infection and death in patients sustaining severe injury.
+DESIGN Multicenter, randomized, double-blind, placebo-controlled trial with observation for 60 days and until discharge for patients with major infection on day 60.
+SETTING Nine university-affiliated level 1 trauma centers.
+PATIENTS Four hundred sixteen patients with severe injuries, assessed by Injury Severity Score and degree of contamination.
+INTERVENTION Recombinant human interferon gamma, 100 micrograms, was administered subcutaneously once daily for 21 days (or until patient discharge if prior to 21 days) as an adjunct to standard antibiotic and supportive therapy.
+MAIN OUTCOME MEASURES Incidence of major infection, death related to infection, and death.
+RESULTS Infection rates were similar in both treatment groups; however, patients treated with interferon gamma experienced fewer deaths related to infection (seven [3%] vs 18 [9%]; P = .008) and fewer overall deaths (21 [10%] vs 30 [14%]; P = .17). While 12 early deaths (days 1 through 7) occurred in each treatment group, late death occurred in 18 placebo-treated patients and nine in interferon gamma-treated patients. The results were dominated by findings at one center, which had the highest enrollment and higher infection and death rates. Statistical analysis did not eliminate the possibility of an unidentified imbalance between arms as an explanation for the results.
+CONCLUSION Further evaluation is required to determine the validity of the observed reduction in infection-related deaths in patients treated with interferon gamma.
+

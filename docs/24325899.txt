@@ -1,0 +1,10 @@
+Randomized study comparing use of THUNDERBEAT technology vs standard electrosurgery during laparoscopic radical hysterectomy and pelvic lymphadenectomy for gynecologic cancer.
+
+STUDY OBJECTIVE To compare operative time with use of THUNDERBEAT (TB) vs standard electrosurgery (SES) during laparoscopic radical hysterectomy and pelvic lymphadenectomy to treat gynecologic tumors.
+DESIGN Evidence obtained from a properly designed, randomized, controlled trial (Canadian Task Force classification I).
+SETTING Gynecologic Oncology Unit of the Catholic University of the Sacred Heart in Rome, Italy.
+PATIENTS Fifty patients with early cervical cancer (FIGO stages IA2, IB1, IIA <2 cm) or locally advanced cervical cancer (FIGO stages IB2, IIA >2cm, IIB) who received neoadjuvant treatment (chemotherapy or radiochemotherapy) and demonstrated a complete or partial clinical response and early stage endometrioid endometrial cancer (FIGO stages IB, II) were randomly assigned to undergo TB (arm A) or SES (arm B).
+INTERVENTION Laparoscopic radical hysterectomy with bilateral pelvic lymphadenectomy, using an easily reproducible technique was performed.
+MEASUREMENTS AND MAIN RESULTS Fifty patients were available for analysis, with 25 women randomly assigned to TB (arm A) and 25 to SES (arm B). The median operative time was 85 minutes for TB vs 115 minutes for SES (p = .001). At multivariate analysis, endometrial cancer (p = .001) and TB (p = .001) were independently associated with shorter operating time. No differences in perioperative outcomes and postoperative complications were observed between the 2 arms. Patients who underwent TB reported less postoperative pain, both at rest (p = .005) and after the Valsalva maneuver (p = .008), with less additional analgesic therapy other than standard therapy required in patients who underwent SES (p = .02).
+CONCLUSION TB is associated with shorter operative time and less postoperative pain than is the standard technique (SES) in patients with uterine cancer.
+

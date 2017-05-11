@@ -1,0 +1,10 @@
+Long-stay versus short-stay hospital treatment of children suffering from severe protein-energy malnutrition.
+
+OBJECTIVE To contrast early discharge versus attempted full nutritional rehabilitation in hospital of children suffering from severe protein-energy malnutrition (PEM).
+DESIGN Field experiment, two-way analysis of variance with one between group (short- versus long-stay) and one repeated measures factor (admission, then 12, 18, 24, 30 and 36 months post-admission). Covariates introduced.
+SETTING Primary health care, Kingston, Jamaica.
+SUBJECTS n = 81; mean age 11 months; 79 contribute longitudinal data; 44 every measurement.
+INTERVENTIONS When concurrent illnesses had been treated and normal feeding re-established (weight gain 5 g/kg.day-1), subjects were randomly allocated to short-stay (SS) or long-stay (LS) group. LS retained in hospital for full nutritional rehabilitation mean 40 days). SS discharged immediately (mean 18 days) for standard Health Service care at home for 6 months plus high-energy supplement (3.31 MJ with 20.6 g protein daily) for first 3 months. After discharge LS received 6 months home care, but without supplementation.
+RESULTS Significant advantages for LS group on NCHS weight & length for age at discharge, and at 12, 18, 24 and for length also 30 months (P < 0.05 to P < 0.001). Weight advantage peaked at 12 and 18 months, length later at 18 and 24 months.
+CONCLUSIONS Contrary to earlier reports, full nutritional rehabilitation can be achieved in hospital for children suffering from PEM. Although in the long-term both groups move towards expected levels in their home community, a significant advantage maintained for approximately 2 years is developmentally advantageous during the critical time after weaning.
+

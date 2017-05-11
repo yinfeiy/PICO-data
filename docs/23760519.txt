@@ -1,0 +1,13 @@
+Ultrasonography-guided bilateral rectus sheath block vs local anesthetic infiltration after pediatric umbilical hernia repair: a prospective randomized clinical trial.
+
+IMPORTANCE Regional anesthetic techniques can be used to alleviate postoperative pain in children undergoing pediatric surgical procedures. Use of ultrasonographic guidance for bilateral rectus sheath block (BRSB) has been shown to improve immediate pain scores and reduce use of postoperative analgesia in the postanesthesia care unit (PACU).
+OBJECTIVE To compare efficacy of ultrasonography-guided BRSB and local anesthetic infiltration (LAI) in providing postoperative analgesia after pediatric umbilical hernia repair.
+DESIGN Prospective, observer-blinded, randomized clinical trial.
+SETTING Tertiary-referral urban children's hospital.
+PARTICIPANTS Eligible children 3 to 12 years of age undergoing elective umbilical hernia repair from November 16, 2009, through May 31, 2011.
+INTERVENTIONS Ropivacaine hydrochloride administered at the conclusion of surgery as LAI by the surgeon (n = 25) or as ultrasonography-guided BRSB by the anesthesiologist (n = 27).
+MAIN OUTCOMES AND MEASURES Scores on the FACES Pain Rating Scale measured at 10-minute intervals and all use of analgesic medications in the PACU.
+RESULTS Median FACES scores in the PACU were lower in the BRSB group compared with the LAI group at 10 minutes (0 vs 1; P = .04), 30 minutes (0 vs 1; P = .01), and 40 minutes or later (0 vs 1; P = .03). Fewer doses of opioid and nonopioid medications were given to the BRSB group compared with the LAI group (5 vs 11 doses for opioids; 5 vs 10 for nonopioids).
+CONCLUSIONS AND RELEVANCE In the PACU, ultrasonography-guided BRSB after umbilical hernia repair in children is associated with lower median FACES scores and decreased use of opioid and nonopioid medications compared with LAI. Future studies could examine the use of longer-acting anesthetic agents with ultrasonography-guided BRSB.
+TRIAL REGISTRATION clinicaltrials.gov Identifier: NCT01015053.
+

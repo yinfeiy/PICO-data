@@ -1,0 +1,4 @@
+A randomized double-blind comparison of coformulated elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate versus efavirenz/emtricitabine/tenofovir disoproxil fumarate for initial treatment of HIV-1 infection: analysis of week 96 results.
+
+We report week 96 results from a phase 3 trial of elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate (EVG/COBI/FTC/TDF, n = 348) vs efavirenz/emtricitabine/tenofovir disoproxil fumarate (EFV/FTC/TDF, n = 352). At week 48, EVG/COBI/FTC/TDF was noninferior to EFV/FTC/TDF (88% vs 84%, difference +3.6%, 95% confidence interval: -1.6% to 8.8%). Virologic success (HIV-1 RNA <50 copies/mL) was maintained at week 96 (84% vs 82%, difference +2.7%, 95% CI: -2.9% to 8.3%). Discontinuation due to adverse events was low (5% vs 7%). Median changes in serum creatinine (mg/dL) at week 96 were similar to week 48. These results support the durable efficacy and long-term safety of EVG/COBI/FTC/TDF.
+

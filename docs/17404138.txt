@@ -1,0 +1,10 @@
+Comparison of indicators for a primary care medical home between children with autism or asthma and other special health care needs: National Survey of Children's Health.
+
+OBJECTIVE To assess the extent to which parents of children with autism compared with parents of children with asthma or other special health care needs report receiving primary care for their child consistent with the American Academy of Pediatrics medical home model.
+DESIGN Population-based cross-sectional study.
+SETTING National Survey for Children's Health 2003-2004 telephone interview.
+PARTICIPANTS Parents of 495 children with autism, parents of 6716 children with asthma, and parents of 11,403 children with other special health care needs without asthma. Main Exposures Autism and other special health care needs including asthma.
+MAIN OUTCOME MEASURES Medical home score and components of care, as follows: personal provider and preventive; family-centered, compassionate, and culturally appropriate; accessible; comprehensive; and coordinated.
+RESULTS The odds of parents reporting care consistent with that in a medical home were less likely for children with autism (odds ratio, 0.45; 95% confidence interval, 0.30-0.66) and more likely for children with asthma (odds ratio, 1.17; 95% confidence interval, 1.06-1.30) compared with children with other special health care needs (1 [reference]). These differences persisted even after controlling for condition severity, personal characteristics, and insurance status. Specific components of a medical home less prevalent among children with autism than among children with other special health care needs included family-centered, comprehensive, and coordinated care.
+CONCLUSION Although we could not evaluate the reasons why, a large percentage of children with autism do not receive primary care consistent with that in a medical home.
+

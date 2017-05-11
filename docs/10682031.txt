@@ -1,0 +1,7 @@
+[Administration of tobramycin aerosols in patients with nosocomial pneumonia: a preliminary study].
+
+OBJECTIVE The aim of this study was to assess renal and respiratory tolerance of aerosolized tobramycin in intubated and mechanically ventilated patients with nosocomial pneumonia.
+PATIENTS AND METHODS This was a multicenter, randomized, double-blind, placebo controlled study. Thirty-eight mechanically ventilated patients with documented nosocomial pneumonia were included. Patients treated with intravenous betalactam and tobramycin were randomly allocated to receive aerosolized tobramycin (6 mg/kg/day, n = 21) or placebo (n = 17). The aerosol was administered via a pneumatic nebulizer once a day for 5 days.
+RESULTS Respiratory tolerance was good in all but two patients. No acute renal failure occurred. By day 10, 7 patients in the tobramycin group (35%) had been extubated versus 3 in the placebo group (18.5%, p = 0.18). By day 28, 6 patients had died (2 in the tobramycin group and 4 in the placebo group, p = 0.23).
+CONCLUSION Aerosolized tobramycin was well tolerated in ventilated patients with documented nosocomial pneumonia.
+

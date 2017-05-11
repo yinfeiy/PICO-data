@@ -1,0 +1,8 @@
+Promoting physical activity in patients with colon adenomas: a randomized pilot intervention trial.
+
+BACKGROUND Physical activity decreases risk of colon polyps and colon cancer and might reduce risk of colon cancer recurrence. Focusing on recent calls for translation of epidemiologic evidence into clinical care, our pilot study delivered an evidence-based physical activity intervention in adults with polyps, who are thus at elevated risk of developing colon cancer. The objective was to evaluate change in physical activity, measured by steps per day and minutes of moderate/vigorous physical activity.
+METHODS Sixteen adults with adenomas detected and removed at screening colonoscopy were recruited to a 12-week physical activity intervention. Participants were randomized to receive a standard (30 minutes/day) or high (60 minutes/day) walking program. Physical activity was measured via blinded pedometer and accelerometer at baseline and follow-up. Intervention messages focused on self-monitoring using pedometers and overcoming barriers to engaging in physical activity.
+RESULTS Participants in both arms significantly increased objectively measured minutes of moderate/vigorous physical activity over the course of the intervention. Both arms exceeded the intervention goal, but there was not a significant difference between arms at follow-up. Results were similar for pedometer measured physical activity, with a significant overall increase in steps/day from baseline to follow-up, but no between arm difference in change.
+CONCLUSION Simple interventions of minimal contact time focusing on walking can significantly increase physical activity in individuals at increased risk of developing colon cancer.
+TRIAL REGISTRATION ClinicalTrials.gov NCT01476631.
+

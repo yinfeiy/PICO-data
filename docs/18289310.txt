@@ -1,0 +1,9 @@
+Effect of erythromycin and gentamicin on abomasal emptying rate in suckling calves.
+
+BACKGROUND Commonly used dosage protocols for antimicrobial agents may alter the rate of gastric emptying.
+HYPOTHESIS Parenteral administration of erythromycin increases and gentamicin decreases the rate of abomasal emptying.
+ANIMALS Five male Holstein-Friesian calves (8-15 days of age).
+METHODS Calves received each of the following 4 IM treatments in random order: control, 2 mL of 0.9% NaCl; erythromycin, 8.8 mg/kg; low-dose gentamicin, 4.4 mg/kg; high-dose gentamicin, 6.6 mg/kg. Abomasal emptying rate was assessed by acetaminophen and glucose absorption. Calves were fed 2 L of cow's milk containing acetaminophen (50 mg/kg body weight) 30 minutes after each treatment was administered, and jugular venous blood samples were obtained periodically after suckling. The maximum observed plasma acetaminophen concentration (actual C(max)) and time of actual C(max) (actual T(max)) were determined, and pharmacokinetic modeling was used to calculate model C(max) and model T(max).
+RESULTS Erythromycin increased abomasal emptying rate, as indicated by a shorter time to actual T(max) and model T(max) (P < .05). Abomasal emptying rate after injection of low-dose gentamicin was similar to that of control. Administration of high-dose gentamicin resulted in a longer time to actual T(max) (P= .021) but did not change model T(max) (P= .62).
+CONCLUSIONS AND CLINICAL RELEVANCE IM injection of erythromycin increased abomasal emptying rate in dairy calves, whereas low-dose and high-dose gentamicin did not alter the rate of abomasal emptying as measured by acetaminophen kinetics and glucose absorption. The clinical relevance of these findings remains to be determined.
+

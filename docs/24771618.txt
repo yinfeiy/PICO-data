@@ -1,0 +1,8 @@
+Evaluation of early weight loss thresholds for identifying nonresponders to an intensive lifestyle intervention.
+
+OBJECTIVE Weight losses in lifestyle interventions are variable, yet prediction of long-term success is difficult. The utility of using various weight loss thresholds in the first 2 months of treatment for predicting 1-year outcomes was examined.
+METHODS Participants included 2327 adults with type 2 diabetes (BMI:35.8 ± 6.0) randomized to the intensive lifestyle intervention (ILI) of the Look AHEAD trial. ILI included weekly behavioral sessions designed to increase physical activity and reduce caloric intake. 1-month, 2-month, and 1-year weight changes were calculated.
+RESULTS Participants failing to achieve a ≥2% weight loss at Month 1 were 5.6 (95% CI:4.5, 7.0) times more likely to also not achieve a ≥10% weight loss at Year 1, compared to those losing ≥2% initially. These odds were increased to 11.6 (95% CI:8.6, 15.6) when using a 3% weight loss threshold at Month 2. Only 15.2% and 8.2% of individuals failing to achieve the ≥2% and ≥3% thresholds at Months 1 and 2, respectively, go on to achieve a ≥10% weight loss at Year 1.
+CONCLUSIONS Given the association between initial and 1-year weight loss, the first few months of treatment may be an opportune time to identify those who are unsuccessful and utilize rescue efforts.
+TRIAL REGISTRATION clinicaltrials.gov Identifier: NCT00017953.
+

@@ -1,0 +1,4 @@
+The home TEACCHing program for toddlers with autism.
+
+The study evaluated the efficacy a parent training intervention for children with autism based on the TEACCH model. Twenty families were randomly assigned to the treatment or waitlist group. All families were compared at pre- and post-treatment on formal dependent measures. Direct measures of behavior were compared across six matched pairs using a multiple baseline probe design. The results of the multiple baseline design showed robust support for improvement in child and parent behavior. Due to the sample size and short time frame, results of a repeated measures analysis of variance did not reach significance.
+

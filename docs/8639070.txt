@@ -1,0 +1,8 @@
+The effects of amantadine and pemoline on cognitive functioning in multiple sclerosis.
+
+BACKGROUND Amantadine hydrochloride and pemoline, both frequently used to treat the fatigue of multiple sclerosis (MS), may also improve attention and other cognitive functions in MS. To our knowledge, these agents have never been compared in a placebo-controlled trial of patients with MS.
+OBJECTIVE To evaluate the effects of amantadine and pemoline on cognitive functioning in MS.
+METHODS A total of 45 ambulatory patients with MS and severe fatigue were treated for 6 weeks with amantadine, pemoline, or placebo using a parallel group design. They underwent comprehensive neuropsychological testing to determine treatment effects on cognitive functioning. Primary outcome measures were tests of attention (Digit Span, Trail Making Test, and Symbol Digit Modalities Test), verbal memory (Selective Reminding Test), nonverbal memory (Benton Visual Retention Test), and motor speed (Finger Tapping Test).
+RESULTS Fatigue did not significantly correlate with any of the neuropsychological outcome measures at baseline or after treatment. All three treatment groups improved on tests of attention (P < .003), verbal memory (P < .001), and motor speed (P < .002). There were no significant differences between amantadine, pemoline, and placebo.
+CONCLUSIONS Cognitive functioning in MS is independent of fatigue. Neither amantadine nor pemoline enhances cognitive performance in MS compared with placebo.
+

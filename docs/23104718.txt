@@ -1,0 +1,8 @@
+ARIX: a randomised trial of acupuncture v oral care sessions in patients with chronic xerostomia following treatment of head and neck cancer.
+
+BACKGROUND Radiation treatment of head and neck cancer can cause chronic xerostomia which impairs patients' quality of life. The study reported here examined the efficacy of acupuncture in alleviating xerostomia symptoms especially dry mouth.
+PATIENTS AND METHODS A total of 145 patients with chronic radiation-induced xerostomia >18 months after treatments were recruited from seven UK cancer centres. The study employed a randomised crossover design with participants receiving two group sessions of oral care education and eight of acupuncture using standardised methods. Patient-reported outcome (PROs) measures were completed at baseline and weeks 5, 9, 13, 17, and 21. The primary outcome was improvement in dry mouth.
+OBJECTIVE saliva measurements were also carried out.
+RESULTS Acupuncture compared with oral care, produced significant reductions in patient reports of severe dry mouth (OR = 2.01, P = 0.031) sticky saliva (OR = 1.67, P = 0.048), needing to sip fluids to swallow food (OR = 2.08, P = 0.011) and in waking up at night to drink (OR = 1.71, P = 0.013). There were no significant changes in either stimulated or unstimulated saliva measurements over time.
+CONCLUSION Eight sessions of weekly group acupuncture compared with group oral care education provide significantly better relief of symptoms in patients suffering from chronic radiation-induced xerostomia.
+

@@ -1,0 +1,8 @@
+Femoral neck osteotomy guide for total hip arthroplasty.
+
+BACKGROUND Total hip arthroplasty (THA) is a common last-resort treatment for hip disease, but postoperative patients often complain of discrepancies in leg length. This study introduces a device designed to increase the precision of the femoral neck osteotomy and reduce the incidence of leg length discrepancy.
+METHODS Forty-eight patients undergoing THA were divided into two groups, with and without the use of the femoral osteotomy guide. All operations were performed through a posterolateral approach. Differences in leg length were recorded before and after the operation. Measurements were also made to compare the preoperative plan with the actual amount of bone removed.
+RESULTS The mean average difference in femoral neck resection height was 0.84 mm when using the osteotomy guide and 1.69 mm without the guide. Discrepancies in postoperative leg length were 5.45 mm and 13.37 mm in the groups with and without the guide, respectively.
+CONCLUSION The femoral neck osteotomy guide is an effectively auxiliary tool for increasing the accuracy of bone resection in arthroplasty using the posterolateral approach.
+TRIAL REGISTRATION ChiCTR-OOC-15005904 ; date: 2015-01-30.
+

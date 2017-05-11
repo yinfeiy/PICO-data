@@ -1,0 +1,7 @@
+Effects of an antimicrobial additive to toothbrushes on residual periodontal pathogens.
+
+OBJECTIVE Previous studies have reported the link between residual microbial contamination of toothbrushes and periodontal diseases. The goal of this pilot study was to evaluate the effects of an antimicrobial additive (Microban) to toothbrushes on residual retention of periodontal pathogens.
+METHODOLOGY Twenty patients had one side of their mouths brushed with a toothbrush containing the antimicrobial agent (experimental side), and the other side with a toothbrush containing no agent (control). Toothbrushes were air-dried (25 degrees C) for four or 24 hours. Toothbrush heads were vortexed and cultured for Prevotella species (Ps), Porphyromonas gingivalis (Pg), Actinobacillus actinomycetemcomitans (Aa), and non-specific colony-forming units (NS). The plates were incubated and counted. Means and standard deviations were calculated, and data were analyzed using a series of t-tests (paired and unpaired) and Wilcoxon matched-pairs signed-rank test.
+RESULTS No significant inter- or intra-group differences in mean counts were found; however, when four-hour and 24-hour data for Aa, Pg, or NS were combined, experimental counts were lower than controls in 39/50 (78%) of the matched pairs (Wilcoxon signed-rank test p = 0.01).
+CONCLUSION Toothbrushes containing the antimicrobial additive showed lower microbial counts than those without, but between-group means were not statistically significant.
+

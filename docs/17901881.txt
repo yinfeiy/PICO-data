@@ -1,0 +1,7 @@
+The logMAR Kay picture test and the logMAR acuity test: a comparative study.
+
+PURPOSE To compare the level of visual acuity with crowded and uncrowded versions of the logMAR acuity test and the Kay picture test in amblyopia.
+METHODS A prospective study was carried out on 51 participants with amblyopia (strabismic n=17; anisometropic n=10; combined n=24), mean age 10 years 8 months. The amblyopia was defined as severe/moderate (< 0.250 logMAR), n=41 or mild (> or = 0.250 logMAR), n=10. Visual acuity was assessed uniocularly using the crowded and uncrowded logMAR acuity tests and the logMAR crowded and uncrowded Kay picture tests in random orders.
+RESULTS The mean visual acuity outcome using the logMAR crowded Kay picture test (0.343+/-0.150) was comparable (P=0.084) with the mean outcome using the crowded logMAR acuity test (0.402+/-0.188). However, the mean acuity difference between these two tests in the subgroup with severe/moderate amblyopia (0.074+/-0.036) was statistically significant (P=0.0382). The uncrowded logMAR acuity test significantly overestimated visual acuity when compared with the logMAR crowded Kay picture test (P<0.005) by a mean of 0.088+/-0.008.
+CONCLUSION The logMAR crowded Kay picture test is a useful tool in clinical practice. The test design takes the crowding phenomenon into account. It provides visual acuity measures more comparable with the gold standard crowded logMAR acuity test than the uncrowded logMAR acuity test. However, the outcomes in poorer acuities should still be viewed with caution.
+

@@ -1,0 +1,11 @@
+Prevention of bone loss in survivors of breast cancer: A randomized, double-blind, placebo-controlled clinical trial.
+
+BACKGROUND Few data are available on the safety and efficacy of once-weekly oral bisphosphonate therapy in breast cancer survivors.
+OBJECTIVE Our objective was to determine whether risedronate, 35 mg weekly, is efficacious and safe in preventing bone loss associated with chemotherapy-induced menopause.
+DESIGN The study was a randomized, double-blind, placebo-controlled clinical trial over 12 months.
+SETTING AND PARTICIPANTS Participants included 87 newly postmenopausal women with status post chemotherapy, recruited from a breast cancer clinic in an academic medical center.
+INTERVENTION Participants were randomly assigned to receive risedronate 35 mg/wk or placebo.
+MAIN OUTCOME MEASURES The primary outcomes were the 12-month changes in spine and hip bone mineral density. Secondary outcomes included changes in markers of bone resorption (urine N-telopeptide cross-linked collagen type I) and formation (osteocalcin, N-terminal propeptide of type I procollagen, and bone-specific alkaline phosphatase).
+RESULTS After 12 months, bone mineral density increased by 1.2% at the spine and 1.3% at the hip in women on risedronate vs. significant decreases for women in the placebo group of 0.9% at the spine and 0.8% at the hip (P < 0.01, difference between groups). N-telopeptide cross-linked collagen type I, a marker of bone resorption, decreased by 19.3%, and N-terminal propeptide of type I procollagen, a marker of bone formation, decreased by 26.6% in participants on active therapy compared with increases in the control group. Risedronate was well tolerated, and the retention rate was 95% at 1 yr.
+CONCLUSIONS Risedronate once weekly prevented bone loss and reduced bone turnover in women with breast cancer treated with chemotherapy. Early measures to prevent bone loss should be considered in this cohort of breast cancer survivors.
+

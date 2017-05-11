@@ -1,0 +1,7 @@
+A systems analysis of obstetric triage.
+
+OBJECTIVE The purpose of this study is to examine some of the variables involved in obstetric triage in an effort to develop a more efficient patient care delivery system in a high-volume obstetric unit. An efficient triage system is essential to a busy labor and delivery unit for the evaluation of unscheduled patient visits. In hospitals that lack an efficient obstetric triage system, it is very difficult to regulate patient flow and wait times.
+METHOD The study was designed to determine whether a triage room and/or standing orders decreased length of stay as compared to the existing system of evaluating women in labor rooms. In 2 separate phases, women who met triage criteria were randomly assigned to either the triage room or the standard care labor room. During phase 1, the effect of room assignment was evaluated. During phase 2, the effect of room assignment and the intervention of standing orders in common obstetric problems were utilized. The total sample size was 398 patients. The study took place on a midsize labor and delivery unit, in an academic medical center averaging 3600 births per year.
+RESULTS Results showed that using a triage room and/or standing orders did not significantly decrease length of stay.
+CONCLUSION The results of this study suggest that the triage process in this setting is strongly dependent on the provider's availability to assess, triage, and discharge patients.
+

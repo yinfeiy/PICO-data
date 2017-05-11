@@ -1,0 +1,7 @@
+A prospective, randomized trial of nerve monitoring of the external branch of the superior laryngeal nerve during thyroidectomy under local/regional anesthesia and IV sedation.
+
+BACKGROUND The aim of this study was to assess the impact of the neuromonitoring of the external branch of the superior laryngeal nerve (EBSLN) on the voice quality after mini-incision thyroidectomy under local/regional anesthesia and intravenous sedation.
+METHODS Patients undergoing mini-incision thyroidectomy under local anesthesia were prospectively randomized for either nerve monitoring of the EBSLN (group 1) or no nerve monitoring (group 2). Voice and swallowing assessment were obtained by using the Voice Handicap Index-10 (VHI-10) and the Reflux Symptom Index questionnaires (RSI) before surgery and at 3 weeks and 3 months after surgery.
+RESULTS Recruitment led to 22 patients in group 1 and 25 patients in group 2. The rate of visualized EBSLN was higher in group 1 (66% vs 21%; P = .003). Contrary to group 1, in group 2, the median total VHI-10 score was significantly higher 3 months after surgery (P = .034) compared with preoperatively, indicating a subjective voice handicap. In both groups, there was no difference in median total RSI score before surgery or at 3 weeks and 3 months after surgery.
+CONCLUSION Nerve monitoring aids in the visualization of the EBSLN during mini-incision thyroidectomy under local/regional anesthesia and leads to an improvement in patient-assessed voice quality after surgery but does not impact swallowing.
+

@@ -1,0 +1,7 @@
+Alvimopan for the management of postoperative ileus after bowel resection: characterization of clinical benefit by pooled responder analysis.
+
+BACKGROUND A pooled post hoc responder analysis was performed to assess the clinical benefit of alvimopan, a peripherally acting mu-opioid receptor (PAM-OR) antagonist, for the management of postoperative ileus after bowel resection.
+METHODS Adult patients who underwent laparotomy for bowel resection scheduled for opioid-based intravenous patient-controlled analgesia received oral alvimopan or placebo preoperatively and twice daily postoperatively until hospital discharge or for 7 postoperative days. The proportion of responders and numbers needed to treat (NNT) were examined on postoperative days (POD) 3-8 for GI-2 recovery (first bowel movement, toleration of solid food) and hospital discharge order (DCO) written.
+RESULTS Alvimopan significantly increased the proportion of patients with GI-2 recovery and DCO written by each POD (P < 0.001 for all). More patients who received alvimopan achieved GI-2 recovery on or before POD 5 (alvimopan, 80%; placebo, 66%) and DCO written before POD 7 (alvimopan, 87%; placebo, 72%), with corresponding NNTs equal to 7.
+CONCLUSIONS On each POD analyzed, alvimopan significantly increased the proportion of patients who achieved GI-2 recovery and DCO written versus placebo and was associated with relatively low NNTs. The results of these analyses provide additional characterization and support for the overall clinical benefit of alvimopan in patients undergoing bowel resection.
+

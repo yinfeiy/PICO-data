@@ -1,0 +1,4 @@
+Failure of pyridoxine to suppress raised serum prolactin levels.
+
+Pyridoxine has been reported as having an antilactogenic effect, presumably by suppressing prolactin secretion. We have measured serum prolactin levels during pyridoxine administration in two groups of hyperprolactinaemic subjects. In normal postpartum women, the postdelivery fall in serum prolactin levels did not differ significantly in treated and control subjects. In patients with chlorpromazine-induced hyperprolactinaemia and galactorrhoea, pyridoxine did not reduce the elevated levels. In neither group was milk production suppressed.
+

@@ -1,0 +1,7 @@
+Promoting question-asking in school-aged children with autism spectrum disorders: effectiveness of a robot intervention compared to a human-trainer intervention.
+
+OBJECTIVE The purpose of the present study was to investigate the effectiveness of an applied behaviour analysis (ABA)-based intervention conducted by a robot compared to an ABA-based intervention conducted by a human trainer in promoting self-initiated questions in children with autism spectrum disorder (ASD).
+METHODS Data were collected in a combined crossover multiple baseline design across participants. Six children were randomly assigned to two experimental groups.
+RESULTS Results revealed that the number of self-initiated questions for both experimental groups increased between baseline and the first intervention and was maintained during follow-up. The high number of self-initiated questions during follow-up indicates that both groups maintained this skill.
+CONCLUSIONS The interventions conducted by a robot and a human trainer were both effective in promoting self-initiated questions in children with ASD. No conclusion with regard to the differential effectiveness of both interventions could be drawn. Implications of the results and directions for future research are discussed.
+

@@ -1,0 +1,7 @@
+Randomized controlled trial of melatonin for children with autistic spectrum disorders and sleep problems.
+
+BACKGROUND Melatonin is often used for autistic children with sleep disorders, despite a lack of published evidence in this population.
+METHODS A randomized, placebo-controlled double-blind crossover trial of melatonin was undertaken in 11 children with autistic spectrum disorder (ASD).
+RESULTS Seven children completed the trial. Sleep latency was 2.6 h [95% confidence intervals (CI) 2.28-2.93] baseline, 1.91 h (95% CI 1.78-2.03) with placebo and 1.06 h (95% CI 0.98-1.13) with melatonin. Wakings per night were 0.35 (95% CI 0.18-0.53) baseline, 0.26 (95% CI 0.20-0.34) with placebo and 0.08 (95% CI 0.04-0.12) with melatonin. Total sleep duration was 8.05 h (95% CI 7.65-8.44) baseline, 8.75 h (95% CI 8.56-8.98) with placebo and 9.84 h (95% CI 9.68-9.99) with melatonin.
+CONCLUSIONS Although the study was small owing to recruitment difficulties, it still provides evidence of effectiveness of melatonin in children with sleep difficulties and ASD, which we predict a larger study would confirm.
+

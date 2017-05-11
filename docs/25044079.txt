@@ -1,0 +1,12 @@
+Examining the temperature of embryo culture in in vitro fertilization: a randomized controlled trial comparing traditional core temperature (37°C) to a more physiologic, cooler temperature (36°C).
+
+OBJECTIVE To determine whether culture at a more physiologically cooler temperature, as suggested by limited human and animal data, would improve blastulation and pregnancy rates in human clinical IVF.
+DESIGN Paired randomized controlled trial.
+SETTING Academic.
+PATIENT(S) Infertile couples (n=52) with a female partner less than 42 years old with eight or more mature oocytes retrieved.
+INTERVENTION(S) Mature oocytes obtained from a single cohort of oocytes were randomly divided into two groups; one was cultured at 37°C and the other at 36°C from the time of ICSI to the time of embryo transfer or vitrification. Paired embryo transfers were accomplished by transferring one euploid embryo from each group. DNA fingerprinting was used as needed to determine the outcome for each embryo.
+MAIN OUTCOME MEASURE(S) Rate of development of expanded blastocysts suitable for transfer or vitrification (primary outcome), fertilization, aneuploidy, and sustained implantation.
+RESULT(S) A total of 805 mature oocytes were cultured; 399 at 36°C and 406 at 37°C. Paired analysis demonstrated a higher rate of usable blastocyst formation per zygote at 37°C (48.4%) vs. at 36°C (41.2%). Rates of fertilization, aneuploidy, and sustained implantation were equivalent.
+CONCLUSION(S) IVF culture at 36°C does not improve clinically relevant parameters of embryo development or sustained implantation rates.
+CLINICAL TRIAL REGISTRATION NUMBER NCT01506089.
+

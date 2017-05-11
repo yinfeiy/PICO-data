@@ -1,0 +1,7 @@
+Comparison of double- and single-dose methotrexate protocols for treatment of ectopic pregnancy.
+
+OBJECTIVE To compare efficacy between double-dose methotrexate and single-dose methotrexate for treatment of tubal ectopic pregnancy (EP).
+METHODS Between March 2008 and February 2011,157 patients who had tubal EP diagnosed by a non-laparoscopic approach and were hemodynamically stable were enrolled in a prospective study in Qassim, Saudi Arabia. The participants were randomized to receive either double-dose (50mg/m(2) intramuscularly on days 0 and 4; group 1) or single-dose (50mg/m(2) intramuscularly on day 0; group 2) methotrexate. Serum human chorionic gonadotropin (β-hCG) levels were followed until negative.
+RESULTS The overall success rate was comparable between groups 1 and 2 (88.6% versus 82.0%, P=0.1). The duration of follow up until negative β-hCG was shorter in group 1 (P=0.001). Receiver operative characteristics showed that higher cut-off levels of β-hCG and gestational mass diameter were associated with successful outcome in group 1. Among participants with initial β-hCG of 3600-5500 mIU/mL, the success rate was higher in group 1 (P=0.03). There was no significant difference between groups in adverse effects.
+CONCLUSION For treatment of EP, double-dose methotrexate had efficacy and safety comparable to that of single-dose methotrexate; it had better success among patients with moderately high β-hCG and led to a shorter follow up.
+

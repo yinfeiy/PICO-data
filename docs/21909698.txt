@@ -1,0 +1,7 @@
+Randomised multicentre trial of circular stapling devices.
+
+PURPOSE In a register study, the risk of anastomotic leakage correlated to the choice of circular stapling device with a 4% difference between the two brands used. Based on those data, a randomised multicentre study was started to explore the risk of an anastomotic leakage based upon the surgical device.
+METHODS Patients above 18 years with a rectal cancer, able to give informed consent, and scheduled for an anterior resection were eligible for the study. Perioperative randomisation was to Ethicon™ PROXIMATE™ ILS™ or Autosuture™ Premium Plus CEEA™. Anastomotic leakage was defined as a clinically manifest leak.
+RESULTS Five hundred twenty-nine patients were randomised (58% male). A leak occurred in 8.3%. The anastomoses created by PROXIMATE™ ILS™ leaked in 25/265 (9.4%) anastomoses, and the Premium Plus CEEA™ leaked in 19/260 (7.3%), p = .419.
+CONCLUSION No difference in the leak rate could be revealed. Several centres replaced one of the staplers by a new product, and the study was ended before the stipulated number of patients was reached. In the future, surgical devices may have to prove superiority in randomised trials or be monitored in quality registers before they can be introduced into day to day surgical practice. The study was registered at ClinicalTrials.gov: NCT00399009.
+

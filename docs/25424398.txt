@@ -1,0 +1,7 @@
+A randomized controlled trial of cognitive-behavioral therapy versus treatment as usual for adolescents with autism spectrum disorders and comorbid anxiety.
+
+OBJECTIVE Examine the efficacy of a personalized, modular cognitive-behavioral therapy (CBT) protocol among early adolescents with high-functioning autism spectrum disorders (ASDs) and co-occurring anxiety relative to treatment as usual (TAU).
+METHOD Thirty-one children (11-16 years) with ASD and clinically significant anxiety were randomly assigned to receive 16 weekly CBT sessions or an equivalent duration of TAU. Participants were assessed by blinded raters at screening, posttreatment, and 1-month follow-up.
+RESULTS Youth randomized to CBT demonstrated superior improvement across primary outcomes relative to those receiving TAU. Eleven of 16 adolescents randomized to CBT were treatment responders, versus 4 of 15 in the TAU condition. Gains were maintained at 1-month follow-up for CBT responders.
+CONCLUSIONS These data extend findings of the promising effects of CBT in anxious youth with ASD to early adolescents.
+

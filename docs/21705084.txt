@@ -1,0 +1,10 @@
+Adjusting intraocular pressure for central corneal thickness does not improve prediction models for primary open-angle glaucoma.
+
+PURPOSE To determine if the accuracy of the baseline prediction model for the development of primary open-angle glaucoma (POAG) in patients with ocular hypertension can be improved by correcting intraocular pressure (IOP) for central corneal thickness (CCT).
+DESIGN Reanalysis of the baseline prediction model for the development of POAG from the Ocular Hypertension Treatment Study (OHTS) substituting IOP adjusted for CCT using 5 different correction formulae for unadjusted IOP.
+PARTICIPANTS A total of 1433 of 1636 participants randomized to OHTS who had complete baseline data for factors in the prediction model: age, IOP, CCT, vertical cup-to-disc ratio (VCDR), and pattern standard deviation (PSD).
+METHODS Reanalysis of the prediction model for the risk of developing POAG using the same baseline variables (age, IOP, CCT, VCDR, and PSD) except that IOP was adjusted for CCT using correction formulae. A separate Cox proportional hazards model was run using IOP adjusted for CCT by each of the 5 formulae published to date. Models were run including and excluding CCT.
+MAIN OUTCOME MEASURES Predictive accuracy of each Cox proportional hazards model was assessed using the c-statistic and calibration chi-square.
+RESULTS C-statistics for prediction models that used IOP adjusted for CCT by various formulas ranged from 0.75 to 0.77, no better than the original prediction model (0.77) that did not adjust IOP for CCT. Calibration chi-square was acceptable for all models. Baseline IOP, whether adjusted for CCT or not, was statistically significant in all models including those with CCT in the same model. The CCT was statistically significant in all models including those with IOP adjusted for CCT in the same model.
+CONCLUSIONS The calculation of individual risk for developing POAG in ocular hypertensive individuals is simpler and equally accurate using IOP and CCT as measured, rather than applying an adjustment formula to correct IOP for CCT.
+

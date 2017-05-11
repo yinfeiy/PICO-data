@@ -1,0 +1,4 @@
+On the search for the neurophysiological manifestation of recollective experience.
+
+M.E. Smith (1993) obtained event-related brain potentials (ERPs) from subjects performing a recognition memory task using "remember" (R) and "know" (K) judgments, and reported observing in the ERP a "neurophysiological manifestation of recollective experience" as a difference between the positive waveforms elicited by stimuli that yielded R and K judgments. We replicated his experiment and examined the componential structure of the R > K effect in two ways. First, we found that correction for P300 latency jitter eliminated the effect reported by Smith. Second, the application of principal component analysis indicated that the positive waveform elicited by the words in the test list was a P300. These analyses do not support the hypothesis that there is a new component (the "memory-evoked shift") that is a specific manifestation of recollection.
+

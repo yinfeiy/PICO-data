@@ -1,0 +1,9 @@
+Does single use of an autologous transfusion system in TKA reduce the need for allogenic blood?: a prospective randomized trial.
+
+BACKGROUND Mechanical autotransfusion systems for washed shed blood (WSB) were introduced to reduce the need for postoperative allogenic blood transfusions (ABTs). Although some authors have postulated decreased requirements for ABT by using autologous retransfusion devices, other trials, mostly evaluating retransfusion devices for unwashed shed blood (USB), verified a small or no benefit in reducing the need for postoperative ABT. Because of these contradictory findings it is still unclear whether autologous retransfusion systems for WSB can reduce transfusion requirements.
+QUESTIONS/PURPOSES We therefore asked whether one such autologous transfusion system for WSB can reduce the requirements for postoperative ABT.
+METHODS In a prospective, randomized, controlled study, we enrolled 151 patients undergoing TKA. In Group A (n=76 patients), the autotransfusion system was used for a total of 6 hours (intraoperatively and postoperatively) and the WSB was retransfused after processing. In Control Group B (n=75 patients), a regular drain without suction was used. We used signs of anemia and/or a hemoglobin value less than 8 g/dL as indications for transfusion. If necessary, we administered one or two units of allogenic blood.
+RESULTS Twenty-three patients (33%) in Group A, who received an average of 283 mL (range, 160-406 mL) of salvaged blood, needed a mean of 2.1 units of allogenic blood, compared with 23 patients (33%) in Control Group B who needed a mean of 2.1 units of allogenic blood.
+CONCLUSIONS We found the use of an autotransfusion system did not reduce the rate of postoperative ABTs.
+LEVEL OF EVIDENCE Level II, therapeutic study. See the Guidelines for Authors for a complete description of levels of evidence.
+

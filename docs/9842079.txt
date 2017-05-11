@@ -1,0 +1,11 @@
+[Clinical trial of 2 tobacco use cessation interventions in primary care].
+
+OBJECTIVE To study the efficacy of two types of intervention to stop tobacco dependency.
+DESIGN Randomised clinical trial.
+SETTING Primary care centre.
+PATIENTS AND OTHER PARTICIPANTS Smokers recruited from among the health centre users through the preventive activities and health promotion programme.
+INTERVENTIONS 
+INDEPENDENT VARIABLE type of intervention. General variables: age, sex, marital status, educational level, work situation, cohabitation with children, smokers at home, number of years smoking, type of tobacco. There were two types of intervention: a) Minimal Intervention (MI). b) Advanced Intervention (AI). 54 patients were included, with 6 losses. 21 were assigned at random to the MI group and 27 to the AI group. Progress was measured at 15 days, 1 month, 3 months, 6 months and a year.
+RESULTS In the MI, 23.8% were abstinent at 15 days; the same percentage at one month and 3 months; 19% at 6 months; and 14.3% remained abstinent after a year. In the AI, 51.9% were abstinent at 15 days; 48.1% at both one and 3 months; 25.9% at 6 months; and 22.2% were still not smoking after a year. No significant differences between the two interventions were found in any of the observations.
+CONCLUSIONS These data do not show that one intervention is better than the other. With the passage of time the effect of the intervention decreased in both groups.
+

@@ -1,0 +1,7 @@
+Project Towards No Drug Abuse: long-term substance use outcomes evaluation.
+
+OBJECTIVES This paper presents up to 5 years post-program outcomes of Project Towards No Drug Abuse (Project TND), a drug abuse prevention program conducted in South California alternative high school system during years 1994-1999.
+METHODS The effects of a 9-session health motivation--social skills--decision-making curriculum were evaluated. Twenty-one schools recruited were randomly assigned to standard care (control), classroom only, or a classroom plus semester-long school-as-community component. Last 30-day use of cigarettes, alcohol, marijuana, and hard drugs were assessed at three time intervals: short-term (year 1), middle-term (years 2 or 3), and long-term (years 4 or 5). Multilevel random coefficients modeling were employed to estimate the adjusted levels of substance use.
+RESULTS Among 1578 baseline subjects, follow-up data were available for 68% (year 1), 66% (years 2 or 3), and 46% (years 4 or 5) of subjects, respectively. Results revealed significant positive long-term program effects for hard drug use at year 4 or 5 for the two program interventions (P = 0.02).
+CONCLUSIONS Project TND reduced hard drug use in the 46% who were successfully followed. It is the first program to demonstrate long-term self-reported behavioral effects on hard drug use among high-risk youth by using a school-based, limited-session model.
+

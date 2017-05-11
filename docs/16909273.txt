@@ -1,0 +1,7 @@
+A comparative study of the pharmacokinetics of ibuprofen arginate versus dexibuprofen in healthy volunteers.
+
+OBJECTIVE Ibuprofen arginate is a salt formulation of ibuprofen designed to reach target concentrations rapidly. The primary objective of this study was to compare the 12-h pharmacokinetic profile of S(+)-ibuprofen following administration of single doses of ibuprofen arginate (600 mg) and dexibuprofen (400 mg) in healthy volunteers.
+METHODS Twenty-four volunteers were recruited into an open-label, randomised, two-period, single-centre study with crossover design.
+RESULTS Both treatments were well tolerated. Ibuprofen arginate and dexibuprofen showed similar bioavailability for S(+)-ibuprofen. Compared with dexibuprofen, ibuprofen arginate demonstrated a 45% higher maximum concentration (C(max)), and a time to peak concentration (T(max)) 2 h sooner.
+CONCLUSION Ibuprofen arginate approaches maximum concentrations of S(+)-ibuprofen faster and higher than dexibuprofen.
+

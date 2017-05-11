@@ -1,0 +1,8 @@
+Are brand-name and generic warfarin interchangeable? Multiple n-of-1 randomized, crossover trials.
+
+BACKGROUND Warfarin is a commonly used anticoagulant in North America. Several generic formulations have been approved, raising concern over the safety and efficacy of these products compared with brand-name Coumadin.
+OBJECTIVE To ensure that generic warfarin products can be safely interchanged with Coumadin.
+METHODS Multiple n-of-1 randomized, double-blind, crossover trials switched outpatients (N = 7) between a generic warfarin formulation (Apo-warfarin) and Coumadin over 30 weeks. Study patients took each drug for five 3-week periods, with international normalized ratio (INR) measurements taken twice per period. Inter- and intrapatient differences between generic warfarin and Coumadin were compared, and overall study patient results were compared with those of a Coumadin control group.
+RESULTS There were no differences between warfarin products in terms of mean INR results or number of dosage adjustments required. There also was no difference in INR variation based on warfarin formulation (p > 0.69), nor was a patient and warfarin interaction found (p > 0.81). The INR results were not influenced by whether patients were maintained on Coumadin only (control group) or interchanged between Coumadin and generic warfarin (p = 0.98).
+CONCLUSIONS It appears that patients can safely and effectively switch between generic warfarin and Coumadin.
+

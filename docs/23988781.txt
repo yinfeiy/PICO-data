@@ -1,0 +1,10 @@
+Outcomes and biochemical parameters following cardiac surgery: effects of transfusion of residual blood using centrifugation and multiple-pass hemoconcentration.
+
+OBJECTIVES To determine whether or not there was a significant difference between the methods of centrifugation (CF) and multiple-pass hemoconcentration (MPH) of the residual cardiopulmonary-bypass volume in relation to biochemical measurements and patient outcomes.
+DESIGN Prospective, randomized, and controlled.
+SETTING Conducted at a western Canadian tertiary care hospital.
+PARTICIPANTS Consisted of 61 consecutive male and female patients from ages 40 to 80 who were scheduled for cardiac surgery with cardiopulmonary bypass.
+INTERVENTIONS Either the centrifugation or multiple-pass hemoconcentration method was used to process the residual blood from the cardiopulmonary bypass circuit.
+RESULTS The 12-hour postoperative levels of serum hemoglobin were not significantly different in the centrifugation group as compared to the multiple-pass hemoconcentration group. However, the serum levels of total protein and albumin were significantly higher in the multiple-pass hemoconcentration group as compared to the centrifugation group. Additionally, after 12-hours postoperatively, the serum fibrinogen and platelet counts were significantly higher in the multiple-pass hemoconcentration group as compared to those of the centrifugation group. The allogeneic product transfusion index and the chest-tube blood drainage indices were lower in the multiple-pass hemoconcentration group as compared to the centrifugation group.
+CONCLUSION Although the CF method provided a product in a shorter turnaround time, with consistent clearance of heparin, the MPH method trended towards enhanced biochemical and clinical patient outcomes over the 12-hour postoperative period.
+

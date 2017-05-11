@@ -1,0 +1,7 @@
+A randomized study comparing glucagon and hyoscine N-butyl bromide before endoscopic retrograde cholangiopancreatography.
+
+BACKGROUND This study tried to resolve whether glucagon is a better premedication for endoscopic retrograde cholangiopancreatography (ERCP).
+METHODS We first measured the basal blood sugar and amylase levels. Then an endoscope was placed in the duodenum without premedication, and basal pulse and duodenal peristaltic rates were measured. ERCP began after studied subjects were randomly premedicated with either 1 mg glucagon (n = 38) or 40 mg hyoscine N-butyl bromide (n = 36) intravenously. Ten minutes later the variables were measured again.
+RESULTS Glucagon elicited hyperglycemia whereas hyoscine N-butyl bromide manifested an anticholinergic effect. No difference was found between these two groups with regard to the necessary interval for ERCP (20.6 +/- 14.1 min versus 21.4 +/- 14.7 min; NS) or the success rate for cholangiopancreatography (92.1% versus 91.7%; NS). Neither hyperamylasemia nor pancreatitis was preventable when glucagon was used.
+CONCLUSIONS The two premedications appear equally effective in the performance of ERCP.
+

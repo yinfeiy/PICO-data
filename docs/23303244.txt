@@ -1,0 +1,12 @@
+Accuracy of noninvasive haemoglobin measurement by pulse oximetry depends on the type of infusion fluid.
+
+CONTEXT Measurement of blood haemoglobin concentration by pulse oximetry could be of value in determining when erythrocytes should be transfused during surgery, but the effect of infusion fluids on the results is unclear.
+OBJECTIVE To study the effect of crystalloid and colloid fluid on the accuracy (bias) and precision of pulse oximetry haemoglobin estimation to indicate the venous haemoglobin concentration in volunteers.
+DESIGN Open interventional crossover study.
+SETTING Single university hospital.
+PARTICIPANTS Ten male volunteers aged 18-28 (mean 22) years.
+INTERVENTIONS Each volunteer underwent three infusion experiments on separate days and in random order. The infusions were Ringer's acetate (20 ml kg), hydroxyethyl starch 130/0.4 (10 ml kg) and a combination of both.
+RESULTS At the end of the infusions of Ringer's acetate, pulse oximetry haemoglobin concentration had decreased more than the true haemoglobin concentration (15 vs. 8%; P < 0.005; n = 10) whereas starch solution decreased pulse oximetry haemoglobin concentration less than true haemoglobin concentration (7 vs. 11%; P < 0.02; n = 20). The same differences were seen when the fluids were infused separately and when they were combined. The overall difference between all 956 pairs of pulse oximetry haemoglobin concentration and true haemoglobin concentrations (the bias) averaged only -0.7 g l whereas the 95% prediction interval was wide, ranging from -24.9 to 23.7 g l. In addition to the choice of infusion fluid, the bias was strongly dependent on the volunteer (each factor, P < 0.001).
+CONCLUSION The bias of measuring haemoglobin concentration by pulse oximetry is dependent on whether a crystalloid or a colloid fluid is infused.
+TRIAL REGISTRATION ClinicalTrials identifier: NCT01195025.
+

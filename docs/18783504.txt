@@ -1,0 +1,11 @@
+Psychological mediators of bupropion sustained-release treatment for smoking cessation.
+
+AIM The study aimed to test simultaneously our understanding of the effects of bupropion sustained-release (SR) treatment on putative mediators and our understanding of determinants of post-quit abstinence, including withdrawal distress, cigarette craving, positive affect and subjective reactions to cigarettes smoked during a lapse. The specificity of bupropion SR effects was also tested in exploratory analyses.
+DESIGN Data from a randomized, placebo-controlled clinical trial of bupropion SR were submitted to mediation analyses.
+SETTING Center for Tobacco Research and Intervention, Madison, WI, USA.
+PARTICIPANTS A total of 403 adult, daily smokers without contraindications to bupropion SR use.
+INTERVENTION Participants were assigned randomly to receive a 9-week course of bupropion SR or placebo pill and to receive eight brief individual counseling sessions or no counseling.
+MEASUREMENTS Ecological momentary assessment ratings of smoking behavior and putative mediators were collected pre- and post-quit.
+FINDINGS Results of structural equation and hierarchical linear models did not support the hypothesis that bupropion SR treatment improves short-term abstinence by reducing withdrawal distress or affecting the subjective effects of a lapse cigarette, but provided partial support for mediation by cigarette craving reduction and enhanced positive affect. Bupropion SR effects on point-prevalence abstinence at 1 month post-quit were also mediated partially by enhanced motivation to quit and self-efficacy.
+CONCLUSIONS Results provided some support for models of bupropion SR treatment and relapse and suggested that motivational processes may partially account for bupropion SR efficacy.
+

@@ -1,0 +1,7 @@
+Absence of cervical radiation myelitis after hyperfractionated radiation therapy with and without concurrent chemotherapy for locally advanced, unresectable, nonmetastatic squamous cell carcinoma of the head and neck.
+
+PURPOSE To evaluate the risk of developing radiation myelitis after a cervical spinal cord dose of 50.6 Gy given via 1.1 Gy b.i.d. fractionation during a prospective, randomised trial of hyperfractionated radiation therapy (HFX RT) to a total dose of 77 Gy given in 70 fractions of 1.1 Gy b.i.d., with and without concurrent low-dose, daily cisplatin (CDDP) for head and neck cancer.
+METHODS Of 130 patients with locally advanced, unresectable, nonmetastatic squamous cell carcinoma of the head and neck (SCC H&N) who entered a prospective, randomised trial, 101 patients received 50.6 Gy to a portion of their spinal cord and survived > 1 year following the beginning of therapy. Forty-five patients were treated with HFX RT alone and fifty-six patients also received CDDP.
+RESULTS None of these 101 patients developed cervical radiation myelitis. Therefore, it was not possible to investigate the influence of potentially contributing factors on the occurrence of radiation myelitis, such as interfraction interval, cord length, and administration of concurrent CDDP.
+CONCLUSIONS Given the increasing number of studies with both altered fractionated regimens and concurrent radio-chemotherapy in SCC H&N, new studies with more patients are needed to gain better insight into the risks of developing cervical radiation myelitis.
+

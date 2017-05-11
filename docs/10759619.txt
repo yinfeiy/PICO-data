@@ -1,0 +1,8 @@
+Pharmacokinetic interaction between proton pump inhibitors and roxithromycin in volunteers.
+
+BACKGROUND Triple therapy including two antibiotics and a proton pump inhibitor is a rational approach to the treatment of Helicobacter pylori induced peptic ulcer disease. The interaction of antimicrobial therapy and acid suppression is not yet well elucidated.
+AIMS To investigate the effects of proton pump inhibitors on roxithromycin levels in plasma and gastric tissue under steady-state conditions in volunteers.
+METHODS In two crossover studies omeprazole 20 mg b.d., lansoprazole 30 mg b.d., roxithromycin 300 mg b.d., and the combination of roxithromycin with either omeprazole or lansoprazole were administered to 12 healthy volunteers over 6 days. Blood plasma levels of the drugs were measured. In addition, roxithromycin concentrations were also determined in gastric juice and gastric tissue obtained during endoscopy.
+RESULTS The proton pump inhibitors and roxithromycin did not alter the blood plasma pharmacokinetics of each other. When compared to roxithromycin administered alone, its combination with a proton pump inhibitor significantly increased the roxithromycin concentrations in gastric juice (3.0-5.0 microg/mL vs. 0.3-0.4 microg/mL) and gastric tissue (antrum: 3.8-4.0 vs. 2.8 microg/g, fundus: 5.9-7.4 vs. 4.2-4.4 microg/g).
+CONCLUSIONS Proton pump inhibitors and roxithromycin do not alter the systemic bioavailability of each other. However, proton pump inhibitors increase the local concentration of roxithromycin in the stomach which may contribute to the clinically proven synergic beneficial action in eradication therapy of H. pylori.
+

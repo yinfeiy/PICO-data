@@ -1,0 +1,7 @@
+The effect of cognitive-behavioral therapy versus treatment as usual for anxiety in children with autism spectrum disorders: a randomized, controlled trial.
+
+OBJECTIVE To examine the efficacy of a modular cognitive-behavioral therapy (CBT) protocol relative to treatment as usual (TAU) among children with high-functioning autism spectrum disorders (ASD) and clinically significant anxiety.
+METHOD A total of 45 children (7-11 years of age) with high-functioning ASD and clinically significant anxiety were randomized to receive 16 sessions of weekly CBT or TAU for an equivalent duration. After screening, assessments were conducted at baseline, post-treatment, and 3-month follow-up. Raters were blind to treatment condition.
+RESULTS Youth receiving CBT showed substantial improvement relative to TAU on primary anxiety outcomes. Of 24 children randomized to the CBT arm, 18 (75%) were treatment responders, versus only 3 of 21 children (14%) in the TAU arm. Gains were generally maintained at 3-month follow-up for CBT responders.
+CONCLUSIONS Relative to usual care, CBT adapted for anxious youth with high-functioning ASD demonstrates large effects in reducing anxiety symptoms. This study contributes to the growing literature supporting adapted CBT approaches for treating anxiety in youth with ASD.
+

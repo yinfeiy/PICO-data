@@ -1,0 +1,4 @@
+An analysis of the mortality effect in a breast cancer screening study.
+
+In order to better understand the effect of breast cancer screening on mortality, we use the theory of competing risks to analyse deaths from the long-term follow-up of the HIP breast cancer screening trial. We conclude that some, but not all, of the breast cancer cases detected early as a result of screening realized a benefit in terms of elimination of the risk of breast cancer mortality. Breast cancer screening appears not to affect the rate of mortality from causes of death other than breast cancer. Methodologically, we demonstrate the importance of analysing mortality separately for the breast cancer cases as well as for the entire population in a trial.
+

@@ -1,0 +1,4 @@
+Pilot randomized controlled trial of Reciprocal Imitation Training for teaching elicited and spontaneous imitation to children with autism.
+
+Children with autism exhibit significant deficits in imitation skills. Reciprocal Imitation Training (RIT), a naturalistic imitation intervention, was developed to teach young children with autism to imitate during play. This study used a randomized controlled trial to evaluate the efficacy of RIT on elicited and spontaneous imitation skills in 21 young children with autism. Results found that children in the treatment group made significantly more gains in elicited and spontaneous imitation, replicating previous single-subject design studies. Number of spontaneous play acts at pre-treatment was related to improvements in imitation during the intervention, suggesting that children with a greater play repertoire make greater gains during RIT.
+

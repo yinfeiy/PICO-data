@@ -1,0 +1,10 @@
+Multiple sclerosis risk after optic neuritis: final optic neuritis treatment trial follow-up.
+
+OBJECTIVE To assess the risk of developing multiple sclerosis (MS) after optic neuritis and the factors predictive of high and low risk.
+DESIGN Subjects in the Optic Neuritis Treatment Trial, who were enrolled between July 1, 1988, and June 30, 1991, were followed up prospectively for 15 years, with the final examination in 2006.
+SETTING Neurologic and ophthalmologic examinations at 13 clinical sites.
+PARTICIPANTS Three hundred eighty-nine subjects with acute optic neuritis.
+MAIN OUTCOME MEASURES Development of MS and neurologic disability assessment.
+RESULTS The cumulative probability of developing MS by 15 years after onset of optic neuritis was 50% (95% confidence interval, 44%-56%) and strongly related to presence of lesions on a baseline non-contrast-enhanced magnetic resonance imaging (MRI) of the brain. Twenty-five percent of patients with no lesions on baseline brain MRI developed MS during follow-up compared with 72% of patients with 1 or more lesions. After 10 years, the risk of developing MS was very low for patients without baseline lesions but remained substantial for those with lesions. Among patients without lesions on MRI, baseline factors associated with a substantially lower risk for MS included male sex, optic disc swelling, and certain atypical features of optic neuritis.
+CONCLUSIONS The presence of brain MRI abnormalities at the time of an optic neuritis attack is a strong predictor of the 15-year risk of MS. In the absence of MRI-detected lesions, male sex, optic disc swelling, and atypical clinical features of optic neuritis are associated with a low likelihood of developing MS. This natural history information is important when considering prophylactic treatment for MS at the time of a first acute onset of optic neuritis.
+

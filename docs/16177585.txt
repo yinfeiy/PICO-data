@@ -1,0 +1,4 @@
+Effects of an Internet-based intervention on plasma glucose levels in patients with type 2 diabetes.
+
+This study applied a 12-week educational intervention that used both the cellular phone and the Internet to send short message service. Forty-two diabetic patients were asked to access a Web site by using a cellular phone or wire Internet and input their blood glucose levels every day. Patients were sent the optimal recommendations by both the cellular phone and the Internet. After 12 weeks, the patients had a mean decrease of 28.6 mg/dL in fasting plasma glucose and 78.4 mg/dL in 2-hour postprandial blood sugar levels and a mean increase in the care satisfaction score.
+

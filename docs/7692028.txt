@@ -1,0 +1,11 @@
+Early educational intervention for very low birth weight infants: results from the Infant Health and Development Program.
+
+OBJECTIVE To examine the effect of early educational intervention after discharge from the hospital on the health and developmental status of very low birth weight (< or = 1500 gm) infants.
+DESIGN Randomized, controlled trial, with post hoc analysis.
+SETTING Eight sites, heterogeneous for sociodemographic and health care use.
+PARTICIPANTS Infants (N = 280) born weighing < or = 1500 gm and selected for the Infant Health and Development Program. Eligibility was limited primarily by geographic distance from the day care center. One third were randomly assigned to the intervention (INT) group and two thirds to follow-up only.
+INTERVENTIONS All children received intensive pediatric and developmental surveillance. The INT group received home visits and center-based educational interventions until 36 months of age (corrected for gestational age when final assessments were completed).
+OUTCOMES Cognitive development (Stanford-Binet Intelligence Scale), behavioral competence (Achebach Child Behavior Checklist), and health status (indexes summarizing reported morbidity, the Functional Status II (R) Scale, and General Health Ratings Index).
+RESULTS Cognitive development scores were 7.2 points higher (p = 0.002) in the INT group, after adjustment for baseline differences in site, sociodemographic characteristics, and neonatal morbidity, and were 9.4 points higher (p < 0.0003) when the 29 children with significant cerebral palsy were removed. No differences in behavior, serious morbidity, functional status, or health rating were found overall. The infants in the INT group who weighted < or = 1000 gm at birth had significantly lower behavior problem scores but no differences on other outcomes. All children in the INT group had slightly higher rates of less serious morbidity.
+CONCLUSION The advantage conferred by being in the INT group, as previously reported for heavier infants, extends to very low birth weight children, supporting the use of early intervention in this group.
+

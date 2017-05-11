@@ -1,0 +1,11 @@
+Clinical pathway for fractured neck of femur: a prospective, controlled study.
+
+OBJECTIVE To assess outcomes of using a clinical pathway for managing patients with fractured neck of femur.
+DESIGN Prospective, pseudorandomised, controlled trial.
+SETTING St Vincent's Hospital, Melbourne, Victoria (a tertiary referral, university teaching hospital), 1 October 1997 to 30 November 1998.
+PARTICIPANTS 111 patients (80 women and 31 men; mean age, 81 years) admitted via the emergency department with a primary diagnosis of fractured neck of femur.
+INTERVENTIONS Management guided by a clinical pathway (55 patients) or established standard of care (control group, 56 patients).
+MAIN OUTCOME MEASURES Timing of referrals and discharge planning; total length of stay; and complication and readmission rates within 28 days of discharge.
+RESULTS Patients managed according to the clinical pathway had a shorter total stay (6.6 versus 8.0 days; P = 0.03), even if assessment for placement by the Aged Care Assessment Service was required (9.5 versus 13.6 days; P = 0.03). There were no significant differences in complication and readmission rates between pathway and control patients (complication rates, 24% versus 36%; P = 0.40; readmission rates, 4% versus 11%; P = 0.28).
+CONCLUSION Coordinated multidisciplinary care of patients with fractured neck of femur reduces length of stay without increasing complications.
+

@@ -1,0 +1,7 @@
+Indicators for Cervical Length in Twin Pregnancies.
+
+OBJECTIVE Cervical length (CL) is associated with the risk of preterm birth (PTB) in multiple pregnancies. However, the position of CL within the pathophysiological pathway of PTB is unclear, and it is unknown which factors are predictive for CL. This study aims to investigate whether in twin pregnancies baseline maternal and obstetrical characteristics are potential indicators for CL, to improve insight in the pathophysiological pathway of PTB.
+STUDY DESIGN Secondary analysis of data on twin pregnancies and CL measurement between 16 and 22 weeks. A set of 10 potential indicators, known to be associated with an increased risk of PTB and/or which have a plausible mechanism resulting in a change of CL were selected. We used multivariable linear regression with backward selection to identify independent indicators for CL.
+RESULTS A total of 1,447 women with twin pregnancies were included. Mean CL was 43.7 (±8.9) mm. In multivariable analysis, age (0.27 mm/y; 95% confidence interval [CI] 0.16 to 0.39), use of assisted reproductive technologies (ART) (-1.42 mm, 95% CI -2.6 to -0.25), and having delivered at term in a previous pregnancy (1.32 mm, 95% CI 0.25 to 2.39) were significantly associated with CL.
+CONCLUSION This study shows that in twin pregnancies, age, use of ART and having delivered term in a previous pregnancy has an association with CL.
+

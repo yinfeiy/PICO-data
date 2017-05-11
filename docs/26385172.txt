@@ -1,0 +1,7 @@
+An endovascular simulation exercise among radiology residents: comparison of simulation performance with and without practice.
+
+PURPOSE The purpose was to compare resident endovascular simulator performance with and without prior simulation.
+METHODS Radiology residents were guided through a practice simulation and lectured on endovascular therapy, then randomized to simulate femoral arterial intervention with or without prior iliac simulation. Simulator measurements, performance grading and resident surveys were recorded.
+RESULTS Prior simulation of iliac intervention significantly improved resident performance. In particular, it resulted in less catheter placement without a wire (P=.01), shorter time to proper catheter positioning (P=.045) and use of oblique digital subtraction angiography (P=.035). Survey respondents valued the experience.
+CONCLUSION Endovascular simulator training improves simulation skills. Improvement of real-world performance and generalizability remain to be shown.
+

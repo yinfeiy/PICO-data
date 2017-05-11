@@ -1,0 +1,10 @@
+Effect of simultaneous didanosine administration on itraconazole absorption in healthy volunteers.
+
+STUDY OBJECTIVE To investigate the effect of simultaneously administered didanosine (ddI) on the absorption of a single dose of itraconazole.
+DESIGN Randomized, crossover, unblinded single-dose pharmacokinetic study in healthy volunteers. Comparisons of itraconazole alone and itraconazole with simultaneous ddI were performed on days 1 and 15.
+SETTING A university medical center.
+PATIENTS Seven healthy men and women. Six subjects (86%) completed the study; one was removed due to the development of a rash.
+INTERVENTIONS Volunteers received a single 200-mg oral dose of itraconazole or itraconazole with concomitant oral ddI 300 mg (two 150-mg tablets) dispersed in 240 ml water. Each regimen was separated by a 2-week washout period. Serum samples were obtained frequently for 12 hours after the dose.
+MEASUREMENTS AND MAIN RESULTS Concentrations of itraconazole were determined using a microbiologic assay. Individual concentrations in serum versus time data were evaluated by linear regression analysis. Peak serum concentration and time to peak were determined by visual inspection of each individual's serum concentration-time curve. A mean +/- SD peak serum itraconazole concentration of 0.90 +/- 0.30 micrograms/ml was observed at 3.0 +/- 0.7 hours when itraconazole was administered alone, compared with undetectable levels in all patients during therapy with ddI.
+CONCLUSIONS Simultaneous oral administration of ddI significantly decreases absorption of itraconazole. These drugs should not be administered concurrently.
+

@@ -1,0 +1,4 @@
+Reactive balance adjustments to unexpected perturbations during human walking.
+
+The purpose of this investigation was to determine the effect of unexpected forward perturbations (FP) during gait on lower extremity joint mechanics and muscle Electromyographic (EMG) patterns in healthy adults. The muscles surrounding the hip were found to be most important in maintaining control of the trunk and preventing collapse in response to the FP. Distinct lower extremity joint moment and power patterns were observed in response to the FP but an overall positive moment of support (M(s)) was maintained. Therefore, reactive balance control was a synchronized effort of the lower extremity joints to prevent collapse during the FP.
+

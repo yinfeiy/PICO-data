@@ -1,0 +1,11 @@
+Wheelchair skills training to improve confidence with using a manual wheelchair among older adults: a pilot study.
+
+OBJECTIVE To examine the effects of wheelchair skills training on confidence in older adults who are inexperienced wheelchair users.
+DESIGN Parallel group, single-blind randomized controlled trial.
+SETTING Research laboratory in a rehabilitation hospital.
+PARTICIPANTS Participants (N=20) who were community-living older adults at least 65 years old (mean age, 70y), 50% women, and who had no experience of using a wheelchair were randomly allocated to an intervention (n=10) or control (n=10) group.
+INTERVENTIONS The intervention group received two 1-hour training sessions that followed the Wheelchair Skills Training Program (WSTP) protocol. The control group received a single socialization contact.
+MAIN OUTCOME MEASURE The Wheelchair Use Confidence Scale-Manual (WheelCon-M) was used to evaluate confidence with using a manual wheelchair. The WheelCon-M is a self-report questionnaire that comprises 65 items in 6 conceptual areas.
+RESULTS A 1-way between-groups analysis of covariance revealed a significant difference in postintervention WheelCon-M scores between the intervention and control groups (F1,17=10.9, P=.004) after controlling for baseline WheelCon-M scores. A large effect size was also observed (partial η(2)=.39). Secondary analyses revealed that the WSTP had greater effects on confidence in areas related to maneuvering around the physical environment, knowledge and problem solving, advocacy, and managing emotions than in areas related to performing activities and behaving in social situations.
+CONCLUSION Two 1-hour WSTP sessions improve confidence with using a manual wheelchair among older adults who are inexperienced wheelchair users.
+

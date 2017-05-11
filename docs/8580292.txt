@@ -1,0 +1,4 @@
+[Evaluating an interactive, multi-media learning system for the study of primary open angle glaucoma].
+
+Using the interactive multimedia learning system for studying open-angle glaucoma [3] a prospective, randomized, case-controlled study was carried out to determine the value of this new form of learning in terms of acceptance and the imparting of knowledge. This article describes details of the study and presents their results. Results were established on the basis of targeted questions asked prior to and after the learning phase, followed by an analysis of frequencies and significance testing by the Chi squared method. It was shown that the imparting of knowledge is significantly improved when this learning system is employed. In addition, after its first use, acceptance of this new medium rose dramatically.
+

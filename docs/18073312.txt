@@ -1,0 +1,12 @@
+Short-term aerobic exercise training in obese humans with type 2 diabetes mellitus improves whole-body insulin sensitivity through gains in peripheral, not hepatic insulin sensitivity.
+
+CONTEXT Short-term aerobic exercise training can improve whole-body insulin sensitivity in humans with type 2 diabetes mellitus; however, the contributions of peripheral and hepatic tissues to these improvements are not known.
+OBJECTIVE Our objective was to determine the effect of 7-d aerobic exercise training on peripheral and hepatic insulin sensitivity during isoglycemic/hyperinsulinemic clamp conditions.
+DESIGN Subjects were randomly assigned to one of two groups. The energy balance group consumed an isocaloric diet consisting of 50% carbohydrate, 30% fat, and 20% protein for 15 d. The energy balance plus exercise group consumed a similar diet over the 15 d and performed 50-min of treadmill walking at 70% of maximum oxygen consumption maximum during the second 7 d of the 15-d study period. Each subject underwent an initial isoglycemic/hyperinsulinemic clamp after 1-wk dietary control and a second clamp after completing the study.
+SETTING The study was performed at Ohio State University's General Clinical Research Center.
+PARTICIPANTS There were 18 obese, mildly diabetic humans included in the study.
+INTERVENTION Aerobic exercise training was performed for 7 d.
+MAIN OUTCOME MEASURES Whole-body, peripheral, and hepatic insulin sensitivity were measured.
+RESULTS Exercise training did not have an impact on peripheral glucose uptake or endogenous glucose production during the basal state or low-dose insulin. Likewise, it did not alter endogenous glucose production during high-dose insulin. However, 1-wk of exercise training increased both whole-body (P<0.05) and peripheral insulin sensitivity (P<0.0001) during high-dose insulin.
+CONCLUSION Improvements to whole body insulin sensitivity after short-term aerobic exercise training are due to gains in peripheral, not heptic insulin sensitivity.
+

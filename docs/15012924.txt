@@ -1,0 +1,8 @@
+Does aerobic training lead to a more active lifestyle and improved quality of life in patients with chronic heart failure?
+
+BACKGROUND Due to dyspnea and fatigue, patients with chronic heart failure (CHF) are often restricted in the performance of everyday activities, which gradually may lead to hypoactivity.
+AIMS To assess whether aerobic training leads to a more active lifestyle and improved quality of life (QoL) in patients with CHF.
+METHODS Patients with stable CHF (NYHA II/III; 59 (11) years) were randomly assigned to a training group (n=18; 3-month aerobic program above standard treatment) or control group (n=16; standard treatment without special advice for exercise). Measurements were performed on level of everyday physical activity (PA, novel accelerometry-based activity monitor) and QoL, and on several related parameters.
+RESULTS Training did not result in a more active lifestyle or improved QoL, but improved (P<0.05) peak power (17%), 6-min walk distance (10%), muscle strength (13-15%) and depression (-1.3 unit). Changes in level of everyday PA were related to changes in peak Vo(2) (r=0.58, P=0.01) and knee extension strength (r=0.48, P=0.05).
+CONCLUSIONS At group level training did not result in a more active lifestyle or improved QoL. However, correlations between training-related changes in parameters suggest that aerobic training has the potential to increase levels of everyday PA in CHF.
+

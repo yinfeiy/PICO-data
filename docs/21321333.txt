@@ -1,0 +1,9 @@
+Intermittent theta-burst transcranial magnetic stimulation for treatment of Parkinson disease.
+
+OBJECTIVE To investigate the safety and efficacy of intermittent theta-burst stimulation (iTBS) in the treatment of motor symptoms in Parkinson disease (PD).
+BACKGROUND Progression of PD is characterized by the emergence of motor deficits, which eventually respond less to dopaminergic therapy and pose a therapeutic challenge. Repetitive transcranial magnetic stimulation (rTMS) has shown promising results in improving gait, a major cause of disability, and may provide a therapeutic alternative. iTBS is a novel type of rTMS that may be more efficacious than conventional rTMS.
+METHODS In this randomized, double-blind, sham-controlled study, we investigated safety and efficacy of iTBS of the motor and dorsolateral prefrontal cortices in 8 sessions over 2 weeks (evidence Class I). Assessment of safety and clinical efficacy over a 1-month period included timed tests of gait and bradykinesia, Unified Parkinson's Disease Rating Scale (UPDRS), and additional clinical, neuropsychological, and neurophysiologic measures.
+RESULTS We investigated 26 patients with mild to moderate PD: 13 received iTBS and 13 sham stimulation. We found beneficial effects of iTBS on mood, but no improvement of gait, bradykinesia, UPDRS, and other measures. EEG/EMG monitoring recorded no pathologic increase of cortical excitability or epileptic activity. Few reported discomfort or pain and one experienced tinnitus during real stimulation.
+CONCLUSION iTBS of the motor and prefrontal cortices appears safe and improves mood, but failed to improve motor performance and functional status in PD.
+CLASSIFICATION OF EVIDENCE This study provides Class I evidence that iTBS was not effective for gait, upper extremity bradykinesia, or other motor symptoms in PD.
+

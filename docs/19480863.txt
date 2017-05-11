@@ -1,0 +1,11 @@
+Effects of weight-bearing versus nonweight-bearing exercise on function, walking speed, and position sense in participants with knee osteoarthritis: a randomized controlled trial.
+
+OBJECTIVE To investigate whether weight-bearing (WB) exercise enhances functional capacity to a greater extent than nonweight-bearing (NWB) exercise in participants with knee osteoarthritis.
+DESIGN Randomized controlled trial.
+SETTING Kinesiology laboratory.
+PARTICIPANTS Participants (N=106) were randomly assigned to WB exercise, NWB exercise, or a control group (no exercise).
+INTERVENTION WB exercise and NWB exercise groups underwent an 8-week knee extension-flexion exercise program.
+MAIN OUTCOME MEASURES Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) function scale, walking speed, muscle torque, and knee reposition error were assessed before and after intervention.
+RESULTS Equally significant improvements were apparent for all outcomes after WB exercise and NWB exercise, except for reposition error, for which improvement was greater in the WB exercise group. In contrast, there were no improvements in the control group.
+CONCLUSIONS Simple knee flexion and extension exercises (WB and NWB) performed over 8 weeks resulted in significant improvement in the WOMAC function scale and knee strength compared with the control group. NWB exercise alone may be sufficient enough to improve function and muscle strength. The additional benefit of WB exercise was improved position sense, which may enhance complex walking tasks (walking on figure of 8 route and spongy surface).
+

@@ -1,0 +1,13 @@
+New introducer PEG gastropexy does not require prophylactic antibiotics: multicenter prospective randomized double-blind placebo-controlled study.
+
+BACKGROUND Peristomal infections are the most common complications of PEG, despite prophylactic antibiotics. The "introducer" PEG-placement technique avoids the sojourn of a PEG catheter through the oropharynx, and hence minimizes the chances of infectious complications. Despite the obvious potential advantage, this technique failed to gain popularity, mainly as a result of other associated risks and complications. Recently, a modified introducer endoscopic PEG-gastropexy technique was shown to be quite safe. The present study is the first study that evaluated the need of prophylactic antibiotics for "introducer" PEG.
+OBJECTIVE To determine the incidence of peristomal wound infections during the immediate 7-day postprocedure follow-up.
+DESIGN Prospective, randomized, double-blind, placebo-controlled trial.
+SETTINGS Multicenter; a university tertiary-care hospital and a private practice endoscopy clinic.
+PATIENTS A total of 633 patients undergoing PEG were assessed for inclusion. Ninety-seven patients who had malignant stenotic oropharyngeal stricture were randomized: group I (49 patients) received prophylactic ceftriaxone, and group II (48 patients) received a placebo. Both groups were similar in patient characteristics.
+INTERVENTIONS Introducer PEG was performed by using the Freka Pexact-15 CH/FR, with the gastric wall nonsurgically sutured to the anterior abdominal wall by use of an endoscope.
+MAIN OUTCOME MEASUREMENTS The peristomal area was assessed daily for 7 days by using 2 different types of infection scores.
+RESULTS Clinically significant wound reaction was observed in 1 patient in each group. Wound infection scores were marginally higher in the placebo group, but the differences in the values of infection scores between both the groups were not statistically significant during the 7-day post-PEG follow-up.
+LIMITATIONS The introducer gastropexy kit is 5 times more expensive than the "pull" PEG.
+CONCLUSIONS The new introducer PEG-gastropexy technique can be performed safely, without prophylactic antibiotics in patients potentially at high risk of peristomal infectious complications (those with advanced oropharyngeal malignancy) (ClinicalTrials.gov identifier NCT00375414).
+

@@ -1,0 +1,11 @@
+A randomized trial of a brief alcohol intervention for needle exchangers (BRAINE).
+
+AIMS To test motivational interviewing (MI) as a brief intervention for reducing alcohol use among needle exchange clients.
+DESIGN Randomized clinical trial.
+SETTING Needle exchange program-Providence, Rhode Island, USA.
+PARTICIPANTS Between 2/98 and 10/99, we recruited 187 AUDIT-positive (>8) active injection drug users.
+INTERVENTION Those assigned to a brief motivational intervention (MI) condition received two 1-hour therapist sessions following assessment visits, 1 month apart, focusing on alcohol use and HIV risk-taking.
+MEASUREMENTS Control and MI subjects received identical research assessments at baseline, 1 and 6 months following study enrollment. At 6 months, study outcomes included days of alcohol use measured using the time-line follow-back method.
+FINDINGS Study retention was 96.8% at 6 months. Participants reported an average of 12.0 drinking days at baseline and 8.3 at 6 months. Significant reductions in drinking days were observed in both treatment conditions. We found significant treatment x baseline drinking day interaction effects. Tests for simple main effects were significant for subjects with above median (>9) baseline drinking day frequency, but not for those with below median baseline drinking frequency. Comparisons on dichotomous outcomes provided supporting evidence of treatment efficacy; those in MI were over two times more likely than controls to report reductions of 7 days or more (P < 0.05).
+CONCLUSIONS This study provides the first direct evidence that brief MI can decrease alcohol use among active injection drug users with drinking problems. Heavier drinkers seem best suited for this intervention, but the optimal intensity of treatments and which components of brief intervention are most effective deserve further study.
+

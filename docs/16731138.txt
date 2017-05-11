@@ -1,0 +1,7 @@
+Neurocognitive outcomes in off-pump versus on-pump bypass surgery: a randomized controlled trial.
+
+BACKGROUND Cognitive difficulties have been reported after coronary artery bypass graft surgery using cardiopulmonary bypass. However, the cognitive benefit of off-pump surgery remains unclear.
+METHODS Consecutively listed candidates for elective bypass were randomly assigned to either off-pump or on-pump techniques (n = 107). A battery of 11 standardized neuropsychological tests was administered before surgery, and again at 2 and 6 months after surgery. The two groups were compared using a range of statistical procedures, including growth modeling.
+RESULTS There were no significant differences in cognitive test scores between the off-pump and on-pump groups using t tests at any of the time points. There were no differences between off-pump and on-pump groups in the incidence of cognitive deficits at 2 months or 6 months, with the exception that fewer off-pump patients showed impairment on one test of verbal fluency at 6 months. When the pattern of cognitive change over time between the two groups was compared using sophisticated modeling techniques, the two groups were again comparable, except for results on the test of verbal fluency, in which the off-pump group showed more rapid postsurgical cognitive gains than the on-pump group.
+CONCLUSIONS The off-pump group appears to be generally comparable to the on-pump group in terms of short-term and long-term postsurgical neurocognitive outcomes.
+

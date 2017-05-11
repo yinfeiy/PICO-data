@@ -1,0 +1,4 @@
+The influence of serum methotrexate concentrations and drug dosage on outcome in childhood acute lymphoblastic leukaemia.
+
+Sequential methotrexate (Mtx) absorption studies were undertaken in 127 children undergoing treatment for childhood non-T acute lymphoblastic leukaemia (ALL) to determine whether serum drug concentration, clearance and dosage affect event free survival (EFS). Higher serum concentration and area under the plasma concentration curve (AUC) were not associated with an improved EFS. Methotrexate clearance was not found to be of prognostic significance. Patients who tolerated only low 6-mercaptopurine (6-MP) doses because of neutropaenia and those who randomly were prescribed higher doses of Mtx had a lower rate of leukaemia relapse after the completion of therapy. This suggests that the use of maintenance therapy in maximally tolerated doses may be associated with an increased survival in childhood ALL.
+

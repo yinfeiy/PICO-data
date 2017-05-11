@@ -1,0 +1,7 @@
+An RCT comparing patient-centred outcome variables of guided surgery (bone or mucosa supported) with conventional implant placement.
+
+AIM To assess in a randomized study the patient-centred outcome of two guided surgery systems (mucosa or bone supported) compared to conventional implant placement, in fully edentulous patients.
+MATERIAL AND METHODS Fifty-nine patients (72 jaws) with edentulous maxillas and/ or mandibles, were consecutively recruited and randomly assigned to one of the treatment groups. Outcome measures were the Dutch version of the McGill Pain Questionnaire (MPQ-DLV), the Health-related quality of life instrument (HRQOL), visual analogue scales (VAS), the duration of the procedure, and the analgesic doses taken each day.
+RESULTS Three hundred and fourteen implants were placed successfully. No statistical differences could be shown between treatment groups on pain response (MPQ-DLV), treatment perception (VAS) or number or kind of pain killers. For the HRQOLI-instrument, a significant difference was found between the Materialise Mucosa and Materialise Bone group at day 1 (p = 0.02) and day 2 (p = 0.01). For the duration of the surgery, a statistical difference (p = 0.005) was found between the Materialise mucosa and the Mental group, in favour of the first.
+CONCLUSION In this study little difference could be found in the patient outcome variables of the different treatment groups. However there was a tendency for patients treated with conventional flapped implant placement to experience the pain for a longer period of time.
+

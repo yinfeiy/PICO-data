@@ -1,0 +1,12 @@
+Effect of chelation therapy on progressive diabetic nephropathy in patients with type 2 diabetes and high-normal body lead burdens.
+
+BACKGROUND A previous study in type 2 diabetic patients with high-normal body lead burdens showed that EDTA chelation therapy for 3 months slows progressive diabetic nephropathy during a 12-month follow-up. The effect of a longer course of therapy on kidney function decrease over a longer follow-up is not known.
+STUDY DESIGN A 12-month run-in phase, then a randomized single-blind study with a 27-month intervention.
+SETTING & PARTICIPANTS University medical center; 50 patients (serum creatinine, 1.5-3.9 mg/dL) with high-normal body lead burden (≥80-<600 μg) were randomly assigned to the treatment and control groups.
+INTERVENTION The treatment group received weekly chelation therapy for 3 months to reduce their body lead burden to <60 μg and then as needed for 24 months to maintain this level. The control group received placebo for 3 months and then weekly for 5 weeks at 6-month intervals for 24 months.
+OUTCOMES The primary end point was change in estimated glomerular filtration rate (eGFR) over time. A secondary end point was a 2-fold increase in baseline serum creatinine level or the requirement for renal replacement therapy.
+MEASUREMENTS Body lead burdens were assessed by EDTA mobilization tests and eGFR was calculated using the equation for Chinese patients with type 2 diabetes.
+RESULTS Mean baseline eGFRs in the treatment and control groups were similar. After 3 months of chelation therapy, the change in eGFR in the treatment group (+1.0 ± 4.8 mL/min/1.73 m(2)) differed significantly from that in the control group (-1.5 ± 4.8 mL/min/1.73 m(2); P = 0.04). In the subsequent 24-month intervention, the yearly rate of decrease in eGFR (5.6 ± 5.0 mL/min/1.73 m(2) per year) in the treatment group was slower than that (9.2 ± 3.6 mL/min/1.73 m(2) per year; P = 0.04) in the control group. 17 (68%) control-group patients and 9 (36%) treatment-group patients achieved the secondary end point.
+LIMITATIONS Small sample size, not double blind.
+CONCLUSIONS A 27-month course of EDTA chelation therapy retards the progression of diabetic nephropathy in type 2 diabetic patients with high-normal body lead burdens.
+

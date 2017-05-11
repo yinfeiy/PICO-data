@@ -1,0 +1,7 @@
+Contingency management for the treatment of antipsychotic-induced weight gain: a randomized controlled pilot study.
+
+OBJECTIVE Weight gain is common for individuals with serious mental illness (SMI) receiving antipsychotic drug therapy. Contingency management (CM) is a behavioral intervention that rewards positive performance and has demonstrated effectiveness in reducing drug use in SMI populations. This study evaluated the feasibility of using CM to promote weight loss in individuals with SMI over 8 weeks.
+METHOD 30 individuals (BMI ≥ 28 kg/m(2)) were randomized to one of three conditions: i) The combination of a standardized lifestyle modification (LM) program for individuals with SMI and payment for group attendance (CM(attendance)), ii) The combination of LM and payment for weight loss (CM(weight)), and iii) waitlist control (CON). After the waitlist period, those participants joined a LM group and received payment for behavioral change (CM(behavior)).
+RESULTS Subjects in the CM(attendance) and in the CM(weight) group lost a mean of 1.16 kg and 1.23 kg, respectively, while subjects in the CON gained a mean of 0.68 kg. Subjects receiving CM(behavior), lost a mean of 2.54 kg, which was a significant weight loss compared to the control period.
+CONCLUSION LM supplemented with CM may facilitate weight loss in patients taking antipsychotic medications; financial reimbursement for behavioral change may be particularly effective in this population.
+

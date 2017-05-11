@@ -1,0 +1,4 @@
+[Final evaluation of the randomized multicenter study SAKK 40/81: adjuvant portal chemotherapy of curatively resected colorectal cancer].
+
+Between 1981 and 1987, 533 patients from 9 institutions have been entered in a randomized trial to assess the value of adjuvant portal infusion (5-Fluorouracil, Mitomycin C) compared to radical surgery alone. Analysis of 469 evaluable patients at a median follow-up of 5.8 years revealed 110 recurrences in the control and 94 recurrences in the infusion group. Estimated 5-year disease-free survival was 52% and 61% respectively (hazard ratio 1:0.75; 95% confidence interval 0.57-0.99; p = 0.046). Overall survival was 59% in the control and 69 in the infusion group (p = 0.048). Adjuvant portal infusion did not influence the occurrence of liver metastases but reduced the overall recurrence rate.
+

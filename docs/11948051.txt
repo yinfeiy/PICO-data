@@ -1,0 +1,10 @@
+Regional ischemic preconditioning enhances myocardial performance in off-pump coronary artery bypass grafting.
+
+OBJECTIVES We intended to investigate whether ischemic preconditioning (IP) enhances myocardial performance in patients who undergo off-pump coronary artery bypass grafting (CABG).
+DESIGN A controlled, randomized, prospective study.
+SETTING A university hospital.
+PATIENTS Thirty-two patients with left anterior descending coronary artery (LAD) or two-vessel heart disease (including LAD) who were to undergo off-pump CABG were randomized into an IP group and a control group.
+INTERVENTIONS IP was induced by occluding the LAD twice for a 2-min period followed by 3-min LAD reperfusion before bypass grafting of the first coronary vessel.
+MEASUREMENTS AND RESULTS Registration included hemodynamic data from the peripheral artery and the pulmonary artery, and the measurement of cardiac troponin I (CTnI) and creatine kinase isoenzyme MB (CK-MB) values. IP resulted in a complete recovery of the mean stroke volume index (SVI) after the operation. In the control subjects, the mean SVI showed a significant reduction postoperatively (p = 0.039). On the first postoperative day, the increase in the mean heart rate (HR) was also significantly lower in the IP patients. The CTnI level was statistically significantly lower in the IP group (p = 0.043), and IP patients tended to have a smaller CK-MB release after surgery (not significant). The duration of mechanical ventilation, the length of stay in the ICU, and the use of inotropic medication did not increase after the IP protocol.
+CONCLUSIONS Two cycles of regional 2-min IP in the LAD, followed by 3 min of reperfusion, proved to be applicable and safe in patients undergoing off-pump myocardial revascularization, it tended to decrease the immediate myocardial enzyme release, it prohibited the postoperative increase in HR, and it enhanced the recovery of SVI.
+

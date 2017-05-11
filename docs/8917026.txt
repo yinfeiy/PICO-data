@@ -1,0 +1,10 @@
+Ranitidine improves lymphocyte function after severe head injury: results of a randomized, double-blind study.
+
+OBJECTIVE To study the immunomodulatory effect of the histamine receptor antagonist, ranitidine, in patients admitted to the intensive care unit after severe head injury.
+DESIGN Randomized, prospective, double-blind study.
+SETTING Surgical intensive care unit of a university Level I trauma center.
+PATIENTS Twenty patients admitted with a Glasgow Coma Scale score of < 10 who were enrolled as part of a prospective, multicenter trial to assess the impact of multiple risk factors and ranitidine prophylaxis on the development of stress-related upper gastrointestinal bleeding.
+INTERVENTIONS Continuous infusion of ranitidine at 6.25 mg/hr (n = 9) or placebo (n = 11) for a maximum of 5 days.
+MEASUREMENTS AND MAIN RESULTS Before the patients were enrolled in the study and on completion of treatment, lymphocyte cell-surface antigen expression was determined by flow cytometry (n = 14 patients); mitogen-stimulated interferon-gamma and interleukin-2 production were measured by enzyme-linked immunosorbent assay (n = 19 patients). Treatment with ranitidine, but not placebo, was associated with a significant increase in CD4+ lymphocytes (33% to 49%; p < .05) and a significant decrease in CD8+ lymphocytes (41% to 27%; p < .05). Also, the mitogen-stimulated interferon-gamma production increased from 121 to 269 pg/mL (p < .05) in patients treated with ranitidine, but not in patients treated with placebo. There were no significant differences in interleukin-2 production or circulating B-cell concentrations between both groups.
+CONCLUSION This study demonstrates an immunostimulatory effect of the histamine-2-receptor antagonist, ranitidine, both at the cellular and mediator levels in patients after head injury.
+

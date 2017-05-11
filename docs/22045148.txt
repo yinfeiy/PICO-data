@@ -1,0 +1,8 @@
+A simplified score for transfer of patients requiring mechanical ventilation to a long-term care hospital.
+
+BACKGROUND Long-term care hospitals are Medicare providers of postacute care that have a mean length of stay of 25 days or more. Early identification and timely transfer of patients requiring mechanical ventilation to such hospitals may improve the efficiency of inpatient care.
+OBJECTIVES To develop a predictive model and a simplified score for use on day 7 of hospitalization to assess whether a patient receiving mechanical ventilation is likely to require an additional 25 days of hospitalization (ie, would qualify for transfer to a long-term care hospital).
+METHODS A retrospective, cross-sectional study using hospital discharge and billing data from the 2005 Nationwide Inpatient Sample for 54 686 Medicare beneficiaries admitted to US community hospitals who met the study's eligibility criteria. The outcome was overall length of stay (≥32 vs <32 days). Split-sample validation was used. Multivariable survey-logistic regression analyses were performed to assess predictors and probability of the outcome. A simplified score was derived from the final predictive model.
+RESULTS The discriminatory power of the predictive model was 0.75 and that of the simplified score was 0.72. The model calibrated well. All predictors were significantly (P < .01) associated with a hospitalization of 32 days or longer; having a tracheostomy was the strongest predictor (odds ratio, 4.74). The simplified scores ranged from -5 to 110 points and were categorized into 3 classes of risk.
+CONCLUSIONS Efforts to aid discharge decision making and optimize hospital resource planning could take advantage of our predictive model and the simplified scoring tool.
+

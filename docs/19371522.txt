@@ -1,0 +1,7 @@
+Randomized evaluation of octreotide vs prochlorperazine for ED treatment of migraine headache.
+
+UNLABELLED Patients with headaches account for approximately 2% of all ED visits, with migraines being the most common defined primary headache syndrome. Our goals were to evaluate the efficacy of intravenous octreotide (OC) for the treatment of migraines, when compared to standard therapy with prochlorperazine.
+METHODS The study was conducted as a double-blinded, randomized controlled trial. Each subject received either 100 microg of octreotide or 10 mg of prochlorperazine intravenously for a 2-minute period.
+RESULTS Comparison of the change in median visual analog scale scores for 60 minutes demonstrated that octreotide was less effective at reducing pain (P = .03) and producing clinical success (P < .01). Restlessness consistent with akathisia was noted by 35% of the PC group and 8% of the OC group (P < .01). At 60 minutes, rescue medication was required by 48% of the patients in the OC group, whereas 10% of the PC group required such therapy (P < .01). All 44 patients were contacted for follow-up at 48 to 72 hours after enrollment. At that time, 10% of the prochlorperazine and 25% of the octreotide patients had experienced some headache recurrence (P = .1).
+CONCLUSION Prochlorperazine was statistically superior to octreotide in clinical success rate and decrease in pain in migraine patients but caused more restlessness and sedation.
+

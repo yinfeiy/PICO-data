@@ -1,0 +1,12 @@
+Diet and tobacco use: analysis of data from the diabetic control and complications trial, a randomized study.
+
+CONTEXT The Diabetic Control and Complications Trial (DCCT) researchers kept careful records of the food consumption and tobacco using habits of type 1 diabetic subjects. However, they did not report the relationship of tobacco using habits with dietary intake.
+OBJECTIVE Analyze the relationship between tobacco smoking and intake of macro and micronutrients.
+DESIGN Randomized controlled trial.
+SETTING Referral clinics in 27 academic centers.
+PATIENTS Type 1 diabetics.
+INTERVENTION Using the data sets of the DCCT, this study analyzed the strengths of the associations between smoking and macronutrient consumption, hemoglobin A1c (HbA1c), body mass index (BMI), and serum lipid levels at the study baseline, 2 years, and 4 years.
+MAIN OUTCOME MEASURES Statistically significant correlations between smoking and nutrient intake, HbA1c, and serum lipid levels.
+RESULTS Cigarette, cigar, or pipe use at each time interval correlated with significantly increased caloric intake in males but not in females. In both males and females, tobacco users consumed more fat, cholesterol, and alcohol. Female smokers had higher serum low-density lipoprotein (LDL)/high-density lipoprotein (HDL) ratios and triglycerides. Serum cholesterols, LDL/HDL ratios, LDL cholesterols, and triglyceride determinations in male tobacco users significantly exceeded those in nonsmoking males. HDL cholesterols were lower in both female and male tobacco users. Nutrient intake of former tobacco users resembled that of nonusers rather than current users.
+CONCLUSIONS A significant association exists between smoking and a diet with higher risks of atherosclerosis, cancer, and other degenerative diseases. The strong association of tobacco with heart disease, stroke, vasculopathies, and various malignancies may be in part due to its association with a higher fat diet. The higher fat diet of tobacco users probably accounts in part for their higher risk of developing type 2 diabetes and hyperlipidemia. Tobacco users should be informed about the diet and tobacco use association.
+

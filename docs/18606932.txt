@@ -1,0 +1,11 @@
+Complementary feeding with fortified spread and incidence of severe stunting in 6- to 18-month-old rural Malawians.
+
+OBJECTIVE To compare growth and incidence of malnutrition in infants receiving long-term dietary supplementation with ready-to-use fortified spread (FS) or micronutrient-fortified maize-soy flour (likuni phala [LP]).
+DESIGN Randomized, controlled, single-blind trial.
+SETTING Rural Malawi.
+PARTICIPANTS A total of 182 six-month-old infants.
+INTERVENTION Participants were randomized to receive 1 year of daily supplementation with 71 g of LP (282 kcal), 50 g of FS (FS50) (256 kcal), or 25 g of FS (FS25) (130 [corrected] kcal).
+OUTCOME MEASURES Weight and length gains and the incidences of severe stunting, underweight, and wasting.
+RESULTS Mean weight and length gains in the LP, FS50, and FS25 groups were 2.37, 2.47, and 2.37 kg (P = .66) and 12.7, 13.5, and 13.2 cm (P = .23), respectively. In the same groups, the cumulative 12-month incidence of severe stunting was 13.3%, 0.0%, and 3.5% (P = .01), of severe underweight was 15.0%, 22.5%, and 16.9% (P = .71), and of severe wasting was 1.8%, 1.9%, and 1.8% (P > .99). Compared with LP-supplemented infants, those given FS50 gained a mean of 100 g more weight and 0.8 cm more length. There was a significant interaction between baseline length and intervention (P = .04); in children with below-median length at enrollment, those given FS50 gained a mean of 1.9 cm more than individuals receiving LP.
+CONCLUSION One-year-long complementary feeding with FS does not have a significantly larger effect than LP on mean weight gain in all infants, but it is likely to boost linear growth in the most disadvantaged individuals and, hence, decrease the incidence of severe stunting.
+

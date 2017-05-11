@@ -1,0 +1,7 @@
+A possible link between early probiotic intervention and the risk of neuropsychiatric disorders later in childhood: a randomized trial.
+
+BACKGROUND Recent experimental evidence suggests that gut microbiota may alter function within the nervous system providing new insight on the mechanism of neuropsychiatric disorders.
+METHODS Seventy-five infants who were randomized to receive Lactobacillus rhamnosus GG (ATCC 53103) or placebo during the first 6 mo of life were followed-up for 13 y. Gut microbiota was assessed at the age of 3 wk, 3, 6, 12, 18, 24 mo, and 13 y using fluorescein in situ hybridization (FISH) and qPCR, and indirectly by determining the blood group secretor type at the age of 13 y. The diagnoses of attention deficit hyperactivity disorder (ADHD) and Asperger syndrome (AS) by a child neurologist or psychiatrist were based on ICD-10 diagnostic criteria.
+RESULTS At the age of 13 y, ADHD or AS was diagnosed in 6/35 (17.1%) children in the placebo and none in the probiotic group (P = 0.008). The mean (SD) numbers of Bifidobacterium species bacteria in feces during the first 6 mo of life was lower in affected children 8.26 (1.24) log cells/g than in healthy children 9.12 (0.64) log cells/g; P = 0.03.
+CONCLUSION Probiotic supplementation early in life may reduce the risk of neuropsychiatric disorder development later in childhood possible by mechanisms not limited to gut microbiota composition.
+

@@ -1,0 +1,7 @@
+Enhancing HIV medication adherence in India.
+
+BACKGROUND This pilot study evaluated an intervention designed to enhance adherence among those new to antiretroviral therapy.
+METHODS Participants (n = 80) were recruited from a hospital clinic in Chandigarh, India, and randomized to a 3-month group intervention or individual enhanced standard of care followed by crossover of condition and assessed over 6 months. Adherence was measured by prescription refill, pill count, and self-report.
+RESULTS At baseline, 56% of group condition (immediate intervention) and 54% of individual condition (delayed intervention) participants were nonadherent by pill count and 23% of group and 26% of individual condition participants self-reported skipping medication at least once over the last 3 months. From the postintervention to long-term follow-up, adherence in the group condition (immediate intervention) improved in comparison with adherence in the individual condition (delayed intervention; χ(2) = 5.67, P = .02).
+CONCLUSIONS Results support the use of interventions early in treatment to provide information and social support to establish long-term healthy adherence behaviors.
+

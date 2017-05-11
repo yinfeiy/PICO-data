@@ -1,0 +1,7 @@
+Assessing the bioequivalence of topical retinoid products by pharmacodynamic assay.
+
+PURPOSE To develop a simple pharmacodynamic (PD) assay for the evaluation of the bioequivalence of topically applied retinoid products.
+METHODS Daily applications of products containing tretinoin or adapalene were made to the forearms of human subjects for up to 21 days. Percutaneous absorption was enhanced through the use of polyethylene film occlusion (5 h). Pharmacologic activity was assessed through the daily measurement of three cutaneous responses intimately linked to retinoid-induced changes in epidermal differentiation: (1) erythema; (2) exfoliation (scaling/peeling), and (3) increased transepidermal water loss.
+RESULTS The PD model exhibited the sensitivity and specificity required to function as a bioequivalence surrogate. It was possible to differentiate between: (1) three concentrations of tretinoin in a commercial cream product line; (2) two concentrations of tretinoin in a commercial gel product line; (3) different vehicles (gel vs. cream) containing the same concentration of tretinoin, and (4) tretinoin and adapalene at the same concentration. The applicability of this model for bioequivalence testing was established by showing that it had sufficient power to determine that three test tretinoin cream products and two approved generic tretinoin gel products were equivalent to their corresponding reference products.
+CONCLUSIONS A surrogate PD model to assess retinoid bioequivalence has been developed.
+

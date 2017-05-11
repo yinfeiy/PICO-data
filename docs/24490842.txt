@@ -1,0 +1,12 @@
+Examining the effectiveness of psychological strategies on physiologic markers: evidence-based suggestions for holistic care of the athlete.
+
+CONTEXT Current holistic rehabilitation blends both physical and psychological techniques. However, validation of the usefulness of psychological strategies is limited in the literature.
+OBJECTIVE To quantify the effects of psychological strategies on both physiologic (salivary cortisol) and subjective assessments of stress.
+DESIGN Randomized controlled clinical trial.
+SETTING Laboratory.
+PATIENTS OR OTHER PARTICIPANTS A total of 97 college-aged students (age = 20.65 ± 4.38 years), most with little to no experience with psychological strategies.
+INTERVENTION(S) A 15-minute script via an iPod led the participant through visual imagery (cognitive relaxation) or deep breathing exercises (somatic relaxation) cues. The control group listened to 15 minutes of ambient nature sounds.
+MAIN OUTCOME MEASURE(S) Two samples (pretest, posttest) of salivary cortisol were analyzed using an enzyme immunoassay kit; the average was used for statistical analysis. Descriptive statistics and correlations were conducted to examine group differences in time of day, salivary cortisol, sex, Stress-O-Meter values, and Perceived Stress Scale scores.
+RESULTS Salivary cortisol levels were lower in the treatment group than the control group (F2,97 = 15.62, P < .001). Females had higher scores on both the pretest Stress-O-Meter (5.15 ± 1.796) and the Perceived Stress Scale (18.31 ± 5.833) than males (4.25 ± 1.741 and 15.272 ± 5.390, respectively).
+CONCLUSIONS Both cognitive and somatic relaxation strategies reduced cortisol levels. Participants who received verbal guidance achieved a larger cortisol reduction. However, the change in cortisol level was uncorrelated with the change in report of acute stress; females reported higher levels of stress. Clinical implications include attention to sex when assessing stress and providing coping skills during the rehabilitation process.
+

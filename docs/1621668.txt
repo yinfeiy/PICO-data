@@ -1,0 +1,10 @@
+Antipyretic efficacy of ibuprofen vs acetaminophen.
+
+OBJECTIVE To compare the antipyretic efficacy of ibuprofen, placebo, and acetaminophen.
+DESIGN Double-dummy, double-blind, randomized, placebo-controlled trial.
+SETTING Emergency department and inpatient units of a large, metropolitan, university-based, children's hospital in Michigan.
+PARTICIPANTS 37 otherwise healthy children aged 2 to 12 years with acute, intercurrent, febrile illness.
+INTERVENTIONS Each child was randomly assigned to receive a single dose of acetaminophen (10 mg/kg), ibuprofen (7.5 or 10 mg/kg), or placebo.
+MEASUREMENTS/MAIN RESULTS Oral temperature was measured before dosing, 30 minutes after dosing, and hourly thereafter for 8 hours after the dose. Patients were monitored for adverse effects during the study and 24 hours after administration of the assigned drug. All three active treatments produced significant antipyresis compared with placebo. Ibuprofen provided greater temperature decrement and longer duration of antipyresis than acetaminophen when the two drugs were administered in approximately equal doses. No adverse effects were observed in any treatment group.
+CONCLUSION Ibuprofen is a potent antipyretic agent and is a safe alternative for the selected febrile child who may benefit from antipyretic medication but who either cannot take or does not achieve satisfactory antipyresis with acetaminophen.
+

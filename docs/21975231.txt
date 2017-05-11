@@ -1,0 +1,7 @@
+Design and implementation of the TRACIA: intracoronary autologous transplant of bone marrow-derived stem cells for acute ST elevation myocardial infarction.
+
+OBJECTIVE To describe the design of a protocol of intracoronary autologous transplant of bone marrow-derived stem cells for acute ST-elevation myocardial infarction (STEMI) and to report the safety of the procedure in the first patients included.
+METHODS The TRACIA study was implemented following predetermined inclusion and exclusion criteria. The protocol includes procedures such as randomization, bone marrow retrieval, stem cells processing, intracoronary infusion of stem cells in the infarct-related artery, preand- post MRI, pre-and-post SPECT with radioisotope ventriculography, and clinical follow-up at 6 months.
+RESULTS Eight patients with a diagnosis of acute STEMI and duration of symptoms of ?24 hours that were perfused successfully through primary percutaneous coronary intervention (PPCI) with a LVEF of ?45% were assigned randomly to two groups (n = 4 each). One group treated with stem cells and the other corresponded to the control group. Neither death, re-infarction, no need for revascularization or thrombosis of the stent were observed at follow-up.
+CONCLUSIONS The initial experience at the Instituto Nacional de Cardiología Ignacio Chávez in the treatment of acute STEMI by means of autologous transplantation of bone marrow-derived stem cells is encouraging. Implementation was possible in the first eight patients with no complications.
+

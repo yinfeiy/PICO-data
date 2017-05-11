@@ -1,0 +1,9 @@
+ROMEO: rethink organization to improve education and outcomes.
+
+AIMS Scarcity of resources, expertise and evidence-based models have so far limited delivery of patient-centred diabetes education. We have developed and validated a group care approach that is applicable to everyday clinical practice and cost-effective in improving metabolic control, knowledge of diabetes, health behaviours, and quality of life in Type 2 diabetes. A clinical trial (ROMEO) was planned to evaluate applicability and reproducibility of group care in other outpatients facilities and assess its impact on a larger patient population.
+METHODS Multicentre, randomized, controlled clinical trial of group vs. individual care in the routine management of Type 2 diabetes. Nine hundred patient aged < 80, with diabetes of > or =1 year known duration, treated by either diet alone or diet and oral agents, will be recruited in 15 centres and followed for 4 years. Training of physicians, nurses and dietitians included preparation of operating manual and videos, interactive sessions, and evaluation of local facilities and resources.
+RESULTS 
+PRIMARY MEASUREMENTS 3-monthly HbA1c, fasting blood glucose, body weight, waist-hip ratio, yearly blood lipids, and bi-yearly assessment of knowledge of diabetes, health behaviours and quality of life.
+SECONDARY OUTCOMES systolic and diastolic blood pressure, evaluation of ECG for ischaemia and QT interval, hypoglycaemic and anti-hypertensive medication and cardiovascular events. Analysis will be by intention-to-treat.
+DISCUSSION If ROMEO confirms that group care can be successfully implemented in different clinics, a novel clinico-pedagogic tool will have been acquired to support patient-centred education, improve lifestyle and outcomes, support team work, enhance providers' attitudes and competencies and ameliorate diabetes care organization.
+

@@ -1,0 +1,7 @@
+The effects of aerobic exercise on academic engagement in young children with autism spectrum disorder.
+
+PURPOSE To determine whether participation in aerobic exercise before classroom activities improves academic engagement and reduces stereotypic behaviors in young children with autism spectrum disorder.
+METHODS This study employed a within-subjects crossover design, using a treatment condition (aerobic exercise) and a control condition, across 4 classrooms. The treatment condition included 15 minutes of running/jogging followed by a classroom task. The control condition included a classroom task not preceded by exercise. The number of stereotypic behaviors, percentage of on-task behavior, and correct/incorrect responses were measured. The Wilcoxon signed rank test was used to compare differences between conditions.
+RESULTS Statistically significant improvements were found in correct responding following exercise (P < .05). No significant differences were found for on-task behavior or stereotypic behaviors.
+CONCLUSIONS Consistent with findings in older children, these results indicate that aerobic exercise prior to classroom activities may improve academic responding in young children with autism spectrum disorder.
+

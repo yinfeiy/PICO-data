@@ -1,0 +1,11 @@
+Treatment with the dipeptidyl peptidase-4 inhibitor vildagliptin improves fasting islet-cell function in subjects with type 2 diabetes.
+
+CONTEXT Dipeptidyl peptidase 4 (DPP-4) inhibitors are proposed to lower blood glucose in type 2 diabetes mellitus (T2DM) by prolonging the activity of the circulating incretins, glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide 1 (GLP-1). Consistent with this mechanism of action, DPP-4 inhibitors improve glucose tolerance after meals by increasing insulin and reducing glucagon levels in the plasma. However, DPP-4 inhibitors also reduce fasting blood glucose, an unexpected effect because circulating levels of active GIP and GLP-1 are low in the postabsorptive state.
+OBJECTIVE The objective of the study was to examine the effects of DPP-4 inhibition on fasting islet function.
+DESIGN We conducted a randomized, double-blind, placebo-controlled trial.
+SETTING The study was performed in General Clinical Research Centers at two University Hospitals.
+SUBJECTS Forty-one subjects with T2DM were treated with metformin or diet, having good glycemic control with glycosylated hemoglobin values of 6.2-7.5%.
+INTERVENTION Subjects were treated with vildagliptin (50 mg twice daily) or placebo for 3 months, followed by a 2-wk washout. Major Outcome Measure: We measured insulin secretion in response to iv glucose and arginine before and after treatment and after drug washout.
+RESULTS There were small and comparable reductions in glycosylated hemoglobin in both groups over 3 months. Vildagliptin increased fasting GLP-1 levels in subjects taking metformin, but not those managed with diet, and raised active GIP levels slightly. DPP-4 inhibitor treatment improved the acute insulin and C-peptide responses to glucose (50 and 100% respectively; P < 0.05) and increased the slope of the C-peptide response to glucose (33%; P = 0.023).
+CONCLUSION Vildagliptin improves islet function in T2DM under fasting conditions. This suggests that DPP-4 inhibition has metabolic benefits in addition to enhancing meal-induced GLP-1 and GIP activity.
+

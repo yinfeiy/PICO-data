@@ -1,0 +1,11 @@
+Effectiveness of written guidelines on the appropriateness of thromboprophylaxis prescriptions for medical patients: a prospective randomized study.
+
+OBJECTIVE To assess the effectiveness of providing doctors with written thromboprophylaxis prescription aids based on current recommendations.
+DESIGN A prospective trial of specific anticoagulant prescription forms: a 1-day survey before and after the intervention in each centre.
+SETTING 30 Internal Medicine departments of Assistance Publique-Hôpitaux de Paris.
+SUBJECTS All inpatients were included, except those who were either admitted or discharged on the day of the survey, and those receiving curative anticoagulant treatment.
+INTERVENTIONS The study included three parts: (i) a 1-day baseline survey; (ii) over the following 3-month period, departments were randomized into two groups: all practitioners in wards allocated to the intervention group were required to systematically use specific anticoagulant prescription forms, whilst doctors in the control group continued prescribing according to their usual practices and (iii) a 1-day postintervention survey.
+MAIN OUTCOME MEASURE The proportion of prescriptions in accordance with the recommendations.
+RESULTS 1,469 patients were included. The intervention produced a significant reduction in the frequency of over-prescriptions, from 25% to 14% of the patients who did not meet the guideline criteria (adjusted OR: 0.3; 95% CI: 0.1-0.8). Using specific forms did not improve under-prescription of anticoagulants. A little over 60% of the patients who met guideline criteria for thromboprophylaxis were prescribed anticoagulants in both intervention and control wards, either at baseline or after intervention.
+CONCLUSIONS Multitargeted interventions using a variety of means and strategies should still be considered to improve prescriptions that may have a significant impact on health expenses and, most importantly, on patients outcomes.
+

@@ -1,0 +1,11 @@
+Does a first trimester dating scan using crown rump length measurement reduce the rate of induction of labour for prolonged pregnancy? An uncompleted randomised controlled trial of 463 women.
+
+OBJECTIVE To evaluate the effect of a first trimester ultrasound dating scan on the rate of induction of labour for prolonged pregnancy.
+DESIGN Randomised controlled trial to include 400 women in each arm of the trial.
+SETTING Participating general practices and a district general teaching hospital.
+POPULATION Women attending their general practitioner in the first trimester to confirm pregnancy, in whom a first trimester ultrasound scan was not indicated.
+METHODS Women randomised to the study group (scan group) underwent an ultrasound dating scan between 8 and 12 weeks, measuring crown-rump length. The estimated date of delivery (EDD) was changed if there was a discrepancy of more than 5 days from the gestation, calculated from the last menstrual period (LMP). For the remaining women (no-scan group), gestation was determined using the LMP.
+MAIN OUTCOME MEASURES The rate of induction of labour for prolonged pregnancy.
+RESULTS Due to circumstances beyond the researchers' control, recruitment was abandoned when 463 women had been enrolled. The EDD was adjusted in 13 (5.7%) women in the scan group and in 2 (0.9%) in the no-scan group. There was no difference in the rate of induction for prolonged pregnancy between the scan (19 [8.2%]) and the no-scan (17 [7.4%]) groups (relative risk 1.10; 95% CI 0.59-2.07).
+CONCLUSIONS Acknowledging the reduced numbers recruited for study, it is concluded that there is no evidence that a first trimester ultrasound dating scan reduces the rate of induction of labour for prolonged pregnancy and may result in a more expensive healthcare strategy.
+

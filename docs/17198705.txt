@@ -1,0 +1,11 @@
+Principal findings from a multicenter trial investigating the safety of follicular-fluid meiosis-activating sterol for in vitro maturation of human cumulus-enclosed oocytes.
+
+OBJECTIVE To evaluate the safety of applying follicular-fluid meiosis-activating sterol (FF-MAS) in vitro to immature human oocytes.
+DESIGN Phase I bicenter, randomized, parallel-group, controlled, partially blinded trial.
+SETTING Third-level referral academic centers, including reproductive biology and genetics laboratories.
+PATIENTS Endocrinologically normal women with a medical indication for IVF or intracytoplasmic sperm injection, or healthy volunteers.
+INTERVENTION(S) Subjects were randomized at a ratio 1 to 6 into either conventional GnRH-agonist and recombinant FSH stimulation (IVO) for oocyte retrieval, or minimally stimulated in vitro maturation (IVM) with the use of recombinant FSH. Retrieved immature oocyte cumulus complexes were cultured for 30 or 36 hours in one of six IVM culture conditions containing FF-MAS (range, 0.1-20 microM). Polar body-extruded oocytes from the IVO and IVM groups were processed for chromosomal analysis.
+MAIN OUTCOME MEASURE(S) The primary endpoint was the incidence of metaphase II stage oocytes with numeric chromosomal abnormalities, using full (spectral karyotyping) or partial (fluorescent in situ hybridization with seven probes) karyotyping or Giemsa count. A secondary objective was to document the frequency of metaphase II oocytes after IVM with FF-MAS supplements.
+RESULT(S) Oocyte cumulus complexes obtained from the IVO (mean, 8.9) and IVM (mean, 6.2) groups had equal maturation rates. Compared to IVO, exposure of germinal-vesicle oocytes for a maturation period of 30 hours did not increase aneuploidy. An exposure period of 36 hours doubled the aneuploidy rate, but this was significant only for the 20-muM dose of FF-MAS.
+CONCLUSION Inclusion of 1-10 microM FF-MAS in a 30-hour IVM protocol is safe.
+

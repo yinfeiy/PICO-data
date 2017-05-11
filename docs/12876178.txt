@@ -1,0 +1,8 @@
+Children with autistic spectrum disorders. II: parents are unable to distinguish secretin from placebo under double-blind conditions.
+
+BACKGROUND Standardised measures of behaviour have failed to detect short term improvement in children with autism following treatment with secretin. However, it is possible that standardised measures are insensitive to dimensions of child behaviour that are nonetheless detectable by parents.
+AIM To determine the ability of parents of children with autism to guess, under double blind conditions, whether their child had received secretin or placebo.
+METHODS 2x2 crossover randomised blinded study, comparing the effect of synthetic human secretin 2 U/kg to placebo (saline). Sixty two children with autism (aged 43-103 months) were randomly allocated to two groups: group 1 received placebo, followed six weeks later by secretin, and group 2 received secretin followed by placebo. At the conclusion of the study, parents were asked to guess their child's group assignment.
+RESULTS Twenty seven families guessed their child's group assignment correctly and 27 guessed incorrectly. In 48 instances, parents based their guess on perceived improvement; in six cases, parents based their guess on perceived deterioration. Six families saw no difference after either infusion, and offered no guess. One family dropped out after the first infusion, and one family was lost to follow up after the second infusion.
+CONCLUSION In a controlled setting, parents of young children with autism are unable to distinguish the short term behavioural effects of secretin from placebo.
+

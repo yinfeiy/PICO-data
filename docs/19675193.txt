@@ -1,0 +1,6 @@
+Sustained benefit of continuous glucose monitoring on A1C, glucose profiles, and hypoglycemia in adults with type 1 diabetes.
+
+OBJECTIVE To evaluate long-term effects of continuous glucose monitoring (CGM) in intensively treated adults with type 1 diabetes.
+RESEARCH DESIGN AND METHODS We studied 83 of 86 individuals >or=25 years of age with type 1 diabetes who used CGM as part of a 6-month randomized clinical trial in a subsequent 6-month extension study. RESULTS After 12 months, median CGM use was 6.8 days per week. Mean change in A1C level from baseline to 12 months was -0.4 +/- 0.6% (P < 0.001) in subjects with baseline A1C >or=7.0%. A1C remained stable at 6.4% in those with baseline A1C <7.0%. The incidence rate of severe hypoglycemia was 21.8 and 7.1 events per 100 person-years in the first and last 6 months, respectively. Time per day with glucose levels in the range of 71-180 mg/dl increased significantly (P = 0.02) from baseline to 12 months.
+CONCLUSIONS In intensively treated adults with type 1 diabetes, CGM use and benefit can be sustained for 12 months.
+

@@ -1,0 +1,8 @@
+A randomized trial evaluating the effects of change in dairy food consumption on cardio-metabolic risk factors.
+
+BACKGROUND It is currently not known whether dairy food influences the risk of cardiovascular disease or diabetes. This study evaluates effects of changing dairy intake on cardio-metabolic risk factors.
+METHODS 180 healthy volunteers were randomised to increase, reduce or not change their dairy intake for 1 month in response to dietary advice. Body weight, waist circumference, blood pressure, fasting plasma lipids, insulin resistance and C-reactive protein (CRP) were measured at baseline and after 1 month and compared by dietary group.
+RESULTS 176 (98%) subjects completed the study. Average change in self-reported dairy fat intake for increased dairy food was +0.9 SD 1.1 g/day (+71%), no change was -2.1 SD 0.4 g/day (-15%) and decreased dairy food was -10.8 SD 1.2 g/day (-77%) respectively. There was no statistically significant change in LDL or HDL cholesterol, triglycerides, systolic or diastolic blood pressure, C-reactive protein, glucose or insulin with 95% CI standard mean differences <0.2 for all and CRP <0.3. There was a small increase in weight (+0.4 kg, SD 3.1) in those asked to increase dairy food.
+CONCLUSIONS In healthy volunteers, dietary advice to change dairy intake for 1 month did not have a clinically significant effect on cardio-metabolic risk factors. These observations suggest that dairy food can be included as part of a normal healthy diet without increasing cardio-metabolic risk.
+TRIAL REGISTRATION NUMBER ACTRN12612000574842.
+

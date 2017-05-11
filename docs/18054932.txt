@@ -1,0 +1,11 @@
+Effectiveness of cetrorelix for the prevention of premature luteinizing hormone surge during controlled ovarian stimulation using letrozole and gonadotropins: a randomized trial.
+
+OBJECTIVE To evaluate the effectiveness of a GnRH antagonist in preventing premature LH surge under a letrozole and gonadotropin protocol.
+DESIGN Prospective, randomized clinical trial.
+SETTING A teaching hospital and tertiary medical center.
+PATIENT(S) Sixty-one patients were randomly assigned into two letrozole and gonadotropin-treated groups. These were distinguished by the absence (group I) or presence (group II) of supplementation with 0.25 mg of cetrorelix.
+INTERVENTION(S) Controlled ovarian stimulation with letrozole and gonadotropins, cetrorelix and intrauterine insemination.
+MAIN OUTCOME MEASURE(S) Rate of premature LH surge.
+RESULT(S) Compared with group I, the rate of premature LH surge was statistically significantly lower for group II (43.4% [13/30] vs. 19.4% [6/31]), but the amount of gonadotropins used was statistically significantly higher (817.5 +/- 28.5 vs. 907.5 +/- 27.3 IU). Patients with premature LH surge had a statistically significantly lower pregnancy rate (21.4% [9/42] vs. 0 [0/18]) relative to their unaffected counterparts.
+CONCLUSION(S) A flexible protocol of 0.25 mg of cetrorelix for IUI cycles appears to suppress the rate of premature LH surge during ovarian stimulation with letrozole and gonadotropins. However, the incidence of premature LH surge remains too high, and modification will be necessary before the application of cetrorelix to IVF treatment.
+

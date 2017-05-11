@@ -1,0 +1,4 @@
+Effects of ORG-2766 on brain event-related potentials of autistic children.
+
+A double-blind, placebo-controlled study examined the effects of 6 weeks of treatment with the adrenocorticotropin4-9 analogue ORG-2766 (40 mg/day) on brain event-related potentials (ERPs) of autistic children. In visual and auditory oddball paradigms (with task and nontask conditions), standard (80%), target (10%), and unexpected novel stimuli (10%) were presented. ORG-2766 (a) increased the occipital P3 component of the ERP to visual targets, (b) decreased the occipital P3 component of the ERP to auditory targets, (c) did not affect visual and auditory parietal target P3 components, and (d) also did not affect the A/Pcz/300 to auditory novel stimuli. In addition, ORG-2766 treatment increased the N1 component of the ERP to task-irrelevant auditory stimuli.
+

@@ -1,0 +1,8 @@
+The pulsed-dye laser as an adjuvant treatment modality in acne vulgaris: a randomized controlled single-blinded trial.
+
+BACKGROUND Acne vulgaris is the most common skin disease and can pose a substantial therapeutic challenge. Recently, several phototherapeutic modalities, most notably pulsed-dye laser (PDL) treatment, have been introduced, but the published results - albeit promising - are controversial.
+OBJECTIVES To assess the efficacy of an adjuvant PDL treatment when combined with a proven topical treatment [fixed-combination clindamycin 1%-benzoyl peroxide 5% hydrating gel (C/BPO)].
+METHODS Eighty patients (38 males and 42 females, mean +/- SD age 19.7 +/- 5.9 years) were randomized in a 1 : 2 ratio to receive C/BPO alone or in combination with PDL treatment (wavelength 585 nm, energy fluence 3 J cm(-2), pulse duration 0.35 ms, spot size 7 mm). Patients were evaluated at baseline and at 2 and 4 weeks after initial treatment. The primary end points were the Investigator's Static Global Assessment (ISGA) score and lesion count; the secondary end point was the Dermatology Life Quality Index (DLQI).
+RESULTS Both groups showed a significant improvement during observation [ISGA 27.1% (C/BPO) and 24.6% (C/BPO + laser), total lesion count 9.2% and 9.0%, inflammatory lesion count 36.3% and 36.9%, DLQI 54.5% and 42.5%], but there was no significant or otherwise appreciable difference between treatment modalities as far as the extent of improvement was concerned. Patients with more severe findings at baseline had a greater benefit from either therapy regimen.
+CONCLUSIONS Our findings do not support the concept of a substantial benefit of PDL treatment in acne vulgaris.
+

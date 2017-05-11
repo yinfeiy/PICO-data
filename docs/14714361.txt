@@ -1,0 +1,7 @@
+[Clinical observation on effect of fuzheng yiliu granule on cell cycle and nuclear transcription factor-kappa B in tissue of esophageal-gastric carcinoma].
+
+OBJECTIVE To observe the effect of Fuzheng Yiliu Granule (FZYLG) on cell cycle and nuclear transcription factor-kappa B (NF-kappa B) in tissue of esophageal-gastric carcinoma.
+METHODS Seventy-six patients with esophageal gastric carcinoma were randomly divided into two groups, the FZYLG group and the control group. FZYLG was given to the former for 15 days. The tumor tissue in both groups was resected and cell cycle and apoptosis rate as well as NF-kappa B were determined by flowcytometry.
+RESULTS Level of NF-kappa B in the treated group was significantly higher than that in the control group (P < 0.05). In the treated group, the percentage of G0/G1 stage cells were significantly increased and that of S stage significantly decreased (both P < 0.05). At the same time, obvious cell apoptosis was found in the treated group, the apoptosis rate of which was significantly higher than that in the control group (P < 0.01).
+CONCLUSION FZYLG can increase the NF-kappa B expression, block the proliferation to promote the apoptosis of tumor cells.
+

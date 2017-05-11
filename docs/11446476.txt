@@ -1,0 +1,7 @@
+Comparison of enoxaparin and standard heparin in gynaecologic oncologic surgery: a randomised prospective double-blind clinical study.
+
+OBJECTIVE This study aimed to compare the haemorrhagic complications and efficacy of enoxaparin, a low molecular weight heparin (LMWH), and conventional standard heparin (SH) in gynaecological oncologic surgery.
+MATERIALS METHODS A double blind, randomised trial was performed on 102 consecutive women undergoing gynaecologic cancer surgery with pelvic and paraaortic lymphadenectomy. The women were separated into those who were given 2,500 IU enoxaparin once daily and SH in a dose of 5,000 IU three times daily. The groups were analysed for intraoperative blood loss, drainage, transfusion requirements, perioperative haemoglobin decrease, wound haematoma, and clinical deep venous thrombosis.
+RESULTS The two groups were well matched for age, weight, and other factors, which could predispose to the development of deep venous thrombosis (DVT) and haemorrhage. No patient developed clinical significant DVT, wound haematoma or intra-abdominal bleeding. There was no significant difference in bleeding complications between the two regimens. The antiFXa level in the plasma was correlated strongly with patient weight.
+CONCLUSIONS A dose of 2,500 IU enoxaparin/day does not cause more bleeding complications than SH 5,000 IU three times daily when used to prevent thrombosis. However, the dose of enoxaparin must be adjusted to the patient's weight.
+

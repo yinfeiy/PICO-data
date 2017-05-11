@@ -1,0 +1,9 @@
+Granulocyte-macrophage colony-stimulating factor (GM-CSF) as adjunct therapy in relapsed Hodgkin disease.
+
+OBJECTIVE To determine the clinical and economic effects of granulocyte macrophage colony-stimulating factor (GM-CSF) as adjunct therapy in relapsed or refractory Hodgkin disease.
+DESIGN A randomized, double-blind, phase III clinical trial.
+SETTING A tertiary referral center.
+PATIENTS Twenty-four patients (twelve of whom were controls) treated with high-dose chemotherapy and autologous bone marrow transplantation.
+MAIN RESULTS The 12 patients treated with GM-CSF, when compared with placebo recipients, had shorter periods of neutropenia (median duration of an absolute neutrophil count of less than 1000 cells/mm3, 16 days compared with 27 days; P = 0.02), shorter periods of platelet-transfusion dependency (median duration, 13.5 days compared with 21 days; P = 0.03), and shorter hospitalizations (median hospital stay, 32 days compared with 40.5 days; P = 0.004). Other clinical outcomes, such as frequency and severity of toxicities, development of pneumonia or infection, in-hospital death, and response rate were similar in the two groups. Actuarial long-term disease-free survival was 64% for patients treated with GM-CSF and 58% for patients who received placebo after 32 months of follow-up (P = 0.15). The group treated with GM-CSF had lower total charges after infusion of autologous marrow than the placebo group (median in-hospital charges, $39,800 compared with $62,500; P = 0.005) because of lower post-infusion charges for room and board, antibiotic therapy, transfusions, laboratory tests, and physical therapy visits.
+CONCLUSIONS Administration of GM-CSF was associated with acceleration of myeloid and platelet recovery and was cost effective in the treatment of patients with relapsed Hodgkin disease who received intensive chemotherapy.
+

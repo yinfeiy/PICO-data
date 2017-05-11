@@ -1,0 +1,9 @@
+Endobronchial ultrasonography-guided transbronchial needle aspiration increases the diagnostic yield of peripheral pulmonary lesions: a randomized trial.
+
+BACKGROUND The diagnostic yield of endobronchial ultrasonography (EBUS)-guided transbronchial needle aspiration (TBNA) for peripheral pulmonary lesions (PPLs) has not been evaluated. The diagnostic impact of TBNA when the EBUS probe is adjacent to lesions remains to be determined.
+DESIGN A prospective, randomized trial.
+METHODS Two hundred two patients with PPLs and positive EBUS findings were enrolled. They were randomly classified into two groups. In the EBUS conventional diagnostic procedures (CDPs) group (103 patients), both transbronchial biopsy (TBB) and bronchial washing (BW) were performed. In the EBUS-TBNA plus CDPs group (99 patients), TBNA, TBB, and BW were performed. The diagnostic yield in each group was compared.
+RESULTS A total of 182 patients (94 in the EBUS CDPs group and 88 in the EBUS-TBNA plus CDPs group) were analyzed. The yield in the EBUS-TBNA plus CDPs group (78.4%) was significantly higher than the EBUS CDPs group (60.6%, p = 0.015). Cases in which the EBUS probe was located within the lesions had a significantly higher diagnostic yield (78.3%) than when the EBUS probe was adjacent to them (47.2%, p < 0.001). Concerning the three different techniques, TBNA showed the highest diagnostic yield (62.5%) in comparison to TBB (48.9%) and to BW (19.8%). The diagnostic yield of TBNA remained unchanged even when the EBUS probe was adjacent to the lesions (p = 0.89). No additional adverse effects were observed in the EBUS-TBNA plus CDPs group.
+CONCLUSIONS Applying TBNA to EBUS-guided CDPs further increased the diagnostic yield of PPLs without additional risk. The diagnostic advantage of TBNA became more obvious if the EBUS probe was adjacent to the lesions.
+TRIAL REGISTRATION Clinicaltrials.gov Identifier: NCT00626587.
+

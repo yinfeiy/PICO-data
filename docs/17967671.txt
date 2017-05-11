@@ -1,0 +1,11 @@
+Mode of ventilation during cardiopulmonary bypass does not affect immediate postbypass oxygenation in pediatric cardiac patients.
+
+STUDY OBJECTIVE To investigate the impact of different modes of ventilation during cardiopulmonary bypass (CPB) on immediate postbypass oxygenation in pediatric cardiac surgery.
+DESIGN Prospective, randomized clinical trial.
+SETTING University hospital.
+PATIENTS 50 pediatric patients (18 girls, 32 boys), aged 4 months to 15 years, undergoing elective repair of congenital heart disease.
+INTERVENTIONS Patients were randomized to receive one of 5 modes of ventilation during bypass. Groups 1 and 2 received high-frequency/low-volume ventilation with 100% (group 1) or 21% oxygen (group 2). Groups 3 and 4 received continuous positive airway pressure of 5 cm H(2)O with 100% (group 3) or 21% oxygen (group 4); and in group 5, each patient's airway was disconnected from the ventilator (passive deflation).
+MEASUREMENTS Blood gas analysis and spirometry data were recorded 5 minutes before chest opening, 5 minutes before inducing bypass, 5 minutes after weaning from bypass, and 5 minutes after chest closure.
+MAIN RESULTS There were no differences in Pao(2) values among the 5 groups studied and at the different time points. Lung compliance was higher 5 minutes before bypass in group 1 versus group 5 (34 +/- 13 mL/cm H(2)O vs 20 +/- 9 mL/cm H(2)O; P = 0.048).
+CONCLUSIONS Mode of ventilation during CPB did not affect immediate postbypass oxygenation.
+

@@ -1,0 +1,7 @@
+Weekly docetaxel with or without gemcitabine as second-line chemotherapy in paclitaxel-pretreated patients with metastatic breast cancer: a randomized phase II study conducted by the Hellenic Co-Operative Oncology Group.
+
+OBJECTIVE A randomized phase II trial was conducted to test whether the addition of gemcitabine to weekly docetaxel could improve the objective response rate and survival outcomes as second-line chemotherapy in patients with metastatic breast cancer who have failed a paclitaxel-containing regimen.
+METHODS Patients were randomized to receive either weekly docetaxel 40 mg/m(2) (group A, n = 34) or the combination of weekly docetaxel 35 mg/m(2) with gemcitabine 600 mg/m(2) (group B, n = 41). Three consecutive weekly infusions followed by a 1-week rest period represented 1 chemotherapy cycle.
+RESULTS The objective response rate was 18% and 27.5% in group A and B, respectively (p = 0.413). No statistically significant differences were demonstrated in terms of median overall survival and time to disease progression. The rate and grade 3 and 4 neutropenia were higher in group B (23 vs. 3%).
+CONCLUSIONS The weekly administration of docetaxel and gemcitabine did not result in superior clinical outcomes over weekly docetaxel.
+

@@ -1,0 +1,10 @@
+Effects of enflurane and isoflurane on splanchnic oxygenation in humans.
+
+STUDY OBJECTIVES To determine the effects of enflurane and isoflurane on hepatic venous oxygen saturation (ShvO2) and splanchnic oxygen (O2) extraction. To measure hemodynamic parameters and ShvO2, mixed venous, and arterial lactate concentrations during enflurane and isoflurane anesthesia.
+DESIGN Randomized, prospective study.
+SETTING University hospital.
+PATIENTS 20 ASA physical status I, II, and III adults, who underwent major abdominal surgery requiring mechanical ventilation a few hours postoperatively.
+INTERVENTIONS After placement of catheters in the pulmonary artery, radial artery, peripheral and right hepatic vein, one hour postoperatively either enflurane or isoflurane was applied at different minimum alveolar concentration (MAC) of 0.5, 1.0, and 1.5 in a randomized order.
+MEASUREMENTS AND MAIN RESULTS Before and 10 minutes after administration of each desired end-expiratory anesthetic concentration, the following parameters were determined: hemodynamic parameters, arterial (SaO2), mixed venous (SvO2), and hepatic venous oxygen saturations, systemic and splanchnic O2 extraction, arterial, mixed venous, and hepatic venous lactate concentrations. Cardiac output (CO) and mean arterial pressure (MAP) decreased in a dose dependent manner. SaO2, SvO2, and systemic O2 extraction remained unchanged with enflurane and isoflurane anesthesia. In the enflurane group, but not in the isoflurane group, ShvO2 decreased with increasing inhalational concentrations. This decrease in ShvO2 reflected an increase in splanchnic O2 extraction with enflurane; in contrast to isoflurane.
+CONCLUSIONS Enflurane causes a decrease in ShvO2, which indicates an impairment of splanchnic perfusion corresponding to the reduction in CO and MAP in a dose-dependent manner. Isoflurane maintains splanchnic perfusion in contrast to enflurane.
+

@@ -1,0 +1,10 @@
+Hemodynamic effects during induction, laryngoscopy, and intubation with eltanolone (5 beta-pregnanolone) or propofol. A study in ASA I and II patients.
+
+STUDY OBJECTIVE To evaluate the cardiovascular changes following induction of anesthesia, laryngoscopy, and intubation in patients receiving a bolus dose of either eltanolone or propofol.
+DESIGN Randomized, controlled, blind, prospective clinical study.
+SETTING General operating theaters of a university hospital.
+PATIENTS 40 ASA status I and II patients scheduled for elective surgery.
+INTERVENTIONS Patients were premedicated with oral temazepam 20 mg. Anesthesia was induced with either eltanolone 0.58 mg/kg or propofol 1.7 mg/kg, neuromuscular blockade was achieved with vecuronium 0.1 mg/kg, and anesthesia was maintained with enflurane 0.5% to 1.0% in nitrous oxide (67%).
+MEASUREMENTS AND MAIN RESULTS Blood pressure was measured using an automatic oscillometric technique, heart rate (HR) was derived from the ECG, oxygen saturation was measured by pulse oximetry, and cardiac output (Q) was measured by a thoracic bioimpedance technique. Induction of anesthesia with either drug, eltanolone or propofol, decreased arterial systolic (SAP) and diastolic (DAP) blood pressure, Q, and stroke volume (SV). HR increased. Systemic vascular resistance (SVR) was unaltered. After laryngoscopy and intubation, SAP and DAP increased secondary to an increase in SVR. HR also increased; SV decreased in patients receiving eltanolone. Side effects (e.g., apnea occurring for more than 30 seconds, involuntary movements, limb hypertonus) occurred at a similar incidence with both treatments, but pain following injection was greater with propofol (59% vs. 9%).
+CONCLUSIONS Patients receiving either eltanolone or propofol showed similar cardiovascular changes to induction of anesthesia, although there were greater increases in arterial pressure and HR in those patients receiving eltanolone.
+

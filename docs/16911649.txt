@@ -1,0 +1,11 @@
+Topical adrenaline in the control of intraoperative bleeding in adenoidectomy: a randomised, controlled trial.
+
+OBJECTIVES To evaluate the efficacy of topical racemic adrenaline (RA) (Micronefrin; Bird Products, Palm Springs, CA, USA) in the control of intraoperative bleeding and the prevention of postoperative bleeding, laryngeal spasm and postoperative pain in adenoidectomy among children <6 years of age.
+DESIGN Prospective, randomised, blinded and placebo-controlled trial.
+SETTING Kanta-Hame Central Hospital, a district referral center in Finland.
+PATIENTS A consecutive sample of 93 children undergoing outpatient adenoidectomy.
+INTERVENTION Patients were randomised to receive topical gauze sponges soaked in either 1:500 RA or 0.9% sodium chloride (physiological saline) for 3 min after adenoidectomy.
+MAIN OUTCOME MEASURES Amount of intraoperative bleeding (surgeons' subjective estimate), need for additional packings, need for electrocautery, laryngeal spasm, postoperative bleeding and pain, duration of procedure and duration of patients' stay in the operation room (OR).
+RESULTS Adrenaline significantly decreased surgeons' subjective estimate of the amount of intraoperative bleeding (proportion of patients with significant decrease 67 versus 21%, P < 0.001), reduced the mean number of packings needed (0.6 versus 1.2, P < 0.001) and use of electrocautery (22 versus 45%, P = 0.015), and shortened the mean duration of the procedure (13 versus 18 min, P = 0.043) and the mean stay in the OR (31 versus 35 min, P = 0.058). The impact of adrenaline was even more pronounced among patients with extensive adenoids and/or profuse intraoperative bleeding. A slight elevation of heart rate was observed more often in the adrenaline group (P = 0.043).
+CONCLUSIONS Use of topical adrenaline can be recommended in adenoidectomy among children. It helps control the intraoperative bleeding, reduces the use of electrocautery and shortens the durations of procedure and stay in the OR.
+

@@ -1,0 +1,8 @@
+Azimilide decreases recurrent ventricular tachyarrhythmias in patients with implantable cardioverter defibrillators.
+
+OBJECTIVES This study evaluated the effects of azimilide dihydrochloride (AZ) on anti-tachycardia pacing (ATP) and shock-terminated events in patients with implantable cardioverter defibrillators (ICDs).
+BACKGROUND Animal studies have shown the effectiveness of AZ for therapy of supraventricular and ventricular tachycardia (VT). Azimilide dihydrochloride was investigated as adjunctive treatment for reducing the frequency of VT and, thus, the need for ICD therapies, including ATP and cardioversion/defibrillation (ICD shocks) in patients with inducible monomorphic VT.
+METHODS A total of 172 patients were randomized to daily treatment with placebo, 35 mg, 75 mg, or 125 mg of oral AZ in this dose-ranging pilot study of patients with ICDs. The majority of patients had a history of documented remote myocardial infarction and congestive heart failure New York Heart Association class II or III.
+RESULTS The frequency of appropriate shocks and ATP were significantly decreased among AZ-treated patients compared with placebo patients. The incidence of ICD therapies per patient-year among the placebo group was 36, and it was 10, 12, and 9 among 35 mg, 75 mg, and 125 mg AZ patients, respectively (hazard ratio = 0.31, p = 0.0001). Azimilide dihydrochloride was generally well tolerated and did not affect left ventricular ejection fraction or minimal energy requirements for defibrillation or pacing.
+CONCLUSIONS Azimilide dihydrochloride may be a safe and effective drug for reducing the frequency of VT and ventricular fibrillation in patients with implanted ICDs.
+

@@ -1,0 +1,7 @@
+New mini-extracorporeal circulation system (ECC.O) is a safe technique in coronary surgery.
+
+OBJECTIVES Cardiopulmonary bypass (CPB) is known to cause the systemic inflammatory reaction after cardiac surgery. New coated and closed loop circuit systems may reduce this inflammation response and improve the surgical outcome. This study was designed to evaluate the safety and efficacy of the mini-extracorporeal circulation system (ECC.O) in CABG patients.
+DESIGN Forty patients undergoing elective coronary surgery were randomized into two groups, the ECC.O group and the standard CPB group. Routine hemodynamic monitoring and biochemical measurements were registered according to the hospital practice.
+RESULTS The clinical outcome of the patients was similar in both groups. There were no significant differences between the groups in the duration of intubation following surgery, the length of intensive care unit-stay or the total hospital stay. The haemoglobin level was significantly higher (p=0.0069) during and after the perfusion in the ECC.O group.
+CONCLUSIONS The ECC.O system can be safely used in CABG patients and it maintains haemoglobin level better than conventional CPB.
+

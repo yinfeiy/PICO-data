@@ -1,0 +1,7 @@
+Randomized phase II study of two different schedules of gemcitabine and oral S-1 in chemo-naïve patients with advanced non-small cell lung cancer.
+
+INTRODUCTION This study was conducted to evaluate the efficacy and safety and to compare dosing schedules of gemcitabine combined with S-1 in chemo-naïve non-small cell lung cancer patients.
+METHODS Patients with chemo-naïve stage IIIB/IV non-small cell lung cancer were randomized into two treatment arms. Patients were given oral S-1 (60 mg/m/d, twice a day) from days 1 to 14 with gemcitabine (1000 mg/m/d) on days 1 and 8 (arm A) or on days 8 and 15 (arm B). This cycle was repeated every 21 days.
+RESULTS A total of 80 patients were entered in this trial. The primary end point of this study was response rate. The response rates of arm A and arm B were 22.0 and 28.9%, respectively (p = 0.606). Median time to treatment failure in arm A was 3.6 months and 4.8 months in arm B. Median time to progression in arm A was 4.1 months and 5.5 months in arm B. Median survival time in arm A and arm B was 15.5 months and 18.8 months, respectively. The toxicity profile was relatively mild and did not differ very much between two arms.
+CONCLUSION The combination of gemcitabine and S-1 was determined to be feasible and effective for advanced non-small cell lung cancer. We selected arm B for further studies because of its higher response rate and survival data.
+

@@ -1,0 +1,8 @@
+Are PRO discharge screens associated with postdischarge adverse outcomes?
+
+OBJECTIVE We evaluate whether patient outcomes may be affected by possible errors in care at discharge as assessed by Peer Review Organizations (PROs).
+DATA SOURCES/STUDY SETTING The three data sources for the study were (1) the generic screen results of a 3 percent random sample of Medicare beneficiaries age 65 years or older who were admitted to California hospitals between 1 July 1987 and 30 June 1988 (n = 20,136 patients); (2) the 1987 and 1988 California Medicare Provided Analysis and Review (MEDPAR) data files; and (3) the American Hospital Association (AHA) 1988 Annual Survey of Hospitals.
+STUDY DESIGN Multivariate logistic regression analysis was used to evaluate the association between the results of generic discharge administered by the PROs and two patient outcomes: mortality and readmission within 30 days. The analysis was adjusted for other patient characteristics recorded on the uniform discharge abstract.
+PRINCIPAL FINDINGS Four discharge screens indicated an increased risk of an adverse outcome-absence of documentation of discharge planning, elevated temperature, abnormal pulse, and unaddressed abnormal test results at discharge. The other three discharge screens examined-abnormal blood pressure, IV fluids or drugs, and wound drainage before discharge-were unrelated to postdischarge adverse outcomes.
+CONCLUSIONS Generic discharge screens based on inadequate discharge planning, abnormal pulse, increased temperature, or unaddressed abnormal tests may be important indicators of substandard care. Other discharge screens apparently do not detect errors in care associated with major consequences for patients.
+

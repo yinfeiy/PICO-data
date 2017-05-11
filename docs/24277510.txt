@@ -1,0 +1,7 @@
+Comparative evaluation of percutaneous laser and radiofrequency ablation in patients with HCC smaller than 4 cm.
+
+OBJECTIVE This study was done to compare percutaneous laser ablation (PLA) and radiofrequency thermoablation (RFA) for the treatment of hepatocellular carcinoma (HCC) ≤ 4 cm, in patients with liver cirrhosis.
+MATERIALS AND METHODS Thirty patients with single HCC ≤ 4 cm in diameter were randomly assigned to one of two treatments: 15 patients were treated with PLA, using a multifibre system connected to a neodymium yttrium-aluminium-garnet laser source; 15 patients were treated with RFA, using an expandable needle electrode. Patients were followed up for up to 12 months.
+RESULTS A complete response was obtained in 87 % lesions treated with PLA and in 93 % lesions treated with RFA (p = ns). The overall local recurrence-free survival rates at 3, 6 and 12 months were comparable. However, a higher rate of recurrence was observed in the PLA group for lesions ≥ 21 mm (p = 0.0081). A postablation syndrome was documented in 13 patients (1 PLA; 12 RFA). Tumour necrosis factor-α was significantly higher in the RFA group (p < 0.05).
+CONCLUSIONS RFA is more effective in the treatment of HCC compared to PLA for lesions ≥ 21 mm. However, PLA should be considered a viable treatment option for HCC ≤ 20 mm, in view of the lower incidence of complications.
+

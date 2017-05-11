@@ -1,0 +1,7 @@
+Effect of aliskiren on proteinuria in non-diabetic chronic kidney disease: a double-blind, crossover, randomised, controlled trial.
+
+AIM To evaluate the proteinuria-lowering effect of a renin inhibitor (aliskiren), compared to placebo and to an angiotensin-converting enzyme inhibitor (perindopril), in patients with non-diabetic chronic kidney disease.
+METHODS A randomised, double-blind, crossover trial was performed in 14 patients with nondiabetic chronic kidney disease with 24-h mean proteinuria of 2.01 g (95% CI, 1.36–2.66) and estimated creatinine clearance of 93±6.8 ml/min. The study consisted of five treatment periods. The patients were randomly assigned to receive aliskiren (150 mg), aliskiren (300 mg), perindopril (5 mg), perindopril (10 mg) or placebo.
+RESULTS Aliskiren and perindopril reduced proteinuria. These effects were dose-dependent. Furthermore, 24-h proteinuria was reduced by 23% (mean 95% CI; 2–44) by treatment with aliskiren (150 mg), by 36% (95% CI, 17–55; P<0.001) with aliskiren (300 mg), by 7.1% (95% CI, 11–26) with perindopril (5 mg) and by 25% (95% CI, 11–39; P<0.05) with perindopril (10 mg), compared to placebo. No significant difference was found between the effects of aliskiren and perindopril.
+CONCLUSIONS Aliskiren significantly reduced proteinuria. The antiproteinuric effect is probably similar to that of perindopril, for equivalent hypotensive dosages. The renin inhibitor provides a promising alternative approach for the treatment of patients with chronic proteinuric non-diabetic kidney disease.
+

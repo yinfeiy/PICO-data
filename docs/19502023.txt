@@ -1,0 +1,11 @@
+Transdermal scopolamine patch in addition to ondansetron for postoperative nausea and vomiting prophylaxis in patients undergoing ambulatory cosmetic surgery.
+
+STUDY OBJECTIVE To determine the efficacy of transdermal scopolamine in addition to ondansetron in decreasing the incidence of postoperative nausea and vomiting (PONV).
+DESIGN Randomized controlled trial.
+SETTING Academic hospital.
+PATIENTS 126 ASA physical status I and II patients undergoing outpatient plastic surgery with three or more risk factors for PONV.
+INTERVENTIONS Patients were randomly assigned to one of two groups to receive (Group 1) a transdermal scopolamine (TDS) patch or (Group 2), a placebo patch two hours before surgery.
+MEASUREMENTS Occurrence of vomiting, severity of nausea using a visual analog scale (VAS), rescue medication, pain intensity and pain medications, and side effects were recorded every hour until discharge from hospital, then every 4 hours thereafter for a total of 24 hours.
+MAIN RESULTS A statistically significant reduction in postoperative nausea between 8 and 24 hours in patients receiving TDS was noted.
+CONCLUSIONS Transdermal scopolamine in addition to ondansetron benefits patients at high risk for PONV undergoing outpatient plastic surgery for up to 20 hours after surgery.
+

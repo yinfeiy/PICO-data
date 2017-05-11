@@ -1,0 +1,7 @@
+Working well with a disability: health promotion as a means to employment.
+
+PURPOSE/OBJECTIVE The purpose of this study was to test the utility of the Working Well with a Disability health-promotion program with vocational rehabilitation (VR) clients. Health-promotion interventions have been shown to reduce limitation from secondary conditions, which can be a significant barrier to labor force participation among people with disabilities. The state and federal VR system represents a potential access point for delivery of health-promotion activities.
+RESEARCH METHOD/DESIGN A total of 297 VR clients participated in a randomized trial of the Working Well health promotion program. Control and intervention participants provided baseline and four waves of quarterly follow-up data. Data were analyzed with repeated-measures ANOVA.
+RESULTS Intervention-group participants who attended over half of the Working Well sessions reported significantly lower rates of limitation from secondary conditions over the 1-year study span, F(1, 124) = 4.11, p = .004. Control-group participants also experienced significantly lower rates of limitation, but pre- to postdifferences were less dramatic, F(1, 308) = 4.19, p = .006.
+CONCLUSIONS/IMPLICATIONS Overall, health data indicated that the Working Well program may be particularly helpful to VR clients with higher rates of secondary health conditions and may represent one strategy for overcoming barriers to employment.
+

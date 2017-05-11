@@ -1,0 +1,7 @@
+[Effect of probucol on serum malondialdehyde and superoxide dismutase in patients with primary hypertension].
+
+OBJECTIVE To observe the therapeutic effect of probucol on serum malondialdehyde (MDA) and superoxide dismutase (SOD) in patients with primary hypertension.
+METHODS A randomized study was performed on 40 patients with hypertension. The patients were randomly assigned to the control (levamlodipine besylate 2.5 mg/d plus benazepril 10 mg/d, n=20) or probucol group (levamlodipine besylate 2.5 mg/d plus benazepril 10 mg/d plus probucol 500 mg/d, n=20). An additional twenty healthy people were enrolled in the study (normal group). All subjects were followed up for a period of four weeks. Lipids and hepatic/renal function were measured at baseline and after 4 weeks. The levels of serum MDA and SOD activity were assayed by chemical colorimetry, and other indices, including blood pressure, lipids and hepatic/renal function, were measured at baseline and after 4 weeks.
+RESULTS Compared to the normal group, the levels of MDA in all of the hypertension patient groups were higher, SOD was lower. The antihypertensive treatment decreased serum MDA levels but increased SOD content, and probucol treatment exaggerated these effects, with greater reduction of serum MDA levels and greater increase of SOD content.
+CONCLUSION The treatment with probucol can improve oxidative stress in hypertension patients, resulting in reduced serum MDA levels and improved SOD activity, thus contributing agreater antihypertensive effect.
+

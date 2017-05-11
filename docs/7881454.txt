@@ -1,0 +1,4 @@
+Analysis of multiple-dose bioequivalence studies.
+
+In multiple-dose bioequivalence studies, it is possible at steady state to take repeated measurements of pharmacokinetic variables, such as area under the curve (AUC) and the maximum concentration (CMAX) of the blood concentration-time profile, within each period of a crossover design. We develop a bivariate random effects model for such a situation in a 2 x 2 crossover design using the natural log scale for AUC and CMAX that assumes no differential carryover effects and includes components for inter- and intrasubject variability with respect to both formulations. We derive the uniformly minimum variance unbiased estimators, which also happen to be restricted maximum likelihood estimators, and we provide a sample size formula.
+

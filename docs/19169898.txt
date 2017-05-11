@@ -1,0 +1,7 @@
+Netilmicin in the neonate: pharmacokinetic analysis and influence of parenteral nutrition.
+
+OBJECTIVE The aim of this study was to investigate the impact of parenteral nutrition on netilmicin pharmacokinetics in critically ill neonates during the first week of life.
+METHOD A total of 200 neonates (gestational ages 26.4-41 weeks) treated with netilmicin (4-5 mg/kg in extended dosing intervals) for postnatal sepsis in the first week of life received either fluid therapy or parenteral nutrition. Netilmicin peak and trough serum concentrations were monitored and netilmicin pharmacokinetic parameters were compared with and without parenteral nutrition.
+RESULTS There were no statistically significant differences between the pharmacokinetic parameters of netilmicin (volume of distribution, elimination half-life, clearance) in critically ill neonates >32 weeks during the first week of life that received either fluid therapy or parenteral nutrition. For neonates <32 weeks this comparison was not feasible as the majority were parenterally fed.
+CONCLUSION Provision of parenteral nutrition (versus fluid therapy) in critically ill neonates >32 weeks did not significantly affect netilmicin pharmacokinetics and therefore does not require modification of recommended netilmicin dosage regimens.
+

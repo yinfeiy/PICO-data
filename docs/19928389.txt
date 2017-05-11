@@ -1,0 +1,10 @@
+The effect of posture on Cheyne-Stokes respirations and hemodynamics in patients with heart failure.
+
+STUDY OBJECTIVES Cheyne-Stokes respirations occur in 40% of patients with heart failure. Orthopnea is a cardinal symptom of heart failure and may affect the patient's sleeping angle. The objective of this study was to assess the respiratory and hemodynamic response to sleeping angle in a group of subjects with stable heart failure.
+DESIGN Twenty-five patients underwent overnight polysomnography with simultaneous and continuous impedance cardiographic monitoring. Sleeping polysomnographic and impedance cardiographic data were recorded.
+SETTING The study was conducted in a sleep center.
+PATIENTS All 25 patients had clinically stable heart failure and left ventricular ejection fractions < 40%.
+INTERVENTIONS The patients slept at 0 degrees, 15 degrees, 30 degrees, and 45 degrees in random order.
+MEASUREMENTS AND RESULTS Seventeen patients had Cheyne-Stokes apneas (index > 5/h) and 23 patients had hypopneas (index > 5/h). The hypopnea index showed no response to sleeping angle. The Cheyne-Stokes apnea index decreased with increasing sleeping angle (P < 0.001). This effect was seen only during supine sleep and non-rapid eye movement sleep and was absent in non-supine sleep, rapid eye movement sleep, and during periods of wakefulness. Thoracic fluid content index and left ventricular hemodynamics measured by impedance cardiography showed no response to sleeping angle.
+CONCLUSIONS Changing the heart failure patient's sleeping angle from 0 degrees to 45 degrees results in a significant decrease in Cheyne-Stokes apneas. This decrease occurs on a constant base of hypopneas. The changes in Cheyne-Stokes apneas are not related to changes in lung congestion and left ventricular hemodynamics.
+

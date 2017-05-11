@@ -1,0 +1,9 @@
+Double-blind, placebo-controlled study of azelastine and fluticasone in a single nasal spray delivery device.
+
+BACKGROUND A proof-of-concept study suggested that combination therapy with commercial azelastine hydrochloride nasal spray and fluticasone propionate nasal spray significantly improved nasal symptoms of seasonal allergic rhinitis compared with either agent alone.
+OBJECTIVE To compare an azelastine-fluticasone combination nasal spray administered in a single-delivery device with a commercially available azelastine nasal spray and fluticasone nasal spray.
+METHODS This 14-day, multicenter, randomized, double-blind study was conducted during the Texas mountain cedar season. After a 5-day placebo lead-in, 610 patients with moderate-to-severe nasal symptoms were randomized to treatment with (1) azelastine nasal spray, (2) fluticasone nasal spray, (3) combination azelastine and fluticasone nasal spray, or (4) placebo nasal spray. All treatments were given as 1 spray per nostril twice daily. The primary efficacy variable was the change from baseline in the total nasal symptom score (TNSS), consisting of nasal congestion, runny nose, itchy nose, and sneezing.
+RESULTS All 3 active groups were statistically superior (P <or= .02) to placebo, and the combination was statistically superior (P <or= .003) to either agent alone. The TNSS improved by 28.4% with combination azelastine-fluticasone, 20.4% with fluticasone, 16.4% with azelastine, and 11.2% with placebo. All 3 treatments were well tolerated.
+CONCLUSIONS The combination azelastine-fluticasone nasal spray provided statistically significant improvement in the TNSS and additive clinical benefit compared with either agent alone in patients with moderate-to-severe seasonal allergic rhinitis.
+TRIAL REGISTRATION clinicaltrials.gov Identifier: NCT00660517.
+

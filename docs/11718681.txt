@@ -1,0 +1,7 @@
+Relationship between endogenous estrogen concentrations and serum cholesteryl ester transfer protein concentrations in Chinese women.
+
+BACKGROUND CETP plays an important role in HDL metabolism and in the reverse cholesterol transport pathway.
+METHODS The relationship between the changes of endogenous estrogen and the concentration of cholesteryl ester transfer protein (CETP) in the serum of Chinese women was investigated. Serum concentrations of estradiol (E(2)), follicle-stimulating hormone (FSH), CETP and lipid profile were determined in 196 Chinese women (52 premenopausal with ages ranging from 18 to 40 years, 57 perimenopausal from 41 to 60 years, and 87 postmenopausal from 61 to 81 years).
+RESULTS Serum CETP concentration was significantly lower in postmenopausal women compared with those in perimenopausal and premenopausal women (1.39+/-1.06, 2.36+/-1.50 and 2.31+/-1.25 mg/l, respectively, P<0.0001). Even in the women around the menopausal, CETP concentration in postmenopause was significantly lower than that in premenopause (1.93+/-1.33 vs. 3.42+/-1.35 mg/l, P<0.01). In addition, CETP concentration had a highly positive correlation with serum concentration of E(2) (r=0.243, P<0.001), while negative correlation of CETP concentration with serum concentration of FSH was found (r=-0.273, P<0.001).
+CONCLUSIONS Estrogen may affect the concentration of CETP.
+

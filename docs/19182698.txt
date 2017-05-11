@@ -1,0 +1,7 @@
+MF101, a selective estrogen receptor beta modulator for the treatment of menopausal hot flushes: a phase II clinical trial.
+
+OBJECTIVE To determine the optimal dose, safety, and efficacy of an estrogen receptor beta selective Chinese herbal extract, menopausal formula 101 (MF101), for treating hot flushes.
+METHODS A randomized, blinded trial in 217 postmenopausal women with hot flushes randomized to 5 or 10 g/day of MF101 or placebo for 12 weeks.
+RESULTS The effects of 5 g/day of MF101 did not differ from those of placebo. After 12 weeks, the mean percent decrease in frequency of hot flushes in the 10 g/day group was 12.9% greater than that in the placebo group (P = 0.15), the median percent decrease was 11.7% greater than that in the placebo group (P = 0.05), and the proportion of women with at least a 50% reduction in hot flushes was 16.2% greater than that in the placebo group (P = 0.03).
+CONCLUSIONS Treatment with 10 g/day of MF101 reduces the frequency of hot flushes. Trials with higher doses are planned.
+

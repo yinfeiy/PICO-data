@@ -1,0 +1,11 @@
+Cone biopsy: has endocervical sampling a role?
+
+OBJECTIVE To investigate the sensitivity, specificity and predictive value of endocervical sampling in women with abnormal cervical smears.
+DESIGN A randomized study of two methods of endocervical sampling.
+SETTING Colposcopy clinic at Aberdeen Royal Infirmary.
+SUBJECTS 100 women with abnormal cervical smears selected for cone biopsy according to current colposcopy criteria.
+INTERVENTIONS 53 women were randomized to have endocervical sampling with the Kevorkian curette and 47 to have sampling with the Medscand endocervical brush.
+MAIN OUTCOME MEASURES Cytology and histology results from endocervical sampling compared with cone biopsy histology.
+RESULTS The overall sensitivity of endocervical sampling was 56%, with a false negative rate of 44% and a negative predictive value of 26%.
+CONCLUSIONS Endocervical sampling should not influence management when colposcopy is unsatisfactory.
+

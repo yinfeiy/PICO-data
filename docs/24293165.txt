@@ -1,0 +1,7 @@
+Short-term amiodarone therapy after reversion of persistent atrial fibrillation reduces recurrences at 18 months.
+
+BACKGROUND The aim of this study was to compare the outcome of 3 months vs. 18 months of amiodarone treatment after atrial fibrillation (AF) conversion in patients who experienced the first episode of persistent AF.
+METHODS We included 51 patients who experienced the first episode of persistent AF receiving amiodarone (600 mg) daily for 4-6 weeks. If AF persisted, electrical cardioversion (ECV) was performed. All patients received amiodarone (200 mg daily) for 3 months and then were randomized to amiodarone (Group I) or placebo (Group II) and followed for 15 months. The control group comprised 9 untreated patients undergoing ECV. Treatment effectiveness was evaluated using a Bayesian model.
+RESULTS Eighteen months after AF reversion, 22 (81.5%) patients in Group I, 13 (54.2%) patients in Group II, and 1 (11.1%) patient in the control group remained in sinus rhythm. No differences were found between Group I patients who required ECV and Group II patients. Sinus rhythm was preserved in all Group I patients when it was achieved during amiodarone administration. Limiting adverse effects occurred in 3 (11.1%) patients in Group I.
+CONCLUSIONS In patients regaining sinus rhythm after the first episode of persistent AF, a 3-month amiodarone treatment after reversion is a reasonable option for rhythm control.
+

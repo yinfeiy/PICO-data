@@ -1,0 +1,7 @@
+Helicobacter pylori eradication in children and adolescents by a once daily 6-day treatment with or without a proton pump inhibitor in a double-blind randomized trial.
+
+AIM To evaluate two simplified Helicobacter pylori eradication treatment alternatives for children and adolescents.
+METHODS Study subjects were identified by enzyme-linked immunosorbent assay and immunoblot in a family screening project. Helicobacter pylori infected 10-21 year olds were offered treatment, individuals with abdominal pain underwent upper endoscopy and those with peptic ulcers were excluded. Participants were randomized to either azithromycin 500 mg daily and tinidazole 500 mg two tablets daily in combination with lansoprasole 30 mg daily for 6 days (ATL-group) or with placebo (ATP-group). Urea Breath Test was performed at inclusion and after a minimum of 6 weeks after end of therapy.
+RESULTS In total, 131 individuals were randomized, of whom 31 (24%) had undergone upper endoscopy. Full compliance was achieved in 93% (122 of 131). The intention-to-treat eradication rate was 67% (44 of 66) and 58% (38 of 65) for the ATL- and the ATP-group, respectively.
+CONCLUSION The double-blind randomized clinical trial did not identify a simplified, successful once daily H. pylori treatment for children and adolescents. Thus, twice daily proton pump inhibitor (PPI)-based triple therapies for 7 days remain as the choice of treatment in children. Further, powerful and controlled studies are needed to elucidate the best treatment strategies for H. pylori eradication in this age group.
+

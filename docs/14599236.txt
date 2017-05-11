@@ -1,0 +1,4 @@
+Modeling hippocampal and neocortical contributions to recognition memory: a complementary-learning-systems approach.
+
+The authors present a computational neural-network model of how the hippocampus and medial temporal lobe cortex (MTLC) contribute to recognition memory. The hippocampal component contributes by recalling studied details. The MTLC component cannot support recall, but one can extract a scalar familiarity signal from MTLC that tracks how well a test item matches studied items. The authors present simulations that establish key differences in the operating characteristics of the hippocampal-recall and MTLC-familiarity signals and identify several manipulations (e.g., target-lure similarity, interference) that differentially affect the 2 signals. They also use the model to address the stochastic relationship between recall and familiarity and the effects of partial versus complete hippocampal lesions on recognition.
+

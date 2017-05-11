@@ -1,0 +1,11 @@
+Long-term results after intracoronary injection of autologous mononuclear bone marrow cells in acute myocardial infarction: the ASTAMI randomised, controlled study.
+
+OBJECTIVE To investigate long-term safety and efficacy after intracoronary injection of autologous mononuclear bone marrow cells (mBMCs) in acute myocardial infarction (AMI).
+DESIGN Randomised, controlled trial.
+SETTING Two university hospitals in Oslo, Norway.
+PATIENTS Patients from the Autologous Stem cell Transplantation in Acute Myocardial Infarction (ASTAMI) study were re-assessed 3 years after inclusion.
+INTERVENTIONS 100 patients with anterior wall ST-elevation myocardial infarction treated with acute percutaneous coronary intervention (PCI) were randomised to receive intracoronary injection of mBMCs (n = 50) or not (n = 50).
+MAIN OUTCOME MEASURES Change in left ventricular (LV) ejection fraction (primary). Change in exercise capacity (peak VO(2)) and quality of life (secondary). Infarct size (additional aim), and safety.
+RESULTS The rates of adverse clinical events in the groups were low and equal. There were no significant differences between groups in change of global LV systolic function by echocardiography or magnetic resonance imaging (MRI) during the follow-up. On exercise testing, the mBMC-treated patients had larger improvement in exercise time from 2-3 weeks to 3 years (1.5 minutes vs 0.6 minutes, p = 0.05), but the change in peak oxygen consumption did not differ (3.0 ml/kg/min vs 3.1 ml/kg/min, p = 0.75).
+CONCLUSION The results indicate that intracoronary mBMC treatment in AMI is safe in the long term. A small improvement in exercise time in the mBMC group was found, but no other effects of treatment could be identified 3 years after cell therapy.
+

@@ -1,0 +1,7 @@
+A cost-benefit comparison of intensive diabetes management with implantable pumps versus multiple subcutaneous injections in patients with type I diabetes.
+
+OBJECTIVE To investigate if intraperitoneal (IP) insulin infusion via programmable implantable pumps is a potential alternative to subcutaneous (SC) insulin via multiple injections.
+RESEARCH DESIGN AND METHODS We compared the cost-benefits of the two methods using a randomized, prospective, 6-month, crossover design in 10 adult type I diabetic patients.
+RESULTS When judged on the last month of IP versus SC periods in the nine patients who completed the study, metabolic data showed better glycemic control (HbA1c: 7.2 +/- 0.2 IP vs. 8.5 +/- 0.7% SC, mean +/- SE, P = 0.02), reduced glycemic fluctuations (SD of capillary glucose values: 3.4 +/- 0.2 IP vs. 4.6 +/- 0.2 mM SC, P < 0.01), and fewer mild hypoglycemic events (5.7 +/- 2.0 IP vs. 10.0 +/- 3.1 events/month SC, P = 0.02). Quality of life, judged by Diabetes Control and Complications Trial questionnaires, was unaffected by pump therapy. Direct costs, including pump acquisition, implantation, and follow-up, were 2.6-fold higher with IP than with SC delivery.
+CONCLUSIONS The implantable pump is more effective in the short term, equally accepted, but more costly than multiple injections and should be limited to patients with unsatisfactory glycemic control despite intensive diabetes management with SC insulin. In addition, longer-term, larger-scale, and comparative evaluation is required.
+

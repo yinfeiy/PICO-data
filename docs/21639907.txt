@@ -1,0 +1,8 @@
+Infliximab in ankylosing spondylitis: alone or in combination with methotrexate? A pharmacokinetic comparative study.
+
+INTRODUCTION Methotrexate (MTX) has been shown to modify infliximab pharmacokinetics in rheumatoid arthritis. However, its combination with infliximab in the treatment of ankylosing spondylitis (AS) is not recommended. The objective of this study was to examine the influence of MTX on infliximab exposure in patients with AS.
+METHODS Patients with AS patients who had predominantly axial symptoms were randomised to receive infliximab alone (infusions of 5 mg/kg at weeks 0, 2, 6, 12 and 18) or infliximab combined with MTX (10 mg/week). Infliximab concentrations were measured before and 2 hours after each infusion and at 1, 3, 4, 5, 8, 10, 14 and 18 weeks. We estimated individual cumulative area under the concentration versus time curves (AUC) for infliximab concentration between baseline and week 18 (AUC(0-18)). Clinical and laboratory evaluations were performed at each visit. The Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score was the primary end point for clinical response.
+RESULTS Twenty-six patients were included (infliximab group: n = 12, infliximab + MTX group: n = 14), and 507 serum samples were available for measurement of infliximab concentration. The two groups did not differ with regard to AUC(0-18) or evolution of BASDAI scores and biomarkers of inflammation.
+CONCLUSIONS The combination of MTX and infliximab does not increase the exposure to infliximab over infliximab alone in patients with AS.
+TRIAL REGISTRATION ClinicalTrials.gov: NCT00507403.
+

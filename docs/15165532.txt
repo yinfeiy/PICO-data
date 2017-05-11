@@ -1,0 +1,7 @@
+Mouth closing device (chinstrap) reduces mouth leak during nasal CPAP.
+
+BACKGROUND AND PURPOSE Mouth leak occasionally complicates continuous positive airway pressure (CPAP) therapy, which leads to discomfort. While a chinstrap prevents the mouth from opening during sleep, its efficacy in diminishing mouth leak has not been studied.
+PATIENTS AND METHODS Fifteen patients with mouth leak complaining of mouth dryness and nasal obstruction underwent two consecutive overnight polysomnographies, one with a chinstrap, in random order. Cephalometry with and without a chinstrap was randomly performed on six patients.
+RESULTS With the chinstrap, both mouth leak and the arousal index decreased significantly, from (mean+/-SD) 42.9+/-23.5 to 23.8+/-13.3% of total sleep time (TST), and from 33.4+/-18.6 to 23.6+/-9.3/sleep hour, respectively. However, snoring time showed a concomitant increase from 6.7+/-14.3 to 24.0+/-13.2% of TST. The arousal index was significantly higher during leak periods, and its changes correlated positively with changes in mouth leak. Cephalometric measures showed a significant decrease in anterior lower facial height.
+CONCLUSIONS The chinstrap, by closing the mouth during CPAP, reduces mouth leak and therefore the arousal index in most patients. Nevertheless, the indices remained unacceptably high. The chinstrap may also increase snoring and, in rare cases, can worsen the respiratory disturbance index. Consideration of these potential effects is important before instituting regular home use of the chinstrap.
+

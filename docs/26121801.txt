@@ -1,0 +1,7 @@
+[Effect of Preoperative Oral Rehydration on Onset Time and Recovery Time of Rocuronium].
+
+BACKGROUND Preoperative oral rehydration solution (ORS) prevents hypovolemia. The aim of this study was to compare the effect of intubating dose of rocuronium in patients taking and those not taking preoperative ORS.
+METHODS Twenty patients, ASA I aged 20-50 years scheduled for elective surgery, were investigated and randomly assigned to two groups: drinking 1,500 ml ORS 6 to 2 hours before anesthesia (ORS group) and nothing by mouth from 6 hours before anesthesia (control group). Anesthesia was maintained with propofol and remifentanil, and rocuronium 0.6 mg x kg(-1) was administrated. To evaluate the effect of rocuronium, acceleromyography at the adductor pollicis was performed using 0.1 Hz stimulation. Cardiac index (CI) and stroke volume variation (SVV) from FloTra/Vigileo, times to 95% twitch depression as onset time (OT), and times to first twitch re-detection (TR) were recorded.
+RESULTS SVV was significantly lower in ORS group (P = 0.03), and CI showed no difference. In ORS group, TR was significantly shorter than that of control group (P=0.002), and OT tended to be prolonged (99.0 ± 36.3 s vs. 84.0 ± 37.5 s), but not significantly.
+CONCLUSIONS Preoperative oral rehydration possibly increases circulating blood volume, and shortens the duration of rocuronium effect.
+

@@ -1,0 +1,9 @@
+Two large preoperative doses of erythropoietin do not reduce the systemic inflammatory response to cardiac surgery.
+
+OBJECTIVES Cardiac surgery and cardiopulmonary bypass (CPB) induce an inflammatory reaction that may lead to tissue injury. Experimental studies suggest that recombinant human erythropoietin (EPO) independent of its erythropoietic effect may be used clinically as an anti-inflammatory drug. This study tested the hypothesis that 2 large doses of EPO administered shortly before CPB ameliorate the systemic inflammatory response to CPB.
+DESIGN AND SETTING A prospective, double-blind, placebo-controlled and randomized study at a single tertiary care hospital.
+PARTICIPANTS Patients scheduled for coronary artery bypass graft surgery with CPB.
+INTERVENTIONS EPO (epoetin alfa, 500 IU/kg intravenously, n = 22) or placebo (n = 21) was administered 12 to 18 hours preoperatively and again at the induction of anesthesia.
+MEASUREMENTS AND MAIN RESULTS CPB in both groups greatly increased plasma concentrations of tumor necrosis factor alpha (TNF-alpha), interleukin (IL)-1beta, IL-1beta receptor antagonist, IL-6, IL-10, and N-terminal probrain natriuretic peptide (NT-proBNP). Compared with placebo, EPO at day 3 after CPB augmented the TNF-alpha response (p < 0.05) and at 2 hours after CPB increased NT-proBNP (p < 0.05). Also, EPO tended to enhance the CPB-induced increase in IL-1beta receptor antagonist (p = 0.057). Otherwise, EPO had no effect on pro- and antiinflammatory mediators compared with placebo.
+CONCLUSIONS Two large doses of EPO given shortly before CPB do not reduce perioperative release of inflammatory cytokines. In contrast, EPO may augment the TNF-alpha and NT-proBNP response. Although the long-term clinical impact remains unknown, the findings do not support use of EPO as an anti-inflammatory drug in patients undergoing cardiac surgery.
+

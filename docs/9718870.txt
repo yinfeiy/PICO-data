@@ -1,0 +1,7 @@
+Combined modality therapy in advanced Hodgkin's disease: a report on 218 patients with a median follow-up of eight years.
+
+BACKGROUND AND OBJECTIVE This study was designed to evaluate the efficacy and toxicity of monthly alternating ABVD/MOPP compared to ABVD/OPP regimens in patients with advanced stage Hodgkin's disease (HD), as well as in early stage patients with systemic symptoms and/or bulky disease.
+DESIGN AND METHODS 218 patients with previously untreated HD entered this study: 106 patients in arm A (ABVD/MOPP) and 112 in arm B (ABVD/OPP). Patients received eight courses of one of the two regimens after stratification according to the stage. Patients in complete remission (CR) received 20 Gy to the involved field and 40 Gy to the spleen. The actuarial survival curves were performed according to Kaplan and Meier.
+RESULTS No statistically significant differences were observed between the two arms in terms of CR rate and toxicity. However, analysis of total relapses revealed that patients treated with ABVD/OPP had a significantly higher likelihood of achieving a second CR compared to patients who entered the ABVD/MOPP arm.
+INTERPRETATION AND CONCLUSIONS Both schemes of chemotherapy followed by radiotherapy produce high percentages of CR, low risk of relapse and an acceptable toxicity.
+

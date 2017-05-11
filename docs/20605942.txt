@@ -1,0 +1,7 @@
+Types of parent verbal responsiveness that predict language in young children with autism spectrum disorder.
+
+PURPOSE This study examined short-term predictive associations between 5 different types of parent verbal responsiveness and later spoken vocabulary for 32 young children with a confirmed diagnosis of autism spectrum disorder (ASD).
+METHOD Parent verbal utterances were coded from videotapes of naturalistic parent-child play sessions using interval and event-based coding. A vocabulary difference score, calculated using the MacArthur Communicative Development Inventories (L. Fenson et al., 1993), was used as the outcome measure of spoken vocabulary 6 months later.
+RESULTS Parent follow-in comments and follow-in directives predicted spoken vocabulary after controlling for child engagement. Parent expansions of child verbal utterances predicted spoken vocabulary after controlling for child talkativeness. When entered together into a regression analysis, metrics that represented (a) the number of parent utterances following into the child's focus of attention and (b) the number of parent utterances responding to child verbal communication acts both accounted for unique variance in predicting change in spoken vocabulary from Time 1 to Time 2.
+CONCLUSION Parent verbal utterances that follow into the child's current focus of attention or respond to child verbal communication acts may facilitate the process of early vocabulary acquisition by mitigating the need for children with ASD to use attention-following as a word-learning strategy.
+

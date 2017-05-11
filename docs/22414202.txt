@@ -1,0 +1,7 @@
+Ambulatory activity of children with cerebral palsy: which characteristics are important?
+
+AIM To assess ambulatory activity of children with cerebral palsy (CP), aged 7 to 13 years, and identify associated characteristics.
+METHOD Sixty-two children with spastic CP (39 males, 23 females; mean age 10y 1mo, SD 1y 8mo; age range 7-13y), classified as Gross Motor Function Classification System (GMFCS) levels I to III, participated. Ambulatory activity was measured during 1 week with a StepWatch activity monitor as steps per day, and time spent at medium and high step rates. Multiple linear regression analyses were performed following a backward selection procedure until only independent variables with p<0.05 remained in the model. Ambulatory activity outcome parameters served as dependent variables, and disease, personal, and environmental characteristics as independent variables. Ambulatory activity was corrected for body height.
+RESULTS Children took more steps during school days (5169 steps, SD 1641) than during weekend days (4158 steps, SD 2048; p<0.001). Higher GMFCS level, bilateral CP, and higher age were associated with lower ambulatory activity on school days (R(2) ranged from 43-53%), whereas bilateral CP, higher age, and no sport club participation were associated with lower ambulatory activity in the weekend (R(2) ranged from 21-42%). Correcting for body height decreased the association with age.
+INTERPRETATION Interventions should focus at increasing physical activity at the weekend for children with bilateral spastic CP.
+

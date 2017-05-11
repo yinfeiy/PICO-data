@@ -1,0 +1,7 @@
+Measuring adherence in a hypertension clinical trial.
+
+BACKGROUND Non-adherence in hypertension is a global problem and promoting adherence is necessary to decrease cardiovascular mortality.
+AIMS The purpose of this paper is to examine the measurement of adherence to medication taking in hypertensive patients. Adherence was evaluated primarily by means of MEMS (Medication Event Monitoring System, Aprex Corporation, Fremont, California) an electronic system that records the date and time of opening of the study medication container. Additional measurements such as change in urinary potassium level, capsule count, client self report and physician estimate of adherence were recorded.
+METHODS A randomised clinical trial was used to assign patients to receive the study medication (potassium) or placebo. Descriptive statistics were used to answer the research questions. Frequency and percentage of responses to different measures of adherence were carried out as well as correlation between the measures.
+RESULTS One hundred and seven subjects between the ages of 26 and 80 participated in the clinical trial. The results showed that adherence measures varied with lowest adherence from two items of self-report related to forgetfulness (46 and 55%) and stringent electronic monitoring with the MEMS (58%) to percentages in the 80-90 range for other self-report items and the general adherence scale. Electronic monitoring correlated best with capsule count at visit 5. Implications for health care providers are discussed.
+

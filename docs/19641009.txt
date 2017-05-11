@@ -1,0 +1,7 @@
+Design, implementation and results of the quality control program for the Australian government's point of care testing in general practice trial.
+
+BACKGROUND From 2005 to 2007 the Australian Government funded a multicentre, clustered randomized controlled trial to determine the clinical effectiveness, cost-effectiveness, satisfaction and safety of point of care testing (PoCT) in general practice (GP). PoC tests measured (and devices used) in the trial were haemoglobin A1c and urine albumin:creatinine ratio (DCA 2000), lipids (Cholestech LDX) and international normalized ratio (CoaguChek S).
+METHODS An internal quality control (QC) program was developed as part of a quality management framework for the trial. PoCT device operators were provided with a colour-coded QC Result Sheet and QC Action Sheet for on-site recording and interpreting of their results. Within-practice imprecision for QC testing was calculated and compared with the analytical goals for imprecision set prior to the trial.
+RESULTS The average participation rate for QC testing was 91% or greater. Median within-practice imprecision met the analytical goals for all PoC tests, except for high-density lipoprotein-cholesterol (HDL-C) where observed performance was outside the minimum goal for one level and one lot number of QC. Most practices achieved the imprecision goals for all analytes, with the principal exception of HDL-C.
+CONCLUSIONS Results from QC testing indicate that PoCT in the GP trial met the analytical goals set for the trial, with the exception of HDL-C.
+

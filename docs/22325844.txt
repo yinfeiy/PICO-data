@@ -1,0 +1,8 @@
+Effect of HIV infection on tolerability and bacteriologic outcomes of tuberculosis treatment.
+
+SETTING Two international, multicenter Phase 2 clinical trials examining fluoroquinolone-containing regimens in adults with smear-positive pulmonary tuberculosis (TB), conducted from July 2003 to March 2007. Both trials enrolled human immunodeficiency virus (HIV) infected participants who were not receiving antiretroviral therapy (ART) at TB treatment initiation.
+OBJECTIVE To assess the impact of HIV infection on TB treatment outcomes in Phase 2 clinical trials.
+DESIGN Cross-protocol analysis comparing the safety, tolerability and outcomes of anti-tuberculosis treatment by HIV status.
+RESULTS Of 750 participants who received at least one dose of study treatment, 123 (16%) were HIV-infected. Treatment completion rates were similar by HIV status (81% infected vs. 85% non-infected), as were rates of week 8 culture conversion (66% infected vs. 63% non-infected), and treatment failure (5% infected vs. 3% non-infected). Among HIV-infected participants, treatment failure detected using liquid media was more frequent in those treated thrice weekly (14% thrice weekly vs. 2% daily, P = 0.03). HIV-infected participants more frequently experienced an adverse event during the intensive phase treatment than non-HIV-infected participants (30% vs. 15%, P < 0.01).
+CONCLUSION HIV-infected persons not receiving ART had more adverse events during the intensive phase of anti-tuberculosis treatment, but tolerated treatment well. Failure rates were higher among HIV-infected persons treated with thrice-weekly intensive phase therapy.
+

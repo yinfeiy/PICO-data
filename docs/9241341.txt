@@ -1,0 +1,7 @@
+2-Chloroprocaine antagonism of epidural morphine analgesia.
+
+BACKGROUND 2-Chloroprocaine (2-CP) used for lumbar epidural anesthesia (LEA) reportedly decreases the efficacy of epidural morphine (EM) administered for post-cesarean section (CS) analgesia. The amount of supplemental i.v. morphine self-administered by the patient via the patient-controlled analgesia device (PCA) is used to study the interaction between EM and 2-CP.
+METHODS Forty-two patients scheduled for elective CS were randomly divided into 3 equal groups, and received 2-CP, 2-CP + epinephrine (Epi, 5 micrograms.ml-1) or 2% lidocaine (Lido) with Epi for LEA. All patients received 5 mg EM and i.v. PCA morphine for postoperative pain. Cumulative amount of i.v. morphine used in the first 24 hours as well as the amount of the drug used during each 2-h period were noted. Nonparametric analysis of variance and Chi-squared analysis were used for statistical comparisons.
+RESULTS The mean cumulative 24-h i.v. PCA morphine requirement in the 2-CP, 2-CP+Epi and Lido+Epi groups respectively was 20.5 +/- 24, 33.1.5 +/- 27 and 4.07 +/- (mean +/- SD). The Lido + Epi group used significantly less morphine (P = 0.01) compared to either of the 2-CP groups with no significant difference between the 2-CP groups. The maximum i.v. PCA morphine use occurred in the first 4 hours following surgery in all three groups.
+CONCLUSION Analgesic efficacy of EM is decreased when 2-CP is used for LEA compared to when Lido + Epi is used.
+

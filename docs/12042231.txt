@@ -1,0 +1,8 @@
+Effectiveness of a brief cognitive-behavioural therapy intervention in the treatment of schizophrenia.
+
+BACKGROUND Little evidence exists to indicate whether community psychiatric nurses can achieve the results reported by expert cognitive-behavioural therapists in patients with schizophrenia.
+AIMS To assess the effectiveness and safety of a brief cognitive-behavioural therapy (CBT) intervention in a representative community sample of patients with schizophrenia in secondary care settings.
+METHOD A pragmatic randomised trial was performed involving 422 patients and carers to compare a brief CBT intervention against treatment as usual.
+RESULTS Patients who received CBT (n=257) improved in overall symptomatology (P=0.015; number needed to treat [NNT]=13), insight (P<0.001; NNT=10) and depression (P=0.003; NNT=9) compared with the control group (n=165). Insight was clinically significantly improved (risk ratio=1.15, 95% CI 1.01-1.31). There was no increase in suicidal ideation.
+CONCLUSIONS Community psychiatric nurses can safely and effectively deliver a brief CBT intervention to patients with schizophrenia and their carers.
+

@@ -1,0 +1,9 @@
+Moderate-intensity exercise training with elements of step aerobics in patients with severe chronic heart failure.
+
+OBJECTIVE To evaluate whether a specific program of moderate-intensity step aerobics training may be sufficient to improve the exercise tolerance of patients with severe chronic heart failure.
+PATIENTS Twenty-six patients (22 men, 4 women; mean +/- SD age, 54 +/- 9yrs) with a history of severe chronic heart failure (left ventricular ejection fraction of 18% +/- 8%).
+STUDY DESIGN Prospective, randomized, controlled trial. Patients were randomized into exercise and control groups. All patients underwent a clinical examination and a ramp pattern cycle exercise test before and after the observation period. The exercise group underwent a moderate-intensity (50% of peak oxygen uptake) 12-week training program, progressing to 100 minutes per week of step aerobics and 50 minutes per week of cycling. The control group did not perform a training program.
+MAIN OUTCOME MEASURES Peak oxygen uptake, peak workload, percent of predicted power ability.
+RESULTS Significant increases in peak oxygen uptake (15 +/- 3.4 to 18.5 +/- 2.9mL/kg/min; p = .001), peak workload (77 +/- 26 to 99 +/- 31 watts; p = .000), and percent of predicted power ability (43% +/- 10% to 56% +/- 13%; p = .000) were observed in the exercise group. No significant changes in baseline parameters occurred in the control group. There were no critical changes in heart rate or blood pressure in either group.
+CONCLUSION Moderate-intensity step aerobics training significantly increases peak oxygen uptake and peak workloads in patients with severe chronic heart failure.
+

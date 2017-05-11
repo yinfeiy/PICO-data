@@ -1,0 +1,4 @@
+A randomized trial of etoposide and G-CSF with or without rituximab for PBSC mobilization in B-cell non-Hodgkin's lymphoma.
+
+Some reports have suggested that rituximab administration before PBSC mobilization may adversely affect PBSC yield. We conducted a prospective randomized trial of PBSC mobilization using etoposide and G-CSF with or without rituximab to determine whether its addition would adversely affect CD34+ cell yield in patients with non-Hodgkin's lymphoma. Twenty seven patients were mobilized with etoposide and G-CSF and 28 with etoposide, G-CSF and rituximab. There were no adverse consequences of rituximab on CD34+ cell yield, or hematopoietic recovery or immunoglobulin levels after transplantation.
+

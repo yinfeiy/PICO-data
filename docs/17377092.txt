@@ -1,0 +1,7 @@
+A comparison of laser-assisted drug delivery at two output energies for enhancing the delivery of topically applied LMX-4 cream prior to venipuncture.
+
+BACKGROUND Laser-assisted drug delivery (LAD) has the potential for facilitating topical anesthesia with reduced onset time.
+METHODS In this randomized, double-blind, crossover study we compared the efficacy and adverse event profile of LAD for topical anesthesia before venipuncture using two output energies (2.0 and 3.5 J/cm2).
+RESULTS Mean Visual Analog Scale pain scores were not statistically different (P = 0.57) between the low-energy (mean = 6.7) and high-energy (mean = 8.1) lasers.
+CONCLUSIONS LAD at an energy of 2.0 J/cm2 (570 mJ) is as effective, with similar adverse events, as an energy of 3.5 J/cm2 (1000 mJ) in facilitating topical anesthesia.
+

@@ -1,0 +1,8 @@
+MRI signal hyperintensities and failure to remit following antidepressant treatment.
+
+BACKGROUND MRI signal hyperintensities predict poor remission to antidepressant treatment. Previous studies using volumetrics in outpatient samples have relied on total lesion volume. The purpose of this study was to test whether remission from geriatric depression depends on lesion volume by region of interest (ROI).
+METHOD Thirty-eight patients received baseline MRIs as part of a larger 12-week, randomized clinical trial comparing sertraline and nortriptyline in the treatment of late-life depression. MRIcro was used to quantify MRI-hyperintensity volume into total hyperintensity, deep white matter hyperintensity (DWMH), and periventricular hyperintensity (PVH) volumes. High versus low total, DWMH, and PVH volumes were defined based on the highest quartile of their respective distributions. Remission from depression was defined as a 24-item Hamilton Rating Scale for Depression score ≤ 7 for two consecutive weeks.
+RESULTS Patients classified as having high DWMH were 7.14 times more likely not to remit following antidepressant treatment compared to patients classified as having low DWMH (p=0.02). Similar odds ratios were obtained for PVH (OR=4.17, p=0.16) and total volumes (OR=5.00, p=0.05). Importantly, adjusting for age did not change the magnitude of these effects.
+LIMITATIONS A small and predominantly White sample.
+CONCLUSIONS This is the first study to test whether remission from geriatric depression depends on lesion volume by ROI in an outpatient sample. The pattern of remission rates and odds ratios was similar when patients were classified as having high DWMH, PVH or total volume suggesting that lesion location may not be critical.
+

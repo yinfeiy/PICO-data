@@ -1,0 +1,7 @@
+Dose-response relationship of sertindole and haloperidol using the pharmacopsychometric triangle.
+
+OBJECTIVE Renewed insight into dose-related effects of sertindole and haloperidol was sought by re-analysing published data for antipsychotic effect, extrapyramidal effect, and patient wellbeing - i.e., the important pharmacopsychometric triangle domains.
+METHOD Selected Positive and Negative Syndrome Scale (PANSS) subscales and the Simpson-Angus scale were tested for validity. Standardized effect sizes [last observation carried forward (LOCF)] at endpoint were calculated.
+RESULTS The scales were found to be valid instruments. The PANSS(11) psychotic subscale showed clinically significant effect sizes for all doses of sertindole (12, 20, and 24 mg) and haloperidol (4, 8, and 16 mg). Extrapyramidal effects were evident for all doses of haloperidol, but absent for the lower doses of sertindole. The PANSS(6) depression subscale, a proxy measure of quality of life, showed a clinically significant effect for sertindole 20 mg and no effect for haloperidol.
+CONCLUSION This re-analysis confirmed the antipsychotic effect and absence of extrapyramidal effects for sertindole and, in addition, showed a clinically significant antidepressant effect. A profile for bipolar states emerged.
+

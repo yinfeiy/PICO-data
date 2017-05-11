@@ -1,0 +1,7 @@
+Efficacy of intravenous acetaminophen and lidocaine on propofol injection pain.
+
+BACKGROUND Different methods and propofol formulations have been used to decrease propofol injection pain, but it remains an unresolved problem. We aimed to investigate the effect of i.v. acetaminophen pretreatment on the propofol injection pain.
+METHODS One hundred and fifty ASA I-II patients undergoing general anaesthesia were randomly allocated into three groups. A 20-gauge catheter was inserted into a superficial radial vein of the left hand, and after the occlusion of venous drainage, Groups I, II, and III were pretreated with 40 mg of lidocaine in saline, 50 mg of i.v. acetaminophen, and 5 ml of saline, respectively. The occlusion was released after 2 min and one-fourth of the total propofol dose was injected into the vein over a period of 5 s. During the injection of both pretreatment solution and propofol, patients' pain was assessed and recorded as 0-3, corresponding to no, mild, moderate or severe pain, respectively. Chi2 and Kruskal-Wallis tests were used for the statistical analysis. For all analyses, differences were considered to be significant at P<0.05.
+RESULTS Patient characteristics were similar among the groups. Incidence of pain on injection of propofol in control, i.v. acetaminophen, and lidocaine groups was 64%, 22% and 8%, respectively (P<0.05).
+CONCLUSIONS Pretreatment with i.v. acetaminophen seems to be effective in attenuating pain during i.v. injection of propofol.
+

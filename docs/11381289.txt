@@ -1,0 +1,4 @@
+Why were the results of the Heart Outcomes Prevention Evaluation (HOPE) trial so astounding?
+
+The Heart Outcomes Prevention Evaluation (HOPE) study was important because it showed the benefits of ramipril - an angiotensin-converting enzyme (ACE) inhibitor - in patients at high risk for cardiovascular events. Treatment with ramipril significantly reduced the rates of death, myocardial infarction, stroke, coronary revascularization, cardiac arrest and heart failure, as well as the risk of diabetes-related complications and of diabetes itself. The effects of therapy with vitamin E were also evaluated, but no statistical benefits were shown. The benefits of ACE inhibitor therapy that were observed were likely due to a variety of mechanisms, not just a reduction in blood pressure.
+

@@ -1,0 +1,7 @@
+Effects of ursodeoxycholic acid on serum liver enzymes in patients with hepatitis C virus-related chronic liver disease.
+
+OBJECTIVE To study the effect of ursodeoxycholic acid (UDCA) on serum liver enzyme levels [alanine aminotransferase (ALT) and gamma-glutamyl transferase (GGT)] in 101 patients with hepatitis C virus-related chronic liver disease.
+METHODS Forty-nine patients were assigned to receive UDCA (450 mg/day) over a period of 6 months and 52 to receive no treatment.
+RESULTS In the UDCA group, serum ALT and GGT levels significantly improved. ALT values decreased from pre-treatment levels of 157.0 +/- 62.6 IU/l to 82.5 +/- 46.4 IU/l (P < 0.05), and GGT fell from 141.3 +/- 86.2 IU/l to 66.0 +/- 49.5 IU/l (P < 0.001). No significant change occurred in the mean ALT and GGT levels in the control group.
+CONCLUSION Although our encouraging preliminary results must be validated by double-blind histological trials, UDCA may be an alternative treatment for patients who fail to respond to interferon therapy.
+

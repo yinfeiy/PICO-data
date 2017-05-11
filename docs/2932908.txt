@@ -1,0 +1,4 @@
+Chemotherapy of large bowel carcinoma--fluorouracil (FU) + hydroxyurea (HU) vs. methyl-CCNU, oncovin, fluorouracil, and streptozotocin (MOF-Strep). An Eastern Cooperative Oncology Group study.
+
+In this prospective randomized study of initial chemotherapy for advanced measurable metastatic large bowel carcinoma, the response rate was 6/32 (19%) for FU + HU and 5/32 (16%) for MOF-Strep; the estimated median survival is 43 weeks for both treatments. Patients who received MOF-Strep experienced substantially greater vomiting and hematologic toxicity than patients who received FU + HU (p less than 0.001).
+

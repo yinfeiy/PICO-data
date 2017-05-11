@@ -1,0 +1,7 @@
+Mechanical sensitivity of the human conjunctiva.
+
+PURPOSE The aim of this study was to map the sensitivity of the marginal and other conjunctival regions and to investigate changes in the sensitivity of these regions when determined in the morning and evening.
+METHODS Thirty-five healthy, noncontact lens wearers (20 female, 15 male; age 27.7 ± 7.3 years) were enrolled. Mechanical sensitivity was measured at 8 locations on the ocular surface and adnexa (cornea, marginal, bulbar, and tarsal conjunctiva) using a Cochet-Bonnet esthesiometer (0.12-mm diameter filament). A subgroup of 11 subjects (6 female, 5 male; age 28.9 ± 9.9 years) returned after 12 hours when this protocol was repeated.
+RESULTS The cornea was found to be the most sensitive region (all P < 0.001). The marginal conjunctiva showed greater sensitivity than did the bulbar and tarsal conjunctiva (all P < 0.001). The temporal marginal conjunctiva was more sensitive than the central marginal conjunctiva (all P < 0.05). No difference in marginal conjunctival sensitivity was found between upper and lower eyelids (all P > 0.05). The upper tarsal conjunctiva was more sensitive than the lower tarsal conjunctiva (P = 0.04). There was no significant difference in the sensitivity determined in the morning and the evening for any of the locations investigated (Bonferroni adjusted, P > 0.006).
+CONCLUSIONS This work has demonstrated that the marginal conjunctiva was the most sensitive of all the conjunctival regions and that this does not alter over the course of the day.
+

@@ -1,0 +1,7 @@
+A randomized controlled trial of an inference generation strategy intervention for adults with high-functioning autism spectrum disorder.
+
+PURPOSE The present intervention study investigated the efficacy of the ACT & Check Strategy intervention to improve inference generation when reading, metacognitive ability, general reading comprehension, and social inference ability in adults with high-functioning autism spectrum disorder (HF-ASD).
+METHOD Twenty-five adults with HF-ASD were randomly assigned to either a treatment or a control group. Treatment sessions were conducted in 1-hr sessions, twice a week, for a total of 6 weeks. Treatment focused on explicit instruction of components of inference generation, categories of inferences, and increasingly independent strategy use.
+RESULTS The treatment group demonstrated significantly superior performance on 1 of 2 measures of inference generation in reading and 1 measure of metacognitive ability compared with the control group. Significant differences between groups were not found on measures of reading comprehension or social inference ability.
+CONCLUSION These findings suggest that the ACT & Check Strategy was effective in improving participants' ability to generate inferences in reading and certain metacognitive abilities, but the skills do not appear to generalize to other social communication contexts, such as social inference generation. This research provides a measure of support for explicitly teaching inference generation to address a reading inference deficit in adults with HF-ASD.
+

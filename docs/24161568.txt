@@ -1,0 +1,7 @@
+A prospective randomized trial comparing hypofractionation with conventional fractionation radiotherapy for T1-2 glottic squamous cell carcinomas: results of a Korean Radiation Oncology Group (KROG-0201) study.
+
+BACKGROUND AND PURPOSE To prospectively investigate the effect of radiotherapy fraction size on clinical outcomes in early glottic carcinoma
+METHODS AND MATERIALS Patients with T1-2 glottic carcinoma were eligible for the protocol. Although 282 patients were required, the study was closed prematurely due to poor accrual with only 156 patients. Of these, 82 patients were allocated to conventional fractionation (CONV) arm (66 Gy/33 fractions for T1 and 70 Gy/35 fractions for T2), with 74 patients to hypofractionation (HYPO) arm (63 Gy/28 fractions for T1 and 67.5 Gy/30 fractions for T2). The primary objective was local progression-free survival (LPFS).
+RESULTS With a median follow-up of 67 months (range, 2-122 months), the 5-year LPFS was 77.8% for CONV arm and 88.5% for HYPO arm (HR 1.55, p=0.213). No significant difference was observed in the toxicity profile between the two arms. In a subgroup exploratory analysis for T1a disease, the 5-year LPFS trended positively in HYPO arm (76.7% vs. 93.0%, HR 3.65, p=0.056).
+CONCLUSIONS Given that HYPO is at least not inferior to CONV with a similar toxicity profile, the hypofractionation scheme used in this study can be offered to patients with T1-2 glottic carcinoma with potential advantages in terms of local control and a shortened overall treatment time.
+

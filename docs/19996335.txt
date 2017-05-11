@@ -1,0 +1,8 @@
+The 6 minute walk in idiopathic pulmonary fibrosis: longitudinal changes and minimum important difference.
+
+RATIONALE The response characteristics of the 6 minute walk test (6MWT) in studies of idiopathic pulmonary fibrosis (IPF) are only poorly understood, and the change in walk distance that constitutes the minimum important difference (MID) over time is unknown.
+OBJECTIVES To examine changes over time in distance walked (ie, 6MWD) during the 6MWT and to estimate the change in distance that constitutes the MID in patients with IPF.
+METHODS Data from a recently completed trial that included subjects with IPF who completed the 6MWT, Saint George's Respiratory Questionnaire (SGRQ) and forced vital capacity (FVC) at 6 and 12 months were used to examine longitudinal changes in 6MWD. Both anchor- and distribution-based approaches as well as linear regression analyses were used to determine the MID for 6MWD. The SGRQ Total score and FVC were used as clinical anchors.
+MAIN RESULTS Among 123 subjects alive and able to complete the 6MWT at both follow-up time points, 6MWD did not change significantly over time (378.1 m at baseline vs 376.8 m at 6 months vs 361.3 m at 12 months, p=0.5). The point estimate for the 6MWD MID was 28 m with a range of 10.8-58.5 m.
+CONCLUSION In a group of patients with IPF with moderate physiological impairment, for those alive and able to complete a 6MWT, 6MWD does not change over 12 months. At the population level, the MID for 6MWD appears to be approximately 28 m. Further investigation using other anchors and derivation methods is required to refine estimates of the MID for 6MWD in this patient population.
+

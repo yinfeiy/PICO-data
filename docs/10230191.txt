@@ -1,0 +1,7 @@
+Naltrexone and communication skills in young children with autism.
+
+OBJECTIVE To evaluate the effect of naltrexone on communication skills of young children with autism.
+METHOD Twenty-four children with autism, 3.0 to 8.3 years old (mean 5.1) who were living at home and attending appropriate school programs, participated in a randomized, double-blind, placebo-controlled, crossover trial. Naltrexone, 1.0 mg/kg, or placebo was administered daily for 2 weeks. Communication was evaluated from videotaped samples of seminaturalistic parent-child interaction. Child and parent language were assessed using similar measures.
+RESULTS In this heterogeneous sample, the median number of words the child produced on placebo was 9.5 (range 0-124). The median proportion of utterances with echolalia was 0.16. No differences were found between the naltrexone and placebo conditions in any of the measures of children or parents' communication. Significant correlations were found between the child's number of words and developmental quotient (Spearman rho = 0.58, p = .003) and between the child's and parent's number of words (rho = 0.55, p = .005).
+CONCLUSIONS Previous studies showed that naltrexone was associated with modest reduction in hyperactivity and restlessness in this group of children with autism. In this short-term study, the medication did not lead to improvement in communication, a core deficit of autism.
+

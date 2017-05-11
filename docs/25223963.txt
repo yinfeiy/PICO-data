@@ -1,0 +1,8 @@
+Recommending self-paced exercise among overweight and obese adults: a randomized pilot study.
+
+BACKGROUND National guidelines call for exercise of at least moderate intensity; however, recommending self-paced exercise may lead to better adherence, particularly among overweight and obese adults.
+PURPOSE The purpose of this study was to test proof-of-concept for recommending self-paced exercise among overweight adults.
+METHODS Fifty-nine healthy, low-active (exercise <60 min/week), overweight (body mass index 25.0-39.9) adults (18-65) received a 6-month print-based exercise promotion program with the goal of walking 30-60 min/day. Participants were surreptitiously randomly assigned to receive a recommendation for either self-paced (n = 30) or moderate (64-76 % maximum heart rate; n = 29) intensity exercise. All participants used electronic diaries and heart rate monitors to track exercise frequency, duration, and intensity.
+RESULTS The self-paced condition reported more minutes/week of walking (f (2) = 0.17, p = 0.045) and a trend toward greater exercise-related energy expenditure/week (f (2) = 0.12, p = 0.243), corresponding to approximately 26 additional minutes/week and 83 additional kilocalories/week over 6 months.
+CONCLUSIONS Explicit recommendation for self-paced exercise may improve adherence to exercise programs among overweight and obese adults.
+

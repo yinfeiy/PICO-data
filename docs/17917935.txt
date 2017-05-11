@@ -1,0 +1,7 @@
+A randomized parallel study to assess the safety and efficacy of two different dosing regimens of 5% imiquimod in the treatment of superficial basal cell carcinoma.
+
+OBJECTIVES This study was designed to compare the safety and efficacy of two cycled dosing regimens of imiquimod 5% cream for treatment of superficial basal cell carcinoma (sBCC).
+METHODS Patients (n = 32) were randomized to receive one of two treatment regimens: 8 weeks of treatment with once-daily dosing for alternate weeks (R1) and 5 weeks of once-daily dosing with a 1-week interval in the middle of the course (R2). Efficacy measures were tumour clearance at weeks 19 and 52 and measures of patients' acceptability.
+RESULTS Data from 30 patients (13 females), 14 on R1 and 16 on R2, were analysed. The results revealed an initial clearance rate of 64% at week 19 for R1 and 81% for R2 (95% CI for difference: -14% to 45%, p = 0.21). However, clearance rates at week 52 were significantly different: 43% for R1 and 88% for R2 (95% CI for difference: 11% to 68%, p = 0.02). There was no difference in acceptability of treatment as measured by composite median visual analogue scores at week 8.
+CONCLUSION Five weeks of 5% imiquimod cream once daily with a 1-week interval was more effective but as well tolerated as the 8-week alternate week regimen for sBCC.
+

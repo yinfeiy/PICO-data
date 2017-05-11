@@ -1,0 +1,11 @@
+Efficacy of venlafaxine XR for the treatment of pain in patients with spinal cord injury and major depression: a randomized, controlled trial.
+
+OBJECTIVES To (1) determine the efficacy of venlafaxine XR for the treatment of pain (secondary aim) in individuals with spinal cord injury (SCI) enrolled in a randomized controlled trial (RCT) on the efficacy of venlafaxine XR for major depressive disorder (MDD) (primary aim); and (2) test the hypothesis that venlafaxine XR would be effective for both neuropathic and nociceptive pain.
+DESIGN Multisite, double-blind, randomized (1:1) controlled trial with subjects block randomized and stratified by site, lifetime history of substance abuse, and prior history of MDD.
+SETTING Six Departments of Physical Medicine and Rehabilitation in university-based medical schools.
+PARTICIPANTS Individuals (N=123) with SCI and major depression between 18 and 64 years of age, at least 1 month post-SCI who also reported pain.
+INTERVENTION Twelve-week trial of venlafaxine XR versus placebo using a flexible titration schedule.
+OUTCOME MEASURES A 0-to-10 numeric rating scale for pain, pain interference items of the Brief Pain Inventory; 30% and 50% responders.
+RESULTS The effect of venlafaxine XR on neuropathic pain was similar to that of placebo. However venlafaxine XR resulted in statistically significant and clinically meaningful reductions in nociceptive pain site intensity and interference even after controlling for anxiety, depression, and multiple pain sites within the same individual. For those who achieved a minimally effective dose of venlafaxine XR, some additional evidence of effectiveness was noted for those with mixed (both neuropathic and nociceptive) pain sites.
+CONCLUSIONS Venlafaxine XR could complement current medications and procedures for treating pain after SCI and MDD that has nociceptive features. Its usefulness for treating central neuropathic pain is likely to be limited. Research is needed to replicate these findings and determine whether the antinociceptive effect of venlafaxine XR generalizes to persons with SCI pain without MDD.
+

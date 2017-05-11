@@ -1,0 +1,7 @@
+Intrathecal morphine suppresses NK cell activity following abdominal surgery.
+
+PURPOSE The effects of morphine on natural killer (NK) cell activity were investigated in patients who underwent hysterectomy.
+METHODS Forty patients were divided into four groups of ten. The groups received intrathecal 0.5 mg morphine (Group IT0.5), intrathecal 0.1 mg morphine (Group IT0.1) or 10 mg morphine i.v. (Group IV). The remaining ten patients served as controls and received inhalation anesthesia alone (Group C). Blood samples were withdrawn before and two hours after surgery and on postoperative days one and two to determine the blood NK cell activity using a chromium release assay with K562 cells as targets, plasma catecholamines and cortisol levels. The postoperative pain score and side effects were studied in the four groups.
+RESULTS In Group IT0.5, the NK cell activity was lower on postoperative day 1 (23.9 +/- 8.4%) than the baseline level (45.7 +/- 13%) before surgery, and recovered on postoperative day 2. In Groups IT0.1, C and IV, the NK cell activities showed no significant changes. In all four groups, neither plasma adrenaline nor noradrenaline concentrations changed. In all four groups, the plasma cortisol levels increased after surgery, on postoperative days 1 and 2. The pain score was lower two hours after surgery and on postoperative day 1 in Group IT0.5 than in the other groups.
+CONCLUSION These results suggest that long-lasting analgesic effects of intrathecal 0.5 mg morphine suppress the immune response following abdominal surgery.
+

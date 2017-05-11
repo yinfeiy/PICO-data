@@ -1,0 +1,4 @@
+Time intervals production in tapping and oscillatory motion.
+
+We applied spectral analysis on series of time intervals produced in a synchronization-continuation experiment. In the first condition intervals were produced by finger tapping, and in the second by an oscillatory motion of the hand. Results obtained in tapping were consistent with a discrete, event-based timing model. In the oscillatory condition, the spectra suggested a continuous, dynamic timing mechanism, based on the regulation of effector stiffness. It is concluded that the oscillatory character of movement can offer an important resource for timing control. The use of an event-based timing control such as postulated in the Wing-Kristoffersson model could be restricted to a quite limited class of rhythmic tasks, characterized by the concatenation of discrete events.
+

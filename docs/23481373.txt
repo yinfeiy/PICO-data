@@ -1,0 +1,8 @@
+Development of the Therapist Empathy Scale.
+
+BACKGROUND Few measures exist to examine therapist empathy as it occurs in session.
+AIMS A 9-item observer rating scale, called the Therapist Empathy Scale (TES), was developed based on Watson's (1999) work to assess affective, cognitive, attitudinal, and attunement aspects of therapist empathy. The aim of this study was to evaluate the inter-rater reliability, internal consistency, and construct and criterion validity of the TES.
+METHOD Raters evaluated therapist empathy in 315 client sessions conducted by 91 therapists, using data from a multi-site therapist training trial (Martino et al., 2010) in Motivational Interviewing (MI).
+RESULTS Inter-rater reliability (ICC = .87 to .91) and internal consistency (Cronbach's alpha = .94) were high. Confirmatory factor analyses indicated some support for single-factor fit. Convergent validity was supported by correlations between TES scores and MI fundamental adherence (r range .50 to .67) and competence scores (r range .56 to .69). Discriminant validity was indicated by negative or nonsignificant correlations between TES and MI-inconsistent behavior (r range .05 to -.33).
+CONCLUSIONS The TES demonstrates excellent inter-rater reliability and internal consistency. RESULTS indicate some support for a single-factor solution and convergent and discriminant validity. Future studies should examine the use of the TES to evaluate therapist empathy in different psychotherapy approaches and to determine the impact of therapist empathy on client outcome.
+

@@ -1,0 +1,7 @@
+Long-term effects of ezetimibe-plus-statin therapy on low-density lipoprotein cholesterol levels as compared with double-dose statin therapy in patients with coronary artery disease.
+
+OBJECTIVE To assess the mechanism of long-term LDL-C-lowering effect of ezetimibe-plus-statin.
+METHODS Coronary artery disease patients whose LDL-C ≥ 70 mg/dL after treatment with atorvastatin 10 mg/day or rosuvastatin 2.5 mg/day were randomly assigned to receive ezetimibe 10 mg/day + statin (n = 78) or double-dose statin (n = 72) for 52 weeks.
+RESULTS Greater LDL-C reduction was observed and maintained until 52 weeks in ezetimibe-plus-statin, while LDL-C levels re-increased after 12 weeks in double-dose statin. Although lathosterol/TC increased, campesterol/TC decreased more in ezetimibe-plus-statin. In contrast, lathosterol/TC unchanged and campesterol/TC increased, increasing campesterol/lathosterol ratio for 52 weeks in double-dose statin. Plasma PCSK9 levels were higher in double-dose statin than in ezetimibe-plus-statin at 12 weeks, but similar at 52 weeks.
+CONCLUSION Although the difference in PCSK9 between 2 groups was transient, that in both campesterol and lathosterol persisted until 52 weeks. These results demonstrated simultaneous inhibition of cholesterol absorption and synthesis provides stable and greater decrease in LDL-C levels.
+

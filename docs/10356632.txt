@@ -1,0 +1,7 @@
+Event-related potential indices of auditory selective attention in dependent amphetamine users.
+
+BACKGROUND The aim of the present study was to further investigate a previously reported attention-related impairment in dependent amphetamine users using event-related potential (ERP) indices of selective attention.
+METHODS ERPs were recorded during an auditory selective attention task (SAT) that involved detecting infrequent long-duration target tones presented among short-duration tones that varied in location (left vs. right ear) and pitch (low vs. high). Amphetamine users (n = 19) were divided into two groups, high dependence (n = 10) and low dependence (n = 10), based on amphetamine Severity of Dependence Scale scores, and compared to an age-matched control group (n = 9).
+RESULTS The high-dependence group showed slowed reaction time and reduced early processing negativity and peak N1 amplitude to location-relevant nontarget stimuli. Poor performance on the SAT was highly correlated with deficits in early processing, which were also related to poor performance on the Wechsler Memory Scale Attention/Concentration index.
+CONCLUSIONS It is suggested that severely dependent users suffer an inability to selectively enhance the sensory processing of relevant auditory information. This may produce poor automatic preferential processing of relevant information and increase load on limited attentional resources.
+

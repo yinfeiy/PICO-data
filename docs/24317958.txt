@@ -1,0 +1,8 @@
+The effect of four different irrigation systems in the removal of a root canal sealer.
+
+OBJECTIVES The aim of this study was to compare the efficiency of sonic, ultrasonic, and hydrodynamic devices in the removal of a root canal sealer from the surface and from simulated irregularities of root canals.
+MATERIALS AND METHODS Fifty-three root canals with two standardized grooves in the apical and coronal parts of longitudinally split roots were covered with AH Plus root canal sealer. Compared were the effects of (control) syringe irrigation, (1) CanalBrush, (2) passive ultrasonic irrigation, (3) EndoActivator, and (4) RinsEndo on the removal of the sealer. The specimens were divided into four groups (N = 12) and one control group (N = 5) via randomization. The amount of remaining sealer in the root canal irregularities was evaluated under a microscope using a 4-grade scoring system, whereas the remaining sealer on the root canal surface was evaluated with a 7-grade scoring system.
+RESULTS Passive ultrasonic irrigation is more effective than the other tested irrigation systems or syringe irrigation in removing sealer from root canal walls (p < 0.01). None of the techniques had a significant effect on cleaning the lateral grooves.
+CONCLUSIONS Within the limitations of this study protocol ultrasonic irrigation shows a superior effect on sealer removal from the root canal surface during endodontic retreatment. Cleaning of lateral grooves seems not to be possible with one of the techniques investigated.
+CLINICAL RELEVANCE Incomplete removal of root canal sealer during re-treatment may cause treatment failure. Passive Ultrasonic irrigation seems to be the most effective system to remove sealer from a root canal.
+

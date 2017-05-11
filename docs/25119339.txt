@@ -1,0 +1,7 @@
+Effects of iron supplements and perinatal factors on fetal hemoglobin disappearance in LBW infants.
+
+BACKGROUND The homeostatic mechanisms of iron metabolism and erythropoiesis in infants are unclear. Infants synthesize both fetal hemoglobin (HbF) and adult hemoglobin (HbA), and it is not known how the hemoglobin switch is regulated. We hypothesized that iron supplements to infants affect the disappearance of HbF.
+METHODS We randomized 285 low-birth-weight infants (2,000-2,500 g) into three intervention groups receiving 0, 1, or 2 mg/kg/d of iron supplements from 6 wk to 6 mo of age. In the present secondary analysis, we analyzed iron status, total hemoglobin (Hb), and HbF fraction at 6 wk, 12 wk, and at 6 mo and calculated absolute levels of HbF.
+RESULTS We observed dose-dependent increased levels of Hb in iron-supplemented groups at 6 mo of age. However, for absolute HbF concentration, there was no similar effect of intervention. Mean (SD) HbF was 81.2 (16.8), 37.0 (13.8), and 8.1 (5.6) g/l at 6 wk, 12 wk, and 6 mo, respectively, similar in all groups. In linear regression analyses, postconceptional age turned out as the major predictor of HbF, independent of gestational age at birth.
+CONCLUSION Our hypothesis was rejected. Instead, we confirmed a close correlation to postconceptional age, supporting a genetically programmed switch, insensitive to most environmental factors including birth.
+

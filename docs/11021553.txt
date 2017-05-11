@@ -1,0 +1,7 @@
+Beta radiation as an adjunct to low-risk trabeculectomy.
+
+PURPOSE To assess a single dose of intraoperative beta radiation used to enhance the success rate of trabeculectomy in a population of low-risk glaucoma patients in whom antimetabolites might not be indicated.
+METHODS A prospective randomized trial of 65 eyes was designed, with 31 eyes receiving 750 rads of intraoperative beta radiation (group 1), and 34 eyes receiving no supplementation (group 2).
+RESULTS Mean follow-up time was 24 months. Mean postoperative intraocular pressure was 12.2 mmHg in group 1, and 13.7 mmHg in group 2 (P = 0.16). Mean decrease in intraocular pressure was 10.3 mmHg in group 1, and 9.3 mmHg in group 2 (P = 0.49). The two groups were not significantly different in terms of surgical complications.
+CONCLUSION For this population of low-risk patients, there was no significant difference in outcome after applications of a single intraoperative dose of beta radiation.
+

@@ -1,0 +1,10 @@
+Intravenous magnesium sulfate in acute severe asthma not responding to conventional therapy.
+
+OBJECTIVE To evaluate the effectiveness of early administration of intravenous Magnesium sulfate (i.v. MgSO4) in children with acute severe asthma not responding to conventional therapy.
+DESIGN Randomized double-blind, placebo-controlled trial.
+SETTING Pediatric emergency service of a large teaching hospital.
+SUBJECTS 47 children aged between 1-12 years with acute severe asthma showing inadequate or poor response to 3 doses of nebulized salbutamol given at an interval of 20 min each.
+INTERVENTION The MgSO4 group received 0.2 ml/kg of 50% MgSO4 as intravenous (i.v.) infusion over 35 minutes and the placebo group received normal saline infusion in the same dose and at the same rate. MgSO4 solution and normal saline were coded and dispensed in identical containers. Decoding was done at the completion of the study. All the patients received oxygen, nebulized salbutamol, i.v. aminophylline and corticosteroids.
+RESULTS MgSO4 group showed early and significant improvement as compared to placebo group in PEFR and SaO2 at 30 min and 1, 2, 3 and 7 hours after stopping the infusion (p ranging from < 0.05 to < 0.01). The clinical asthma score also showed significant improvement in the MgSO4 group 1, 2, 3 and 11 hours after stopping the infusion (p < 0.01).
+CONCLUSION Addition of MgSO4 to conventional therapy helps in achieving earlier improvement in clinical signs and symptoms of asthma and PEFR in patients not responding to conventional therapy alone.
+

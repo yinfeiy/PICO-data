@@ -1,0 +1,7 @@
+The effect of deep brain stimulation randomized by site on balance in Parkinson's disease.
+
+BACKGROUND The effect of the surgical site of DBS on balance and gait in Parkinson's Disease (PD) is uncertain. This is the first double-blind study of subjects randomized to either the STN (N = 14) or GPi (N = 14) who were assessed on a range of clinical balance measures.
+METHODS Balance testing occurred before and 6 months postsurgery. A control PD group was tested over the same period without surgery (N = 9). All subjects were tested on and off medication and DBS subjects were also tested on and off DBS. The Postural Instability and Gait Disability items of the UPDRS and additional functional tests, which we call the Balance and Gait scale, were assessed. Activities of Balance Confidence and Activities of Daily Living questionnaires were also recorded.
+RESULTS Balance was not different between the best-treated states before and after DBS surgery for both sites. Switching DBS on improved balance scores, and scores further improved with medication, compared to the off state. The GPi group showed improved performance in the postsurgery off state and better ratings of balance confidence after surgery, compared to the STN group.
+CONCLUSIONS Clinical measures of balance function for both the STN and GPi sites showed that balance did not improve beyond the best medically treated state before surgery. Both clinical balance testing in the off/off state and self-reported balance confidence after surgery showed better performance in the GPi than the STN group.
+

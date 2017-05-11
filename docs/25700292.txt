@@ -1,0 +1,9 @@
+The nature of placebo response in clinical studies of major depressive disorder.
+
+OBJECTIVE To review factors influencing placebo response and clinical trial outcome in depression, and suggest ways to optimize trial success in mood disorders.
+DATA SOURCES PubMed searches were conducted by cross-referencing the terms depression, depressive with placebo, clinical trial, and clinical trials for studies published in English between 1970 and September 2013.
+STUDY SELECTION Relevant abstracts were identified in PubMed, including clinical trials, quantitative studies, and qualitative research. We obtained and reviewed relevant articles and utilized their information to synthesize the present review.
+DATA EXTRACTION Included articles were grouped in the following areas of relevance: (1) biological validity of illness, (2) baseline severity of illness, (3) chronicity of the index episode of depression, (4) age of participants, (5) medical and psychiatric comorbidity, (6) probability of receiving placebo, (7) use of prospective treatment phases (lead-in) (8) dosing schedule, (9) trial duration, (10) frequency of follow-up assessments, and (11) study outcome measure.
+RESULTS Several key elements emerge as critical to the ultimate success of a clinical trial, including the probability of receiving placebo, study duration, dosing schedule, visit frequency, the use of blinded lead-in phases, the use of centralized raters, illness severity and duration, and comorbid anxiety.
+CONCLUSIONS Our increasing understanding of the placebo response in clinical trials of major depressive disorder lends to a, gradually, more predictable phenomenon and, hopefully, to one that becomes lesser in magnitude and variability. Several elements have emerged that seem to play a critical role in trial success, gradually reshaping the design of clinical, translational, as well as mechanistic studies in depression.
+

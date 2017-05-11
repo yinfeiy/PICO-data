@@ -1,0 +1,7 @@
+Households with young children and use of freely distributed bednets in rural Madagascar.
+
+BACKGROUND Malaria infections are the leading cause of death for children in Madagascar. Insecticide-treated bednets offer effective prevention, but it is unclear how well free bednet distribution programs reach young children.
+METHODS We conducted a secondary analysis of a free bednet distribution program in Madagascar from 2007-2008. Interviews were performed at baseline and 6 months. Principal components analysis was used to construct a wealth and malaria knowledge index. Coverage efficiency was calculated as coverage of children per bednet owned. Univariable and multivariable regressions were used to determine predictors of bednet use.
+RESULTS Bednet use, among the 560 households in the study, increased from 6 to 91% after 6 months. Coverage efficiency increased from 1.29 to 1.56 children covered per bednet owned. In multivariable analysis, having a child under 5 years of age was the only variable associated with bednet use (OR 9.10; p=0.001), yielding a 99% likelihood of using a bednet (95% CI 96.4 to 99.9%) versus 82% (95% CI 72.2 to 88.4%) in households without young children.
+CONCLUSION This free bednet distribution program achieved high levels of adherence after 6 months. Household presence of children was associated with bednet use, but not household income or education, suggesting that distribution to priority groups may help overcome traditional barriers to adoption in some settings.
+

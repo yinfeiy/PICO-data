@@ -1,0 +1,11 @@
+Arm-cranking exercise reduced oxidative damage in adults with chronic spinal cord injury.
+
+OBJECTIVE To assess the effect of a 12-week arm-cranking exercise program on reducing oxidative damage in untrained adults with chronic spinal cord injury (SCI).
+DESIGN Randomized controlled trial.
+SETTING Community-based supervised intervention.
+PARTICIPANTS Male adults with complete SCI at or below the fifth thoracic level (T5) (N=17) volunteered for this study. Participants were randomly allocated to the intervention (n=9) or control (n=8) group using a concealed method.
+INTERVENTION A 12-week arm-cranking exercise program, 3 sessions/wk, consisting of warming-up (10-15min) followed by a main part in arm-crank (20-30min [increasing 2min and 30s every 3wk]) at a moderate work intensity of 50% to 65% of the heart rate reserve (starting at 50% and increasing 5% every 3 weeks) and by a cooling-down period (5-10min).
+MAIN OUTCOME MEASURES Plasmatic levels of total antioxidant status as well as erythrocyte glutathione peroxidase activity were measured. Lipid and protein oxidation were determined as malondialdehyde and carbonyl group levels, respectively. Furthermore, physical fitness and body composition were assessed.
+RESULTS When compared with baseline results, maximum oxygen consumption was significantly increased (P=.031), suggesting an improvement in physical fitness in the intervention group. Regarding the antioxidant defense system, it was found that both total antioxidant status (P=.014) and erythrocyte glutathione peroxidase activity (P=.027) were significantly increased at the end of the training program. As a consequence, plasmatic levels of malondialdehyde (P=.008) and carbonyl groups (P=.022) were significantly reduced.
+CONCLUSION A 12-week arm-cranking exercise program improved the antioxidant defense system in adults with chronic SCI, which may finally attenuate both lipid and protein oxidation in this population.
+

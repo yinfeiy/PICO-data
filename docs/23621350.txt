@@ -1,0 +1,8 @@
+Double-blind, placebo-controlled, dose-ranging study of new recombinant hypoallergenic Bet v 1 in an environmental exposure chamber.
+
+BACKGROUND Recombinant allergens offer a tool for improving specific immunotherapy (SIT).
+OBJECTIVE To find the optimal dose of a new hypoallergenic folding variant of recombinant Bet v 1 (rBet v 1-FV) as SIT for patients with birch pollen allergy.
+METHODS Before SIT, thirty-seven adult patients were exposed for eight hours in an environmental exposure chamber (EEC) to birch pollen at an average concentration of 3500 ± 500 grains/m(3) , then randomized to four maintenance dose groups of rBet v 1-FV and one placebo group: 20 μg (n = 7), 80 μg (n = 8), 160 μg (n = 7), 320 μg (n = 8), and placebo (n = 7). Patients were treated for 10 weeks with weekly injections and then re-exposed in the EEC. The optimal dose for SIT was assessed using efficacy results from the EEC, IgG responses, and tolerability.
+RESULTS Thirty-six patients were evaluable for efficacy assessment. The total symptom score significantly decreased in all active groups compared with placebo (-18.8% for placebo patients; -71.9%, P = 0.0022 for 20 μg; -75.6%, P = 0.0007 for 80 μg; -81.8%, P = 0.0009 for 160 μg; -78.3%, P = 0.0003 for 320 μg). IgG1 increased significantly in all active groups compared to placebo. All four active doses were well tolerated, no serious adverse event occurred; two Grade II reactions, according to EAACI classification, were observed, one in each of the 160- and 320-μg groups.
+CONCLUSIONS Considering efficacy, immunological response, and tolerability, a maintenance dose of 80 μg of rBet v 1-FV appears to be the ideal dose for allergen immunotherapy in birch pollen allergic patients.
+

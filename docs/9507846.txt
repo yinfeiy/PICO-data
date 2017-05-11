@@ -1,0 +1,7 @@
+Incidence and clinical significance of false-negative sextant prostate biopsies.
+
+PURPOSE Since most patients do not undergo repeat sextant prostate biopsies after a biopsy is positive for prostate cancer, the true incidence of false-negative biopsies is not well defined. We assess the incidence and clinical significance of false-negative sextant prostate biopsies in patients undergoing radical prostatectomy.
+MATERIALS AND METHODS A total of 118 patients with biopsy proved prostate cancer underwent repeat sextant prostate biopsy before enrollment in a prospective randomized trial of radical prostatectomy with or without neoadjuvant hormonal therapy. Clinical parameters were assessed to determine potential sources of bias. Pathological parameters and prostate specific antigen relapse-free survival rates were compared to determine the clinical significance of false-negative biopsies.
+RESULTS Of the 118 patients 27 (23%) had a negative repeat sextant biopsy. Except for initial clinical stage, no differences were noted in the clinical or pathological parameters, or prostate specific antigen relapse rates in patients with negative versus positive repeat biopsies.
+CONCLUSIONS Our findings suggest that this 23% incidence of false-negative biopsies represents significant cancer. This relatively high incidence is important to consider in treatment modalities in which prostate biopsy may be performed to determine response to therapy.
+

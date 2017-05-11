@@ -1,0 +1,10 @@
+Collagen cross-linking with photoactivated riboflavin (PACK-CXL) for the treatment of advanced infectious keratitis with corneal melting.
+
+PURPOSE To investigate the efficacy and safety of corneal collagen cross-linking (CXL) with photoactivated riboflavin (photoactivated chromophore for infectious keratitis [PACK]-CXL) in the management of infectious keratitis with corneal melting.
+DESIGN Prospective clinical trial.
+PARTICIPANTS Forty eyes from 40 patients with advanced infectious keratitis and coexisting corneal melting.
+METHODS Twenty-one patients (21 eyes) underwent PACK-CXL treatment in addition to antimicrobial therapy. The control group consisted of 19 patients (19 eyes) who received only antimicrobial therapy.
+MAIN OUTCOME MEASURES The slit-lamp characteristics of the corneal ulceration, corrected distance visual acuity, duration until healing, and complications were documented in each group. The Mann-Whitney U test was used for statistical analysis. P values less than 0.05 were considered statistically significant.
+RESULTS The average time until healing was 39.76 ± 18.22 days in the PACK-CXL group and 46.05 ± 27.44 days in the control group (P = 0.68). After treatment and healing, corrected distance visual acuity was 1.64 ± 0.62 in the PACK-CXL group and 1.67 ± 0.48 in the control group (P = 0.68). The corneal ulceration's width and length was significantly bigger in the PACK-CXL group (P = 0.004 and P = 0.007). Three patients in the control group demonstrated corneal perforation; infection recurred in 1 of them. No serious complications occurred in the PACK-CXL group.
+CONCLUSIONS Corneal CXL with photoactivated riboflavin did not shorten the time to corneal healing; however, the complication rate was 21% in the control group, whereas there was no incidence of corneal perforation or recurrence of the infection in the PACK-CXL group. These results indicate that PACK-CXL may be an effective adjuvant therapy in the management of severe infectious keratitis associated with corneal melting.
+

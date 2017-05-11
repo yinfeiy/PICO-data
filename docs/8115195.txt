@@ -1,0 +1,8 @@
+Pain relief can reduce hypoxemia in distressed neonates during routine treatment procedures.
+
+OBJECTIVE To determine whether the use of opioids could reduce the hypoxemia and hemodynamic instability associated with routine intensive care procedures in neonates with respiratory distress.
+DESIGN Randomized and placebo-controlled study.
+METHODS Physiological, plasma beta-endorphin, cortisol, and glucose responses to routine treatment procedures were studied in 84 mechanically ventilated distressed neonates randomized into groups receiving 1 mg/kg meperidine or 0.9% saline 15 minutes before tracheal suction or routine nursing care.
+RESULTS The duration of hypoxemia (transcutaneous partial pressure of O2 < 6.6 kPa (< 50 mm Hg) and/or arterial blood oxygen saturation < 80%) during treatment procedures was significantly longer in the saline group (mean 82 vs 36 seconds, P = .001) and distress quantified by a novel behavioral scoring method was much higher. Changes in arterial blood pressure, heart rate, or plasma beta-endorphin, cortisol, and glucose concentration did not show any statistically significant differences between the groups.
+CONCLUSION Newborns with respiratory difficulties often suffer from hypoxemia during essential treatment procedures. The use of opioid analgesia may reduce the duration of hypoxemia and the associated distress and, therefore, may improve the long-term results of neonatal intensive care.
+

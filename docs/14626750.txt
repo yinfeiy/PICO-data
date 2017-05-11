@@ -1,0 +1,11 @@
+Effects of weight reduction interventions by community pharmacists.
+
+OBJECTIVE To compare a meal replacement (MR) program with a conventional reduced-calorie diet (RCD) for weight management using the pharmacy as the setting and the pharmacist as the point of contact for dietary advice.
+DESIGN Randomized, controlled, open-label trial.
+SETTING Travis Pharmacy in Shenandoah, Iowa.
+PATIENTS Ninety-five patients from southwestern iowa and southeastern Nebraska were enrolled, of whom 88 were considered eligible for comparison (by continuing through week 2 of the study).
+INTERVENTION Patients were randomized to an MR plan or a traditional RCD plan. Patients were followed for a 3-month period of active weight loss and a 10-week period of weight maintenance. Patients returned every 3 weeks for follow-up with the pharmacist, for a total of 13 visits.
+MAIN OUTCOME MEASURE Weight changes.
+RESULTS During the active weight loss phase, the MR (n = 45) and RCD (n = 43) groups lost a significant amount of weight, although no significant difference was found between the groups (mean +/- standard error = 4.90 +/- 0.30 kg MR versus 4.30 +/- 0.30 kg RCD; P = .16). In the weight maintenance phase, the MR group lost 0.70 +/- 0.40 kg and the RCD group lost 0.90 +/- 0.40 kg (P = .60). Significant improvements were observed in waist circumference, systolic and diastolic blood pressure, and triglyceride levels. No significant changes were seen in high-density lipoprotein cholesterol or low-density lipoprotein cholesterol levels in either group.
+CONCLUSION Successful weight management can be achieved in a pharmacy setting. Both MR and RCD programs were effective.
+

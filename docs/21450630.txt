@@ -1,0 +1,8 @@
+The effect of pain-free treadmill training on fibrinogen, haematocrit, and lipid profile in patients with claudication.
+
+OBJECTIVE To assess the effect of pain-free treadmill training on changes of plasma fibrinogen, haematocrit, lipid profile, and walking ability in patients with claudication.
+DESIGN Randomized control trial.
+METHODS Sixty-eight patients with peripheral obstructive arterial disease and intermittent claudication (Fontaine stage II) were randomly assigned into the treadmill training (repetitive intervals to onset of claudication pain, three times a week) or a control group (no change in physical activity) over 3 months. Both groups performed treadmill test to assess pain-free walking time (PFWT) and maximal walking time (MWT) and had blood analyses [for haematocrit, fibrinogen, triglycerides, and cholesterol: total, high-density lipoprotein (HDL) and low-density lipoprotein (LDL)] done at baseline and after 6 and 12 weeks of the study.
+RESULTS Total and LDL cholesterol levels in the training group decreased (p < 0.05) by 14.8% and 20,5%, respectively. Significant (p < 0.05) HDL cholesterol increased (14.6%) and triglycerides decreased (19%) in the training group but changes of all these lipids were insignificant in the control group over the 3 months. Haematocrit and fibrinogen changes were insignificant in both groups. PFWT was prolonged by 109% and MWT increased by 54% in the training group (p < 0.01), but not in the control group.
+CONCLUSION The improvement in walking time over 3 months of pain-free treadmill training parallels with progressive normalization of lipid profiles in patients with claudication.
+

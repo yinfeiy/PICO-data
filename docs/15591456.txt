@@ -1,0 +1,7 @@
+Sialyl Lewisa expression as a predictor of the prognosis of colon carcinoma patients in a prospective randomized clinical trial.
+
+BACKGROUND The metastatic potential of tumors is dependent on the cell to cell adhesion by cell surface carbohydrate antigens. Thus, expression of sialyl Lewis(a), which is one of the important molecules of cell surface carbohydrates, may serve as a prognostic marker of aggressive and metastasizing tumor growth. However, the prognostic value of sialyl Lewis(a) expression in colon cancer is still controversial.
+METHODS In this study, we investigated the expression of sialyl Lewis(a) antigen in 233 colon cancer specimens from patients who were registered in a prospective adjuvant immunochemotherapy clinical trial. The clinical course and the prognosis of the patients were evaluated after all the immunohistochemical analyses had been performed.
+RESULTS Sialyl Lewis(a) expression levels were correlated with both overall survival (P = 0.0006) and disease-free survival (P = 0.004) in all patients with the log-rank test. This result could be assumed to have been influenced by the difference in the metastatic preponderance in a high versus low sialyl Lewis(a) expression in the tumor cells.
+CONCLUSION This prospective study in a randomized controlled trial suggests that sialyl Lewis(a) expression levels may serve as an indicator of the metastatic potential of colon cancer cells, which would strongly predict the prognosis.
+

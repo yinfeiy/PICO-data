@@ -1,0 +1,7 @@
+Testing three different cancer genetics registry recruitment methods with Hispanic cancer patients and their family members previously registered in local cancer registries in Texas.
+
+OBJECTIVE To increase accrual among Hispanics to the Cancer Genetics Network national cancer genetics registry.
+METHODS Drawing from South Texas cancer registries, 444 Hispanic men and women were randomly assigned to one of three experimental conditions: standard direct-mailed procedures (X1), X1 plus culturally tailored materials (X2), and X2 plus interpersonal phone contact (X3). Participants were also surveyed about the effectiveness of the education materials and the phone contact. A refusal survey was provided for those who declined to join the study.
+RESULTS A total of 154 individuals joined the Cancer Genetics Network. The X3 condition yielded the greatest accrual (43.2%) compared to X1 (30.9%) and X2 (29.9%; p < 0.05). Tailored materials appeared to have no effect but were highly regarded. The main reasons for not participating were a lack of interest and time requirements.
+CONCLUSION Interpersonal communication can have a powerful effect on recruitment. However, more research is needed to determine the cost-efficacy of more labor-intensive approaches to registry accrual.
+

@@ -1,0 +1,9 @@
+A randomized, double-blind, placebo-controlled, phase I study of MEDI-545, an anti-interferon-alfa monoclonal antibody, in subjects with chronic psoriasis.
+
+BACKGROUND Interferon-alfa (IFN-alpha) has been implicated in the pathogenesis of psoriasis.
+OBJECTIVE To evaluate the safety profile of MEDI-545, a fully human anti-IFN-alpha monoclonal antibody and to explore its effect on the involvement of type I IFN-alpha activity in the maintenance of established plaque psoriasis.
+METHODS We conducted an 18-week, randomized, double-blind, placebo-controlled, dose-escalating study in 36 subjects with chronic plaque psoriasis. Subjects received one intravenous dose of MEDI-545 (0.3-30.0 mg/kg) or placebo. Study outcomes were safety profile, pharmacokinetics, immunogenicity, and clinical effects.
+RESULTS There was no difference in adverse events between MEDI-545 and placebo. Two serious adverse events were reported; one drug-related hypotensive infusion reaction occurred in one subject in the 30.0 mg/kg MEDI-545 dose group, causing discontinuation of study drug in that subject and study dismissal of the other subjects in the same cohort; and a myocardial infarction occurred in one subject in the 10 mg/kg MEDI-545 dose group, which was considered to be unrelated to treatment. MEDI-545 was nonimmunogenic, had a half-life of 21 days, showed no significant inhibition of the type I IFN gene signature, and had no clinical activity.
+LIMITATIONS The study addressed only IFN-alpha and chronic psoriatic lesions.
+CONCLUSION The safety profile of MEDI-545 supports further clinical development. IFN-alpha does not appear to be significantly involved in the maintenance of established plaque psoriasis.
+

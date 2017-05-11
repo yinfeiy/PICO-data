@@ -1,0 +1,7 @@
+Anthropometric indices of Gambian children after one or three annual rounds of mass drug administration with azithromycin for trachoma control.
+
+BACKGROUND Mass drug administration (MDA) with azithromycin, carried out for the control of blinding trachoma, has been linked to reduced mortality in children. While the mechanism behind this reduction is unclear, it may be due, in part, to improved nutritional status via a potential reduction in the community burden of infectious disease. To determine whether MDA with azithromycin improves anthropometric indices at the community level, we measured the heights and weights of children aged 1 to 4 years in communities where one (single MDA arm) or three annual rounds (annual MDA arm) of azithromycin had been distributed.
+METHODS Data collection took place three years after treatment in the single MDA arm and one year after the final round of treatment in the annual MDA arm. Mean height-for-age, weight-for-age and weight-for-height z scores were compared between treatment arms.
+RESULTS No significant differences in mean height-for-age, weight-for-age or weight-for-height z scores were found between the annual MDA and single MDA arms, nor was there a significant reduction in prevalence of stunting, wasting or underweight between arms.
+CONCLUSIONS Our data do not provide evidence that community MDA with azithromycin improved anthropometric outcomes of children in The Gambia. This may suggest reductions in mortality associated with azithromycin MDA are due to a mechanism other than improved nutritional status.
+

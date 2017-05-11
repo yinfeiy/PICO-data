@@ -1,0 +1,7 @@
+Neck circumference and early stage atherosclerosis: the cardiometabolic risk in Chinese (CRC) study.
+
+BACKGROUND Neck circumference (NC) has been previously related to cardiometabolic risk factors. In this study we examined the association between NC and early stage atherosclerosis in Chinese adults.
+METHODS The study samples were from a community-based health examination survey in central China. In total 2,318 men and women (18-64 y) were included in the final analyses. Carotid radial pulse wave velocity (crPWV), carotid femoral PWV (cfPWV), carotid artery dorsalis pedis PWV (cdPWV) and NC were measured.
+RESULTS After adjustment for age, sex, lipids, glucose, blood pressure, heart rate, body mass index (BMI), high NC was significantly associated with an increasing trend of cfPWV, cdPWV and crPWV (P = 0.001, 0.049, and 0.038; respectively). In addition, we found significant interaction between hypertension status and NC level in relation to cfPWV, adjusted for age, sex, BMI, fasting glucose, lipids and heart rate(P for interaction = 0.034). The associations between NC and cfPWV were significant (P = 0.02) among those with hypertension, but not significant among those without hypertension.
+CONCLUSIONS Our data showed that high NC was associated with an increased risk of early stage atherosclerosis in Chinese adults, independent of other metabolic risk factors. Hypertension might modify the association between NC and cfPWV.
+

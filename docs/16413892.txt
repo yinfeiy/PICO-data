@@ -1,0 +1,7 @@
+Comparison of remifentanil with fentanyl for deep sedation in oral surgery.
+
+PURPOSE The aim of this study was to compare recovery for oral surgery patients given a deep sedation regimen of midazolam, propofol, and remifentanil with a standard control of fentanyl in place of remifentanil.
+MATERIALS AND METHODS This investigation was designed as a randomized, prospective, single-blinded controlled study. Group 1, the control, received midazolam 0.03 mg/kg, fentanyl 1 microg/kg, and propofol initially at 140 microg/kg/min. Group 2 received midazolam 0.03 mg/kg, remifentanil: propofol (1:500) given at an initial propofol infusion rate of 40 microg/kg/min. Outcome measures included time to response to verbal command, Aldrete score = 9, Postanesthesia Discharge Scoring System = 7, and assessment by the Digit Symbol Substitution Test.
+RESULTS Forty-seven subjects were entered in the study. Baseline findings were homogenous between the 2 groups. Subjects in group 2 recovered earlier (P < .005) and required less propofol for both the induction (0.8 +/- 0.4 versus 1.2 +/- 0.6 mg/kg; mean +/- SD, P < .01) and maintenance of deep sedation (46 +/- 9 versus 131 +/- 17 microg/kg/min; P < .005). There were minor differences in vital signs.
+CONCLUSIONS This study demonstrated that this remifentanil regimen provided significantly more rapid recovery and used significantly less propofol compared with the fentanyl regimen.
+

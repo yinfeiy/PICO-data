@@ -1,0 +1,7 @@
+Predictors of response to ziprasidone: results from a 6-week randomized double-blind, placebo-controlled trial for acute depressive mixed state.
+
+INTRODUCTION The present study is aimed at investigating possible predictors of response to ziprasidone in a sample of patients with mixed depressive state.
+METHODS 72 patients were randomized to either ziprasidone or placebo and treated prospectively for 6 weeks. The clinical response and remission were defined with various clinical variables including Montgomery Asberg Depression Rating Scale. Further outcome measures included predictors of remission and other clinical variables over time.
+RESULTS None of the variables under investigation were significantly associated with response or remission at 6 weeks (all p-values>0.003, respectively).
+CONCLUSIONS Further investigations are warranted due to clear limitations, mostly small sample size and use of concomitant medications.
+

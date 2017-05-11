@@ -1,0 +1,9 @@
+Timing for delivering individualized patient education intervention to Coronary Artery Bypass Graft patients: An RCT.
+
+BACKGROUND The primary focus of this study is on the timing of the delivery of education to patients who had CABG surgery.
+AIM To determine the efficacy of an individualized telephone patient education intervention, delivered at two different points in time (1-2 days pre-discharge versus 1-2 days post-discharge) in enhancing the CABG patient's knowledge of self-care behaviours, performance of self-care behaviours, and symptom frequency.
+METHOD A randomized clinical trial that included a convenience sample of first time CABG patients. Individuals who received education pre-discharge were compared to individuals who received education post-discharge on the outcomes.
+RESULTS Results indicated no statistically significant difference in outcomes between the two time points. As well, anxiety levels were found to be significantly higher in the pre-discharge group than the post-discharge group.
+CONCLUSIONS The individualized nature of the educational intervention may have accounted for non-significant findings reported in outcomes between the two time points.
+PRACTICE IMPLICATIONS Nurses may consider assessing anxiety levels prior to delivery of educational interventions, implement interventions aimed at reducing anxiety levels, and provide individualized teaching.
+

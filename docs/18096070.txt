@@ -1,0 +1,7 @@
+The effect of oral sodium acetate administration on plasma acetate concentration and acid-base state in horses.
+
+AIM Sodium acetate (NaAcetate) has received some attention as an alkalinizing agent and possible alternative energy source for the horse, however the effects of oral administration remain largely unknown. The present study used the physicochemical approach to characterize the changes in acid-base status occurring after oral NaAcetate/acetic acid (NAA) administration in horses.
+METHODS Jugular venous blood was sampled from 9 exercise-conditioned horses on 2 separate occasions, at rest and for 24 h following a competition exercise test (CET) designed to simulate the speed and endurance test of 3-day event. Immediately after the CETs horses were allowed water ad libitum and either: 1) 8 L of a hypertonic NaAcetate/acetic acid solution via nasogastric tube followed by a typical hay/grain meal (NAA trial); or 2) a hay/grain meal alone (Control trial).
+RESULTS Oral NAA resulted in a profound plasma alkalosis marked by decreased plasma [H+] and increased plasma [TCO2] and [HCO3-] compared to Control. The primary contributor to the plasma alkalosis was an increased [SID], as a result of increased plasma [Na+] and decreased plasma [Cl-]. An increased [Atot], due to increased [PP] and a sustained increase in plasma [acetate], contributed a minor acidifying effect.
+CONCLUSION It is concluded that oral NaAcetate could be used as both an alkalinizing agent and an alternative energy source in the horse.
+

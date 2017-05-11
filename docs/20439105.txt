@@ -1,0 +1,11 @@
+Small but important errors in cardiovascular risk calculation by practice nurses: a cross-sectional study in randomised trial setting.
+
+BACKGROUND Practice nurses play an increasingly important role in the prevention of cardiovascular diseases but we do not have evidence about the accuracy of their cardiovascular risk assessments during real practice consultations.
+OBJECTIVES To examine how nurses perform with regard to absolute 10-year cardiovascular risk assessment in actual practice.
+DESIGN Cross-sectional study.
+SETTING This study was nested in the IMPALA study, a clustered randomised controlled trial involving 24 general practices in The Netherlands.
+PARTICIPANTS 24 practice nurses, trained in 10-year cardiovascular risk assessment, calculated the risk of a total of 421 patients without established cardiovascular diseases but eligible for cardiovascular risk assessment.
+METHODS The main outcome measure was the accuracy of risk assessments, defined as (1) the difference between the 10-year cardiovascular risk percentage calculated by nurses and an independent assessor, and (2) the agreement between the treatment categories assigned by the nurses (low, moderate or high risk) and those assigned by the independent assessor.
+RESULTS Thirty-one (7.4%) of the calculated risk percentages differed by more than our preset limits, 25 (81%) being underestimations. Elderly patients (OR 1.1, 95% CI 1.0-1.1), male patients (vs. female OR 3.1, 95% CI 1.2-7.3), and smoking patients (vs. non-smoking OR 3.8, 95% CI 1.7-8.9) were more likely to have their cardiovascular risk miscalculated. Ten (28%) of the 36 patients who should be assigned to the high-risk treatment category according to the independent calculation, were missed as high-risk patients by the practice nurses.
+CONCLUSIONS The overall standard of accuracy of cardiovascular risk assessment by trained practice nurses in actual practice is high. However, a significant number of high-risk patients were misclassified, with the probability that it led to missed opportunities for risk-reducing interventions. As cardiovascular risk assessments are frequently done by nurses in general practice, further specific training should be considered to prevent undertreatment.
+

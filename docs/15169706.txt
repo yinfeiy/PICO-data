@@ -1,0 +1,7 @@
+Weight and leptin changes among risperidone-treated youths with autism: 6-month prospective data.
+
+OBJECTIVE The authors examined the developmental impact and temporal characteristics of risperidone-associated weight change.
+METHOD Weight change was measured for 63 children and adolescents with autism treated with risperidone for 6 months. Change in serum leptin levels after 2 months was examined as a predictor of final weight gain in mixed regression models that controlled for site, gender, age, and risperidone dose.
+RESULTS Age- and gender-standardized weight increased after 6 months of treatment (gross: mean=5.6 kg [SD=3.9]; standardized: mean=0.6 z [SD=0.5]) and was positively correlated with weight gained after 1 month. Change in leptin levels after 2 months of treatment (mean=-0.3 ng/ml, SD=6.2) (N=48) did not predict final weight gain.
+CONCLUSIONS Chronic risperidone exposure in children with autism causes weight gain in excess of developmentally expected norms that follows a curvilinear trajectory and decelerates over time. Serum leptin change does not reliably predict risperidone-associated weight gain.
+

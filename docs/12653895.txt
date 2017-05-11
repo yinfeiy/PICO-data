@@ -1,0 +1,7 @@
+Randomized controlled trial to compare the dose of adjuvant chemotherapy after curative resection of hepatocellular carcinoma.
+
+BACKGROUND AND AIM Adjuvant locoregional chemotherapy has been shown to be useful to prevent recurrence after curative resection of hepatocellular carcinoma (HCC) in some retrospective studies. Our aim was to compare the dose effect in the prevention of tumor recurrence.
+METHODS A prospective randomized controlled trial was conducted in patients with curative resection of HCC; they were given either one intra-arterial dose of cisplatin/lipiodol, or received four doses, once every 3 months. The rates of recurrence, disease-free and overall survival were compared.
+RESULTS During a median follow up of 818 days, 21 patients received one dose and 19 received four doses, with 10 (47.6%) and eight (42.1%) recurrences, respectively. The 1-year, 2-year and 3-year disease-free survival rates were 71%, 54% and 44% for the one-dose group and 74%, 60% and 40% for the four-dose group (P = 0.78). The respective overall survival rates were 85%, 74%, 55% and 84%, 71%, 40% (P = 0.64). The only prognostic factor was presence of vascular permeation. The side-effects were mild and tolerable.
+CONCLUSIONS There is no significant difference in the survival rates between the two groups. Adjuvant chemotherapy may not be useful.
+

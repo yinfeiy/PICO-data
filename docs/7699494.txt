@@ -1,0 +1,7 @@
+A comparison of 1- and 3-minute lockout periods during patient-controlled sedation with midazolam.
+
+PURPOSE The maximum effect of midazolam injected intravenously occurs in about 3 minutes. Patient-controlled sedation carried out with 1-mg increments of midazolam at 3-minute intervals provides comparable conditions to that of doctor-controlled sedation carried out with 1-mg increments at 1-minute intervals, except for the longer duration taken for the patients to achieve satisfactory sedation prior to surgery. The purpose of this study was to find out how safe it would be to shorten the interval of increments of midazolam to 1 minute in patient-controlled sedation.
+PATIENTS AND METHODS In a randomized crossover study, 26 patients undergoing bilateral lower third molar surgery at two visits had patient-controlled sedation with 1 mg midazolam increments at 1-minute or 3-minute intervals at one visit and the alternative at the other visit.
+RESULTS The time taken for patients to achieve a degree of sedation that they thought was sufficient to tolerate the surgery was significantly longer when the increment interval was 3 minutes (t = -4.8; P < .05). Both techniques provided good operating conditions, stable vital signs, mild to moderate sedation, without loss of verbal contact.
+CONCLUSION A significant majority preferred the sedation technique with 1-minute increment intervals (chi 2 = 4.6; P < .05).
+

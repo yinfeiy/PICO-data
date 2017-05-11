@@ -1,0 +1,10 @@
+A pharmacy discharge plan for hospitalized elderly patients--a randomized controlled trial.
+
+OBJECTIVES to investigate the effectiveness of a pharmacy discharge plan in elderly hospitalized patients.
+DESIGN randomized controlled trial.
+SUBJECTS AND SETTINGS we randomized patients aged 75 years and older on four or more medicines who had been discharged from three acute general and one long-stay hospital to a pharmacy intervention or usual care.
+INTERVENTIONS the hospital pharmacist developed discharge plans which gave details of medication and support required by the patient. A copy was given to the patient and to all relevant professionals and carers. This was followed by a domiciliary assessment by a community pharmacist. In the control group, patients were discharged from hospital following standard procedures that included a discharge letter to the general practitioner listing current medications.
+OUTCOMES the primary outcome was re-admission to hospital within 6 months. Secondary outcomes included the number of deaths, attendance at hospital outpatient clinics and general practice and proportion of days in hospital over the follow-up period, together with patients' general well-being, satisfaction with the service and knowledge of and adherence to prescribed medication.
+RESULTS we recruited 362 patients, of whom 181 were randomized to each group. We collected hospital and general practice data on at least 91 and 72% of patients respectively at each follow-up point and interviewed between 43 and 90% of the study subjects. There were no significant differences between the groups in the proportion of patients re-admitted to hospital between baseline and 3 months or 3 and 6 months. There were no significant differences in any of the secondary outcomes.
+CONCLUSIONS we found no evidence to suggest that the co-ordinated hospital and community pharmacy care discharge plans in elderly patients in this study influence outcomes.
+

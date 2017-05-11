@@ -1,0 +1,7 @@
+[Observation on therapeutic effect of picking therapy on Graves' disease].
+
+OBJECTIVE To observe therapeutic effect of picking therapy on Graves' disease (GD) and its effects on thyroid function.
+METHODS Sixty cases of GD were randomly divided into a treatment group (pricking therapy group) and a control group (medication group). They were treated respectively with pricking thyroid gland high point or oral administration of tapazole. And changes of total triiodothyronine (TT3), total thyroxine (TT4), free T3 (FT3), free T4 (FT4), thyroxine receptor antibody (TRAb), supersensitive thyrotropin (S-TSH) after treatment were investigated.
+RESULTS The total effective rate was 93.33% in the treatment group and 76.67% in the control group with a significant difference between the two groups (P < 0.05). After treatment, serum TT3, TT4, FT3, FT4 and S-TSH contents had very significant change in the two groups (P < 0.01), TRAb had very significant change in the treatment group (P < 0.01) and no significant change in the control group (P > 0.05) there were significant differences in decrease of TT3, FT3, TRAb (P < 0.05) and no significant difference in decrease of TT4, FT4 and increase of S-TSH between the two groups (P > 0.05).
+CONCLUSION Pricking therapy has a definite therapeutic effect on Graves' disease, which is carried out through regulating thyroid function.
+

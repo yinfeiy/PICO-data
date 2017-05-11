@@ -1,0 +1,4 @@
+DTkid: interactive simulation software for training tutors of children with autism.
+
+Discrete-trial training (DTT) relies critically on implementation by trained tutors. We report three experiments carried out in the development of "DTkid"--interactive computer simulation software that presents "SIMon", a realistic virtual child with whom novice tutors can learn and practise DTT techniques. Experiments 1 and 2 exposed groups of participants either to DTkid training or to a control task. Participants in the former groups demonstrated significantly greater procedural and declarative knowledge of DTT. Experiment 3 confirmed this finding, further demonstrating that observation of DTkid training trials alone was sufficient to enhance participants' declarative and procedural knowledge of DTT. Results indicate that DTkid offers the potential for an effective means of teaching DTT skills to novice tutors of children with autism.
+

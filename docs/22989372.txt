@@ -1,0 +1,8 @@
+Airway responses and inflammation in subjects with asthma after four days of repeated high-single-dose allergen challenge.
+
+BACKGROUND Both standard and low-dose allergen provocations are an established tool in asthma research to improve our understanding of the pathophysiological mechanism of allergic asthma. However, clinical symptoms are less likely to be induced. Therefore, we designed a protocol for repetitive high-dose bronchial allergen challenges to generate clinical symptoms and airway inflammation.
+METHODS A total of 27 patients aged 18 to 40 years with positive skin-prick tests and mild asthma underwent repetitive high-dose allergen challenges with household dust mites for four consecutive days. Pulmonary function and exhaled NO were measured at every visit. Induced sputum was analysed before and after the allergen challenges for cell counts, ECP, IL-5, INF-γ, IL-8, and the transcription factor Foxp3.
+RESULTS We found a significant decrease in pulmonary function, an increased use of salbutamol and the development of a late asthmatic response and bronchial hyperresponsiveness, as well as a significant induction of eNO, eosinophils, and Th-2 cytokines. Repeated provocation was feasible in the majority of patients. Two subjects had severe adverse events requiring prednisolone to cope with nocturnal asthma symptoms.
+CONCLUSIONS Repeated high-dose bronchial allergen challenges resulted in severe asthma symptoms and marked Th-2-mediated allergic airway inflammation. The high-dose challenge model is suitable only in an attenuated form in diseased volunteers for proof-of-concept studies and in clinical settings to reduce the risk of severe asthma exacerbations.
+TRIAL REGISTRATION ClinicalTrials.govNCT00677209.
+

@@ -1,0 +1,7 @@
+Parent-implemented enhanced milieu teaching with preschool children who have intellectual disabilities.
+
+PURPOSE The purpose of this study was to compare the effects of enhanced milieu teaching (EMT) implemented by parents and therapists versus therapists only on the language skills of preschool children with intellectual disabilities (IDs), including children with Down syndrome and children with autism spectrum disorders.
+METHOD Seventy-seven children were randomly assigned to 2 treatments (parent + therapist EMT or therapist-only EMT) and received 36 intervention sessions. Children were assessed before, immediately after, 6 months after, and 12 months after intervention. Separate linear regressions were conducted for each standardized and observational measure at each time point.
+RESULTS Parents in the parent + therapist group demonstrated greater use of EMT strategies at home than untrained parents in the therapist-only group, and these effects maintained over time. Effect sizes for observational measures ranged from d = 0.10 to d = 1.32 favoring the parent + therapist group, with the largest effect sizes found 12 months after intervention.
+CONCLUSION Findings from this study indicate generally that there are benefits to training parents to implement naturalistic language intervention strategies with preschool children who have ID and significant language impairments.
+

@@ -1,0 +1,7 @@
+The effects of peer counseling on smoking cessation and reduction.
+
+OBJECTIVE To evaluate a peer counseling intervention for pregnant smokers.
+METHODS One hundred forty-two pregnant, predominantly Hispanic women were assigned to a peer-led smoking cessation program or to usual care.
+RESULTS Compared with usual care, peer counseling reduced smoking (-9.1 versus -4.5 cigarettes daily, P =.03), but did not affect absolute quit rates (24% versus 21%) at 36 weeks' gestation. Infant birth weight negatively correlated with cigarettes smoked per day (r = -0.29, P <.01) and expired carbon monoxide (r = -0.39, (P <.001) at delivery. Birth weight for infants born to women who quit smoking averaged 7.2 lb versus 6.8 and 6.3 lb for mothers smoking one to six and more than six cigarettes per day at delivery (P <.01).
+CONCLUSION Peer counseling reduced the number of cigarettes smoked daily but did not increase cigarette abstinence rates. Infant birth weight increases with both smoking cessation and smoking reduction, suggesting that peer counseling intervention programs may improve newborn health despite their failure to affect smoking cessation.
+

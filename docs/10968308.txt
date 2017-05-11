@@ -1,0 +1,11 @@
+The effect of case management on the costs of health care for enrollees in Medicare Plus Choice plans: a randomized trial.
+
+OBJECTIVE To measure the effects of case management on an older population's costs of health care.
+DESIGN A 1-year randomized controlled trial.
+SETTING Multiple sites of care in San Francisco, California.
+PARTICIPANTS Patients aged 65 or older of primary care physicians in a large provider organization bearing financial risk for their care (n = 6409).
+INTERVENTION Screening for high risk and provision of social work-based case management.
+OUTCOME MEASURES Volume and cost of hospital, physician, case management, and other health-related services.
+RESULTS The experimental group used more case management services than the control group (0.09 vs. 0.02 months per person, P<.001). The experimental group's average total payments for health care were slightly lower ($3148 vs $3277, P = .40).
+CONCLUSIONS This study provides no statistically significant evidence that social work-oriented case management reduces the use or the cost of health care for high-risk older people. Other potentially favorable effects of this type of case management need to be evaluated, as do the effects of other types of case management.
+

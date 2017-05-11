@@ -1,0 +1,12 @@
+Theory-driven intervention improves calcium intake, osteoporosis knowledge, and self-efficacy in community-dwelling older Black adults.
+
+OBJECTIVE To assess the effectiveness of an osteoporosis education program to improve calcium intake, knowledge, and self-efficacy in community-dwelling older Black adults.
+DESIGN Randomized repeated measures experimental design.
+SETTING Churches and community-based organizations.
+PARTICIPANTS Men and women (n = 110) 50 years old and older from 3 south Florida counties.
+INTERVENTION Participants randomly assigned to either of 2 groups: Group 1 (experimental group) or Group 2 (wait-list control group). Group 1 participated in 6 weekly education program sessions immediately following baseline assessment, and Group 2 started the program following Group 1's program completion. A tested curriculum was adapted to meet the needs of the target population.
+MAIN OUTCOME MEASURES Dietary calcium intake, osteoporosis knowledge, health beliefs, and self-efficacy.
+ANALYSIS Descriptive and summary statistics, repeated measures analysis of variance, and regression analysis.
+RESULTS Of the total participants, 84.6% completed the study (mean age = 70.2 years). Overall, an educational program developed with a theoretical background was associated with improvement in calcium intake, knowledge, and self-efficacy, with no effect on most health belief subscales. Assigned group was the major predictor of change in calcium intake.
+CONCLUSIONS AND IMPLICATIONS A theory-driven approach is valuable in improving behavior to promote bone health in this population. Health professionals should consider using more theory-driven approaches in intervention studies.
+

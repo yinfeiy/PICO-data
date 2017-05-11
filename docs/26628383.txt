@@ -1,0 +1,7 @@
+Body Mass Index and Adverse Outcomes in Elderly Patients With Atrial Fibrillation: The AMADEUS Trial.
+
+BACKGROUND AND PURPOSE Obesity has been associated with increased cardiovascular risk in atrial fibrillation, but little is known in elderly patients with atrial fibrillation.
+METHODS Post hoc analysis of data from the AMADEUS (Evaluating the Use of SR34006 Compared to Warfarin or Acenocoumarol in Patients With Atrial Fibrillation) trial.
+RESULTS We studied 1588 elderly patients, who were categorized as normal body mass index (BMI, 18.5-25 kg/m(2); n=515 [32.4%]), overweight (BMI, 25-30 kg/m(2); n=711 [44.8%]), and obese (BMI≥30 kg/m(2); n=362 [22.8%]). There was a significant reduction in the composite outcome of cardiovascular death and stroke/systemic embolism with increasing BMI category, being 5.0%, 3.2%, and 1.5% per 100 patient-years, respectively (P for trend=0.01). Cox proportional hazards analysis found obesity to be associated with a lower risk of the primary composite outcome (hazard ratio, 0.29; 95% confidence interval, 0.11-0.77; P=0.01). In the warfarin arm (n=814), multivariate logistic regression analysis demonstrated that obesity was independently related to higher odds of time in therapeutic range ≥60% (odds ratio, 1.84; 95% confidence interval, 1.21-2.80; P=0.004).
+CONCLUSION Obesity was associated with a lower stroke and mortality rate in elderly anticoagulated atrial fibrillation patients. Obesity was related to good quality anticoagulation control.
+

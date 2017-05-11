@@ -1,0 +1,10 @@
+Study of the therapeutic effects of a hippotherapy simulator in children with cerebral palsy: a stratified single-blind randomized controlled trial.
+
+OBJECTIVE To investigate whether hippotherapy (when applied by a simulator) improves postural control and balance in children with cerebral palsy.
+DESIGN Stratified single-blind randomized controlled trial with an independent assessor. Stratification was made by gross motor function classification system levels, and allocation was concealed.
+SUBJECTS Children between 4 and 18 years old with cerebral palsy.
+INTERVENTIONS Participants were randomized to an intervention (simulator ON) or control (simulator OFF) group after getting informed consent. Treatment was provided once a week (15 minutes) for 10 weeks.
+MAIN MEASURES Gross Motor Function Measure (dimension B for balance and the Total Score) and Sitting Assessment Scale were carried out at baseline (prior to randomization), end of intervention and 12 weeks after completing the intervention.
+RESULTS Thirty-eight children participated. The groups were balanced at baseline. Sitting balance (measured by dimension B of the Gross Motor Function Measure) improved significantly in the treatment group (effect size = 0.36; 95% CI 0.01-0.71) and the effect size was greater in the severely disabled group (effect size = 0.80; 95% CI 0.13-1.47). The improvements in sitting balance were not maintained over the follow-up period. Changes in the total score of the Gross Motor Function Measure and the Sitting Assessment Scale were not significant.
+CONCLUSION Hippotherapy with a simulator can improve sitting balance in cerebral palsy children who have higher levels of disability. However, this did not lead to a change in the overall function of these children (Gross Motor Function Classification System level V).
+

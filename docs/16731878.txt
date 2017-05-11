@@ -1,0 +1,7 @@
+Outcomes in a nursing home transition case-management program targeting new admissions.
+
+PURPOSE The Providing Assistance to Caregivers in Transition (PACT) program offers nursing home discharge planning and case management for individuals in the transitional period following a return to the community. The PACT program targeted individuals newly admitted to nursing homes and worked with a family caregiver to develop and implement a nursing home discharge plan.
+DESIGN AND METHOD Reported are the results of a randomized control design evaluating the program's effectiveness. Those individuals randomly assigned to the intervention group (n = 33) received PACT case management in addition to their usual medical and nursing home care. The individuals in the control group (n = 29) continued their usual care.
+RESULT There were no statistical differences in the discharge rate (84% treatment vs 76% controls) or in the median length of stay (42 days vs 55 days) between the two groups of individuals.
+IMPLICATIONS Replications or extensions of a PACT-type intervention might consider a broader mix of nursing homes, working directly with the nursing home's admission Minimum Data Set coordinator in patient selection, or working with Medicare or Medicaid HMO plans.
+

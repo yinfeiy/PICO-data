@@ -1,0 +1,11 @@
+Efficacy and safety of a very-low-protein diet when postponing dialysis in the elderly: a prospective randomized multicenter controlled study.
+
+BACKGROUND A supplemented very-low-protein diet (sVLPD) seems to be safe when postponing dialysis therapy.
+STUDY DESIGN Prospective multicenter randomized controlled study designed to assess the noninferiority of diet versus dialysis in 1-year mortality assessed by using intention-to-treat and per-protocol analysis.
+SETTING & PARTICIPANTS Italian uremic patients without diabetes older than 70 years with glomerular filtration rate of 5 to 7 mL/min (0.08 to 0.12 mL/s).
+INTERVENTION Randomization to an sVLPD (diet group) or dialysis. The sVLPD is a vegan diet (35 kcal; proteins, 0.3 g/kg body weight daily) supplemented with keto-analogues, amino acids, and vitamins. Patients following an sVLPD started dialysis therapy in the case of malnutrition, intractable fluid overload, hyperkalemia, or appearance of uremic symptoms.
+OUTCOMES & MEASUREMENTS Mortality, hospitalization, and metabolic markers.
+RESULTS 56 patients were randomly assigned to each group, median follow-up was 26.5 months (interquartile range, 40), and patients in the diet group spent a median of 10.7 months (interquartile range, 11) following an sVLPD. Forty patients in the diet group started dialysis treatment because of either fluid overload or hyperkalemia. There were 31 deaths (55%) in the dialysis group and 28 deaths (50%) in the diet group. One-year observed survival rates at intention to treat were 83.7% (95% confidence interval [CI], 74.5 to 94.0) in the dialysis group versus 87.3% (95% CI, 78.9 to 96.5) in the diet group (log-rank test for noninferiority, P < 0.001; for superiority, P = 0.6): the difference in survival was -3.6% (95% CI, -17 to +10; P = 0.002). The hazard ratio for hospitalization was 1.50 for the dialysis group (95% CI, 1.11 to 2.01; P < 0.01).
+LIMITATIONS The unblinded nature of the study, exclusion of patients with diabetes, and incomplete enrollment.
+CONCLUSION An sVLPD was effective and safe when postponing dialysis treatment in elderly patients without diabetes.
+

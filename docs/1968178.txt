@@ -1,0 +1,4 @@
+Effects of cuff inflation on self-recorded blood pressure.
+
+Changes in continuously recorded 'Finapres' finger blood pressure in ten normotensive and seven hypertensive subjects induced by self-inflation of the cuff or just wearing the inflated cuff were studied. Inflating the cuff caused an instantaneous rise in systolic blood pressure of 13 and 12 mm Hg (hypertensive and normotensive subjects, respectively). Wearing the inflated cuff did not change blood pressure. Thus the rise in pressure was related to the muscular activity required for cuff inflation. Systolic blood pressure took on average 7 s and at most 21 s to return to baseline level after stopping cuff inflation. Since first Korotkoff sounds may already be heard after 10-15 s when following recommended procedures, self-recorded systolic blood pressure may be recorded as too high when subjects inflate their cuff at too low a pressure or deflate it too fast.
+

@@ -1,0 +1,4 @@
+No association between dinucleotide repeat polymorphism in intron 1 of the epidermal growth factor receptor gene EGFR and risk of lung cancer.
+
+The tyrosine kinase receptor EGFR pathway is one of the oncogenic signaling cascades involved in lung cancer, mediating the epidermal growth factor receptor gene EGFR. First-intron polymorphisms with greater numbers of CA dinucleotide repeats tend to downregulate EGFR expression, which suggests that this polymorphism may modulate susceptibility to lung cancer. The present hospital-based case-control study evaluated the possible association of CA repeat polymorphism in the EGFR gene with risk of lung cancer in a Korean population. A bimodal pattern appeared, with a frequency of 57.1% for 20 CA repeats and 18.6% for 16 CA repeats. There was, however, no significant difference in distribution of allele genotypes between all lung cancer cases and the controls, nor among histological types for the cases.
+

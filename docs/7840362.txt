@@ -1,0 +1,7 @@
+Dexamethasone for the treatment of depression: a randomized, placebo-controlled, double-blind trial.
+
+OBJECTIVE The authors' goal was to assess dexamethasone for the treatment of depression.
+METHOD Thirty-seven outpatients (11 men and 26 women) meeting DSM-III-R criteria for major depressive disorder were randomly assigned to receive either placebo or 4 mg/day of oral dexamethasone for 4 days. Baseline Hamilton depression scale scores were compared with scores obtained 14 days after the first dose of study medication. Data were analyzed by using two-sample t tests, chi-square methods, and Fisher's exact test.
+RESULTS Seven (37%) of the 19 patients given dexamethasone but only one (6%) of the 18 patients given placebo responded positively. No adverse events or side effects were reported, and all patients who entered the study completed it.
+CONCLUSIONS A brief course of oral dexamethasone (4 days) was significantly more effective than placebo within 14 days for the treatment of depression in a randomized, double-blind study of depressed outpatients.
+

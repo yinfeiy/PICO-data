@@ -1,0 +1,12 @@
+Efficacy of patient education and supervised exercise vs patient education alone in patients with hip osteoarthritis: a single blind randomized clinical trial.
+
+OBJECTIVE To compare the efficacy of patient education and supervised exercise with that of patient education alone for the management of pain in patients with hip osteoarthritis (OA).
+DESIGN Single blind randomized clinical trial.
+SETTING Recruitment of patients from hospitals, primary health care and advertisement, Oslo, Norway.
+PARTICIPANTS 109 patients with radiographic and symptomatic hip OA with mild to moderate symptoms.
+INTERVENTIONS Patient education (PE). Patient education and supervised exercise (PE+SE).
+PRIMARY OUTCOME MEASURE The pain subscale of the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC pain).
+RESULTS No significant between group differences were found for WOMAC pain over the 16-month follow-up. Significant improvements were found for the secondary outcome WOMAC physical function (P=0.011) in the group receiving PE+SE compared to the group receiving PE only. No significant differences were found for WOMAC stiffness, the SF-36 subscales or the activity scale. The effect sizes (95% confidence interval) for WOMAC pain were -0.26 (0.11, -0.64), -0.35 (0.07, -0.77), and -0.30 (0.15, -0.75), and for WOMAC physical function -0.29 (0.09, -0.67), -0.48 (-0.06, -0.91), and -0.47 (-0.02, -0.93) at 4, 10 and 16 months, respectively, in favor of the group receiving both PE and SE. All patients attended the three-session PE program, and 75% performed ≥16 sessions of the 12-week SE program.
+CONCLUSION The study could not demonstrate a significant difference in pain reduction over time between PE+SE vs PE alone. Adding SE to PE may improve physical function, but the magnitude of possible benefit is unknown as the 95% confidence intervals around the mean difference were wide.
+TRIAL REGISTRATION Clinical Trials NCT00319423.
+

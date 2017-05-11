@@ -1,0 +1,8 @@
+Ventilator-delivered mask ventilation compared with three standard methods of mask ventilation in a manikin model.
+
+BACKGROUND Little is known regarding the variations in effective ventilation during bag and mask resuscitation with standard methods compared with that delivered by ventilator-delivered mask ventilation (VDMV).
+AIM To measure the variations in delivered airway pressure, tidal volume (TV), minute ventilation (MV) and inspiratory time during a 3-min period of mask ventilation comparing VDMV with three commonly used hand-delivered methods of bag and mask ventilation: Laerdal self-inflating bag (SIB); anaesthetic bag and T-piece Neopuff.
+METHODS A modified resuscitation manikin was used to measure variation in mechanical ventilation during 3-min periods of mask ventilation. Thirty-six experienced practitioners gave positive pressure mask ventilation targeting acceptable chest wall movement with a rate of 60 inflations/min and when pressures could be targeted or set, a peak inspiratory pressure (PIP) of 18 cm water, positive end-expiratory pressure (PEEP) of 5 cm water, for 3 min with each of the four mask ventilation methods. Each mode was randomly sequenced.
+RESULTS A total of 21 136 inflations were recorded and analysed. VDMV achieved PIP and PEEP closest to that targeted and significantly lower variation in all measured parameters (p<0.001) other than with PIP. SIB delivered TV and MV over twice that delivered by VDMV and Neopuff.
+CONCLUSION During 3-min periods of mask ventilation on a manikin, VDMV produced the least variation in delivered ventilation. SIB produced wide variation and unacceptably high TV and MV in experienced hands.
+

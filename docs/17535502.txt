@@ -1,0 +1,7 @@
+Using the demand-control model of job strain to predict caregiver burden and caregiver satisfaction in the informal caregivers of heart failure patients.
+
+OBJECTIVES The demand-control (D-C) model of job strain has generated a considerable body of empirical support in predicting psychological health outcomes in the context of work. This study aimed to extend previous work using the D-C model of job strain to predict caregiver burden and satisfaction in the informal caregivers of patients with heart failure.
+DESIGN AND METHOD Data were gathered from 60 caregiver/patient dyads in a cross-sectional design. Patients with chronic stable heart failure were recruited from out-patient clinics. The dependent variables were caregiver burden and satisfaction. Demand and control were measured using both patient- and caregiver-derived measures.
+RESULTS The D-C model accounted for 15 and 19% of the variance in caregiver burden, after controlling for age, gender and relationship to the patient. Lower control was associated with higher burden. The D-C model did not predict caregiver satisfaction.
+CONCLUSION The D-C model was associated with caregiver burden, but not satisfaction in caregivers, with control being the dominant predictor. Research linking the theory and findings from job strain and informal caregiving studies may elucidate both fields of research. Using the demand-control model of job strain to predict caregiver burden and caregiver satisfaction in the informal caregivers of heart failure patients.
+

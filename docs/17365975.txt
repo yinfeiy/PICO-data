@@ -1,0 +1,6 @@
+The NORwegian study on DIstrict treatment of ST-elevation myocardial infarction (NORDISTEMI).
+
+OBJECTIVES Thrombolysis is the treatment of choice for patients with ST-elevation myocardial infarction (STEMI) living in rural areas with long transfer delays to percutaneous coronary intervention (PCI). This trial compares two different strategies following thrombolysis: to transfer all patients for immediate coronary angiography and intervention, or to manage the patients more conservatively.
+DESIGN The NORwegian study on DIstrict treatment of STEMI (NORDISTEMI) is an open, prospective, randomized controlled trial in patients with STEMI of less than 6 hours of duration and more than 90 minutes expected time delay to PCI. A total of 266 patients will receive full-dose thrombolysis, preferably pre-hospital, and then be randomized to either strategy. Our primary endpoint is the one year combined incidence of death, reinfarction, stroke or new myocardial ischaemia. The study is registered with ClinicalTrials.gov, number NCT00161005.
+RESULTS By April 2006, 109 patients have been randomized. Thrombolysis has been given pre-hospital to 52% of patients. The median transport distance from first medical contact to catheterization laboratory was 155 km (range 90-396 km). Results of the study are expected in 2008.
+

@@ -1,0 +1,7 @@
+Supportive-expressive group therapy for primary breast cancer patients: a randomized prospective multicenter trial.
+
+OBJECTIVE The aim is to evaluate the effectiveness of a manualized 12-week supportive-expressive group therapy program among primary breast cancer patients treated in community settings, to determine whether highly distressed patients were most likely to benefit and whether therapist's training or experience was related to outcome.
+METHOD Three hundred and fifty-three women within one year of diagnosis with primary breast cancer were randomly assigned to receive supportive-expressive group therapy or to an education control condition. Participants were recruited from two academic centers and nine oncology practices, which were members of NCI's Community Clinical Oncology Program (CCOP) and were followed over 2 years.
+RESULTS A 2x2x19 analysis of variance was conducted with main effects of treatment condition, cohort, and baseline distress and their interactions. There was no main effect for treatment condition after removing one subject with an extreme score. Highly distressed women did not derive a greater benefit from treatment. Therapist training and psychotherapy experience were not associated with a treatment effect.
+CONCLUSIONS This study provides no evidence of reduction in distress as the result of a brief supportive-expressive intervention for women with primary breast cancer. Future studies might productively focus on women with higher initial levels of distress.
+

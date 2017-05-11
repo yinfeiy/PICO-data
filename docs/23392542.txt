@@ -1,0 +1,7 @@
+Plasma AGE-peptides and C-peptide in early-stage diabetic nephropathy patients on thiamine and pyridoxine therapy.
+
+AIM The aim of the study was to evaluate circulatory AGE-peptide levels in diabetic nephropathy and to observe the effects of thiamine (vitamin B1) and pyridoxine (vitamin B6) therapy.
+METHODS Type 2 diabetic patients (N.=57) were divided into two groups as "with nephropathy" (N.=27) and "without nephropathy" (N.=30). Diabetic nephropathy patients were treated with either B6 (N.=12) (250 mg/day) or B1+B6 (N.=15) (250 mg/day, each) for five months. At the beginning and the end of the experimentation period, glucose, HbA1c, triglyceride, cholesterol, insulin, C-peptide, thiamine pyrophosphate, pyridoxal phosphate and AGE- peptides were measured.
+RESULTS AGE-peptides were higher in the diabetic group with nephropathy than without nephropathy (P=0.005). Within five months AGE-peptides increased in the diabetic group without nephropathy (P=0.042) but not in the group with nephropathy treated either with B1+B6 or B6. In B6 treated group a substantial decrease was observed in HbA1c (P=0.033). B1+B6 or B6 treatment both caused an increase in C-peptide (P=0.006, P=0.004).
+CONCLUSION Among the parameters measured, plasma AGE-peptides was the only parameter found to be higher in type 2 diabetes mellitus patients "with nephropathy" than "without nephropathy". However, patients with nephropathy treated with B1+B6 or B6 did not display any further increase in AGE-peptides within five months. Both of the treatments caused an increase in C-peptide.
+

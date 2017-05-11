@@ -1,0 +1,7 @@
+[Application of tacrolimus and cyclosporine A in HBV-carrying renal transplant recipients].
+
+OBJECTIVE To compare the long-term effect and safety of tacrolimus (FK506) and cyclosporine (CsA) in kidney transplant (KT) recipients carrying hepatitis B Virus(HBV).
+METHODS A total of 109 patients with HBV were randomized into FK506 group (52 cases) and CsA group (57 cases) after KT, and a 2-year-long follow-up of the patients was conducted to record the patient and graft survival, incidence of acute graft rejection and postoperative liver function.
+RESULTS The 2-year patient/graft survival was 86.0%/73.7% and 94.2%/90.3% in CsA and FK506 groups, respectively (P<0.05), with incidence of acute rejection of 10.5% and 9.6% (P>0.05), and rate of abnormal liver function of 26.3% and 15.4% (P<0.05), respectively. Eight patients (14.4%) in CsA group required a drug conversion but none in FK506 group. The drug conversion resulted in significant reduction of ALT/AST level from 255.13+/-31.38/201.88+/-21.25 U/L to 31.25+/-11.50/25.13+/-9.68 U/L (P<0.01).
+CONCLUSION For HBV-carrying renal transplant recipients, FK506 as the primary choice of immunosuppressant can be more effective and safer than CsA.
+

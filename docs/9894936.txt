@@ -1,0 +1,7 @@
+Herpes simplex virus vaccine in recurrent herpetic ocular infection.
+
+PURPOSE To evaluate the efficacy of an antiherpetic vaccine in recurrent herpetic ocular infections.
+METHODS Twenty patients with herpes simplex virus 1-related recurrent keratitis/keratouveitis were prospectively enrolled and randomly assigned to receive either a specific vaccination with heat shock-inactivated herpes simplex virus type 1 (10 patients) or to be observed as controls (10 patients). The number, duration, and anatomic localization of relapses were recorded in all the patients for 12 months before inclusion in the study and for a similar period after the assignment of each subject to vaccine or control group.
+RESULTS In the vaccine group, we observed a reduction both in the number (p = 0.016) and average duration (p = 0.050) of recurrences, whereas in the control group, no significant change was found comparing a 12-month period before and after inclusion in the study. The comparison between the two groups highlighted a significant reduction in the number (p = 0.013) and average duration (p = 0.051) of relapses in treated subjects, who did not show any significant vaccine-induced side effects.
+CONCLUSION The use of a vaccination with heat shock-inactivated herpes simplex virus 1 seems to be able to reduce the number and duration of relapses in herpes simplex virus 1-related keratitis/keratouveitis.
+

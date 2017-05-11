@@ -1,0 +1,7 @@
+Relationship between baseline blood pressure parameters (including mean pressure, pulse pressure, and variability) and early outcome after stroke: data from the Tinzaparin in Acute Ischaemic Stroke Trial (TAIST).
+
+BACKGROUND AND PURPOSE High blood pressure (BP) in acute stroke is associated independently with a poor outcome. Recent evidence suggests that other hemodynamic parameters may also be associated with outcomes following stroke.
+METHODS The relationship between baseline BP, heart rate, and other hemodynamic parameters, and early outcomes were assessed using data from TAIST trial.
+RESULTS Death or neurological deterioration at day 10 was associated, both in unadjusted and adjusted analyses, with systolic BP (adjusted OR, 1.02; 95% CI, 1.01-1.03), mean arterial pressure (OR, 1.02; 95% CI, 1.01-1.04), pulse pressure (OR, 1.02; 95% CI, 1.01-1.03), and BP variability (OR, 1.03; 95% CI, 1.01-1.05). Similar relationships were noted for deterioration alone, and recurrent stroke.
+CONCLUSIONS Early death or neurologic deterioration, deterioration, and recurrent stroke are associated independently with high systolic BP, mean arterial pressure, pulse pressure, and BP variability. These measures offer potential therapeutic targets for improving early outcome after acute ischemic stroke.
+

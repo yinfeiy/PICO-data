@@ -1,0 +1,12 @@
+Randomized, controlled, crossover trial of methylphenidate in pervasive developmental disorders with hyperactivity.
+
+CONTEXT Hyperactivity and inattention are common symptoms in children with autistic disorder and related pervasive developmental disorders, but studies of stimulants in these conditions have been inconclusive.
+OBJECTIVES To determine the efficacy and safety of methylphenidate hydrochloride in children with pervasive developmental disorders and hyperactivity.
+DESIGN Double-blind, placebo-controlled, crossover trial followed by open-label continuation.
+SETTING Five academic outpatient clinics.
+PARTICIPANTS Seventy-two drug-free children, aged 5 to 14 years, with pervasive developmental disorders accompanied by moderate to severe hyperactivity.
+INTERVENTIONS Prior to randomization, subjects entered a 1-week test-dose phase in which each subject received placebo for 1 day followed by increasing doses of methylphenidate (low, medium, and high doses) that were each given for 2 days. The low, medium, and high doses of methylphenidate hydrochloride were based on weight, and they ranged from 7.5 mg/d to 50.0 mg/d in divided doses. Subjects who tolerated the test dose (n = 66) were assigned to receive placebo for 1 week and then 3 methylphenidate doses in random order during a double-blind, crossover phase. Children responding to methylphenidate then entered 8 weeks of open-label treatment at the individually determined best dose.
+MAIN OUTCOME MEASURES The primary outcome measure was the teacher-rated hyperactivity subscale of the Aberrant Behavior Checklist. Response was defined as "much improved" or "very much improved" on the Clinical Global Impressions Improvement item coupled with considerable reductions in the parent-rated and/or teacher-rated Aberrant Behavior Checklist hyperactivity subscale score.
+RESULTS Methylphenidate was superior to placebo on the primary outcome measure, with effect sizes ranging from 0.20 to 0.54 depending on dose and rater. Thirty-five (49%) of 72 enrolled subjects were classified as methylphenidate responders. Adverse effects led to the discontinuation of study medication in 13 (18%) of 72 subjects.
+CONCLUSIONS Methylphenidate was often efficacious in treating hyperactivity associated with pervasive developmental disorders, but the magnitude of response was less than that seen in typically developing children with attention-deficit/hyperactivity disorder. Adverse effects were more frequent.
+

@@ -1,0 +1,11 @@
+Sham device v inert pill: randomised controlled trial of two placebo treatments.
+
+OBJECTIVE To investigate whether a sham device (a validated sham acupuncture needle) has a greater placebo effect than an inert pill in patients with persistent arm pain.
+DESIGN A single blind randomised controlled trial created from the two week placebo run-in periods for two nested trials that compared acupuncture and amitriptyline with their respective placebo controls. Comparison of participants who remained on placebo continued beyond the run-in period to the end of the study.
+SETTING Academic medical centre.
+PARTICIPANTS 270 adults with arm pain due to repetitive use that had lasted at least three months despite treatment and who scored > or =3 on a 10 point pain scale.
+INTERVENTIONS Acupuncture with sham device twice a week for six weeks or placebo pill once a day for eight weeks.
+MAIN OUTCOME MEASURES Arm pain measured on a 10 point pain scale. Secondary outcomes were symptoms measured by the Levine symptom severity scale, function measured by Pransky's upper extremity function scale, and grip strength.
+RESULTS Pain decreased during the two week placebo run-in period in both the sham device and placebo pill groups, but changes were not different between the groups (-0.14, 95% confidence interval -0.52 to 0.25, P = 0.49). Changes in severity scores for arm symptoms and grip strength were similar between groups, but arm function improved more in the placebo pill group (2.0, 0.06 to 3.92, P = 0.04). Longitudinal regression analyses that followed participants throughout the treatment period showed significantly greater downward slopes per week on the 10 point arm pain scale in the sham device group than in the placebo pill group (-0.33 (-0.40 to -0.26) v -0.15 (-0.21 to -0.09), P = 0.0001) and on the symptom severity scale (-0.07 (-0.09 to -0.05) v -0.05 (-0.06 to -0.03), P = 0.02). Differences were not significant, however, on the function scale or for grip strength. Reported adverse effects were different in the two groups.
+CONCLUSIONS The sham device had greater effects than the placebo pill on self reported pain and severity of symptoms over the entire course of treatment but not during the two week placebo run in. Placebo effects seem to be malleable and depend on the behaviours embedded in medical rituals.
+

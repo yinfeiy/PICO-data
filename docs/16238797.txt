@@ -1,0 +1,8 @@
+Bronchial matrix and inflammation respond to inhaled steroids despite ongoing allergen exposure in asthma.
+
+BACKGROUND Inflammatory and structural changes of the airway mucosa are chronic features of asthma. The mechanisms underlying these changes and their modulation by steroid prophylaxis have not been clarified.
+OBJECTIVE We postulated that asymptomatic ongoing allergen exposure could drive airway inflammation as well as changes in the extracellular matrix (ECM), and that inhaled steroids could prevent this.
+METHODS Therefore, we exposed patients with mild asthma to 2 weeks of repeated low-dose allergen, with concomitant inhaled steroid or placebo treatment. Bronchial biopsies, which were taken before and after this exposure, were stained and digitally analysed. The ECM proteins in asthmatics were also compared with a normal control group.
+RESULTS Low-dose allergen exposure alone resulted in a significant increase of bronchial epithelial macrophages. Despite ongoing allergen exposure, inhaled steroids reduced the numbers of mucosal eosinophils, neutrophils and T lymphocytes. At baseline, the mean density of the proteoglycans (PGS) biglycan and decorin were, respectively, higher and lower in the bronchial mucosa of asthmatics as compared with normal controls. Steroid treatment, during allergen exposure, increased the mean density of the PGS biglycan and versican.
+CONCLUSION We conclude that chronic allergen exposure induces inflammatory changes in the bronchial mucosa. Despite ongoing allergen exposure, steroid treatment decreases mucosal inflammatory cells while altering PG density. The latter observation highlights the need to examine steroid-induced changes closely in the airway structure in patients with asthma.
+

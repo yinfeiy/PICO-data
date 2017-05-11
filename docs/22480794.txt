@@ -1,0 +1,11 @@
+Tinzaparin versus dalteparin for periprocedure prophylaxis of thromboembolic events in hemodialysis patients: a randomized trial.
+
+BACKGROUND Low-molecular-weight heparin (LMWH) is cleared predominantly by the kidneys and hence there is uncertainty about the safety of its use in hemodialysis (HD) patients. Our primary objective was to compare whether tinzaparin and dalteparin differentially accumulate in HD patients.
+STUDY DESIGN Open-label randomized controlled trial.
+SETTING & PARTICIPANTS HD patients undergoing periprocedure bridging anticoagulation.
+INTERVENTION After warfarin therapy was discontinued, participants were randomly assigned to either 3 daily doses of tinzaparin (175 IU/kg) or dalteparin (200 IU/kg), with 2 intervening HD treatments between the first dose of study drug and their procedure.
+OUTCOMES The primary outcome was predialysis anti-Xa levels 20 to 24 hours after the third LMWH dose (therapeutic target, <0.2 IU/mL). Secondary outcomes included thromboembolic events and major bleeding.
+RESULTS Of 29 eligible and consenting patients, 17 patients received tinzaparin and 12 patients received dalteparin. Mean predialysis anti-Xa level 20-24 hours after the third LMWH dose was 0.37 ± 0.23 (SD) IU/mL for tinzaparin and 0.62 ± 0.41 IU/mL for dalteparin (P = 0.1), indicating clinically important accumulation for both drugs. No invasive procedures were canceled due to study drug accumulation. 4 patients experienced serious adverse events (1 major bleed after traumatic arteriovenous fistula puncture in the tinzaparin arm, 2 non-ST-elevation myocardial infarctions [1 in each group], and 1 upper-extremity deep venous thrombosis [dalteparin group]).
+LIMITATIONS Small sample size.
+CONCLUSIONS Dalteparin and tinzaparin significantly accumulate in HD patients at therapeutic doses. "Bridging therapy" with LMWHs at therapeutic doses in HD patients who require temporary interruption of warfarin therapy has the potential for complications and is of uncertain benefit. Other anticoagulation strategies, including no bridging therapy or intravenous heparin, need comparative evaluation in this unique patient population.
+

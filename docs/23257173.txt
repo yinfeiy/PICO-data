@@ -1,0 +1,11 @@
+Simvastatin reduces sympathetic outflow and augments endothelium-independent dilation in non-hyperlipidaemic primary hypertension.
+
+OBJECTIVES Previous reports, involving hypercholesterolaemic hypertensive subjects, that statins reduce muscle sympathetic nerve activity (MSNA) did not investigate potential neural sites of such sympathoinhibition or determine its consequences for endothelial function or insulin resistance. This study of hypertensive subjects with lower plasma cholesterol tested the hypotheses that lipophilic simvastatin would attenuate resting sympathoexcitation and augment baroreflex modulation of MSNA and heart rate (HR), flow-mediated vasodilation and insulin sensitivity.
+DESIGN Prospective, randomised, double-blind, placebo-controlled crossover study.
+SETTING Academic hospital-based study.
+PATIENTS Fourteen non-hyperlipidaemic primary hypertensive subjects (10 men; overall mean±SD age 58±12 years).
+INTERVENTIONS Four weeks of simvastatin (80 mg/day) or placebo.
+MAIN OUTCOME MEASURES Resting blood pressure (BP), HR, MSNA, spontaneous arterial baroreflex MSNA and HR modulation, endothelium-dependent and endothelium-independent vasodilation, and the homoeostatic model assessment of insulin resistance (HOMA-IR).
+RESULTS Simvastatin lowered MSNA burst frequency (from 32±12 to 25±9 bursts/min) and MSNA burst incidence (from 55±23% to 43±17%; all p<0.01) without affecting BP, HR, baroreflex modulation of either MSNA or HR, or HR variability (all p>0.05). Plasma glucose, insulin, HOMA-IR and endothelium-dependent vasodilation (all p>0.05) were unchanged, whereas endothelium-independent vasodilation increased (7.1±3.8% to 9.7±3.9%, n=13; p<0.01). The fall in MSNA was unrelated to the decrease in low-density lipoprotein cholesterol (r=0.41, p=0.14).
+CONCLUSIONS These findings are consistent with the concept that, in non-hyperlipidaemic subjects with primary hypertension, simvastatin causes a cholesterol-independent reduction in an elevated central set-point for MSNA, without affecting arterial baroreflex modulation of either MSNA or HR. There may be less neurogenic constraint on endothelium-independent vasodilation as a consequence.
+

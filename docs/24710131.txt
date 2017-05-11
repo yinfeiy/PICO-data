@@ -1,0 +1,11 @@
+Low-dose prednisolone treatment of early rheumatoid arthritis and late cardiovascular outcome and survival: 10-year follow-up of a 2-year randomised trial.
+
+OBJECTIVE To examine the long-term effects of early low-dose prednisolone use in patients with rheumatoid arthritis (RA) on cardiovascular (CV) morbidity and mortality.
+DESIGN Retrieval of data from a 2-year open randomised trial comparing prednisolone 7.5 mg/day in addition to disease-modifying antirheumatic drugs (DMARDs) with DMARD therapy alone. Participants were followed for 10 years since inclusion into the original prednisolone trial or until occurrence of the studied outcomes.
+SETTING Secondary level of care; six participating centres from southern Sweden; both urban and rural populations.
+PARTICIPANTS Overall, 223 patients with early RA were included. The participants had no history of CV events at baseline and incident cases were identified via the Swedish Hospital Discharge and Cause of Death Registries.
+OUTCOMES Composite CV events, that is, ischaemic coronary and cerebrovascular events, components of the composite CV outcome, and death. Relative HRs from Cox proportional-hazards regression models were calculated.
+RESULTS Within 2041 person-years, 17 incident composite CV events occurred in 112 patients (15%) randomised to prednisolone, and 15 events of 111 patients (14%) who were assigned not to receive prednisolone. There were nine deaths (8%) in each group. The age-adjusted relative hazards (HRs; 95% CI) for the first composite CV event, first coronary event and death in the prednisolone group versus the group not treated with prednisolone were 1.8 (0.9 to 3.6), 0.98 (0.4 to 2.6) and 1.6 (0.6 to 4.1), respectively. The risk for the first cerebrovascular event showed a 3.7-fold increased relative hazard (95% CI 1.2 to 11.4) among prednisolone treated patients.
+CONCLUSIONS In this inception cohort study of low-dose prednisolone use during the first 2 years of RA disease, the incidence of ischaemic coronary artery events was similar in the two treatment groups, whereas the long-term risk of ischaemic cerebrovascular events was higher in the prednisolone group. There was a trend towards reduced survival in the prednisolone group.
+TRIAL REGISTRATION NUMBER ISRCTN20612367.
+

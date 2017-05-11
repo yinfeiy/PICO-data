@@ -1,0 +1,8 @@
+The benefit of low-dose dopamine during vigorous diuresis for congestive heart failure associated with renal insufficiency: does it protect renal function?
+
+BACKGROUND Low-dose dopamine, a renal vasodilator, has been used empirically to improve renal function or outcome in critically ill patients with oliguria or acute renal failure.
+HYPOTHESIS This study was designed to investigate the efficacy of low-dose dopamine (2 micrograms/kg/min) as a renal-protective agent during vigorous diuresis for congestive heart failure (CHF) associated with mild or moderate renal insufficiency.
+METHODS Of 20 study patients (mean age 74.3 +/- 15 years) with severe CHF, 10 (Group A) were randomized to a treatment strategy of intravenous bumetanide (1 mg b.i.d.) alone and another 10 (Group B) to low-dose dopamine and a similar diuretic regimen for a duration of 5 days or less if clinical edema remitted.
+RESULTS Group B patients showed a significant improvement in renal function and urinary output: serum blood urea nitrogen 48.9 +/- 10.3 to 32.1 +/- 14.4 mg/dl (p < 0.05); serum creatinine 1.97 +/- 0.24 to 1.49 +/- 0.39 mg/dl (p < 0.05); creatinine clearance 35.6 +/- 11.6 to 48.8 +/- 12.3 ml/min (p < 0.05); and indexed urinary output 0.56 +/- 0.16 to 2.02 +/- 0.72 ml/kg/h (p < 0.05). Group A patients showed a significant increase in urinary output but nonsignificant renal functional deterioration.
+CONCLUSION The renal-protective effect of low-dose dopamine in the setting of CHF and vigorous diuresis is supported by this study.
+

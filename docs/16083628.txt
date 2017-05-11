@@ -1,0 +1,7 @@
+[Treatment of hyperhomocysteinemia and endothelial dysfunction in renal-transplant recipients with vitamin B].
+
+OBJECTIVE To study the effect of vitamin B on treatment of hyperhomocysteinemia and endothelial dysfunction in renal-transplant recipients.
+METHODS Thirty-six stable hyperhomocysteinemic renal-transplant recipients were randomly assigned to vitamin treatment (group A, n = 18, folic acid 5 mg/d, vitamin B(6) 50 mg/d, B(12) 1000 microg/d) or controlled group (group B, n = 18) for 6 months. All subjects underwent assessment of levels for creatinine, creatinine clearance, average pressure, total cholesterol, triglyceride and fasting homocysteine. Endothelial function was evaluated using high-resolution vascular ultrasound.
+RESULTS The levels of homocysteine markedly decreased in group A [(13 +/- 4) micromol/L vs (20 +/- 5) micromol/L, t = 5.3, P < 0.01] after treatment, whereas no significant changes were observed in group B. In group A, endothelium dependent [(12 +/- 5)% vs (9 +/- 5)%, t = 2.9, P < 0.01] and independent [(18 +/- 4)% vs (12 +/- 5)%, t = 3.4, P < 0.01] vasodilatation responses significantly increased after treatment, no significant changes were observed in group B. Endothelium dependent [(9 +/- 6)%, t = 2.8, P < 0.01] and independent [(12 +/- 5)%, t = 3.5, P < 0.01] vasodilatation responses of group A were significantly lower than that of group B after treatment.
+CONCLUSIONS Vitamin B supplementation can reduce the levels of homocysteine and improve the endothelial function in hyperhomocysteinemic renal-transplant recipients.
+

@@ -1,0 +1,11 @@
+Effects of coronary sinus occlusion on myocardial ischaemia in humans: role of coronary collateral function.
+
+OBJECTIVE This study tested the hypotheses that intermittent coronary sinus occlusion (iCSO) reduces myocardial ischaemia, and that the amount of ischaemia reduction is related to coronary collateral function.
+DESIGN Prospective case-control study with intraindividual comparison of myocardial ischaemia during two 2-min coronary artery balloon occlusions with and without simultaneous iCSO by a balloon-tipped catheter.
+SETTING University Hospital.
+PATIENTS 35 patients with chronic stable coronary artery disease.
+INTERVENTION 2-min iCSO.
+MAIN OUTCOME MEASURES Myocardial ischaemia as assessed by intracoronary (i.c.) ECG ST shift at 2 min of coronary artery balloon occlusion. Collateral flow index (CFI) without iCSO, that is, the ratio between mean distal coronary occlusive (Poccl) and mean aortic pressure (Pao) both minus central venous pressure.
+RESULTS I.c. ECG ST segment shift (elevation in all) at the end of the procedure with iCSO versus without iCSO was 1.33±1.25 mV versus 1.85±1.45 mV, p<0.0001. Regression analysis showed that the degree of i.c. ECG ST shift reduction during iCSO was related to CFI, best fitting a Lorentzian function (r(2)=0.61). Ischaemia reduction with iCSO was greatest at a CFI of 0.05-0.20, whereas in the low and high CFI range the effect of iCSO was absent.
+CONCLUSIONS ICSO reduces myocardial ischaemia in patients with chronic coronary artery disease. Ischaemia reduction by iCSO depends on coronary collateral function. A minimal degree of collateral function is necessary to render iCSO effective. ICSO cannot manifest an effect when collateral function prevents ischaemia in the first place.
+

@@ -1,0 +1,9 @@
+Effect of delayed cord clamping on iron stores in infants born to anemic mothers: a randomized controlled trial.
+
+OBJECTIVE To study the effects of cord clamping on iron stores of infants born to anemic mothers at 3 months of age.
+DESIGN Randomized controlled trial.
+SETTING Teaching hospital.
+METHODS Infants born to mothers with hemoglobin (Hb)<100 g/L were randomized at delivery to either immediate cord clamping (early group) or cord clamping delayed till descent of placenta into vagina (delayed group). The outcome measures were infant's hemoglobin and serum ferritin 3 months after delivery.
+RESULTS There were 102 neonates randomized to early (n = 43) or delayed cord clamping (n = 59). The groups were comparable for maternal age, parity, weight and supplemental iron intake, infant s birth weight, gestation and sex. The mean infant ferritin and Hb at 3 months were significantly higher in the delayed clamping group (118.4 microg/L and 99 g/L) than in the early clamping group (73 microg/L and 88 g/L). The mean decrease in Hb (g/L) at 3 months adjusted for co-variates was significantly less in the delayed clamping group compared to the early clamping group (-1.09, 95% CI-1.58 to -0.62, p >0.001). The odds for anemia (<100 g/L) at 3 months was 7.7 (95% CI 1.84-34.9) times higher in the early compared to the delayed clamping group.
+CONCLUSION Iron stores and Hb in infancy can be improved in neonates born to anemic mothers by delaying cord clamping at birth.
+

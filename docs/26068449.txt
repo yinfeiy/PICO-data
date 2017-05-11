@@ -1,0 +1,8 @@
+Self-management education for adults with poorly controlled epilepsy (SMILE (UK)): statistical, economic and qualitative analysis plan for a randomised controlled trial.
+
+BACKGROUND There is a need to test the effectiveness of new educational interventions for people with poorly controlled epilepsy. The SMILE (self-management education for adults with poorly controlled epilepsy) trial evaluates a complex service intervention that involves a 2-day self-management course with the aim of improving quality of life and clinical outcomes. This article describes the statistical, economic, and qualitative analysis plan for the trial.
+METHODS AND DESIGN SMILE is a pragmatic, parallel design, two-arm, multi-centre randomised controlled superiority trial of a group-based interactive course compared with treatment as usual for people who have experienced two or more seizures in the past 12 months.
+RESULTS A summary of the objectives and design of the trial are reported as well as the manner in which the data will be summarised and inferentially analysed. This includes the type of modelling that will be employed for each of the primary and secondary outcomes and the methods by which the assumptions of these models will be checked. Strategies are described for handling clustering of outcome data, missing observations, and treatment non-compliance.
+CONCLUSION This update to the previously published trial protocol provides a description of the trial analysis which is transparent and specified before any outcome data are available. It also provides guidance to those planning the analysis of similar trials.
+TRIAL REGISTRATION Current Controlled Trials ISRCTN57937389; date assigned: 27 March 2013.
+

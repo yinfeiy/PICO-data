@@ -1,0 +1,4 @@
+5-Fluorouracil, adriamycin, cyclophosphamide (FAC) vs. 5-fluorouracil, epirubicin, cyclophosphamide (FEC) in metastatic breast cancer.
+
+94 evaluable patients with metastatic breast cancer were randomly assigned to 5-fluorouracil, adriamycin, and cyclophosphamide (FAC) or 5-fluorouracil, epirubicin, and cyclophosphamide (FEC), with cycles repeated every 3 weeks. The objective response rate to FAC was 46% versus 44% to FEC. There was no significant difference in the median duration of response and median survival for the two regimens. Toxicity was more frequent and more pronounced in patients receiving FAC. Results indicate therapeutic equivalence of the two regimens and reduced toxicity of the epirubicin arm.
+

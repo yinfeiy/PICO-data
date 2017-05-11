@@ -1,0 +1,7 @@
+Intravitreal ranibizumab versus isovolemic hemodilution in the treatment of macular edema secondary to central retinal vein occlusion: twelve-month results of a prospective, randomized, multicenter trial.
+
+PURPOSE This is a prospective, randomized, multicenter, investigator-initiated trial to evaluate the 12-month effectiveness of isovolemic hemodilution (IH) with prompt versus deferred intravitreal injections (IVI) of ranibizumab 0.5 mg for the treatment of macular edema secondary to early central retinal vein occlusion (CRVO).
+METHODS Eyes with macular edema due to CRVO having occurred not more than 8 weeks previously received either monthly ranibizumab IVI in combination with IH (group I, n = 28) or IH alone (group II, n = 30). From month 2 to 12, the patients in both groups could be treated with monthly intravitreal ranibizumab. The main outcome variables were gain of visual acuity and the course of central retinal thickness as measured with optical coherence tomography.
+RESULTS At 12 months, eyes in group I on average gained +28.1 (±19.3) letters compared to +25.2 (±20.9) letters in group II (p = 0.326). This result was achieved with significantly fewer injections in group II. Additionally, 30% of the eyes in group II did not need ranibizumab IVI during the 12 months of the trial.
+CONCLUSION Ranibizumab IVI in addition to IH proved to be highly effective in increasing visual acuity and reducing macular edema secondary to CRVO. Initial IH in early CRVO may be a first treatment option in patients anxious about IVI.
+

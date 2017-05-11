@@ -1,0 +1,11 @@
+Network support for drinking, Alcoholics Anonymous and long-term matching effects.
+
+AIMS (1) To examine the matching hypothesis that Twelve Step Facilitation Therapy (TSF) is more effective than Motivational Enhancement Therapy (MET) for alcohol-dependent clients with networks highly supportive of drinking 3 years following treatment; (2) to test a causal chain providing the rationale for this effect.
+DESIGN Outpatients were re-interviewed 3 years following treatment. ANCOVAs tested the matching hypothesis.
+SETTING Outpatients from five clinical research units distributed across the United States.
+PARTICIPANTS Eight hundred and six alcohol-dependent clients.
+INTERVENTION Clients were randomly assigned to one of three 12-week, manually-guided, individual treatments: TSF, MET or Cognitive Behavioral Coping Skills Therapy (CBT).
+MEASUREMENTS Network support for drinking prior to treatment, Alcoholics Anonymous (AA) involvement during and following treatment, percentage of days abstinent and drinks per drinking day during months 37-39.
+FINDINGS (1) The a priori matching hypothesis that TSF is more effective than MET for clients with networks supportive of drinking was supported at the 3 year follow-up; (2) AA involvement was a partial mediator of this effect; clients with networks supportive of drinking assigned to TSF were more likely to be involved in AA; AA involvement was associated with better 3-year drinking outcomes for such clients.
+CONCLUSIONS (1) In the long-term TSF may be the treatment of choice for alcohol-dependent clients with networks supportive of drinking; (2) involvement in AA should be given special consideration for clients with networks supportive of drinking, irrespective of the therapy they will receive.
+

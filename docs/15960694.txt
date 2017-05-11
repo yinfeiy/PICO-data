@@ -1,0 +1,9 @@
+Just-in-time evidence-based e-mail "reminders" in home health care: impact on nurse practices.
+
+OBJECTIVE To test the effectiveness of two interventions designed to improve the adoption of evidence-based practices by home health nurses caring for heart failure (HF) patients.
+DATA SOURCES/STUDY SETTING Information on nurse practices was abstracted from the clinical records of patients admitted between June 2000 and November 2001 to the care of 354 study nurses at a large, urban, nonprofit home care agency.
+STUDY DESIGN The study employed a randomized design with nurses assigned to usual care or one of two intervention groups upon identification of an eligible patient. The basic intervention was a one-time e-mail reminder highlighting six HF-specific clinical recommendations. The augmented intervention consisted of the initial e-mail reminder supplemented by provider prompts, patient education material, and clinical nurse specialist outreach.
+DATA COLLECTION At each home health visit provided by a study nurse to an eligible HF patient during the 45-day follow-up period, a structured chart abstraction tool was used to collect information on whether the nurse provided the care practices highlighted in the e-mail reminder.
+PRINCIPAL FINDINGS Both the basic and the augmented interventions greatly increased the practice of evidence-based care, according to patient records, in the areas of patient assessment and instructions about HF disease management. While not all results were statistically significant at conventional levels, intervention effects were positive in virtually all cases and effect magnitudes frequently were large.
+CONCLUSIONS The results of this randomized trial strongly support the efficacy of just-in-time evidence-based reminders as a means of changing clinical practice among home health nurses who are geographically dispersed and spend much of their time in the field.
+

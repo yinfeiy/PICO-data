@@ -1,0 +1,7 @@
+The misattribution of salience in delusional patients with schizophrenia.
+
+INTRODUCTION Delusions may arise from abnormalities in emotional perception. In this study, we tested the hypothesis that delusional schizophrenia patients are more likely than non-delusional schizophrenia patients and healthy participants to assign affective meanings to neutral stimuli.
+METHODS Unpleasant, pleasant, and neutral words were randomly presented to three subject groups--patients with schizophrenia with prominent delusions, patients with schizophrenia without delusions, and healthy participants. Participants performed three tasks: one in which they decided whether a letter string was a word or a non-word (lexical decision) and two affective classification tasks in which they judged whether words were 1) neutral or unpleasant, or 2) neutral or pleasant.
+RESULTS While there were no significant between-group differences in lexical decision performance, patients with delusions showed selective performance deficits in both affective classification tasks. First, delusional patients were significantly more likely than non-delusional patients and healthy participants to classify words as unpleasant. Second, delusional patients took significantly longer than both other groups to correctly classify neutral words in both affective classification tasks.
+CONCLUSIONS Taken together, these findings suggest that delusions are associated with the explicit misattribution of salience to neutral stimuli.
+

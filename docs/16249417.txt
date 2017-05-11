@@ -1,0 +1,10 @@
+Supplemental perioperative oxygen and the risk of surgical wound infection: a randomized controlled trial.
+
+CONTEXT Supplemental perioperative oxygen has been variously reported to halve or double the risk of surgical wound infection.
+OBJECTIVE To test the hypothesis that supplemental oxygen reduces infection risk in patients following colorectal surgery.
+DESIGN, SETTING, AND PATIENTS A double-blind, randomized controlled trial of 300 patients aged 18 to 80 years who underwent elective colorectal surgery in 14 Spanish hospitals from March 1, 2003, to October 31, 2004. Wound infections were diagnosed by blinded investigators using Centers for Disease Control and Prevention criteria. Baseline patient characteristics, anesthetic treatment, and potential confounding factors were recorded.
+INTERVENTIONS Patients were randomly assigned to either 30% or 80% fraction of inspired oxygen (FIO2) intraoperatively and for 6 hours after surgery. Anesthetic treatment and antibiotic administration were standardized.
+MAIN OUTCOME MEASURES Any surgical site infection (SSI); secondary outcomes included return of bowel function and ability to tolerate solid food, ambulation, suture removal, and duration of hospitalization.
+RESULTS A total of 143 patients received 30% perioperative oxygen and 148 received 80% perioperative oxygen. Surgical site infection occurred in 35 patients (24.4%) administered 30% FIO2 and in 22 patients (14.9%) administered 80% FIO2 (P=.04). The risk of SSI was 39% lower in the 80% FIO2 group (relative risk [RR], 0.61; 95% confidence interval [CI], 0.38-0.98) vs the 30% FIO2 group. After adjustment for important covariates, the RR of infection in patients administered supplemental oxygen was 0.46 (95% CI, 0.22-0.95; P = .04). None of the secondary outcomes varied significantly between the 2 treatment groups.
+CONCLUSIONS Patients receiving supplemental inspired oxygen had a significant reduction in the risk of wound infection. Supplemental oxygen appears to be an effective intervention to reduce SSI in patients undergoing colon or rectal surgery. Trial Registration ClinicalTrials.gov Identifier: NCT00235456.
+

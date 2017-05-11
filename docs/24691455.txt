@@ -1,0 +1,7 @@
+A study of noninvasive positive-pressure mechanical ventilation in the treatment of acute lung injury with a complex critical care ventilator.
+
+OBJECTIVE To test the hypothesis that there would be better clinical outcomes following the treatment of patients with acute lung injury (ALI) using noninvasive positive-pressure mechanical ventilation (NIPPV) delivered via a complex critical care ventilator compared with a conventional mini-ventilator.
+METHODS Patients with ALI who required NIPPV were prospectively enrolled and randomly divided between three intervention groups: group A was ventilated using a mini-ventilator; groups B and C were ventilated using a complex critical care ventilator using different settings. Clinical parameters were recorded before and after 8 h of mechanical ventilation.
+RESULTS A total of 51 patients with ALI were enrolled in the study. Clinical parameters in groups B and C underwent greater improvements than those in group A. Group C demonstrated the lowest treatment failure rate (23.5%). Failure rates were highest in group A (58.8%).
+CONCLUSION The findings of this present study suggest that there were more satisfactory clinical outcomes following the treatment of patients with ALI when NIPPV was delivered using a complex critical care ventilator compared with a conventional mini-ventilator.
+

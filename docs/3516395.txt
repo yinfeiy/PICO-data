@@ -1,0 +1,4 @@
+Randomized trial of high-dose cytarabine versus amsacrine in acute myelogenous leukemia in relapse: a Leukemia Intergroup Study.
+
+Patients with acute myelogenous leukemia in relapse who were ineligible for further anthracycline therapy either because they were judged to be anthracycline resistant or had received the maximum doses were randomized to receive high-dose cytarabine (3 g/m2 every 12 hours for 6 days) or amsacrine (75 mg/m2 daily for 7 days). The response rates in both groups were similar: three of 25 patients given high-dose cytarabine and three of 23 given amsacrine obtained complete remissions.
+

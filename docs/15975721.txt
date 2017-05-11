@@ -1,0 +1,7 @@
+Removal of inflammatory cytokines and endotoxin by veno-venous continuous renal replacement therapy for burned patients with sepsis.
+
+OBJECTIVE To evaluate the effect of veno-venous continuous renal replacement therapy (CRRT) on the plasma levels of endotoxin and cytokines in severely burned patients with sepsis.
+METHODS Twenty adult severely burned patients with sepsis were studied. For the diagnosis of sepsis, patients were randomly divided into CRRT (n=10) and Control (n=10). Both groups received conventional therapy after admission. Veno-venous CRRT was administered to 10 patients in the CRRT group whenever patients were determined to be septic. The plasma level of endotoxin, TNF-alpha, IL-1 beta, IL-6 and IL-8 were measured at 0, 1, 2, 6, 12, 36 and 60 h after CRRT initiation, and at 0, 12, 36 and 60 h after the patients were diagnosed as having sepsis in the Control group.
+MAIN RESULTS Plasma level of endotoxin and all the cytokines after CRRT initiation were significantly lower than those before the treatment (P<0.01). The serial change of endotoxin, IL-1 beta, IL-6 and IL-8 was significantly lower at 12, 36 and 60 h after treatment compared with Control groups (P<0.01). A significant decrease in plasma TNF-alpha levels was seen at 36 and 60 h after treatment compared with Control groups (P<0.01).
+CONCLUSION Plasma endotoxin and cytokines (TNF-alpha, IL-1 beta, IL-6 and IL-8) can be removed effectively with CRRT in severely burned patients with sepsis.
+

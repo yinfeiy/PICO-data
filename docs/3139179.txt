@@ -1,0 +1,11 @@
+Comparison of mastectomy with tamoxifen for treating elderly patients with operable breast cancer.
+
+STUDY OBJECTIVE Comparison of tamoxifen and mastectomy in treatment of breast cancer in elderly patients.
+DESIGN Randomised trial of treatment of operable breast cancer by wedge mastectomy or tamoxifen, with median follow up 24 and 25 months respectively (range 1-63).
+SETTING University hospital; most patients from primary catchment area.
+PATIENTS 135 consecutive patients with breast cancer aged over 70 with operable tumours (less than 5 cm maximum diameter); 68 were allocated to tamoxifen group and 67 to mastectomy group. Histological diagnosis by biopsy. Two incorrect randomisations in each group. Patient characteristics similar in the two groups and all under care of one surgical team.
+INTERVENTIONS Mastectomy group received wedge mastectomy plus excision of symptomatic axillary lymph nodes. Tamoxifen group received continuous treatment with tamoxifen 20 mg twice daily. Patients in tamoxifen group received wedge mastectomy if there was sign of local progression. Those in mastectomy group received further excision or radiotherapy for locoregional recurrence and when local treatments had been exhausted or metastatic disease diagnosed they received tamoxifen.
+END POINT Treatment efficacy was assessed by local control of disease and by survival.
+MAIN RESULTS Mortality from metastatic cancer in tamoxifen group was 7 (10.6%) and in mastectomy group 10 (15.3%) (NS). There was no difference in survival between the two groups. In mastectomy group 70% remained alive and free of local recurrence at 24 months; in tamoxifen group only 47% remained alive and free of local progression. In mastectomy group locoregional recurrence occurred in 16 patients and metastatic disease in 13; in tamoxifen group locoregional progression occurred in 29 patients and metastatic disease in seven.
+CONCLUSIONS As a high proportion of patients treated with tamoxifen eventually required surgery treatment of elderly patients with breast cancer should include mastectomy. Optimum treatment may include both mastectomy and tamoxifen.
+

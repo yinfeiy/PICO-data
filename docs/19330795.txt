@@ -1,0 +1,7 @@
+The SNRI venlafaxine improves emotional unawareness in patients with post-stroke depression.
+
+OBJECTIVE Patients with stroke have a high prevalence of depression and unawareness of emotions or alexithymia. Here we investigated the effects of the serotoninergic and noradrenergic reuptake inhibitor (SNRI) venlafaxine in comparison with the SSRI fluoxetine on alexithymia severity in patients with DSM-IV post-stroke major depressive-like episode (PSD).
+METHODS Fifty inpatients with first-ever stroke and PSD were consecutively enrolled in this randomized open-label study. Twenty-five were treated with the SNRI venlafaxine SR (75-150 mg/die), and 25 with the SSRI fluoxetine (20-40 mg/die). All patients were assessed at day 0, and after 1, 2, 4, 6, and 8 weeks, using the Mini-Mental State Examination, the Hamilton Depression Rating Scale, and the Toronto Alexithymia Scale (TAS-20).
+RESULTS Patients treated with fluoxetine and those treated with venlafaxine showed similar improvement in depressive symptoms. However, patients treated with venlafaxine had a greater improvement on alexithymia severity than those treated with fluoxetine. The effect of venlafaxine on unawareness of emotions was evident in patients with alexithymia (TAS-20 >or= 61) at the baseline and in those without alexithymia (TAS-20 < 61).
+CONCLUSIONS Antidepressants acting on both the serotoninergic and noradrenergic systems might represent a valid resource not only for the treatment of depression but also for improving emotional unawareness in stroke patients.
+

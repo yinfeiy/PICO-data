@@ -1,0 +1,11 @@
+Randomised, double blind, placebo controlled study of fluticasone propionate in patients with moderate to severe chronic obstructive pulmonary disease: the ISOLDE trial.
+
+OBJECTIVES To determine the effect of long term inhaled corticosteroids on lung function, exacerbations, and health status in patients with moderate to severe chronic obstructive pulmonary disease.
+DESIGN Double blind, placebo controlled study.
+SETTING Eighteen UK hospitals.
+PARTICIPANTS 751 men and women aged between 40 and 75 years with mean forced expiratory volume in one second (FEV(1)) 50% of predicted normal.
+INTERVENTIONS Inhaled fluticasone propionate 500 microgram twice daily from a metered dose inhaler or identical placebo.
+MAIN OUTCOME MEASURES Efficacy measures: rate of decline in FEV(1) after the bronchodilator and in health status, frequency of exacerbations, respiratory withdrawals. Safety measures: morning serum cortisol concentration, incidence of adverse events.
+RESULTS There was no significant difference in the annual rate of decline in FEV(1 )(P=0.16). Mean FEV(1) after bronchodilator remained significantly higher throughout the study with fluticasone propionate compared with placebo (P<0.001). Median exacerbation rate was reduced by 25% from 1.32 a year on placebo to 0.99 a year on with fluticasone propionate (P=0.026). Health status deteriorated by 3.2 units a year on placebo and 2.0 units a year on fluticasone propionate (P=0.0043). Withdrawals because of respiratory disease not related to malignancy were higher in the placebo group (25% v 19%, P=0.034).
+CONCLUSIONS Fluticasone propionate 500 microgram twice daily did not affect the rate of decline in FEV(1) but did produce a small increase in FEV(1). Patients on fluticasone propionate had fewer exacerbations and a slower decline in health status. These improvements in clinical outcomes support the use of this treatment in patients with moderate to severe chronic obstructive pulmonary disease.
+

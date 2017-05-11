@@ -1,0 +1,10 @@
+The effect of Cys LT1 receptor blockade on airway responses to allergen.
+
+STUDY OBJECTIVE To evaluate the effect of a potent experimental leukotriene receptor antagonist, MK-571, on airway responses to inhaled allergen.
+DESIGN Randomized, double-blind, placebo-controlled, crossover trial.
+SETTING Clinical research center.
+SUBJECTS Eight male volunteers with allergic asthma.
+INTERVENTIONS An intravenous loading dose was followed by an 8-hour infusion of MK-571 or placebo, with a 7- to 14-day washout between treatments. Allergen challenge was performed after the loading dose and a histamine challenge was performed before and 24 hours after allergen.
+MEASUREMENTS AND MAIN RESULTS Forced expiratory volume in 1 second was measured serially. MK-571 provided about 50% protection during maximum early and late responses compared with placebo (p=0.005), but airway obstruction persisted 8-24 hours after allergen on both treatment days. Airway responsiveness to histamine was not significantly attenuated at 24 hours.
+CONCLUSION Blocking Cys LT1 receptors for 8 hours attenuated the early and late responses but did not interrupt the cascade of events leading to subsequent allergen-induced airway obstruction and hyperreactivity.
+

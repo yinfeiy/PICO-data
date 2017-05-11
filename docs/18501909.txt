@@ -1,0 +1,7 @@
+Penetration and accumulation of moxifloxacin in uterine tissue.
+
+OBJECTIVE To determine whether moxifloxacin penetrates the uterine tissue and accumulates at levels sufficient to eradicate the major pathogens causing pelvic inflammatory disease (PID).
+METHOD In a prospective, multicenter, open-label, parallel-group study we determined the concentration of moxifloxacin in plasma and uterine tissue after a single, 400-mg intravenous dose of moxifloxacin. Study participants were randomized for time of tissue sampling, which was performed 1, 2, 4, 7, or 24 hours following the moxifloxacin infusion.
+RESULTS Of 43 participants, 40 were randomized to tissue sampling. Moxifloxacin accumulated in uterine tissue and concentrations were highest 1 hour after infusion in both plasma and tissue. Tissue to plasma ratios remained between 1.7 and 2.1 for 24 hours. Moxifloxacin was found to be safe and well tolerated.
+CONCLUSION Based on known minimum inhibitory concentration data, the uterine tissue concentrations of moxifloxacin achieved over 24 hours would be sufficient to eradicate the range of bacterial pathogens responsible for PID.
+

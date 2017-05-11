@@ -1,0 +1,7 @@
+[Effect of zero-balanced ultrafiltration and modified ultrafiltration on pulmonary function after cardiac surgery in infants].
+
+OBJECTIVE To determine the protective effect of zero-balanced ultrafiltration and modified ultrafiltration on infants' pulmonary function after cardiac surgery.
+METHODS Sixty infants with congenital heart diseases were randomly divided into 3 groups: a zero-balanced ultrafiltration group (Z group), a modified ultrafiltration group (M group) and a zero-balanced ultrafiltration with modified ultrafiltration group (Z+M group). Oxygenation index (OI), difference of alveoli-arterial oxygen pressure (P(A-α)O2), static lung compliance (Cstat), and airway resistance (Raw) were measured before caridopulmonary bypass (CPB, T1), 20 minutes after the CPB (T2), 2 h after the operation (T3), 6 h after the operation (T4) and 12 h after the operation (T5). The time of mechanical ventilation was also monitored.
+RESULTS After the CPB, OI and Cstat in all groups decreased significantly, while Raw and P(A-α)O2 increased significantly. At T3, T4 and T5, OI and Cstat in the Z+M group were significantly higher than those in the Z group and the M group (P<0.05), Raw and P(A-α)O2 in the Z+M group were significantly lower than those in the Z group and the M group (P<0.05). The ventilation time in the Z+M group was significantly shorter than that in the Z group and the M group (P<0.05).
+CONCLUSION Zero-balanced ultrafiltration and modified ultrafiltration can effectively promote the pulmonary function after cardiac surgery in infants.
+

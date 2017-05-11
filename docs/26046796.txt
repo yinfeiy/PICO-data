@@ -1,0 +1,7 @@
+Erlotinib is effective in pancreatic cancer with epidermal growth factor receptor mutations: a randomized, open-label, prospective trial.
+
+OBJECTIVE To analyze the efficacy of gemcitabine with or without erlotinib for pancreatic cancer, and to determine the predictive role of epidermal growth factor receptor (EGFR) and KRAS mutations in these patients.
+METHODS This was a single-center, randomized, open-label, prospective trial. Eighty-eight chemotherapy-naïve metastatic pancreatic cancer patients were randomized for treatment with gemcitabine or gemcitabine plus erlotinib. EGFR and KRAS mutations were analyzed, respectively. The primary endpoint was the disease control rate.
+RESULTS Disease control rate (64% vs. 25%; P < 0.001), progression-free survival (median 3.8 vs. 2.4 months; P < 0.001), and overall survival (median 7.2 vs. 4.4 months; P < 0.001) were better in the gemcitabine plus erlotinib group than in the gemcitabine alone group. In the gemcitabine plus erlotinib group, disease control (85% vs. 33%; P = 0.001), progression-free survival (median 5.9 vs. 2.4 months; P = 0.004), and overall survival (median 8.7 vs. 6.0 months; P = 0.044) were better in patients with EGFR mutations than in those without EGFR mutations. KRAS mutation was not associated with treatment response or survival.
+CONCLUSIONS Gemcitabine plus erlotinib is more effective than gemcitabine alone for treating metastatic pancreatic cancer patients, especially those with EGFR mutations. ClinicalTrials.gov number, NCT01608841.
+

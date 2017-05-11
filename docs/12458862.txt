@@ -1,0 +1,7 @@
+Prospective randomized trial of an anterior surface modified prolate intraocular lens.
+
+PURPOSE We compare the contrast sensitivity obtained with an anterior surface modified prolate intraocular lens with the contrast sensitivity obtained with a standard spherical intraocular lens.
+METHODS Patients presenting for cataract surgery in one eye were randomized to receive either the Tecnis Z9000 intraocular lens (Pharmacia) or the AMO AR40e Opti-Edge intraocular lens (AMO). Sine wave grating contrast sensitivity testing under mesopic and photopic conditions served as the principal outcome measure.
+RESULTS The Tecnis Z9000 intraocular lens provided statistically significantly better contrast sensitivity at 1.5 and 3 cycles per degree under mesopic conditions and at 6, 12 and 18 cycles per degree under photopic conditions.
+CONCLUSION The use of a modified prolate intraocular lens during cataract surgery has the potential to improve contrast sensitivity under both mesopic and photopic conditions.
+

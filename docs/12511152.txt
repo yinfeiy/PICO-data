@@ -1,0 +1,4 @@
+Trials and tribulations: current challenges in conducting clinical trials.
+
+Randomized controlled trials are the gold standard for the evaluation of new therapies and surgical procedures and as such require strict attention to study design and statistical analysis. There are, however, multiple challenges in conducting a well-designed clinical trial. This article describes the difficulties encountered at a single institution participating in a multicenter drug study and reviews the challenges involved in developing a high-quality randomized controlled study.
+

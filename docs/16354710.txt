@@ -1,0 +1,11 @@
+Using dietetic assistants to improve the outcome of hip fracture: a randomised controlled trial of nutritional support in an acute trauma ward.
+
+OBJECTIVE To examine how improved attention to nutritional status and dietary intake, achieved through the employment of dietetic assistants (DAs), will affect postoperative clinical outcome among elderly women with hip fracture.
+DESIGN Open prospective randomised controlled trial, comparing conventional nursing care with the additional nutritional support provided by DA.
+SETTING Thirty-eight bedded acute trauma ward in a teaching hospital.
+PARTICIPANTS All but 11 of 344 consecutive admissions with acute nonpathological hip fracture were approached. Three hundred and eighteen (93%) agreed to inclusion. Sixteen were ineligible as they were immediately transferred to another acute ward, were managed conservatively or died preoperatively.
+PRIMARY OUTCOME MEASURE Postoperative mortality in the acute trauma unit.
+SECONDARY OUTCOME MEASURES Postoperative mortality at 4 months after fracture, length of stay, energy intake and nutritional status.
+RESULTS DA-supported participants were less likely to die in the acute ward (4.1 versus 10.1%, P = 0.048). This effect was still apparent at 4 month follow-up (13.1 versus 22.9%, P = 0.036). DA-supported subjects had significantly better mean daily energy intake (1,105 kcal versus 756 kcal/24 h, 95% CI 259-440 kcal/24 h, P<0.001), significantly smaller reduction in mid-arm circumference during their inpatient stay (0.39 cm, P = 0.002) and nonsignificantly favourable results for other anthropometric and laboratory measurements.
+CONCLUSION Dietetic or nutrition assistants are being introduced in units across the UK. This, the largest ever study of nutritional support after hip fracture, shows that their employment significantly reduced patients' risk of dying in the acute trauma unit; an effect that persisted at 4 month follow-up.
+

@@ -1,0 +1,7 @@
+A randomized clinical trial of St. John's wort for smoking cessation.
+
+INTRODUCTION St. John's wort (SJW) is a widely used herbal supplement. The predominant mechanism(s) accounting for the activity of SJW in vivo are, however, unclear. The purpose of this study was to investigate the efficacy of SJW for smoking cessation.
+METHODS We conducted a randomized, blinded, placebo-controlled, three-arm, dose-ranging clinical trial. A total of 118 subjects were randomly allocated to receive SJW 300 mg, 600 mg, or a matching placebo tablet 3 times a day combined with a behavioral intervention for 12 weeks. Self-reported smoking abstinence was biochemically confirmed with expired air carbon monoxide.
+RESULTS Mean age of the study participants was 37.6 +/- 12.4 years; they smoked an average of 20.0 +/- 6.6 cigarettes per day for 20 +/- 12.1 years. The study dropout rate was high (43%). By intention-to-treat analysis, no significant differences were observed in abstinence rates at 12 and 24 weeks between SJW dose groups and placebo. SJW did not attenuate withdrawal symptoms among abstinent subjects. Abstinence rates did not differ by study group among subjects who took at least 75% of their study medication. No significant side-effects were noted with SJW.
+CONCLUSIONS In this randomized trial, SJW did not increase smoking abstinence rates. Our data, in combination with data from other studies, suggest that SJW has little role in the treatment of tobacco dependence.
+

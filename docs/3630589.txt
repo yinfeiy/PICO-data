@@ -1,0 +1,4 @@
+Gastric contents and pH after oral premedication.
+
+Forty women, aged 26-40 years, were investigated with regard to gastric contents and pH before general anaesthesia. The patients were divided into two groups (20 in each). Group 100 received 0.3 mg kg-1 diazepam orally with 100 ml of water 2 h before surgery. Group 50 received 0.3 mg kg-1 diazepam with 50 ml of water 2 h before surgery. The amount of gastric content was significantly greater in Group 100 than in Group 50 (P less than 0.05). There was no statistical difference in pH values between the groups. The number of patients with both gastric pH less than 2.5 and gastric volume greater than 25 ml was significantly higher in Group 100 compared to Group 50 (P less than 0.05). We cannot recommend the use of oral premedication using these amounts of water, considering the increased risk of aspiration of gastric contents.
+

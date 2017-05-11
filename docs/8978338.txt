@@ -1,0 +1,7 @@
+Colonoscopic miss rates of adenomas determined by back-to-back colonoscopies.
+
+BACKGROUND & AIMS The miss rate of colonoscopy for neoplasms is poorly understood. The aim of this study was to determine the miss rate of colonoscopy by same day back-to-back colonoscopy.
+METHODS Two consecutive same day colonoscopies were performed in 183 patients. The patients were randomized to undergo the second colonoscopy by the same or a different endoscopist and in the same or different position.
+RESULTS The overall miss rate for adenomas was 24%, 27% for adenomas < or = 5 mm, 13% for adenomas 6-9 mm, and 6% for adenomas > or = 1 cm. Patients with two or more adenomas at the first examination were more likely than patients with no or one adenoma detected at the first examination to have one or more adenomas at the second examination (odds ratio, 3.3; 95% confidence interval, 1.69-6.46). Right colon adenomas were missed more often (27%) than left colon adenomas (21%), but the difference was not significant. There was evidence of variation in sensitivity between endoscopists, but significant miss rates for small adenomas were found among essentially all endoscopists.
+CONCLUSIONS Using current colonoscopic technology, there are significant miss rates for adenomas < 1 cm even with meticulous colonoscopy. Miss rates are low for adenomas > or = 1 cm. The results suggest the need for improvements in colonoscopic technology.
+

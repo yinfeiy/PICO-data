@@ -1,0 +1,9 @@
+Exploring the role of tanezumab as a novel treatment for the relief of neuropathic pain.
+
+OBJECTIVE Evaluate efficacy and safety of tanezumab, a humanized monoclonal antibody against nerve growth factor, in neuropathic pain.
+DESIGN Two randomized controlled trials.
+SUBJECTS Patients with pain due to diabetic peripheral neuropathy (DPN) or postherpetic neuralgia (PHN).
+METHODS In the DPN study, patients received subcutaneous tanezumab 20 mg or placebo on Day 1 and Week 8. Evaluations included change from baseline in average DPN pain (primary endpoint), Patient's Global Assessment of DPN, and safety (including neuropathy assessments). Due to a partial clinical hold limiting enrollment and treatment duration, the prespecified landmark analysis was modified post hoc from Week 16 to Week 8. In the PHN study, patients received intravenous tanezumab 50 μg/kg, tanezumab 200 μg/kg, or placebo on Day 1. Evaluations included change from baseline in average daily pain (primary endpoint), Brief Pain Inventory-short form, Patient's Global Assessment of pain from PHN, and safety.
+RESULTS Mean DPN pain reduction from baseline to Week 8 was greater with tanezumab vs placebo (P = 0.009); differences in Patient's Global Assessment of DPN were not significant (P > 0.05). Neither tanezumab dose resulted in significant differences vs placebo in efficacy in PHN (P > 0.05), although tanezumab 200 μg/kg provided some benefit. Neuropathy assessments showed no meaningful changes.
+CONCLUSIONS Tanezumab provided effective pain reduction in DPN. In PHN, only the highest tanezumab dose reduced pain; treatment differences were not significant. No new safety concerns were observed despite preexisting neuropathy.
+

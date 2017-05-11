@@ -1,0 +1,8 @@
+Effects of adjunctive zonisamide treatment on weight and body mass index in children with partial epilepsy.
+
+BACKGROUND Zonisamide has been associated with weight loss in children and adults.
+AIMS OF THE STUDY To assess the effects of adjunctive zonisamide on weight and body mass index (BMI) in children with partial epilepsy.
+METHODS A subanalysis was conducted of a Phase III trial and extension study, in which children with partial epilepsy received adjunctive zonisamide (target dose 8 mg/kg/day; maximum 500 mg/day). Changes in weight were correlated with skeletal development and sexual maturation.
+RESULTS Overall, 179 children (93 male, 86 female; age 6-18 years) received zonisamide (mean duration 370.6 days). Weight loss ≥ 5% was reported for 64 of 179 (35.8%) zonisamide-treated children. Of these, 46.9% were overweight/obese at study entry, compared with 23.4% at study end (P = 0.0007); 48.4% had normal weight at study entry, compared with 65.6% at study end (P = 0.03). Three patients were underweight at study entry, and four more became underweight by study end. No consistent correlations between weight loss and skeletal development or sexual maturation were observed.
+CONCLUSIONS Approximately one-third of children treated with zonisamide experienced ≥ 5% weight loss. Weight loss was most apparent in children with high baseline BMI values and did not appear to be associated with any consistent effects on growth and development.
+

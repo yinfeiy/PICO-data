@@ -1,0 +1,10 @@
+A randomized, double-masked, placebo-controlled parallel study of loteprednol etabonate 0.2% in patients with seasonal allergic conjunctivitis.
+
+OBJECTIVE To evaluate the effects of loteprednol etabonate (LE) 0.2% in reducing the signs and symptoms of seasonal allergic conjunctivitis.
+DESIGN Randomized, double-masked, placebo-controlled, parallel group multicenter study of 6 weeks duration.
+PARTICIPANTS A total of 135 patients with signs and symptoms of seasonal allergic conjunctivitis participated.
+INTERVENTION All patients received either LE 0.2% or placebo (vehicle) four times a day in both eyes for 42 days.
+MAIN OUTCOME MEASURES Bulbar conjunctival injection (primary sign) and itching (primary symptom) over the first 2 weeks of treatment was measured.
+RESULTS A reduction in severity was seen in both LE and placebo groups for bulbar conjunctival injection (1.5 vs. 1.0 units on a 0-3 scale) and itching (3.4 vs. 3.0 units on a 0-4 scale) over the first 2 weeks. The treatment effect by these measures was -0.5 and -0.4 units in favor of LE (P < or = 0.008). Resolution (i.e., the proportion of patients with signs or symptoms no longer present) at day 14 strongly favored LE-treated patients (36% and 15%; 58% and 38%, for injection and itching, respectively). Both treatments were well tolerated. One patient in each treatment group (1 of 67 and 1 of 68, respectively) had an elevation of intraocular pressure of 10 mmHg or greater during the 6 weeks of treatment.
+CONCLUSIONS Loteprednol etabonate 0.2% was more effective than placebo in the treatment of seasonal allergic conjunctivitis. Loteprednol etabonate 0.2% had a safety profile comparable to placebo.
+

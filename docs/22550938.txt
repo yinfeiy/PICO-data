@@ -1,0 +1,10 @@
+B-type natriuretic peptide in the evaluation and management of dyspnoea in primary care.
+
+OBJECTIVES The rapid and accurate diagnosis of heart failure in primary care is a major unmet clinical need. We evaluated the additional use of B-type natriuretic peptide (BNP) levels.
+DESIGN A randomized controlled trial.
+SETTING Twenty-nine primary care physicians in Switzerland and Germany coordinated by the University Hospital Basel, Switzerland.
+SUBJECTS A total of 323 consecutive patients presenting with dyspnoea.
+INTERVENTIONS Assignment in a 1 : 1 ratio to a diagnostic strategy including point-of-care measurement of BNP (n = 163) or standard assessment without BNP (n = 160). The total medical cost at 3 months was the primary end-point. Secondary end-points were diagnostic certainty, time to appropriate therapy, functional capacity, hospitalization and mortality. The final diagnosis was adjudicated by a physician blinded to the BNP levels.
+RESULTS Heart failure was the final diagnosis in 34% of patients. The number of hospitalizations, functional status and total medical cost at 3 months [median $1655, interquartile range (IQR), 850-3331 vs. $1541, IQR 859-2827; P = 0.68] were similar in both groups. BNP increased diagnostic certainty as defined by the need for further diagnostic work-up (33% vs. 45%; P = 0.02) and accelerated the initiation of the appropriate treatment (13 days vs. 25 days; P = 0.01). The area under the receiver-operating characteristics curve for BNP to identify heart failure was 0.87 (95% confidence interval, 0.81-0.93).
+CONCLUSIONS The use of BNP levels in primary care did not reduce total medical cost, but improved some of the secondary end-points including diagnostic certainty and time to initiation of appropriate treatment.
+

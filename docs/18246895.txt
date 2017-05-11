@@ -1,0 +1,12 @@
+Cryotherapy does not affect peroneal reaction following sudden inversion.
+
+CONTEXT If ankle joint cryotherapy impairs the ability of the ankle musculature to counteract potentially injurious forces, the ankle is left vulnerable to injury.
+OBJECTIVE To compare peroneal reaction to sudden inversion following ankle joint cryotherapy.
+DESIGN Repeated measures design with independent variables, treatment (cryotherapy and control), and time (baseline, immediately post treatment, 15 minutes post treatment, and 30 minutes post treatment).
+SETTING University research laboratory.
+PATIENTS OR OTHER PARTICIPANTS Twenty-seven healthy volunteers.
+INTERVENTION(S) An ice bag was secured to the lateral ankle joint for 20 minutes.
+MAIN OUTCOME MEASURES The onset and average root mean square amplitude of EMG activity in the peroneal muscles was calculated following the release of a trap door mechanism causing inversion.
+RESULTS There was no statistically significant change from baseline for peroneal reaction time or average peroneal muscle activity at any post treatment time.
+CONCLUSIONS Cryotherapy does not affect peroneal muscle reaction following sudden inversion perturbation.
+

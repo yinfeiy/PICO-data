@@ -1,0 +1,8 @@
+CDP571, a humanized monoclonal antibody to tumour necrosis factor-alpha, for steroid-dependent Crohn's disease: a randomized, double-blind, placebo-controlled trial.
+
+BACKGROUND More than 50% of patients with Crohn's disease become either steroid resistant or dependent. Accordingly, development of new treatments for steroid-dependent Crohn's disease is a research priority.
+AIM To evaluate CDP571, a humanized antibody to tumour necrosis factor-alpha, for the treatment of steroid-dependent Crohn's disease.
+METHODS Patients with steroid-dependent Crohn's disease (n = 271) were enrolled in a 36-week, double-blind, placebo-controlled trial. Steroid dependence was defined as use of prednisolone or prednisone (15-40 mg/day) or budesonide (9 mg/day) for > or =8 weeks, a previous failed attempt to decrease or discontinue steroids within 8 weeks of screening, and a Crohn's Disease Activity Index score of < or =150 points. Patients were randomized to receive intravenous CDP571 10 mg/kg or placebo 8-weekly through to week 32. Steroids were then tapered using a defined schedule. The primary efficacy endpoint was the percentage of patients with steroid sparing, defined as discontinuation of steroid therapy without a disease flare (Crohn's Disease Activity Index score > or =220 points) at week 36.
+RESULTS Steroid sparing occurred in 53 of 181 (29.3%) CDP571 patients and 33 of 90 (36.7%) placebo patients (P = 0.24). Adverse events occurred at similar frequencies in both treatment groups.
+CONCLUSIONS CDP571 was ineffective for sparing steroids in patients with steroid-dependent Crohn's disease. CDP571 was well tolerated.
+

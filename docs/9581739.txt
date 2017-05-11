@@ -1,0 +1,8 @@
+Comparison of single- and dual-coil active pectoral defibrillation lead systems.
+
+OBJECTIVES The purpose of this study was to compare defibrillation thresholds with lead systems consisting of an active left pectoral electrode and either single or dual transvenous coils.
+BACKGROUND Lead systems that include an active pectoral pulse generator reduce defibrillation thresholds and permit transvenous defibrillation in nearly all patients. A further improvement in defibrillation efficacy is desirable to allow for smaller pulse generators with a reduced maximal output.
+METHODS This prospective study was performed in 50 consecutive patients. Each patient was evaluated with two lead configurations with the order of testing randomized. Shocks were delivered between the right ventricular coil and either an active can alone (single coil) or an active can with the proximal atrial coil (dual coil). The right ventricular coil was the cathode for the first phase of the biphasic defibrillation waveform.
+RESULTS Delivered energy at the defibrillation threshold was 10.1+/-5.0 J for the single-coil configuration and 8.7+/-4.0 J for the dual-coil configuration (p < 0.02). Moreover, 98% of patients had low (<15 J) thresholds with the dual-coil lead system, compared with 88% of patients with the single-coil configuration (p=0.05). Leading edge voltage (p < 0.001) and shock impedance (p < 0.001) were also decreased with the dual-coil configuration, although peak current was increased (p < 0.001).
+CONCLUSIONS A dual-coil, active pectoral lead system reduces defibrillation energy requirements compared with a single-coil, unipolar configuration.
+

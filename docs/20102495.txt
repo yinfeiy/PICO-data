@@ -1,0 +1,9 @@
+Efficacy of omeprazole versus high-dose famotidine for prevention of exercise-induced gastritis in racing Alaskan sled dogs.
+
+BACKGROUND Omeprazole and famotidine both reduce severity of exercise-induced gastritis, but administering famotidine is easier than administering omeprazole during racing competition.
+HYPOTHESIS Famotidine is more efficacious than no treatment in reducing severity of exercise-induced gastritis; and high-dose famotidine is more efficacious than omeprazole in reducing severity of exercise-induced gastritis.
+ANIMALS Experiment 1: Randomized placebo-controlled study, 36 sled dogs (3-8 years); Experiment 2: Randomized positive-control study, 52 sled dogs (2-8 years).
+METHODS Experiment 1: Equal numbers of dogs randomly assigned to famotidine (20 mg q24h) or no treatment groups. Gastroscopy was performed 24 hours after the dogs ran 330 miles. Mucosal appearance was blindly scored by previously described scoring system. Experiment 2: Equal numbers of dogs randomly assigned to omeprazole (20 mg q24h) or high-dose famotidine (40 mg q12h) groups. Gastroscopy was performed 48 hours before and 24 hours after the dogs ran 300 miles. Mucosal appearance was blindly scored by previously described scoring system.
+RESULTS Famotidine reduced the prevalence of clinically relevant, exercise-induced gastric lesions compared with no treatment (7/16 versus 11/16, P = .031). Compared with high-dose famotidine, omeprazole significantly decreased the severity (0.4 versus 1.2, P = .0002) and prevalence (2/23 versus 7/21, P = .049) of gastric lesions.
+CONCLUSIONS AND CLINICAL RELEVANCE Although famotidine provides some benefit in the prevention of exercise-induced gastric lesions, omeprazole is superior to famotidine in preventing gastritis in dogs running 300 miles. Routine administration of omeprazole is recommended to prevent stress-associated gastric disease in exercising and racing Alaskan sled dogs.
+

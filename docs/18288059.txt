@@ -1,0 +1,6 @@
+[How to treat the relapse of NSCLC after surgery and chemotherapy? IFTC 0702 randomized phase III study].
+
+BACKGROUND As chemotherapy gains wider acceptance for the treatment of earlier stages of NSCLC, particularly in the adjuvant and neoadjuvant setting, physicians face a growing population of high performance status patients who have relapsed after their first-line chemotherapy. The type of second-line chemotherapy after initial adjuvant or neoadjuvant treatment with a platinum-based regimen remains largely undefined. The current study has been designed to compare the classical mono chemotherapy docetaxel with a docetaxel cisplatin doublet.
+METHODS Patients will be randomized in 2 arms. Arm: docetaxel cisplatin (cycles repeated every 21 days), 4 cycles followed by 2 cycles of docetaxel alone in case of objective response or stabilisation. Arm B: docetaxel alone (cycles repeated every 21 days), 4 cycles followed by 2 cycles of docetaxel alone in case of objective response or stabilisation.
+EXPECTED RESULTS 300 patients will be randomized with a statistical hypothesis of a progression free survival of 3 months in the control arm and of 4.5 months in the experimental arm.
+

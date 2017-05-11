@@ -1,0 +1,10 @@
+A double-blind comparison of clomipramine, desipramine, and placebo in the treatment of autistic disorder.
+
+OBJECTIVE To determine whether clomipramine hydrochloride, a serotonin reuptake blocker with unique anti-obsessional properties, is differentially effective for obsessive-compulsive and stereotyped motor behaviors in autistic disorder compared with placebo and with the noradrenergic tricyclic antidepressant agent, desipramine hydrochloride.
+DESIGN Following a 2-week, single-blind placebo washout phase, 12 autistic subjects completed a 10-week, double-blind, crossover comparison of clomipramine and placebo, and 12 different subjects completed a similar comparison of clomipramine and desipramine.
+SETTING Outpatient clinic.
+PATIENTS A referral sample of 30 male and female autistic patients were enrolled, and 24 completed the study.
+MEASURES Key outcome measures were the Autism Relevant Subscale of the Children's Psychiatric Rating Scale, the Modified Comprehensive Psychopathological Rating Scale-Obsessive-Compulsive Disorder Subscale, and the Clinical Global Impressions Scale.
+RESULTS Clomipramine was superior to both placebo and desipramine on ratings of autistic symptoms (including stereotypies), anger, and compulsive, ritualized behaviors (P < .05), with no differences between desipramine and placebo. Clomipramine was equal to desipramine and both tricyclic agents were superior to placebo for amelioration of hyperactivity.
+CONCLUSION Biological links between compulsions and stereotyped, repetitive behaviors in autistic disorder should be explored.
+

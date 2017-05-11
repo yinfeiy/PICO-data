@@ -1,0 +1,7 @@
+Comparison of three-year clinical outcomes between sirolimus-versus paclitaxel-eluting stents in diabetic patients: prospective randomized multicenter trial.
+
+BACKGROUND Three-year follow-up of major adverse cardiovascular event (MACE) (death, nonfatal myocardial infarction, target lesion revascularization) and the predictors of MACEs in diabetic patients after sirolimus-eluting stent (SES) or paclitaxel-eluting stent (PES) implantation have not been reported.
+METHODS Diabetic patients with de novo coronary lesions (169 patients with 190 lesions) were randomly assigned prospectively to either SES or PES.
+RESULTS Baseline characteristics were similar between the two groups. The rates of MACEs [5.9% (n = 5) in the SES vs. 9.5% (n = 8) in the PES Group, P = 0.374] and definite stent thrombosis [1.2% (n = 1) in the SES vs. 3.6% (n = 3) in the PES Group, P = 0.368] were similar in the two groups during the three-year follow-up. Multivariate logistic analysis showed that insulin treatment was the only independent predictor of MACE [odds ratio (OR) 8.60, 95% confidence interval (CI) 3.25-22.76, P < 0.001] and target vessel revascularization (TVR) (OR 9.50, 95% CI 3.07-29.44, P < 0.001) during the three-year follow-up.
+CONCLUSIONS The rates of MACEs, TVR, and stent thrombosis during the three-year follow-up were similar in the SES and PES Groups. Insulin treatment was a main predictor of MACEs and TVR during the three-year follow-up after either SES or PES implantation.
+

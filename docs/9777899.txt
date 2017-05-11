@@ -1,0 +1,12 @@
+Preventing disability and managing chronic illness in frail older adults: a randomized trial of a community-based partnership with primary care.
+
+BACKGROUND Effective new strategies that complement primary care are needed to reduce disability risks and improve self-management of chronic illness in frail older people living in the community.
+OBJECTIVE To evaluate the impact of a 1-year, senior center-based chronic illness self-management and disability prevention program on health, functioning, and healthcare utilization in frail older adults.
+DESIGN A randomized controlled trial.
+SETTING A large senior center located in a northeast Seattle suburb. The trial was conducted in collaboration with primary care providers of two large managed care organizations.
+PARTICIPANTS A total of 201 chronically ill older adults seniors aged 70 and older recruited through medical practices.
+INTERVENTION A targeted, multi-component disability prevention and disease self-management program led by a geriatric nurse practitioner (GNP).
+MEASUREMENTS Self-reported Physical function, physical performance tests, health care utilization, and health behaviors.
+RESULTS Each of 101 intervention participants met with the GNP from 1 to 8 times (median = 3) during the study year. The intervention group showed less decline in function, as measured by disability days and lower scores on the Health Assessment Questionnaire. Other measures of function, including the SF-36 and a battery of physical performance tests, did not change with the intervention. The number of hospitalized participants increased by 69% among the controls and decreased by 38% in the intervention group (P = .083). The total number of inpatient hospital days during the study year was significantly less in the intervention group compared with controls (total days = 33 vs 116, P = .049). The intervention led to significantly higher levels of physical activity and senior center participation and significant reductions in the use of psychoactive medications.
+CONCLUSIONS This project provides evidence that a community-based collaboration with primary care providers can improve function and reduce inpatient utilization in chronically ill older adults. Linking organized medical care with complementary community-based interventions may be a promising direction for research and practice.
+

@@ -1,0 +1,9 @@
+Risk factors for fracture in a UK population: a prospective cohort study.
+
+BACKGROUND Common clinical risk factors for fracture in older women have been identified. To date, most of these risk factors have not been confirmed in a UK population.
+AIM To confirm the important risk factors for fracture in older women.
+DESIGN Comprehensive cohort study (CCS) with a nested randomized controlled trial.
+METHODS The CCS included 4292 women aged >70 years. We assessed potential risk factors for fracture, and followed-up participants for 24 months for incidence of non-vertebral fractures.
+RESULTS Odds ratios (ORs) for predicting any non-vertebral fracture were: previous fracture, 2.67 (95%CI 2.10-3.40); a fall in the last 12 months, 2.06 (95%CI 1.63-2.59); and age (per year increase), 1.03 (95%CI 1.01-1.05). ORs for predicting hip fracture were: previous fracture, 2.31 (95%CI 1.31-4.08); low body weight (<58 kg), 2.20 (95%CI 1.28-3.77); maternal history of hip fracture, 1.68 (95%CI 0.85-3.31); a fall in the last 12 months, 2.92 (95%CI 1.70-5.01); and age (per year increase), 1.09 (95%CI 1.04-1.13). ORs for predicting wrist fracture were: previous fracture, 2.29 (95%CI 1.56-3.34); and a fall in the last 12 months, 1.60 (95%CI 1.10-2.31). Being a current smoker was not associated with an increase in risk, and was consistent across all fracture types.
+DISCUSSION Older women with the clinical risk factors identified in this study should be investigated for osteoporosis or offered preventive treatment.
+

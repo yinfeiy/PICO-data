@@ -1,0 +1,8 @@
+Randomized clinical trial of balance-based torso weighting for improving upright mobility in people with multiple sclerosis.
+
+BACKGROUND Torso weighting has sometimes been effective for improving upright mobility in people with multiple sclerosis, but parameters for weighting have been inconsistent.
+OBJECTIVE To determine whether balance-based torso weighting (BBTW) has immediate effects on upright mobility in people with multiple sclerosis.
+METHODS This was a 2-phase randomized clinical trial. In phase 1, 36 participants were randomly assigned to experimental and control groups. In phase 2, the control group was subsequently randomized into 2 groups with alternate weight-placement. Tests of upright mobility included: timed up and go (TUG), sharpened Romberg, 360-degree turns, 25-foot walk, and computerized platform posturography. Participants were tested at baseline and again with weights placed according to group membership. In both phases, a physical therapist assessed balance for the BBTW group and then placed weights to decrease balance loss. In phase 1, the control group had no weights placed. In phase 2, the alternate treatment group received standard weight placement of 1.5% body weight.
+RESULTS People with BBTW showed a significant improvement in the 25-foot walk (P = .01) over those with no weight, and the TUG (P = .01) over those with standard weight placement. BBTW participants received an average of 0.5 kg, less than 1.5% of any participant's body weight.
+CONCLUSION BBTW can have immediate advantages over a nonweighted condition for gait velocity and over a standardized weighted condition for a functional activity in people with multiple sclerosis (MS) who are ambulatory but have balance and mobility abnormalities.
+

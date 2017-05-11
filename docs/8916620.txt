@@ -1,0 +1,4 @@
+Analysis of prevention program effectiveness with clustered data using generalized estimating equations.
+
+Experimental studies of prevention programs often randomize clusters of individuals rather than individuals to treatment conditions. When the correlation among individuals within clusters is not accounted for in statistical analysis, the standard errors are biased, potentially resulting in misleading conclusions about the significance of treatment effects. This study demonstrates the generalized estimating equations (GEE) method, focusing specifically on the GEE-independent method, to control for within-cluster correlation in regression models with either continuous or binary outcomes. The GEE-independent method yields consistent and robust variance estimates. Data from project DARE, a youth substance abuse prevention program, are used for illustration.
+

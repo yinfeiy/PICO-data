@@ -1,0 +1,8 @@
+LDL cholesterol-raising effect of low-dose docosahexaenoic acid in middle-aged men and women.
+
+BACKGROUND Long-chain n-3 polyunsaturated fatty acids have variable effects on LDL cholesterol, and the effects of docosahexaenoic acid (DHA) are uncertain.
+OBJECTIVE The objective of the study was to determine the effect on blood lipids of a daily intake of 0.7 g DHA as triacylglycerol in middle-aged men and women.
+DESIGN Men and women aged 40-65 y (n = 38) underwent a double-blind, randomized, placebo-controlled, crossover trial of treatment with 0.7 g DHA/d for 3 mo.
+RESULTS DHA supplementation increased the DHA concentration in plasma by 76% (P < 0.0001) and the proportion in erythrocyte lipids by 58% (P < 0.0001). Values for serum total cholesterol, LDL cholesterol, and plasma apolipoprotein B concentrations were 4.2% (0.22 mmol/L; P = 0.04), 7.1% (0.23 mmol/L; P = 0.004), and 3.4% (P = 0.03) higher, respectively, with DHA treatment than with placebo. In addition, the LDL cholesterol:apolipoprotein B ratio was 3.1% higher with DHA treatment than with placebo (P = 0.04), which suggested an increase in LDL size. Plasma lathosterol and plant sterol concentrations were unaffected by treatment.
+CONCLUSION A daily intake of approximately 0.7 g DHA increases LDL cholesterol by 7% in middle-aged men and women. It is suggested that DHA down-regulates the expression of the LDL receptor.
+

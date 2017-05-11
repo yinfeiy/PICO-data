@@ -1,0 +1,4 @@
+The influence of rTMS over the left dorsolateral prefrontal cortex on Stroop task performance.
+
+Several studies have demonstrated that repetitive transcranial magnetic stimulation (rTMS) can improve cognitive processing. Neuroimaging studies have shown the engagement of the left dorsolateral prefrontal cortex (DLPFC) in executive functioning, and more specifically during selective attention. In the present study, the influence of high-frequency rTMS over the left DLPFC on Stroop task performance in healthy female volunteers was investigated. As expected, reaction time on both the incongruent and congruent trials decreased significantly after stimulation, and there was no difference with regard to the Stroop interference effect. Mood remained unchanged after rTMS. Such a pattern is consistent with the role of the left DLPFC in implementing top-down attentional control.
+

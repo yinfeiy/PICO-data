@@ -1,0 +1,7 @@
+Effect of postmenopausal hormonal replacement therapy on mammographic density and parenchymal pattern.
+
+PURPOSE To measure changes and predictors of change in mammograms obtained in postmenopausal women undergoing continuous combined hormonal replacement therapy (HRT).
+MATERIALS AND METHODS Mammograms of 41 postmenopausal women obtained before and 1 year after the initiation of HRT were evaluated blindly according to the quantitative density percentage method and the Wolfe classification system.
+RESULTS Mammographic densities increased compared with baseline values in 73% of subjects (mean increase, 6.7%; 95% confidence interval, 2.5%, 11.0%; P = .003). A shift in Wolfe classification from lower to greater parenchymal density was noted in 24% of subjects (P = .016). Multivariate analysis results indicated that the lower the tissue density percentage before treatment, the greater the increase in density percentage after treatment.
+CONCLUSION An increase in mammographic density was demonstrated in most subjects undergoing continuous combined HRT and was most pronounced in subjects with a lower baseline density percentage.
+

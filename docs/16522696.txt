@@ -1,0 +1,12 @@
+Efficacy and safety of oral conivaptan: a V1A/V2 vasopressin receptor antagonist, assessed in a randomized, placebo-controlled trial in patients with euvolemic or hypervolemic hyponatremia.
+
+CONTEXT Hyponatremia [serum sodium concentration ([Na(+)]), <135 mEq/liter] is the most common fluid and electrolyte abnormality among hospitalized patients. It is frequently caused by the inappropriate release of arginine vasopressin.
+OBJECTIVE The objective of this study was to evaluate the efficacy and safety of oral conivaptan, a vasopressin V(1A)/V(2) receptor antagonist, in patients with euvolemic or hypervolemic hyponatremia.
+DESIGN The study design was a 5-d placebo-controlled, randomized, double-blind study.
+SETTING The study was performed at a hospital.
+INTERVENTION Oral conivaptan (40 or 80 mg/d) or placebo was given in two divided doses.
+PATIENTS Seventy-four patients (average baseline serum [Na(+)], 115 to <130 mEq/liter) were studied.
+MAIN OUTCOME MEASURE The main outcome measure was the change from baseline in serum [Na(+)] area under the curve.
+RESULTS The least-squares mean change from baseline in the serum [Na(+)] area under the curve with conivaptan (40 and 80 mg/d) was 2.0-fold (P = 0.03) and 2.5-fold (P < 0.001) greater, respectively, than that with placebo. The median time to achieve a confirmed increase in serum [Na(+)] of 4 mEq/liter or more from baseline was 71.7 h for placebo, 27.5 h for 40 mg/d conivaptan (P = 0.044), and 12.1 h for 80 mg/d conivaptan (P = 0.002). The mean total times during which patients had a serum [Na(+)] level of 4 mEq/liter or more above baseline were 46.5, 69.8, and 88.8 h (P = 0.001), respectively. The least-squares mean change in serum [Na(+)] from baseline to end of treatment was 3.4 mEq/liter for placebo, 6.4 mEq/liter for 40 mg/d conivaptan, and 8.2 mEq/liter for 80 mg/d conivaptan (P = 0.002). A confirmed normal serum [Na(+)] (>/=135 mEq/liter) or increase of 6 mEq/liter or more was observed in 48% of patients given placebo, 71% given 40 mg/d conivaptan, and 82% given 80 mg/d conivaptan (P = 0.014). Headache, hypotension, nausea, constipation, and postural hypotension were the most common adverse events.
+CONCLUSION Oral conivaptan (40 and 80 mg/d) was well tolerated and efficacious in correcting serum [Na(+)] in hyponatremia.
+

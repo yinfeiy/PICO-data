@@ -1,0 +1,7 @@
+Pharmacogenetic interaction analysis for the efficacy of systemic treatment in metastatic colorectal cancer.
+
+BACKGROUND Pharmacogenetic markers related to drug metabolism and mechanisms of action could help to better select patients with metastatic colorectal cancer (mCRC) for treatment. Genetic interaction analysis is used as a rational tool to study the contribution of polygenic variation in relation to drug response.
+PATIENTS AND METHODS A selection of 17 polymorphisms in genes encoding drug targets, pathway molecules and detoxification enzymes was analyzed in 279 previously untreated mCRC patients treated with capecitabine, oxaliplatin and bevacizumab (CAPOX-B). Multifactor dimensionality reduction analysis was used to identify a genetic interaction profile for progression-free survival (PFS).
+RESULTS Median PFS was 10.9 [95% confidence interval (CI) 9.4-12.4] months. A genetic interaction profile consisting of the TYMS enhancer region and VEGF +405G>C polymorphisms was significantly associated with PFS. Median PFS was 13.3 (95% CI 11.4-15.3) and 9.7 (95% CI 7.6-11.8) months for the beneficial and unfavorable genetic profiles, respectively, corresponding to a hazards ratio for PFS of 1.58 (95% CI 1.14-2.19). None of the studied polymorphisms were individually associated with PFS.
+CONCLUSIONS Our results support a genetic interaction between the TYMS enhancer region and VEGF +405G>C polymorphisms as a predictor of the efficacy of CAPOX-B in mCRC patients.
+

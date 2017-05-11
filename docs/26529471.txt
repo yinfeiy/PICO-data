@@ -1,0 +1,11 @@
+Reducing Sitting Time After Stroke: A Phase II Safety and Feasibility Randomized Controlled Trial.
+
+OBJECTIVE To test the safety, feasibility, and effectiveness of reducing sitting time in stroke survivors.
+DESIGN Randomized controlled trial with attention-matched controls and blinded assessments.
+SETTING Community.
+PARTICIPANTS Stroke survivors (N=35; 22 men; mean age, 66.9±12.7y).
+INTERVENTIONS Four counseling sessions over 7 weeks with a message of sit less and move more (intervention group) or calcium for bone health (attention-matched control group).
+MAIN OUTCOME MEASURES Measures included safety (adverse events, increases in pain, spasticity, or fatigue) and feasibility (adherence to trial protocol). Secondary measures included time spent sitting (including in prolonged bouts ≥30min), standing, and stepping as measured by the thigh-worn inclinometer (7d, 24h/d protocol) and time spent in physical activity of at least moderate intensity as measured by a triaxial accelerometer. The Multimedia Activity Recall for Children and Adults was used to describe changes in use of time.
+RESULTS Thirty-three participants completed the full protocol. Four participants reported falls during the intervention period with no other adverse events. From a baseline average of 640.7±99.6min/d, daily sitting time reduced on average by 30±50.6min/d (95% confidence interval [CI], 5.8-54.6) in the intervention group and 40.4±92.5min/d in the control group (95% CI, 13.0-93.8). Participants in both groups also reduced their time spent in prolonged sitting bouts (≥30min) and increased time spent standing and stepping.
+CONCLUSIONS Our protocol was both safe and feasible. Participants in both groups spent less time sitting and more time standing and stepping postintervention, but outcomes were not superior for intervention participants. Attention matching is desirable in clinical trials and may have contributed to the positive outcomes for control participants.
+

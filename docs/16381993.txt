@@ -1,0 +1,8 @@
+GH effect on enzyme activity of 11betaHSD in abdominal obesity is dependent on treatment duration.
+
+OBJECTIVE In the past years the interaction of GH and 11beta hydroxysteroid dehydrogenase (11betaHSD) in the pathogenesis of central obesity has been suggested.
+DESIGN We studied the effects of 9 months of GH treatment on 11betaHSD activity and its relationship with body composition and insulin sensitivity in 30 men with abdominal obesity, aged 48-66 years, in a randomised, double-blind, placebo-controlled trial.
+METHODS Urinary steroid profile was used to estimate 11betaHSD type 1 and 2 (11betaHSD1 and 11betaHSD2) activities. Abdominal s.c. and visceral adipose tissues were measured using computed tomography. Glucose disposal rate (GDR) obtained during a euglycaemic-hyperinsulinaemic glucose clamp was used to assess insulin sensitivity.
+RESULTS In the GH-treated group the 11betaHSD1 activity decreased transiently after 6 weeks (P < 0.01) whereas 11betaHSD2 increased after 9 months of treatment (P < 0.05). Between 6 weeks and 9 months, GDR increased and visceral fat mass decreased. Changes in 11betaHSD1 correlated with changes in visceral fat mass between baseline and 6 weeks. There were no significant correlations between 11betaHSD1 and 11betaHSD 2 and changes in GDR.
+DISCUSSION The study demonstrates that short- and long-term GH treatment has different effects on 11betaHSD1 and 11betaHSD2 activity. Moreover, the data do not support that long-term metabolic effects of GH are mediated through its action on 11betaHSD.
+

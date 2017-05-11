@@ -1,0 +1,7 @@
+Safety and efficacy of oral DMSA therapy for children with autism spectrum disorders: part B - behavioral results.
+
+BACKGROUND This study investigated the effects of oral dimercapto succinic acid (DMSA) therapy on the behavioural symptoms of children with autism spectrum disorders (ASD) ages 3-8 years.
+METHODS Phase 1 involved 65 children with ASD who received one round of DMSA (3 days). Participants who had high urinary excretion of toxic metals were selected to continue on to phase 2. In phase 2, 49 participants were randomly assigned in a double-blind design to receive an additional 6 rounds of either DMSA or placebo.
+RESULTS The groups receiving one round and seven rounds of DMSA had significant improvements on all the assessment measures. For the seven round group, the degree of improvement on the assessment measures could be partially explained by a regression analysis based on excretion of toxic metals and changes in glutathione (adjusted R2 of 0.28-0.75, p < 0.02 in all cases). One round of DMSA had nearly the same benefit as seven rounds. The assessment measures correlated reasonably with one another at the beginning of the study (r = 0.60-0.87) and even better at the end of the study (r = 0.63-0.94).
+CONCLUSION Overall, both one and seven rounds of DMSA therapy seems to be reasonably safe in children with ASD who have high urinary excretion of toxic metals, and possibly helpful in reducing some of the symptoms of autism in those children.
+

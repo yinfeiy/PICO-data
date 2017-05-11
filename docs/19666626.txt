@@ -1,0 +1,11 @@
+Ultrasonographic tissue characterisation of human Achilles tendons: quantification of tendon structure through a novel non-invasive approach.
+
+OBJECTIVE To assess whether three-dimensional imaging of the Achilles tendon by ultrasonographic tissue characterisation (UTC) can differentiate between symptomatic and asymptomatic tendons.
+DESIGN Case-control study.
+SETTING Sports Medical Department of the Hague Medical Centre.
+PATIENTS Twenty-six tendons from patients with chronic midportion Achilles tendinopathy were included. The "matched" control group consisted of 26 asymptomatic tendons.
+INTERVENTIONS Symptomatic and asymptomatic tendons were scanned using the UTC procedure. One researcher performed the ultrasonographic data collection. These blinded data were randomised, and outcome measures were determined by two independent observers.
+MAIN OUTCOME MEASUREMENTS The raw ultrasonographic images were analysed with a custom-designed algorithm that quantifies the three-dimensional stability of echo patterns, qua intensity and distribution over contiguous transverse images. This three-dimensional stability was related to tendon structure in previous studies. UTC categorises four different echotypes that represent (I) highly stable; (II) medium stable; (III) highly variable and (IV) constantly low intensity and variable distribution. The percentages of echo-types were calculated, and the maximum tendon thickness was measured. Finally, the inter-observer reliability of UTC was determined.
+RESULTS Symptomatic tendons showed less pixels in echo-types I and II than asymptomatic tendons (51.5% vs 76.6%, p<0.001), thus less three-dimensional stability of the echo pattern. The mean maximum tendon thickness was 9.2 mm in the symptomatic group and 6.8 mm in the asymptomatic group (p<0.001). The Intraclass Correlation Coefficient (ICC) for the interobserver reliability of determining the echo-types I+II was 0.95. The ICC for tendon thickness was 0.84.
+CONCLUSION UTC can quantitatively evaluate tendon structure and thereby discriminate symptomatic and asymptomatic tendons. As such, UTC might be useful to monitor treatment protocols.
+

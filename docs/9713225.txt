@@ -1,0 +1,7 @@
+Laser therapy combined with brachytherapy for the palliation of malignant dysphagia.
+
+BACKGROUND/AIM OF STUDY Laser therapy is effective in relieving malignant dysphagia, but repeated treatments at 4 to 6 week intervals are usually required. This prospective randomised trial is designed to determine if addition of brachytherapy offers any advantages over laser therapy alone.
+METHODS Patients with inoperable carcinoma of the oesophagus were randomised to receive either endoscopic Nd:YAG laser therapy alone, or laser followed by brachytherapy. Patients who developed worsening dysphagia during follow-up were offered further treatment as appropriate.
+RESULTS Fourteen patients were randomised to receive laser only, and 12 to receive laser followed by brachytherapy. Of these 12, one was lost to follow-up and four did not receive brachytherapy because they were unfit, had extension into the cardia or had mainly extrinsic compression. These 4 are included on an 'intention-to-treat' basis. The mean therapeutic interval for the brachytherapy group was significantly longer, 83 days compared to 36 days for the laser group (p = 0.026). There were no differences in the degree of dysphagia relief, number of endoscopic procedures or survival times.
+CONCLUSION The preliminary results of this trial suggest that brachytherapy in addition to laser therapy prolongs the first therapeutic interval. However, no long-term advantages have been shown.
+

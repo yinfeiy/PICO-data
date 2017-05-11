@@ -1,0 +1,12 @@
+Early psychosocial intervention in Alzheimer's disease: cost utility evaluation alongside the Danish Alzheimer's Intervention Study (DAISY).
+
+OBJECTIVE To assess the cost utility of early psychosocial intervention for patients with Alzheimer's disease and their primary caregivers.
+DESIGN Cost utility evaluation alongside a multicentre, randomised controlled trial with 3 years of follow-up.
+SETTING Primary care and memory clinics in five Danish districts.
+PARTICIPANTS 330 community-dwelling patients and their primary caregivers.
+INTERVENTION Psychosocial counselling and support lasting 8-12 months after diagnosis and follow-up at 3, 6, 12 and 36 months in the intervention group or follow-up only in the control group.
+MAIN OUTCOME MEASURES The primary outcome measure was the cost of additional quality-adjusted life years (QALYs). Costs were measured from a societal perspective, including the costs of healthcare, social care, informal care and production loss. QALYs were estimated separately for the patient and the caregiver before aggregation for the main analysis.
+RESULTS None of the observed cost and QALY measures were significantly different between the intervention and control groups, although a tendency was noted for psychosocial care leading to cost increases with informal care that was not outweighed by the tendency for cost savings with formal care. The probability of psychosocial intervention being cost-effective did not exceed 36% for any threshold value. The alternative scenario analysis showed that the probability of cost-effectiveness increased over the range of threshold values used if the cost perspective was restricted to formal healthcare.
+CONCLUSIONS A multifaceted, psychosocial intervention programme was found unlikely to be cost-effective from a societal perspective. The recommendation for practice in settings that are similar to the Danish setting is to provide follow-up with referral to available local support programmes when needed, and to restrict large multifaceted intervention programmes to patients and caregivers with special needs until further evidence for cost-effectiveness emerges.
+TRIAL REGISTRATION The study was registered in the Clinical Trial Database as ISRCTN74848736.
+

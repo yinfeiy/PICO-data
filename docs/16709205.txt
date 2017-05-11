@@ -1,0 +1,11 @@
+Late miscarriage and preterm birth after treatment with clindamycin: a randomised consent design study according to Zelen.
+
+OBJECTIVE To screen for bacterial vaginosis (BV) and to investigate the effect of treatment with vaginal clindamycin in order to observe the effect on late miscarriage and delivery prior to 37 completed weeks (primary outcome).
+DESIGN Randomised consent design for clinical trials according to Zelen.
+SETTING Southeast region of Sweden.
+POPULATION A total of 9025 women were screened in early pregnancy.
+METHODS A total of 819 women with a Nugent score of 6 and above were considered to have BV and treated according to Zelen allocation. The incidence of late miscarriage and spontaneous (noniatrogenic) preterm birth was assessed.
+MAIN OUTCOME MEASURES Late miscarriage and spontaneous preterm delivery before 37 weeks.
+RESULTS Therapy with vaginal clindamycin had no significant impact on the incidence of spontaneous preterm delivery prior to 37 completed weeks; OR 0.90, 95% CI 0.40-2.02 (primary outcome variable). However, only 1 of 11 women in the treatment group versus 5 of 12 in the control group delivered prior to 33 completed weeks; OR 0.14, 95% CI 0.02-0.95. Treatment was associated with 32 days longer gestation for the 23 participants who had late miscarriage or spontaneous preterm birth (P= 0.024, Mann-Whitney U test) and significantly fewer infants had a birthweight below 2,500 g (secondary outcome). A follow up of infants born preterm 4 years postnatally indicated that extending gestational age did not increase the number of sequelae.
+CONCLUSIONS Clindamycin vaginal cream therapy was associated with significantly prolonged gestation and reduced cost of neonatal care in women with BV. Early screening for BV and treatment with clindamycin saved approximately 27 euro per woman.
+

@@ -1,0 +1,11 @@
+Reducing blood loss at open myomectomy using triple tourniquets: a randomised controlled trial.
+
+OBJECTIVES To evaluate triple tourniquets in controlled conditions and for the first time to investigate the hypothesis that leaving a semi-permanent tourniquet around the uterine artery reduces post-operative bleeding from the uterine incisions.
+DESIGN A randomised controlled trial.
+SETTING Two University teaching hospitals.
+POPULATION Twenty-eight patients with symptomatic fibroids and uterine sizes ranging from 14 to 24 weeks of gestation undergoing open myomectomy.
+METHODS A number 1 polyglactin suture was tied around the cervix to occlude the uterine arteries, and polythene tourniquets were tied around the infundibulopelvic ligament to obstruct the ovarian vessels. At the end of the procedure, the ovarian ties were released but the uterine artery suture remained in situ.
+MAIN OUTCOME MEASURES Intra-operative blood loss, post-operative blood loss, blood transfusion rates, operative morbidity, uterine blood flow and ovarian function.
+RESULTS There was significantly less blood lost in the tourniquet group than in the control group (difference between means 1870 mL, 95% CI 1159-2580 mL, P < 0.0001; transfusion rates of 7% and 79%, P= 0.0003). The volume in the pelvic drain 20 min post-operatively and after 48 hours failed to reach statistical significance between the two groups (P= 0.10 and P= 0.165). There were no differences in uterine artery Doppler resistance indices at five days (P= 0.54), six weeks (P= 0.47), three months (P= 0.49) and at six months (P= 0.18). Day two serum FSH concentrations after surgery were unchanged (P= 0.45), compared with baseline values.
+CONCLUSIONS Triple tourniquets are effective in reducing bleeding and transfusion rates. There appears no obvious adverse effect on uterine perfusion or ovarian function.
+

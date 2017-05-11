@@ -1,0 +1,9 @@
+Can a questionnaire predict vitamin D status in postmenopausal women?
+
+OBJECTIVE Our objective was to determine whether a questionnaire can identify individuals with vitamin D insufficiency (VDI).
+DESIGN Women completed the Vitamin D & Sun (VIDSUN) questionnaire and we measured their serum 25-hydrocyvitamin D (25(OH)D) levels. We assessed the sensitivity and specificity of the questionnaire to identify VDI (25(OH)D level <50 nmol/l).
+SETTING Clinical Research Unit, University of Wisconsin-Madison.
+SUBJECTS Postmenopausal women.
+RESULTS We recruited 609 postmenopausal women with a mean age of 61 (sd 6 years), of whom 113 (19%) had VDI. Women with VDI were more likely to be black (17% v. 2%, P < 0.001), heavier (BMI 33.0 (sd 7) kg/m2 v. 29.0 (sd 7) kg/m2, P < 0.001) and less likely to tan in the past year (49% v. 72%, P < 0.001), use sunscreen (57% v. 72%, P < 0.001) or report sun exposure in the last 3 months. They consumed less vitamin D from supplements (2.15 (sd 5.24) μg/d (86 (sd 210) IU/d) v. 4.55 (sd 8.48) μg/d (188 (sd 344) IU/d), P = 0.003). In logistic regression models, black race, BMI, suntan within the past year, sun exposure in the past 3 months, sunscreen use and supplemental vitamin D intake were the most useful questions to identify VDI. From these six items, a composite score of ≤ 2.25 demonstrated ≥89% sensitivity but ≤35% specificity for VDI.
+CONCLUSIONS The VIDSUN questionnaire provides an initial tool to identify postmenopausal women at high or low risk of VDI. Existing studies suggest that inclusion of physical activity and TAG levels might improve the performance of the VIDSUN questionnaire.
+

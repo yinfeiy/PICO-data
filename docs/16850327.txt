@@ -1,0 +1,7 @@
+Effects of single doses of rabeprazole 20 mg and esomeprazole 40 mg on 24-h intragastric pH in healthy subjects.
+
+OBJECTIVE To compare antisecretory effects of single doses of rabeprazole and esomeprazole.
+METHODS Open, randomised, 2-way crossover, clinical pharmacology study. 24 healthy subjects (10 men; mean age 26.2 y) received a single dose of rabeprazole 20 mg or esomeprazole 40 mg, with a 14-day 'washout'. Intragastric pH was recorded continuously from 24 h before to 24 h after dosing.
+RESULTS Mean intragastric pH was higher after esomeprazole than rabeprazole during 0-5 h after dosing (P=0.0001); the reverse was true from 14-24 h (P=0.0002). Mean % time pH>3 and >4 was greater after esomeprazole than rabeprazole during 0-14 h (P=0.041 and 0.044), but the reverse was true during 14-24 h (P=0.0005 and 0.001). In the 0-24 h interval as a whole, there was no difference between treatments in mean pH or % time pH>3 or >4.
+CONCLUSION Single-dose rabeprazole 20 mg was as effective as esomeprazole 40 mg in increasing intragastric pH and maintaining pH>3 and >4, despite the 2-fold difference in dose.
+

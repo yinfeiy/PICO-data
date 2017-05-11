@@ -1,0 +1,4 @@
+Visual feedback and target size effects on reach-to-grasp tasks in children with autism.
+
+This study explores the effects of visual condition and target size during four reach-to-grasp tasks between autistic children and healthy controls. Twenty children with autism and 20 healthy controls participated in the study. Qualisys motion capture system and kinematic measures were used to record movement. Autistic group showed significantly longer movement time, larger normalized jerk score, more movement unit than controls, especially in non-visual feedback and small target blocks. Autistic group also showed significantly larger maximal grip aperture and normalized maximal grip aperture in visual feedback condition than controls. Autistic children demonstrate motor coordination problems and also depend on more visual cuing in high accuracy tasks. Autistic children develop other compensatory skills while performing tasks.
+

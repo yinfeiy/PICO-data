@@ -1,0 +1,9 @@
+Oat ingestion reduces systolic and diastolic blood pressure in patients with mild or borderline hypertension: a pilot trial.
+
+OBJECTIVES We assessed the short-term antihypertensive effects of soluble fiber-rich whole oat cereals when added to a standard American diet. In addition, multiple assessments of insulin sensitivity were conducted.
+STUDY DESIGN This was a randomized, controlled, parallel-group pilot study designed to compare an oat cereal group (standardized to 5.52 g/day beta-glucan) to a low-fiber cereal control group (less than 1.0 g/day total fiber) over 6 weeks.
+POPULATION A total of 18 hypertensive and hyperinsulinemic (= 10 U/mL or more) men and women completed the trial.
+OUTCOMES MEASURED Primary study outcomes were changes in systolic blood pressure (SBP) and diastolic blood pressure (DBP). Secondary outcomes included blood lipid, fasting glucose, and insulin levels and side effects related to elevated blood pressure and increased dietary fiber intake.
+RESULTS The oat cereal group experienced a 7.5 mm Hg reduction in SBP (P &lt.01) and a 5.5 mm Hg reduction in DBP (P &lt.02), while there was virtually no change in either SBP or DBP in the control group. In the oat cereal group, a trend was observed for a lower total insulin response to a glucose load, suggesting improved insulin sensitivity. However, this could not be confirmed using estimates from the Bergman Minimal Model, perhaps because of our small sample size. The oats group experienced a significant reduction in both total cholesterol (9%) and low-density lipoprotein cholesterol (14%).
+CONCLUSIONS The addition of oat cereals to the normal diet of patients with hypertension significantly reduces both SBP and DBP. Soluble fiber-rich whole oats may be an effective dietary therapy in the prevention and adjunct treatment of hypertension.
+

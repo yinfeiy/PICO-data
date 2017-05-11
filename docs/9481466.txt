@@ -1,0 +1,10 @@
+Randomized controlled study of customized preventive medicine reminder letters in a community practice.
+
+OBJECTIVE To test the effectiveness of customized, family-oriented reminder letters in activating patients to seek appropriate preventive services.
+DESIGN Randomized clinical trial. One group received computer-generated, customized letters explaining recommended preventive procedures for each family member. A second group received a form letter listing recommendations for all preventive procedures for all age and sex groups. A third group (control group) received no letters.
+SETTING A private medical centre, without university affiliation, in rural Quebec.
+PARTICIPANTS From 8770 patients who met study criteria, 719 families were randomly selected. Data were available for 1971 of 1998 patients in these families.
+MAIN OUTCOME MEASURES The Family Received Index is the proportion of all procedures for which a family was overdue that they received. The Family End-of-study Up-to-date Index is the proportion of procedures for which the family was eligible and for which they were up-to-date at the end of the study.
+RESULTS The Family Received Index for families mailed customized letters was more than double the index for patients not mailed letters (Kruskal-Wallis P = .0139). Comparison of the Family End-of-study Up-to-date indices also demonstrated that families of patients sent customized letters were more likely to be up-to-date than families not sent letters (Kruskal-Wallis P = .0054). No statistically significant difference appeared between the number of preventive measures received by the control group and the form-letter group.
+CONCLUSIONS This study demonstrates a clinically small but statistically significant value to customizing reminder letters.
+

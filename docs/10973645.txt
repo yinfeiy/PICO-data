@@ -1,0 +1,11 @@
+Randomized trial of a "stage-of-change" oriented smoking cessation intervention in infertile and pregnant women.
+
+OBJECTIVE To assess a "stage-of-change" oriented smoking cessation intervention for infertile and pregnant women, compared with standard of care.
+DESIGN Randomized controlled trial.
+SETTING Three university teaching hospitals in Hamilton, Ontario, Canada.
+PATIENT(S) Infertile women at their first visit to a tertiary referral infertility clinic (n = 94) and new patients seeking pre-natal care (n = 110) who had smoked >/= 3 cigarettes in the past six months.
+INTERVENTION(S) A three to five minute scripted intervention and booklet specific to the woman's "stage-of-change" in the smoking continuum, versus standard of care. Exhaled carbon-monoxide (CO) monitoring was used to validate exposure in both groups.
+MAIN OUTCOME MEASURE(S) Delta "stage-of-change" and rate of maintained cessation at 12 months post follow-up.
+RESULT(S) Intervention and control were similarly effective for infertile women: the rate of maintained cessation rose significantly from 4% to 24% over twelve months, with a mean delta "stage-of-change" 0.28. In prenatal women, neither approach was effective. Maintained cessation did not significantly change from 0 to 12 months (19% to 18%). Mean delta "stage-of-change" declined by -0.62.
+CONCLUSION(S) For infertile women, basic information describing the impact of smoking on fertility, along with exhaled CO monitoring and a more intensive intervention were both highly effective. In pregnant women neither approach was beneficial, with some evidence of post-partum relapse.
+

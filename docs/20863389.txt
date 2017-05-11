@@ -1,0 +1,7 @@
+A phase II randomized trial comparing radiotherapy with concurrent weekly cisplatin or weekly paclitaxel in patients with advanced cervical cancer.
+
+PURPOSE/OBJECTIVE This is a prospective comparison of weekly cisplatin to weekly paclitaxel as concurrent chemotherapy with standard radiotherapy for locally advanced cervical carcinoma.
+MATERIALS/METHODS Between May 2000 and May 2004, 31 women with FIGO stage IB2-IVA cervical cancer or with postsurgical pelvic recurrence were enrolled into this phase II study and randomized to receive on a weekly basis either 40 mg/m² Cisplatin (group I; 16 patients) or 50 mg/m² paclitaxel (group II; 15 patients) concurrently with radiotherapy. Median total dose to point A was 74 Gy (range: 66-92 Gy) for group I and 66 Gy (range: 40-98 Gy) for group II. Median follow-up time was 46 months.
+RESULTS Patient and tumor characteristics were similar in both groups. The mean number of chemotherapy cycles was also comparable with 87% and 80% of patients receiving at least 4 doses in groups I and II, respectively. Seven patients (44%) of group I and 8 patients (53%) of group II developed tumor recurrence. The Median Survival time was not reached for Group I and 53 months for group II. The proportion of patients surviving at 2 and 5 years was 78% and 54% for group I and 73% and 43% for group II respectively.
+CONCLUSIONS This small prospective study shows that weekly paclitaxel does not provide any clinical advantage over weekly cisplatin for concurrent chemoradiation for advanced carcinoma of the cervix.
+

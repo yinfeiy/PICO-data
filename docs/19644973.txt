@@ -1,0 +1,7 @@
+Randomized clinical trial comparing laparoscopic and open surgery in patients with rectal cancer.
+
+BACKGROUND The laparoscopic treatment of rectal cancer is controversial. This study compared surgical outcomes after laparoscopic and open approaches for mid and low rectal cancers.
+METHODS Some 204 patients with mid and low rectal adenocarcinomas were allocated randomly to open (103) or laparoscopic (101) surgery. The surgical team was the same for both procedures. Most patients had stage II or III disease, and received neoadjuvant therapy with oral capecitabine and 50-54 Gy external beam radiotherapy.
+RESULTS Sphincter-preserving surgery was performed in 78.6 and 76.2 per cent of patients in the open and laparoscopic groups respectively. Blood loss was significantly greater for open surgery (P < 0.001) and operating time was significantly greater for laparoscopic surgery (P = 0.020), and return to diet and hospital stay were longer for open surgery. Complication rates, and involvement of circumferential and radial margins were similar for both procedures, but the number of isolated lymph nodes was greater in the laparoscopic group (mean 13.63 versus 11.57; P = 0.026). There were no differences in local recurrence, disease-free or overall survival.
+CONCLUSION Laparoscopic surgery for rectal cancer has a similar complication rate to open surgery, with less blood loss, rapid intestinal recovery, shorter hospital stay, and no compromise of oncological outcomes.
+

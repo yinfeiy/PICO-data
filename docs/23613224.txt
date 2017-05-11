@@ -1,0 +1,8 @@
+Home-based versus hospital-based high-intensity interval training in cardiac rehabilitation: a randomized study.
+
+BACKGROUND High-intensity interval training (HIT) as exercise therapy is gradually implemented in cardiac rehabilitation as the cardiovascular benefits from exercise is intensity dependent. However, in previous studies, HIT has been performed with strict supervision. The aim of the study was to assess the feasibility and effectiveness of different modes of HIT in cardiac rehabilitation.
+DESIGN a randomized clinical study.
+METHODS Ninety participants with coronary artery disease (80 men/10 women, mean age 57 ± 8 years) were randomly assigned to one of three exercise modes: group exercise (GE), treadmill exercise (TE), or home-based exercise (HE). HIT was performed twice a week for 12 weeks with an exercise intensity of 85-95% of peak heart rate. The primary outcome measure was change in peak oxygen uptake (peak VO2).
+RESULTS Eighty-three participants (92%) completed the intervention without any severe adverse events. Peak VO2 increased from 34.7 ± 7.3 to 39.0 ± 8.0 ml/kg/min, 32.7 ± 6.5 to 36.0 ± 6.2 ml/kg/min, and 34.4 ± 4.8 to 37.2 ± 5.2 ml/kg/min in TE, GE, and HE, respectively. Mean group difference for TE vs. HE was 1.6 ml/kg/min (95% confidence interval, CI, 0.7 to 3.1, p = 0.02), TE vs. GE 1.1 ml/kg/min (95% CI-0.5 to 2.5, p = 0.27), and GE vs. HE 0.6 ml/kg/min (95% CI -1.0 to 2.1, p = 1). However, on-treatment analysis showed no significant difference between groups.
+CONCLUSION HIT was efficiently performed in three settings of cardiac rehabilitation, with respect to target exercise intensity, exercise attendance, and increase in peak VO2. Exercise mode was not essential for exercise capacity.
+

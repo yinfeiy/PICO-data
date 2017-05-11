@@ -1,0 +1,7 @@
+Effectiveness of a clinical intervention in improving pain control in outpatients with cancer treated by radiation therapy.
+
+PURPOSE To determine the effectiveness of a multicomponent clinical intervention to reduce pain in outpatients with cancer.
+METHODS AND MATERIALS Sixty-four patients were randomly assigned to receive either a clinical intervention including an information session, the use of a pain diary, and the possibility to contact a physician to adjust the pain medication, or the usual treatment of pain by the staff radiation oncologist. All patients reported their average and worst pain levels at baseline and 2 and 3 weeks after the start of the intervention.
+RESULTS The study groups were similar with respect to their baseline characteristics and pain levels at randomization. After 3 weeks, the average and worst pain experienced by patients randomized to the clinical intervention group was significantly inferior to the average pain experienced by patients in the control group (2.9/10 vs. 4.4/10 and 4.2/10 vs. 5.5/10, respectively). Results showed that the experimental group patients decreased their pain levels more than the control group patients did over time.
+CONCLUSION An intervention including patient education, a pain diary, and defining a procedure for therapeutic adjustments can be effective to improve pain relief in outpatients with cancer.
+

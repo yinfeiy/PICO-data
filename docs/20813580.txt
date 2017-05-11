@@ -1,0 +1,7 @@
+Aerobic exercise improves self-reported sleep and quality of life in older adults with insomnia.
+
+OBJECTIVE To assess the efficacy of moderate aerobic physical activity with sleep hygiene education to improve sleep, mood and quality of life in older adults with chronic insomnia.
+METHODS Seventeen sedentary adults aged >or=55 years with insomnia (mean age 61.6 [SD±4.3] years; 16 female) participated in a randomized controlled trial comparing 16 weeks of aerobic physical activity plus sleep hygiene to non-physical activity plus sleep hygiene. Eligibility included primary insomnia for at least 3 months, habitual sleep duration <6.5h and a Pittsburgh Sleep Quality Index (PSQI) score >5. Outcomes included sleep quality, mood and quality of life questionnaires (PSQI, Epworth Sleepiness Scale [ESS], Short-form 36 [SF-36], Center for Epidemiological Studies Depression Scale [CES-D]).
+RESULTS The physical activity group improved in sleep quality on the global PSQI (p<.0001), sleep latency (p=.049), sleep duration (p=.04), daytime dysfunction (p=.027), and sleep efficiency (p=.036) PSQI sub-scores compared to the control group. The physical activity group also had reductions in depressive symptoms (p=.044), daytime sleepiness (p=.02) and improvements in vitality (p=.017) compared to baseline scores.
+CONCLUSION Aerobic physical activity with sleep hygiene education is an effective treatment approach to improve sleep quality, mood and quality of life in older adults with chronic insomnia.
+

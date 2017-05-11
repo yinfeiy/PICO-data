@@ -1,0 +1,8 @@
+The effect of arm support combined with rehabilitation games on upper-extremity function in subacute stroke: a randomized controlled trial.
+
+BACKGROUND Use of rehabilitation technology, such as (electro)mechanical devices or robotics, could partly relieve the increasing strain on stroke rehabilitation caused by an increasing prevalence of stroke. Arm support (AS) training showed improvement of unsupported arm function in chronic stroke.
+OBJECTIVE To examine the effect of weight-supported arm training combined with computerized exercises on arm function and capacity, compared with dose-matched conventional reach training in subacute stroke patients.
+METHODS In a single-blind, multicenter, randomized controlled trial, 70 subacute stroke patients received 6 weeks of training with either an AS device combined with computerized exercises or dose-matched conventional training (CON). Arm function was evaluated pretraining and posttraining by Fugl-Meyer assessment (FM), maximal reach distance, Stroke Upper Limb Capacity Scale (SULCS), and arm pain via Visual Analogue Scale, in addition to perceived motivation by Intrinsic Motivation Inventory posttraining.
+RESULTS FM and SULCS scores and reach distance improved significantly within both groups. These improvements and experienced pain did not differ between groups. The AS group reported higher interest/enjoyment during training than the CON group.
+CONCLUSIONS AS training with computerized exercises is as effective as conventional therapy dedicated to the arm to improve arm function and activity in subacute stroke rehabilitation, when applied at the same dose.
+

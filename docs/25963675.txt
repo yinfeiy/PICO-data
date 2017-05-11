@@ -1,0 +1,7 @@
+Comparison of 4 supraglotttic devices used by paramedics during simulated CPR : a randomized controlled crossover trial.
+
+BACKGROUND Ensuring an open airway during cardiopulmonary resuscitation is fundamental. The aim of this study was to determine the success rate of blind intubation during simulated cardiopulmonary resuscitation by untrained personnel.
+METHODS Four devices were compared in a simulated resuscitation scenario: ILMA (Intavent Direct Ltd, Buckinghamshire, United Kingdom), Cobra PLA (Engineered Medical Systems Inc, Indianapolis, IN), Supraglottic Airway Laryngopharyngeal Tube (SALT) (ECOLAB, St. Paul, MN), and Air-Q (Mercury Medical, Clearwater, FL). A group of 210 paramedics intubated a manikin with continuous chest compressions.
+RESULTS The mean times to intubation were 40.46 ± 4.64, 33.96 ± 6.23, 17.2 ± 4.63, and 49.23 ± 13.19 seconds (SALT vs ILMA, Cobra PLA, and Air-Q; P < .05). The success ratios of blind intubation for the devices were 86.7%, 85.7%, 100%, and 71.4% (SALT vs ILMA, Cobra PLA, and Air-Q; P < .05).
+CONCLUSION The study showed that the most efficient device with the shortest blind intubation time was the SALT device.
+

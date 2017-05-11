@@ -1,0 +1,9 @@
+The effect of neighborhood-based community organizing: results from the Seattle Minority Youth Health Project.
+
+OBJECTIVE To evaluate the effect of a community mobilization and youth development strategy to prevent drug abuse, violence, and risky sexual activity.
+DATA SOURCES/STUDY SETTING Primary surveys of youth, parents, and key neighborhood leaders were carried out at baseline (1994) and at the end of the intervention period (1997). The study took place in four intervention and six control neighborhoods in Seattle.
+STUDY DESIGN The study was designed as a randomized controlled trial with neighborhood as the unit of randomization. The intervention consisted of a paid community organizer in each neighborhood who recruited a group of residents to serve as a community action board. Key variables included perceptions of neighborhood mobilization by youth, parents, and key neighborhood leaders.
+DATA COLLECTION/EXTRACTION METHODS Youth surveys were self-administered during school hours. Parent and neighborhood leader surveys were conducted over the phone by trained interviewers.
+PRINCIPAL FINDINGS Survey results showed that mobilization increased to the same degree in both intervention and control neighborhoods with no evidence of an overall intervention effect. There did appear to be a relative increase in mobilization in the neighborhood with the highest level of intervention activity.
+CONCLUSION This randomized study failed to demonstrate a measurable effect for a community mobilization intervention. It is uncertain whether the negative finding was because of a lack of strength of the interventions or problems detecting intervention effects using individual-level closed-end surveys.
+

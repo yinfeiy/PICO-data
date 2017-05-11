@@ -1,0 +1,11 @@
+Depressive mood symptoms associated with ovarian suppression.
+
+OBJECTIVE To determine if sertraline is helpful in the management of depressive symptoms associated with ovarian suppression during GnRH agonist therapy as compared with a placebo-controlled group.
+DESIGN Double-blind placebo-controlled prospective study design.
+SETTING An obstetrics/gynecological office specializing in infertility in an academic environment.
+PATIENT(S) Premenstrual women with laparoscopically diagnosed endometriosis who required GnRH agonist therapy for treatment and did not have significant depressive or premenstrual mood symptoms at baseline.
+INTERVENTION(S) Participants were randomly assigned to either the sertraline treatment group or to the placebo group for the 3-month duration of the GnRH agonist therapy.
+MAIN OUTCOME MEASURE(S) The 21-item Hamilton Rating Scale for Depression (HRSD), which is an instrument designed to assess depressive symptomatology.
+RESULT(S) A Hotellings T(2) test for repeated measure analysis indicated a statistically significant (P<.05) between-group difference across time for the HRSD (T(2) = 13.3; F[3, 28] = 4.1; P=.02) with the sertraline treatment group manifesting significantly fewer depressive symptoms than the control group.
+CONCLUSION(S) The results indicate that sertraline is an effective option in the management of depressive mood symptoms associated with ovarian suppression during GnRH agonist therapy.
+

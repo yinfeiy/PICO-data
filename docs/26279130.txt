@@ -1,0 +1,4 @@
+The VA augmentation and switching treatments for improving depression outcomes (VAST-D) study: Rationale and design considerations.
+
+Because two-thirds of patients with Major Depressive Disorder do not achieve remission with their first antidepressant, we designed a trial of three "next-step" strategies: switching to another antidepressant (bupropion-SR) or augmenting the current antidepressant with either another antidepressant (bupropion-SR) or with an atypical antipsychotic (aripiprazole). The study will compare 12-week remission rates and, among those who have at least a partial response, relapse rates for up to 6 months of additional treatment. We review seven key efficacy/effectiveness design decisions in this mixed "efficacy-effectiveness" trial.
+

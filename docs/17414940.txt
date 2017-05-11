@@ -1,0 +1,7 @@
+Neurophysiological double-blind trial of a botulinum neurotoxin type a free of complexing proteins.
+
+OBJECTIVE Safety and efficacy of botulinum neurotoxin type A preparation NT 201 (Xeomin, Merz Pharmaceuticals GmbH, Frankfurt am Main, Germany) were investigated over 52 weeks in a double-blind, randomized trial with 32 male volunteers.
+METHODS Electroneurographic assessments with surface electrodes were performed after single injections of NT 201 (2, 4, 16, or 32 units) into the extensor digitorum brevis (EDB) muscle and the same dose (Botox; Allergan Pharmaceuticals (Ireland) Ltd. Westport, Ireland) into the contralateral EDB.
+RESULTS All NT 201 and BTXCo doses achieved a statistically significant reduction of the compound muscle action potential M-wave amplitude in the EDB muscle. At week 4, the highest dose was statistically significantly more effective than the lowest dose (NT 201, P = 0.019; 95% confidence interval, 0.195-1.370; and BTXCo, P = 0.002; 95% confidence interval, 0.309-1.167). Duration of effect was dose dependent. The mean values of compound muscle action potential M-wave amplitudes in the adjacent muscles (abductor digiti quinti and abductor hallucis) were above the predefined threshold of effect, indicating that there was no relevant diffusion-induced reduction of muscle activity. NT 201 and BTXCo were well tolerated.
+CONCLUSIONS NT 201 is effective and safe in inducing the desired paretic effect.
+

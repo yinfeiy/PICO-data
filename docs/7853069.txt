@@ -1,0 +1,10 @@
+Necessary but not sufficient: the effect of screening and feedback on outcomes of primary care patients with untreated anxiety.
+
+OBJECTIVE To consider the impact on primary care patient outcomes of using both a screener to determine elevated anxiety levels among patients with previously undetected anxiety and a physician intervention to inform physicians of their patients' conditions.
+DESIGN Participating physicians were randomized to either the demonstration or the control arm, and patients were assigned to a study arm based on the randomization of their physicians. The patients were followed for change in outcome measures during the five-month study period.
+SETTING A mixed-model health maintenance organization serving approximately 110,000 enrollees in central Colorado.
+PATIENTS/PARTICIPANTS 573 patients who had unrecognized and untreated anxiety identified from the approximately 8,000 patients who completed the waiting room screening questionnaire.
+INTERVENTIONS A physician intervention served the dual function of 1) providing an educational demonstration of anxiety in the primary care setting and 2) providing a reporting system for summarizing the anxiety symptom levels and functioning status of the patients enrolled in the study.
+MEASUREMENTS AND MAIN RESULTS Patient outcomes were measured as changes in global anxiety scores, functioning and well-being, and patients' reports of global improvements.
+CONCLUSIONS The findings indicate that this method of reporting symptoms and functioning status to primary care physicians did not significantly change patient outcomes. Improvement in outcomes appeared to be more closely associated with the patient's severity of psychological distress.
+

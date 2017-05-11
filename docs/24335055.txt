@@ -1,0 +1,8 @@
+Vitamin D supplementation increases calcium absorption without a threshold effect.
+
+BACKGROUND The maximal calcium absorption in response to vitamin D has been proposed as a biomarker for vitamin D sufficiency.
+OBJECTIVE The objective was to determine whether there is a threshold beyond which increasing doses of vitamin D, or concentrations of serum 25-hydroxyvitamin D [25(OH)D], no longer increase calcium absorption.
+DESIGN This was a placebo-controlled, dose-response, randomized, double-blind study of the effect of vitamin D on calcium absorption in healthy postmenopausal women. Seventy-six healthy postmenopausal women were randomly assigned to placebo or 800 IU (20 μg), 2000 IU (50 μg), or 4000 IU (100 μg) vitamin D₃ for 8 wk. The technique of dual isotopes of stable calcium was used with a calcium carrier to measure calcium absorption at baseline and after 8 wk.
+RESULTS Seventy-one women with a mean ± SD age of 58.8 ± 4.9 y completed the study. The mean calcium intake was 1142 ± 509 mg/d and serum 25(OH)D was 63 ± 14 nmol/L at baseline. A statistically significant linear trend of an increase in calcium absorption adjusted for age and body mass index with increasing vitamin D₃ dose or serum 25(OH)D concentration was observed. A 6.7% absolute increase in calcium absorption was found in the highest vitamin D₃ group (100 μg). No evidence of nonlinearity was observed in the dose-response curve.
+CONCLUSIONS No evidence of a threshold of calcium absorption was found with a serum 25(OH)D range from 40 to 130 nmol/L. Calcium absorption in this range is not a useful biomarker to determine nutritional recommendations for vitamin D.
+

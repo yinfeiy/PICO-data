@@ -1,0 +1,11 @@
+Isoniazid prophylaxis for tuberculosis in HIV infection: a meta-analysis of randomized controlled trials.
+
+OBJECTIVES To evaluate the efficacy of isoniazid for the prevention of tuberculosis in tuberculin skin test-positive and negative individuals with HIV infection.
+DESIGN Meta-analysis of randomized controlled trials.
+SETTING Seven trials from Mexico, Haiti, the United States, Zambia, Uganda and Kenya.
+PATIENTS Individuals free from tuberculosis, 2367 persons in the intervention and 2162 in the control groups.
+INTERVENTION Comparison of isoniazid with placebo or no prophylaxis.
+METHODS A systematic search of the literature was carried out from 1985 to October 1997 for randomized controlled trials of isoniazid prophylaxis in HIV-infected persons. Two reviewers evaluated the relevance of each candidate study and the validity of eligible trials. Studies were pooled using a random effect model, conducting secondary analyses for tuberculin skin test-positive and negative persons.
+RESULTS Mean follow-up in trials varied between 0.4 and 3.2 years. Pooling all seven trials, a risk ratio was found for persons treated with isoniazid for developing tuberculosis of 0.58 [95% confidence interval (CI), 0.43-0.80] and 0.94 (95% CI, 0.83-1.07) for death. In groups of tuberculin skin test-positive and negative persons, the risk ratio of tuberculosis was 0.40 (95% CI, 0.24-0.65) and 0.84 (95% CI, 0.54-1.30), respectively, and the difference in the effectiveness of isoniazid versus placebo between these groups was statistically significant (P = 0.03, for the difference of summary estimates). Consistency of results was found across trials (P > 0.10, heterogeneity value) for all comparisons.
+CONCLUSIONS Prophylaxis with isoniazid reduces the risk of tuberculosis in persons with HIV infection. The effect is restricted to tuberculin skin test-positive persons.
+
