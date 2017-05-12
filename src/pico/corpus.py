@@ -1,10 +1,8 @@
+import os
 import json
-import glob
 from spacy.en import English
 
 sp = English()
-DOC_PATH = '../docs/'
-ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 
 class Doc:
 
@@ -30,8 +28,9 @@ class Doc:
 
 class Corpus:
 
-    def __init__(self):
+    def __init__(self, doc_path=None):
         self.docs = dict()
+        self.doc_path = doc_path
 
     def __len__(self):
         return len(self.docs)
@@ -48,7 +47,9 @@ class Corpus:
 
     def load_docs(self):
         for docid in self.docs:
-            filename = DOC_PATH + docid + '.txt'
+            filename = self.doc_path + docid + '.txt'
+            if not os.path.exists(filename):
+                raise Exception('{0} not found'.format(filename))
             self.docs[docid].load_doc(filename)
 
     def get_doc_annos(self, docid, annotype=None):
@@ -75,25 +76,3 @@ class Corpus:
 
         return self.docs[docid].spacydoc
 
-
-
-if __name__ == '__main__':
-    anno_path = '../annotations/'
-
-    anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
-
-    corpus = Corpus()
-    corpus.load_annotations(anno_fn, demo_mode=True)
-    corpus.load_docs()
-
-    docid = '10036953'
-    annos = corpus.get_doc_annos(docid, 'Participants')
-
-    print annos
-    print corpus.get_doc_text(docid)
-
-    spacydoc = corpus.get_doc_spacydoc(docid)
-    for wid, markups in annos.items():
-        print 'Annotatison of worker', wid
-        for markup in markups:
-            print ' -- offset range ', spacydoc[markup[0]].idx, spacydoc[markup[1]-1].idx + spacydoc[markup[1]-1].__len__(), ': ', spacydoc[markup[0]:markup[1]]

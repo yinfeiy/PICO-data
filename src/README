@@ -1,0 +1,2 @@
+Run example in command line:
+  python -m examples.load_annotation
