@@ -6,14 +6,33 @@ sp = English()
 
 class Doc:
 
-    def __init__(self, docid, markups, spacydoc=None):
+    def __init__(self, docid, markups_offset, spacydoc=None):
         self.docid = docid
         self.spacydoc = spacydoc
-        self.markups = markups
+        self.ntokens = len(spacydoc)
 
-    def load_doc(self, fn):
-        rawdoc = open(fn).read()
-        self.spacydoc = sp(rawdoc.decode("utf8"))
+        self.markups_offset = markups_offset  ## offset markups on string character level
+        self.markups = dict()                 ## markups on token level
+        self.offset2markups()
+
+    def offset2markups(self):
+        offset2token_map = [0]*len(self.spacydoc.text)
+        for i in range(self.ntokens):
+            token = self.spacydoc[i]
+            for j in range(len(token)):
+                offset2token_map[token.idx + j] = i
+
+        for annotype in self.markups_offset:
+            self.markups[annotype] = {}
+
+            for wid in self.markups_offset[annotype]:
+                self.markups[annotype][wid] = []
+
+                for offset_span in self.markups_offset[annotype][wid]:
+                    span = [offset2token_map[offset_span[0]], offset2token_map[offset_span[1]-1]+1]
+
+                    self.markups[annotype][wid].append(span)
+
 
     def get_markups(self, annotype=None):
         if annotype == None:
@@ -23,12 +42,14 @@ class Doc:
         else:
             return self.markups[annotype]
 
+
     def text(self):
         return self.spacydoc.text
 
+
 class Corpus:
 
-    def __init__(self, doc_path=None):
+    def __init__(self, doc_path):
         self.docs = dict()
         self.doc_path = doc_path
 
@@ -40,17 +61,20 @@ class Corpus:
             for line in fin:
                 anno = json.loads(line.strip())
                 docid = anno['docid']
+                doc_fn = self.doc_path + docid + '.txt'
+
                 del anno['docid']
-                self.docs[docid] = Doc(docid, anno)
+
+                if not os.path.exists(doc_fn):
+                    raise Exception('{0} not found'.format(doc_fn))
+
+                rawdoc = open(doc_fn).read()
+                spacydoc = sp(rawdoc.decode("utf8"))
+                self.docs[docid] = Doc(docid, anno, spacydoc)
+
                 if demo_mode:
                     break       ## For demo only
 
-    def load_docs(self):
-        for docid in self.docs:
-            filename = self.doc_path + docid + '.txt'
-            if not os.path.exists(filename):
-                raise Exception('{0} not found'.format(filename))
-            self.docs[docid].load_doc(filename)
 
     def get_doc_annos(self, docid, annotype=None):
         if docid not in self.docs:

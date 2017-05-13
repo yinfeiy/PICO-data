@@ -9,14 +9,14 @@ ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 if __name__ == '__main__':
     anno_path = '../annotations/'
 
+    #anno_fn = anno_path + 'PICO-annos-professional.json'
     anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
 
     corpus = Corpus(doc_path = DOC_PATH)
     corpus.load_annotations(anno_fn, demo_mode=True)
-    corpus.load_docs()
 
     docid = '10036953'
-    annos = corpus.get_doc_annos(docid, 'Participants')
+    annos = corpus.get_doc_annos(docid, 'Intervention')
 
     print annos
     print corpus.get_doc_text(docid)
