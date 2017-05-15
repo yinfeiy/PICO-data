@@ -1,5 +1,3 @@
-import json
-import glob
 from pico.corpus import Corpus, Doc
 
 DOC_PATH = '../docs/'
@@ -13,7 +11,7 @@ if __name__ == '__main__':
     gt_fn = anno_path + 'PICO-annos-professional.json'
 
     corpus = Corpus(doc_path = DOC_PATH)
-    corpus.load_annotations(anno_fn, demo_mode=True)
+    corpus.load_annotations(anno_fn, docids=['10036953'])
     corpus.load_groudtruth(gt_fn)
 
     docid = '10036953'

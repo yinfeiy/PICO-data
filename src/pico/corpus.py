@@ -66,6 +66,13 @@ class Doc:
 
             self.groudtruth[annotype] = self._mask2spans(mask)
 
+    def get_groundtruth(self, annotype):
+        if annotype == None or self.groudtruth == None:
+            return self.groudtruth
+        elif annotype not in self.groudtruth:
+            return dict()
+        else:
+            return self.groudtruth[annotype]
 
     def text(self):
         return self.spacydoc.text
@@ -98,16 +105,20 @@ class Corpus:
         return len(self.docs)
 
 
-    def load_annotations(self, annos_fn, demo_mode=False):
+    def load_annotations(self, annos_fn, docids=None):
         with open(annos_fn) as fin:
             idx = 0
             for line in fin:
                 idx += 1
-                if idx % 100 == 0:
+                if idx % 500 == 0:
                     print '[INFO] {0} docs has been loaded'.format(idx)
 
                 anno = json.loads(line.strip())
                 docid = anno['docid']
+
+                if docids != None and docid not in docids: # Skip doc not in the docids parameter
+                    continue
+
                 doc_fn = self.doc_path + docid + '.txt'
 
                 del anno['docid']
@@ -119,8 +130,6 @@ class Corpus:
                 spacydoc = sp(rawdoc.decode("utf8"))
                 self.docs[docid] = Doc(docid, anno, spacydoc)
 
-                if demo_mode:
-                    break       ## For demo only
 
 
     def load_groudtruth(self, gt_fn):

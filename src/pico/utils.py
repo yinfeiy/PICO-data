@@ -56,6 +56,36 @@ def get_pruned_workers(corpus, annotype):
     return pruned_workers
 
 
+def get_spans(mask):
+    mask.append(0)  # append a non span
+
+    spans = []
+    if mask[0] == 1:
+        sidx = 0
+
+    for idx, v in enumerate(mask[1:], 1):
+        if v==1 and mask[idx-1] == 0: # start of span
+            sidx = idx
+        elif v==0 and mask[idx-1] == 1 : # end of span
+            eidx = idx
+            spans.append( (sidx, eidx) )
+    return spans
+
+
+def get_reverse_spans(mask):
+    mask.append(1)
+
+    spans_reverse = []
+    if mask[0] == 0:
+        sidx = 0
+    for idx, v in enumerate(mask[1:], 1):
+        if v==0 and mask[idx-1] == 1: # start of span
+            sidx = idx
+        elif v==1 and mask[idx-1] == 0: # end of span
+            eidx = idx
+            spans_reverse.append( (sidx, eidx) )
+    return spans_reverse
+
 if __name__ == '__main__':
     from corpus import Corpus, Doc
 

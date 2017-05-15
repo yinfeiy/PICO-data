@@ -3,8 +3,8 @@ from pico import utils
 
 import numpy as np
 import scipy.stats as stats
+import metrics
 
-DOC_PATH = '../docs/'
 
 def worker_scores_doc_corr(doc, annotype, pruned_workers):
     # Leave One Out
@@ -40,6 +40,37 @@ def worker_scores_doc_corr(doc, annotype, pruned_workers):
 
     return worker_scores
 
+
+def worker_scores_doc_helper(doc, annotype, score_type, pruned_workers):
+    markups = doc.markups[annotype]
+    workers = [w for w in markups.keys() if w not in pruned_workers]
+
+    worker_scores = {}
+    num = len(workers)
+    if num <= 1:
+        print "[Warn] Only one worker for doc {0}, do not calculate worker score.".format(doc.docid)
+    else:
+        for wid in workers:
+            worker_scores[wid] = []
+        for i in range(num-1):
+            w1_spans = markups[workers[i]]
+            w1_scores = []
+            for j in range(i+1, num):
+                if i == j:
+                    continue
+
+                w2_spans = markups[workers[j]]
+                score = metrics.metrics(w1_spans, w2_spans, doc.ntokens, score_type)
+
+                worker_scores[workers[i]].append(score)
+                worker_scores[workers[j]].append(score)
+
+    for wid in workers:
+        worker_scores[wid] = np.mean(worker_scores[wid])
+
+    return worker_scores
+
+
 def worker_scores_per_doc(corpus, annotype, score_type, pruned_workers=set()):
 
     worker_scores = {}
@@ -47,11 +78,10 @@ def worker_scores_per_doc(corpus, annotype, score_type, pruned_workers=set()):
     for docid in corpus.docs:
         doc = corpus.docs[docid]
 
-        if score_type in ['corr']:
+        if score_type == 'corr':
             worker_scores_doc = worker_scores_doc_corr(doc, annotype, pruned_workers)
         elif score_type in ['prec', 'recl']:
-            # TODO
-            pass
+            worker_scores_doc = worker_scores_doc_helper(doc, annotype, score_type, pruned_workers)
 
         for wid in worker_scores_doc:
             if wid in worker_scores:
@@ -59,6 +89,7 @@ def worker_scores_per_doc(corpus, annotype, score_type, pruned_workers=set()):
             else:
                 worker_scores[wid] = {docid: worker_scores_doc[wid]}
 
+    #print worker_scores
     for wid in worker_scores:
         print wid, np.mean(worker_scores[wid].values())
 
@@ -69,12 +100,13 @@ def worker_scores(corpus, annotype):
 
 if __name__ == '__main__':
     anno_path = '../annotations/'
+    doc_path = '../docs/'
 
     #anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
     anno_fn = anno_path + 'PICO-annos-professional.json'
 
     # Loading corpus
-    corpus = Corpus(doc_path = DOC_PATH)
+    corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn)
 
     worker_scores(corpus, 'Participants')
