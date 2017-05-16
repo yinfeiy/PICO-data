@@ -50,7 +50,7 @@ class Doc:
             return self.markups[annotype]
 
 
-    def set_groundtruth(self, gt_markups_offset):
+    def set_groundtruth(self, gt_markups_offset, gt_wids=None):
         self.groudtruth_offset = gt_markups_offset
         self.groudtruth = {}
 
@@ -60,6 +60,9 @@ class Doc:
             mask = [0] * self.ntokens
 
             for wid, spans in markups[annotype].items():
+                if gt_wids is not None and wid not in gt_wids:
+                    continue
+
                 for span in spans:
                     for i in range(span[0], span[1]):
                         mask[i] = 1
@@ -132,7 +135,7 @@ class Corpus:
 
 
 
-    def load_groudtruth(self, gt_fn):
+    def load_groudtruth(self, gt_fn, gt_wids=None):
         """
         Load groudtruth for corpus, has to been called after load annotation
         """
@@ -146,7 +149,7 @@ class Corpus:
                     print '[WARN] doc {0} is not loaded yet'.format(docid)
                     continue
 
-                self.docs[docid].set_groundtruth(anno)
+                self.docs[docid].set_groundtruth(anno, gt_wids)
 
 
     def get_doc_annos(self, docid, annotype=None):

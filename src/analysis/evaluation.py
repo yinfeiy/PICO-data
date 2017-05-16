@@ -50,13 +50,14 @@ if __name__ == '__main__':
 
     anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
     gt_fn = anno_path + 'PICO-annos-professional.json'
+    gt_wids = None
 
     docids = docs_with_gt(gt_fn)
 
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn, docids)
-    corpus.load_groudtruth(gt_fn)
+    corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
     annotypes = ['Participants', 'Intervention', 'Outcome']
 
