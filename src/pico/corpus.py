@@ -34,6 +34,10 @@ class Doc:
                 markups[annotype][wid] = []
 
                 for offset_span in markups_offset[annotype][wid]:
+                    if offset_span[1] > len(offset2token_map): # sentence boundray
+                        offset_span[1] = len(offset2token_map)
+                    if offset_span[1] <= offset_span[0]:       # empty span
+                        continue
                     span = [offset2token_map[offset_span[0]], offset2token_map[offset_span[1]-1]+1]
 
                     markups[annotype][wid].append(span)

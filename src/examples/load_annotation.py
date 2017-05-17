@@ -7,6 +7,7 @@ ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 if __name__ == '__main__':
     anno_path = '../annotations/'
 
+    #anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
     anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
     gt_fn = anno_path + 'PICO-annos-professional.json'
 

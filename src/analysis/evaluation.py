@@ -48,7 +48,8 @@ if __name__ == '__main__':
     anno_path = '../annotations/'
     doc_path = '../docs/'
 
-    anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
+    #anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
+    anno_fn = anno_path + 'PICO-annos-HMMCrowd.json'
     gt_fn = anno_path + 'PICO-annos-professional.json'
 
     docids = docs_with_gt(gt_fn)
@@ -56,7 +57,7 @@ if __name__ == '__main__':
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn, docids)
-    corpus.load_groudtruth(gt_fn)
+    corpus.load_groudtruth(gt_fn, ['AXQIZSZFYCA8'])
 
     annotypes = ['Participants', 'Intervention', 'Outcome']
 
@@ -69,13 +70,15 @@ if __name__ == '__main__':
                 worker_scores[wid][metric_name] = worker_scores_annotype[wid]['score']
                 worker_scores[wid]['count'] = worker_scores_annotype[wid]['count']
 
-        with open(annotype+'.csv', 'w+') as fout:
-            fout.write('workerid, numebr of doc, corr, prec, recl\n')
-            for wid, scores in worker_scores.items():
-                try:
-                    fout.write('{0}, {1}, {2}, {3}, {4}\n'.format(wid, scores['count'], scores['corr'], scores['prec'], scores['recl']))
-                except:
-                    print scores
-                    continue
+        print worker_scores
+
+        #with open(annotype+'.csv', 'w+') as fout:
+        #    fout.write('workerid, numebr of doc, corr, prec, recl\n')
+        #    for wid, scores in worker_scores.items():
+        #        try:
+        #            fout.write('{0}, {1}, {2}, {3}, {4}\n'.format(wid, scores['count'], scores['corr'], scores['prec'], scores['recl']))
+        #        except:
+        #            print scores
+        #            continue
 
 
