@@ -86,6 +86,17 @@ def get_reverse_spans(mask):
             spans_reverse.append( (sidx, eidx) )
     return spans_reverse
 
+def span2mask(spans, num):
+    mask = np.zeros(num)
+
+    for span in spans:
+        st, et = span
+        if st > num: continue
+        if et > num: et = num
+        mask[st:et] = 1
+
+    return mask
+
 if __name__ == '__main__':
     from corpus import Corpus, Doc
 

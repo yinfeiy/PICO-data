@@ -22,10 +22,13 @@ class Doc:
         markups = dict()
 
         offset2token_map = [0]*len(self.spacydoc.text)
+
         for i in range(self.ntokens):
             token = self.spacydoc[i]
             for j in range(len(token)):
                 offset2token_map[token.idx + j] = i
+        for i in range(1, len(offset2token_map)):
+            offset2token_map[i] = max(offset2token_map[i], offset2token_map[i-1])
 
         for annotype in markups_offset:
             markups[annotype] = {}

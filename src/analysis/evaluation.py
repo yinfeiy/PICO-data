@@ -15,12 +15,17 @@ def evaluating_worker(corpus, annotype, metric_name):
         doc = corpus.docs[docid]
 
         gt = doc.get_groundtruth(annotype)
-        if not gt:
+        if not gt or annotype not in doc.markups:
+            if annotype not in doc.markups:
+                print docid
             continue
 
         markups = doc.markups[annotype]
 
         for wid, spans in markups.items():
+            if len(spans) == 0 : # The worker has no annotation for this doc
+                continue
+
             score = metrics.metrics(spans, gt, doc.ntokens, metric_name)
             if np.isnan(score):
                 continue
@@ -45,14 +50,14 @@ def docs_with_gt(gt_fn):
     return docids
 
 if __name__ == '__main__':
-    anno_path = '../annotations/'
     doc_path = '../docs/'
 
-    #anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
-    anno_fn = anno_path + 'PICO-annos-HMMCrowd.json'
-    gt_fn = anno_path + 'PICO-annos-professional.json'
-    gt_wids = ['AXQIZSZFYCA8T']
+    #anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
+    anno_fn = '../results_to_evaluate/PICO-annos-dw.json'
+    gt_fn = '../annotations/PICO-annos-professional.json'
+    #gt_wids = ['AXQIZSZFYCA8T']
     #gt_wids = ['md2']
+    gt_wids = None
 
     docids = docs_with_gt(gt_fn)
 
