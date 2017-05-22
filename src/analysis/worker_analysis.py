@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 from collections import defaultdict, Counter
 
 
+## TODO: add down-sample option
 def worker_scores_doc_corr(doc, annotype, pruned_workers):
     # Leave One Out
     markups = doc.markups[annotype]
