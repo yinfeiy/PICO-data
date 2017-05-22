@@ -8,11 +8,12 @@ import scipy.stats as stats
 import metrics
 import json
 
-def evaluating_worker(corpus, annotype, metric_name):
+def evaluating_worker_per_doc(docs, annotype, metric_name):
+
     worker_scores = {}
 
-    for docid in corpus.docs:
-        doc = corpus.docs[docid]
+    for docid in docs:
+        doc = docs[docid]
 
         gt = doc.get_groundtruth(annotype)
         if not gt or annotype not in doc.markups:
@@ -38,6 +39,11 @@ def evaluating_worker(corpus, annotype, metric_name):
     for wid in worker_scores:
         worker_scores[wid] = dict(count=len(worker_scores[wid]), score=np.mean(worker_scores[wid]))
 
+    return worker_scores
+
+
+def evaluating_worker(corpus, annotype, metric_name):
+    worker_scores = evaluating_worker_per_doc(corpus.docs, annotype, metric_name)
     return worker_scores
 
 

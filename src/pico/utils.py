@@ -23,7 +23,7 @@ def worker_scores_doc(doc, annotype, pruned_workers=set()):
             worker_mask[span[0]:span[1]] = [1] * (span[1]-span[0])
 
         if nworker == 1:
-            print "Warning: Only one worker for doc ", doc.docid
+            # print "[Warn] Only one worker for doc ", doc.docid
             c = 0.2
         elif len(worker_mask) == sum(worker_mask):
             c = 0
