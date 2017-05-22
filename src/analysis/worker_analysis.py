@@ -4,6 +4,8 @@ from pico import utils
 import numpy as np
 import scipy.stats as stats
 import metrics
+import matplotlib.pyplot as plt
+from collections import defaultdict, Counter
 
 
 def worker_scores_doc_corr(doc, annotype, pruned_workers):
@@ -89,26 +91,43 @@ def worker_scores_per_doc(corpus, annotype, score_type, pruned_workers=set()):
             else:
                 worker_scores[wid] = {docid: worker_scores_doc[wid]}
 
-    #print worker_scores
     for wid in worker_scores:
+        # print worker_scores
         print wid, np.mean(worker_scores[wid].values())
+
+    return worker_scores
+
+
+def worker_hist_per_doc(worker_scores, title=None):
+    doc_hist = defaultdict(int)
+    for wid, scores in worker_scores.items():
+        for docid in scores.keys():
+            doc_hist[docid] += 1
+
+    ct = Counter(doc_hist.values())
+    print ct
+    plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
+    if title is not None:
+        plt.title(title)
+    plt.show()
 
 
 def worker_scores(corpus, annotype):
     pruned_workers = utils.get_pruned_workers(corpus, annotype)
-    worker_scores_per_doc(corpus, annotype, 'corr', pruned_workers)
+    worker_scores = worker_scores_per_doc(corpus, annotype, 'corr', pruned_workers)
+    worker_hist_per_doc(worker_scores, annotype)
 
 if __name__ == '__main__':
     anno_path = '../annotations/'
     doc_path = '../docs/'
 
-    #anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
-    anno_fn = anno_path + 'PICO-annos-professional.json'
+    anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
+    #anno_fn = anno_path + 'PICO-annos-professional.json'
 
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn)
 
-    worker_scores(corpus, 'Participants')
+    worker_scores(corpus, 'Outcome')
 
 
