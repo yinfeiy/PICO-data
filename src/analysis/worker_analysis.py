@@ -10,6 +10,7 @@ from collections import defaultdict, Counter
 
 random.seed(10)
 DEFAULT_MAX_WORKERS = 1000
+SCORETYPES = ['corr', 'prec', 'recl']
 
 def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
     # Leave One Out
@@ -51,7 +52,7 @@ def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MA
     return worker_scores
 
 
-def worker_scores_doc_helper(doc, annotype, score_type, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
+def worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
     markups = doc.markups[annotype]
     workers = [w for w in markups.keys() if w not in pruned_workers]
     nworkers = len(workers)
@@ -68,15 +69,15 @@ def worker_scores_doc_helper(doc, annotype, score_type, pruned_workers, max_work
     else:
         for wid in workers:
             worker_scores[wid] = []
-        for i in range(num-1):
+        for i in range(nworkers-1):
             w1_spans = markups[workers[i]]
             w1_scores = []
-            for j in range(i+1, num):
+            for j in range(i+1, nworkers):
                 if i == j:
                     continue
 
                 w2_spans = markups[workers[j]]
-                score = metrics.metrics(w1_spans, w2_spans, doc.ntokens, score_type)
+                score = metrics.metrics(w1_spans, w2_spans, doc.ntokens, scoretype)
 
                 worker_scores[workers[i]].append(score)
                 worker_scores[workers[j]].append(score)
@@ -87,17 +88,17 @@ def worker_scores_doc_helper(doc, annotype, score_type, pruned_workers, max_work
     return worker_scores
 
 
-def worker_scores_per_doc(docs, annotype, score_type, pruned_workers=set()):
+def worker_scores_per_doc(docs, annotype, scoretype, pruned_workers=set(), max_workers=DEFAULT_MAX_WORKERS):
 
     worker_scores = {}
 
     for docid in docs:
         doc = docs[docid]
 
-        if score_type == 'corr':
-            worker_scores_doc = worker_scores_doc_corr(doc, annotype, pruned_workers)
-        elif score_type in ['prec', 'recl']:
-            worker_scores_doc = worker_scores_doc_helper(doc, annotype, score_type, pruned_workers)
+        if scoretype == 'corr':
+            worker_scores_doc = worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers)
+        elif scoretype in ['prec', 'recl']:
+            worker_scores_doc = worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers, max_workers)
 
         for wid in worker_scores_doc:
             if wid in worker_scores:
@@ -116,31 +117,44 @@ def worker_hist_per_doc(worker_scores):
     return doc_hist
 
 
-def worker_scores(corpus, annotype):
+def calculate_worker_scores(corpus, annotype, scoretype, max_workers=DEFAULT_MAX_WORKERS):
     pruned_workers = utils.get_pruned_workers(corpus, annotype)
 
-    # worker scores
-    worker_scores = worker_scores_per_doc(corpus.docs, annotype, 'corr', pruned_workers)
-    for wid in worker_scores:
-        # print worker_scores
-        print wid, np.mean(worker_scores[wid].values())
+    worker_scores = worker_scores_per_doc(corpus.docs, annotype, scoretype, pruned_workers, max_workers)
+    return worker_scores
 
-    # number of workers per doc
-    doc_hist = worker_hist_per_doc(worker_scores)
-    ct = Counter(doc_hist.values())
-    plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
-    plt.title(annotype)
-    plt.show()
 
 if __name__ == '__main__':
-    anno_path = '../annotations/'
     doc_path = '../docs/'
+    max_workers = 4
 
-    anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
-    #anno_fn = anno_path + 'PICO-annos-professional.json'
+    annotype = 'Outcome'
+
+    anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
+    #anno_fn = '../annotations/PICO-annos-professional.json'
 
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn)
 
-    worker_scores(corpus, 'Outcome')
+    worker_scores = defaultdict(dict)
+    for scoretype in SCORETYPES:
+        worker_scores_tmp = calculate_worker_scores(corpus, annotype, scoretype, max_workers)
+
+        for wid in worker_scores_tmp:
+            worker_scores[wid][scoretype] = worker_scores_tmp[wid]
+
+        # number of workers per doc
+        #doc_hist = worker_hist_per_doc(worker_scores)
+        #ct = Counter(doc_hist.values())
+        #plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
+        #plt.title(annotype)
+        #plt.show()
+    # print worker_scores
+    with open('adhoc/{0}_ws_max_{1}.csv'.format(annotype, max_workers), 'w+') as fout:
+        for wid in worker_scores:
+            ostr = '{0},'.format(wid)
+            for scoretype in SCORETYPES:
+                ostr += '{0:.3f},'.format(np.mean(worker_scores[wid][scoretype].values()))
+            ostr = ostr[:-1]
+            fout.write(ostr+'\n')
