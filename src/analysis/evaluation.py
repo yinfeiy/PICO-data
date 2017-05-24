@@ -59,11 +59,11 @@ if __name__ == '__main__':
     doc_path = '../docs/'
 
     #anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
-    anno_fn = '../results_to_evaluate/PICO-annos-mv.json'
+    anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
-    gt_wids = ['AXQIZSZFYCA8T']
+    #gt_wids = ['AXQIZSZFYCA8T']
     #gt_wids = ['md2']
-    #gt_wids = None
+    gt_wids = None
 
     docids = docs_with_gt(gt_fn)
 

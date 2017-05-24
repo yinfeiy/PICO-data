@@ -82,7 +82,7 @@ def worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers, max_worke
                 worker_scores[workers[i]].append(score)
                 worker_scores[workers[j]].append(score)
 
-    for wid in workers:
+    for wid in worker_scores:
         worker_scores[wid] = np.mean(worker_scores[wid])
 
     return worker_scores
@@ -124,11 +124,28 @@ def calculate_worker_scores(corpus, annotype, scoretype, max_workers=DEFAULT_MAX
     return worker_scores
 
 
+def plot_worker_hist(doc_hist, title):
+    ct = Counter(doc_hist.values())
+    plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
+    plt.title(title)
+    plt.show()
+
+def output_worker_scores(worker_scores, valid_docs, output_filename):
+    fout = open(output_filename, 'w+')
+    for wid in worker_scores:
+        ostr = '{0},'.format(wid)
+
+        scores = worker_scores[wid]
+        valid_scores = [scores[docid] for docid in scores if docid in valid_docs]
+        fout.write('{0}, {1}, {2:.3f}\n'.format(wid, len(valid_scores), np.mean(valid_scores)))
+    fout.close()
+
+
 if __name__ == '__main__':
     doc_path = '../docs/'
-    max_workers = 4
+    max_workers = DEFAULT_MAX_WORKERS
 
-    annotype = 'Outcome'
+    annotype = 'Participants'
 
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     #anno_fn = '../annotations/PICO-annos-professional.json'
@@ -138,23 +155,29 @@ if __name__ == '__main__':
     corpus.load_annotations(anno_fn)
 
     worker_scores = defaultdict(dict)
-    for scoretype in SCORETYPES:
+    for scoretype in ['corr']:
         worker_scores_tmp = calculate_worker_scores(corpus, annotype, scoretype, max_workers)
+
+        # number of workers per doc
+        doc_hist = worker_hist_per_doc(worker_scores_tmp)
+        for th in [4,5,6,7]:
+            valid_docs = [did for did in doc_hist if doc_hist[did] >= th]
+
+            filename = './adhoc/{0}_ws_cutoff_{1}.csv'.format(annotype, th)
+            #output_worker_scores(worker_scores_tmp, valid_docs, filename)
 
         for wid in worker_scores_tmp:
             worker_scores[wid][scoretype] = worker_scores_tmp[wid]
 
-        # number of workers per doc
-        #doc_hist = worker_hist_per_doc(worker_scores)
-        #ct = Counter(doc_hist.values())
-        #plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
-        #plt.title(annotype)
-        #plt.show()
-    # print worker_scores
     with open('adhoc/{0}_ws_max_{1}.csv'.format(annotype, max_workers), 'w+') as fout:
         for wid in worker_scores:
             ostr = '{0},'.format(wid)
-            for scoretype in SCORETYPES:
-                ostr += '{0:.3f},'.format(np.mean(worker_scores[wid][scoretype].values()))
-            ostr = ostr[:-1]
+            for scoretype in ['corr']:
+                if scoretype in worker_scores[wid]:
+                    c = len(worker_scores[wid][scoretype].values())
+                    s = np.mean(worker_scores[wid][scoretype].values())
+                    ostr += '{0}, {1:.3f}, '.format(c, s)
+                else:
+                    ostr += 'Nan, Nan, '
+            ostr = ostr.strip()[:-1]
             fout.write(ostr+'\n')
