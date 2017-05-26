@@ -164,11 +164,15 @@ class Corpus:
             print 'docid {0} is not found'.format(docid)
             return None
 
-        if annotype != None:
-            return self.docs[docid].get_markups(annotype)
-        else:
-            return self.docs[docid]
+        return self.docs[docid].get_markups(annotype)
 
+
+    def get_doc_groundtruth(self, docid, annotype=None):
+        if docid not in self.docs:
+            print 'docid {0} is not found'.format(docid)
+            return None
+
+        return self.docs[docid].get_groundtruth(annotype)
 
     def get_doc_text(self, docid):
         if docid not in self.docs:
