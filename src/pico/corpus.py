@@ -106,6 +106,8 @@ class Doc:
 
 class Corpus:
 
+    ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
+
     def __init__(self, doc_path):
         self.docs = dict()
         self.doc_path = doc_path
@@ -114,8 +116,40 @@ class Corpus:
     def __len__(self):
         return len(self.docs)
 
+    def _process_anno_per_annotype(self, anno, max_num_worker, pruned_workers):
+        print anno
+        anno_new = {}
+        wids = [ wid for wid in anno.keys() if wid not in pruned_workers ]
+        wids.sort()
 
-    def load_annotations(self, annos_fn, docids=None):
+        if len(wids) > max_num_worker:
+            wids = wids[:max_num_worker]
+
+        for wid in wids:
+            anno_new[wid] = anno[wid]
+
+        return anno_new
+
+    def _process_anno(self, anno, max_num_worker, pruned_workers={}):
+        anno_new = {}
+
+        max_num_worker =  1000 if max_num_worker is None else max_num_worker
+
+        for key in anno.keys():
+            if key not in self.ANNOTYPES:
+                anno_new[key] = anno[key]
+            else:
+                annotype = key
+
+                anno_tmp = anno[annotype]
+                pruned_workers_tmp = pruned_workers.get(annotype, [])
+                anno_new_tmp = self._process_anno_per_annotype(\
+                        anno_tmp, max_num_worker, pruned_workers_tmp)
+                anno_new[annotype] = anno_new_tmp
+
+        return anno_new
+
+    def load_annotations(self, annos_fn, docids=None, max_num_worker=None, pruned_workers={}):
         with open(annos_fn) as fin:
             idx = 0
             for line in fin:
@@ -129,6 +163,9 @@ class Corpus:
                 if docids != None and docid not in docids: # Skip doc not in the docids parameter
                     continue
 
+                if max_num_worker or pruned_workers:
+                    anno = self._process_anno(anno, max_num_worker, pruned_workers)
+
                 doc_fn = self.doc_path + docid + '.txt'
 
                 del anno['docid']
@@ -139,7 +176,6 @@ class Corpus:
                 rawdoc = open(doc_fn).read()
                 spacydoc = sp(rawdoc.decode("utf8"))
                 self.docs[docid] = Doc(docid, anno, spacydoc)
-
 
 
     def load_groudtruth(self, gt_fn, gt_wids=None):
