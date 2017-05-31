@@ -1,7 +1,9 @@
 import os
 import json
+import random
 from spacy.en import English
 
+random.seed(1395)
 sp = English()
 
 class Doc:
@@ -121,6 +123,7 @@ class Corpus:
         anno_new = {}
         wids = [ wid for wid in anno.keys() if wid not in pruned_workers ]
         wids.sort()
+        random.shuffle(wids)
 
         if len(wids) > max_num_worker:
             wids = wids[:max_num_worker]
