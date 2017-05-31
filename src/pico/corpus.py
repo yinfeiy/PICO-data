@@ -119,7 +119,6 @@ class Corpus:
         return len(self.docs)
 
     def _process_anno_per_annotype(self, anno, max_num_worker, pruned_workers):
-        print anno
         anno_new = {}
         wids = [ wid for wid in anno.keys() if wid not in pruned_workers ]
         wids.sort()

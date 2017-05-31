@@ -46,35 +46,46 @@ def evaluating_worker(corpus, annotype, metric_name):
     return worker_scores
 
 
-def docs_with_gt(gt_fn):
+def docs_with_gt(gt_fn, annotype=None):
     docids = []
     with open(gt_fn) as fin:
         for line in fin:
             item = json.loads(line.strip())
-            docids.append( item['docid'] )
+            if annotype != None:
+                gt_anno = item.get(annotype, {})
+                if gt_anno:
+                    docids.append( item['docid'] )
+            else:
+                docids.append( item['docid'] )
     return docids
+
+def docs_anno_stats(anno_fn, pruned_workers={}):
+    # TODO(yinfeiy): count the number of annos per doc
+    pass
 
 if __name__ == '__main__':
     doc_path = '../docs/'
 
     anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw_HMM_Crowd_max_4.json'
 
-    #anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
+    raw_anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
-    gt_wids = ['AXQIZSZFYCA8T']
+    #gt_wids = ['AXQIZSZFYCA8T']
     #gt_wids = ['md2']
-    #gt_wids = None
-
-    docids = docs_with_gt(gt_fn)
-
-    # Loading corpus
-    corpus = Corpus(doc_path = doc_path)
-    corpus.load_annotations(anno_fn, docids)
-    corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
+    gt_wids = None
 
     annotypes = ['Participants', 'Intervention', 'Outcome']
 
     for annotype in annotypes:
+        docids = docs_with_gt(gt_fn, annotype)
+
+        #TODO(yinfeiy): filter filter ids by number of workers
+
+        # Loading corpus for each annotype as number of workers are different for annotypes
+        corpus = Corpus(doc_path = doc_path)
+        corpus.load_annotations(anno_fn, docids)
+        corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
+
         worker_scores = defaultdict(dict)
         print 'Processing ', annotype
         for metric_name in ['corr', 'prec', 'recl']:
@@ -84,14 +95,5 @@ if __name__ == '__main__':
                 worker_scores[wid]['count'] = worker_scores_annotype[wid]['count']
 
         print worker_scores
-
-        #with open(annotype+'.csv', 'w+') as fout:
-        #    fout.write('workerid, numebr of doc, corr, prec, recl\n')
-        #    for wid, scores in worker_scores.items():
-        #        try:
-        #            fout.write('{0}, {1}, {2}, {3}, {4}\n'.format(wid, scores['count'], scores['corr'], scores['prec'], scores['recl']))
-        #        except:
-        #            print scores
-        #            continue
 
 
