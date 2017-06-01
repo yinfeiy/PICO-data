@@ -57,13 +57,13 @@ def docs_with_gt(gt_fn):
 if __name__ == '__main__':
     doc_path = '../docs/'
 
-    anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw_HMM_Crowd_max_4.json'
+    anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw.json'
 
     #anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
-    gt_wids = ['AXQIZSZFYCA8T']
+    #gt_wids = ['AXQIZSZFYCA8T']
     #gt_wids = ['md2']
-    #gt_wids = None
+    gt_wids = None
 
     docids = docs_with_gt(gt_fn)
 

@@ -110,9 +110,10 @@ class Corpus:
 
     ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 
-    def __init__(self, doc_path):
+    def __init__(self, doc_path, verbose=True):
         self.docs = dict()
         self.doc_path = doc_path
+        self.verbose = verbose
 
 
     def __len__(self):
@@ -157,7 +158,8 @@ class Corpus:
             for line in fin:
                 idx += 1
                 if idx % 500 == 0:
-                    print '[INFO] {0} docs has been loaded'.format(idx)
+                    if self.verbose:
+                        print '[INFO] {0} docs has been loaded'.format(idx)
 
                 anno = json.loads(line.strip())
                 docid = anno['docid']
@@ -191,7 +193,8 @@ class Corpus:
                 del anno['docid']
 
                 if docid not in self.docs:
-                    print '[WARN] doc {0} is not loaded yet'.format(docid)
+                    if self.verbose:
+                        print '[WARN] doc {0} is not loaded yet'.format(docid)
                     continue
 
                 self.docs[docid].set_groundtruth(anno, gt_wids)

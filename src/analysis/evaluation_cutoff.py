@@ -59,35 +59,56 @@ def docs_with_gt(gt_fn, annotype=None):
                 docids.append( item['docid'] )
     return docids
 
-def docs_anno_stats(anno_fn, pruned_workers={}):
-    # TODO(yinfeiy): count the number of annos per doc
-    pass
+def docs_anno_stats(anno_fn, pruned_workers=defaultdict(list)):
+    doc_counts = defaultdict(dict)
+
+    if not isinstance(pruned_workers, defaultdict):
+        pruned_workers = defaultdict(list, pruned_workers)
+
+    with open(anno_fn) as fin:
+        for line in fin:
+            annos = json.loads(line.strip())
+            docid = annos['docid']
+
+            for annotype in annos:
+                if annotype == 'docid':
+                    continue
+                markups  = annos.get(annotype, {})
+                wids = [ wid for wid in markups.keys() if wid not in pruned_workers[annotype] ]
+                doc_counts[docid][annotype] = len(wids)
+
+    return doc_counts
 
 if __name__ == '__main__':
     doc_path = '../docs/'
 
-    anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw_HMM_Crowd_max_4.json'
+    anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw_HMM_Crowd_max_10.json'
 
-    raw_anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
+    raw_anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
     #gt_wids = ['AXQIZSZFYCA8T']
     #gt_wids = ['md2']
     gt_wids = None
+    cutoff = 0
+
+    doc_counts = docs_anno_stats(raw_anno_fn)
 
     annotypes = ['Participants', 'Intervention', 'Outcome']
 
     for annotype in annotypes:
-        docids = docs_with_gt(gt_fn, annotype)
+        docids_with_nw = set([did for did in doc_counts if \
+                doc_counts[did].get(annotype, 0) >= cutoff])
+        docids_with_gt = set(docs_with_gt(gt_fn, annotype))
 
-        #TODO(yinfeiy): filter filter ids by number of workers
+        docids = list(docids_with_gt.intersection(docids_with_nw))
 
         # Loading corpus for each annotype as number of workers are different for annotypes
-        corpus = Corpus(doc_path = doc_path)
+        corpus = Corpus(doc_path = doc_path, verbose = False)
         corpus.load_annotations(anno_fn, docids)
         corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
-        worker_scores = defaultdict(dict)
         print 'Processing ', annotype
+        worker_scores = defaultdict(dict)
         for metric_name in ['corr', 'prec', 'recl']:
             worker_scores_annotype = evaluating_worker(corpus, annotype, metric_name)
             for wid in worker_scores_annotype:
