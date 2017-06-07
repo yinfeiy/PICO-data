@@ -65,30 +65,36 @@ for s, r in zip(hc.data.sentences, hc.d.res):
         end = get_end(s[r])
         results_init[pid].append([start, end])
 
-with open('aggregated_results/' + annotype + '-aggregated_{0}_max_{1}.json'.format(init_type, max_num_worker), 'w+') as fo:
+with open('aggregated_results/' + annotype + '-aggregated_{0}.json'.format(init_type), 'w+') as fo:
     for pid in results_init:
         annos = results_init[pid]
         item = {"docid":pid, annotype:annos}
         fo.write(json.dumps(item)+'\n')
 
-hc.vb = [0.1, 0.1]
-hc.em(5)
-hc.mls()
+step_size = 5
+for iter in range(20):
+    hc.vb = [0.1, 0.1]
+    hc.em(step_size)
+    hc.mls()
 
-results = defaultdict(list)
-for s, r in zip(hc.data.sentences, hc.res):
-    if len(s) == 0: continue
-    pid = get_pid(s[0])
-    spans = list_word_spans(r)
-    for l,r in spans:
-        start = get_start(s[l])
-        end = get_end(s[r])
-        results[pid].append([start, end])
+    step = (iter+1)*step_size
 
-with open('aggregated_results/' + annotype + '-aggregated_{0}_HMM_Crowd_max_{1}.json'.format(init_type, max_num_worker), 'w+') as fo:
-    for pid in results:
-        annos = results[pid]
-        item = {"docid":pid, annotype:annos}
-        fo.write(json.dumps(item)+'\n')
+    results = defaultdict(list)
+    for s, r in zip(hc.data.sentences, hc.res):
+        if len(s) == 0: continue
+        pid = get_pid(s[0])
+        spans = list_word_spans(r)
+        for l,r in spans:
+            start = get_start(s[l])
+            end = get_end(s[r])
+            results[pid].append([start, end])
 
-
+    with open('aggregated_results/' + annotype + '-aggregated_{0}_HMM_Crowd_iter_{1}.json'.format(init_type, step), 'w+') as fo:
+        for pid in results:
+            annos = results[pid]
+            item = {"docid":pid, annotype:annos}
+            item = {
+                annotype:{"HMMCrowd":annos},
+                "docid": str(pid),
+            }
+            fo.write(json.dumps(item)+'\n')

@@ -57,7 +57,8 @@ def docs_with_gt(gt_fn):
 if __name__ == '__main__':
     doc_path = '../docs/'
 
-    anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw.json'
+    #anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw.json'
+    anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/seqcrowd/aggregated_results/Participants-aggregated_dw_HMM_Crowd_iter_65.json'
 
     #anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
@@ -72,7 +73,8 @@ if __name__ == '__main__':
     corpus.load_annotations(anno_fn, docids)
     corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
-    annotypes = ['Participants', 'Intervention', 'Outcome']
+    #annotypes = ['Participants', 'Intervention', 'Outcome']
+    annotypes = ['Participants']
 
     for annotype in annotypes:
         worker_scores = defaultdict(dict)
