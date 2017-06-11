@@ -1,4 +1,4 @@
-import hmm, util
+import hmm
 import json
 from collections import defaultdict
 import sys
@@ -17,80 +17,92 @@ def list_word_spans(x):
         res.append( (start, end))
     return res
 
-def get_pid(ins):
+def get_pid(inv_l, ins):
     s = inv_l[ins.label]
     a = map(int,s.split('_'))
     return a[0]
 
-def get_start(ins):
+def get_start(inv_l, ins):
     s = inv_l[ins.label]
     a = map(int,s.split('_'))
     return a[1]
 
-def get_end(ins):
+def get_end(inv_l, ins):
     s = inv_l[ins.label]
     a = map(int,s.split('_'))
     return a[2]
 
-annotype  = 'Outcome'
-if len(sys.argv) > 1:
-    annotype = sys.argv[1]
+def output(ofname, annotator, results_multi):
 
-print annotype
+    results_agg = {}
+    for annotype, results in results_multi.iteritems():
+        for pid in results:
+            annos = results[pid]
+            if pid in results_agg:
+                results_agg[pid][annotype] = annos
+            else:
+                results_agg[pid] = {
+                    annotype:{annotator:annos},
+                    "docid": str(pid),
+                }
 
-init_type = 'dw'
-max_num_worker = 10
-iter= 5
+    with open(ofname, 'w+') as fo:
+        for _, item in results_agg.iteritems():
+            fo.write(json.dumps(item)+'\n')
 
-(cd, list_wid, features, labels) = pico_data.main(annotype, max_num_worker=max_num_worker)
+def main():
+    annotype  = 'Participants'
+    if len(sys.argv) > 1:
+        annotype = sys.argv[1]
 
-n = 2
-m = len(features) + 1
-hc = hmm.HMM_crowd(n, m, cd, features, labels, n_workers=len(list_wid), ne = 0, smooth = 1e-3)
+    print annotype
 
-hc.init(init_type=init_type, wm_rep='cm', dw_em = 5, wm_smooth=0.001)
+    init_type = 'dw'
+    max_num_worker = 10
+    niter= 5
 
-inv_l = {v:k for (k,v) in labels.items()}
+    (cd, list_wid, features, labels) = pico_data.main(annotype, max_num_worker=max_num_worker)
 
-# Results in a before em step
-results_init = defaultdict(list)
+    n = 2
+    m = len(features) + 1
+    hc = hmm.HMM_crowd(n, m, cd, features, labels, n_workers=len(list_wid), ne = 0, smooth = 1e-3)
 
-for s, r in zip(hc.data.sentences, hc.d.res):
-    if len(s) == 0: continue
-    pid = get_pid(s[0])
-    spans = list_word_spans(r)
-    for l,r in spans:
-        start = get_start(s[l])
-        end = get_end(s[r])
-        results_init[pid].append([start, end])
+    hc.init(init_type=init_type, wm_rep='cm', dw_em = 5, wm_smooth=0.001)
 
-with open('aggregated_results/' + annotype + '-aggregated_{0}.json'.format(init_type), 'w+') as fo:
-    for pid in results_init:
-        annos = results_init[pid]
-        item = {"docid":pid, annotype:annos}
-        fo.write(json.dumps(item)+'\n')
+    inv_l = {v:k for (k,v) in labels.items()}
+
+    # Results in a before em step
+    results_init = defaultdict(list)
+
+    for s, r in zip(hc.data.sentences, hc.d.res):
+        if len(s) == 0: continue
+        pid = get_pid(inv_l, s[0])
+        spans = list_word_spans(r)
+        for l,r in spans:
+            start = get_start(inv_l, s[l])
+            end = get_end(inv_l, s[r])
+            results_init[pid].append([start, end])
+
+    ofname = 'aggregated_results/{0}-aggregated_{1}.json'.format(annotype, init_type)
+    output(ofname, 'dw', {annotype:results_init})
 
 
-hc.vb = [0.1, 0.1]
-hc.em(1)
-hc.mls()
+    hc.vb = [0.1, 0.1]
+    hc.em(niter)
+    hc.mls()
 
-results = defaultdict(list)
-for s, r in zip(hc.data.sentences, hc.res):
-    if len(s) == 0: continue
-    pid = get_pid(s[0])
-    spans = list_word_spans(r)
-    for l,r in spans:
-        start = get_start(s[l])
-        end = get_end(s[r])
-        results[pid].append([start, end])
+    results = defaultdict(list)
+    for s, r in zip(hc.data.sentences, hc.res):
+        if len(s) == 0: continue
+        pid = get_pid(inv_l, s[0])
+        spans = list_word_spans(r)
+        for l,r in spans:
+            start = get_start(inv_l, s[l])
+            end = get_end(inv_l, s[r])
+            results[pid].append([start, end])
 
-with open('aggregated_results/' + annotype + '-aggregated_{0}_HMM_Crowd.json'.format(init_type), 'w+') as fo:
-    for pid in results:
-        annos = results[pid]
-        item = {"docid":pid, annotype:annos}
-        item = {
-            annotype:{"HMMCrowd":annos},
-            "docid": str(pid),
-        }
-        fo.write(json.dumps(item)+'\n')
+    ofname = 'aggregated_results/{0}-aggregated_{1}_HMM_Crowd.json'.format(annotype, init_type)
+    output(ofname, 'HMMCrowd', {annotype:results})
+
+if __name__ == '__main__':
+    main()
