@@ -40,9 +40,8 @@ print annotype
 
 init_type = 'dw'
 max_num_worker = 10
+iter= 5
 
-#pico.read_ann()
-#(cd, gold, list_wid, features, labels) = pico.main()
 (cd, list_wid, features, labels) = pico_data.main(annotype, max_num_worker=max_num_worker)
 
 n = 2
@@ -71,30 +70,27 @@ with open('aggregated_results/' + annotype + '-aggregated_{0}.json'.format(init_
         item = {"docid":pid, annotype:annos}
         fo.write(json.dumps(item)+'\n')
 
-step_size = 5
-for iter in range(20):
-    hc.vb = [0.1, 0.1]
-    hc.em(step_size)
-    hc.mls()
 
-    step = (iter+1)*step_size
+hc.vb = [0.1, 0.1]
+hc.em(1)
+hc.mls()
 
-    results = defaultdict(list)
-    for s, r in zip(hc.data.sentences, hc.res):
-        if len(s) == 0: continue
-        pid = get_pid(s[0])
-        spans = list_word_spans(r)
-        for l,r in spans:
-            start = get_start(s[l])
-            end = get_end(s[r])
-            results[pid].append([start, end])
+results = defaultdict(list)
+for s, r in zip(hc.data.sentences, hc.res):
+    if len(s) == 0: continue
+    pid = get_pid(s[0])
+    spans = list_word_spans(r)
+    for l,r in spans:
+        start = get_start(s[l])
+        end = get_end(s[r])
+        results[pid].append([start, end])
 
-    with open('aggregated_results/' + annotype + '-aggregated_{0}_HMM_Crowd_iter_{1}.json'.format(init_type, step), 'w+') as fo:
-        for pid in results:
-            annos = results[pid]
-            item = {"docid":pid, annotype:annos}
-            item = {
-                annotype:{"HMMCrowd":annos},
-                "docid": str(pid),
-            }
-            fo.write(json.dumps(item)+'\n')
+with open('aggregated_results/' + annotype + '-aggregated_{0}_HMM_Crowd.json'.format(init_type), 'w+') as fo:
+    for pid in results:
+        annos = results[pid]
+        item = {"docid":pid, annotype:annos}
+        item = {
+            annotype:{"HMMCrowd":annos},
+            "docid": str(pid),
+        }
+        fo.write(json.dumps(item)+'\n')

@@ -134,7 +134,7 @@ class WorkerModel:
     """
     model of workers
     """
-    def __init__(self, n_workers = 47, n_class = 10, smooth = 0.001, ne = 9, rep = 'cv'):
+    def __init__(self, n_workers, n_class, smooth = 0.001, ne = 9, rep = 'cv'):
         """
 
         :param n_workers:
@@ -148,6 +148,7 @@ class WorkerModel:
         self.smooth = smooth
         self.ne = ne
         self.rep = rep
+
 
     def learn_from_pos(self, data, pos):
         """
@@ -163,6 +164,7 @@ class WorkerModel:
                     for k in range(self.n):  # 'true' label = k
                         count[w][k][l] += pos[i][j][k]
         self.learn_from_count(count)
+
 
     def learn_from_count(self, count):
         """
@@ -263,10 +265,7 @@ class HMM_crowd(HMM):
         self.init_w = init_w
         self.ne = ne
 
-        #self.wsen = np.zeros((n_workers,))
-        #self.wspe = np.zeros((n_workers,))
         self.wca = np.zeros((n, n_workers))
-        #self.ne = labels['O']  # id of 'non entity' label
         self.ne = ne
         self.smooth_w = smooth_w
         self.n_sens = len(data.sentences)
@@ -279,18 +278,11 @@ class HMM_crowd(HMM):
         :param list_cl: list of util.crowddlab
         :return: probability of observing crowd labels at state i
         """
-        res = 1# * self.prior[i]
+        res = 1
         for cl in list_cl:
             wid = cl.wid
             sen = cl.sen
             lab = sen[t]                        # crowd label
-            # if i == self.ne:
-            #    res *= self.wspe[wid] if lab == i else 1 - self.wspe[wid] # specificity
-            # else:
-            # res *= self.wsen[wid] if lab == i else 1 - self.wsen[wid] #
-            # sensitivity
-            #res *= self.wca[i, wid] if lab == i else 1 - self.wca[i, wid]
-            #res *= self.wa[wid][i][lab]
             res *= self.wm.get_prob(wid, i, lab)
 
         return res
@@ -345,9 +337,6 @@ class HMM_crowd(HMM):
             if t == 0:  # update start counts
                 self.count_start += p
 
-            # update prior count
-            #self.count_prior += p
-
             # update emission counts
             ins = sentence[t]
             for i in range(self.n):
@@ -360,20 +349,6 @@ class HMM_crowd(HMM):
                     wid = cl.wid
                     # worker ans
                     lab = cl.sen[t]
-                    # if i == self.ne:
-                    #    if lab == self.ne:
-                    #        self.count_spe[wid][0] += p[i]
-                    #    else:
-                    #        self.count_spe[wid][1] += p[i]
-                    # else:
-                    #    if lab == self.ne:
-                    #        self.count_sen[wid][0] += p[i]
-                    #    else:
-                    #        self.count_sen[wid][1] += p[i]
-                    #if lab == i:
-                    #    self.count_wa[i, wid][1] += p[i]
-                    #else:
-                    #    self.count_wa[i, wid][0] += p[i]
                     self.count_wa[wid][i][lab] += p[i]
 
 
@@ -410,12 +385,7 @@ class HMM_crowd(HMM):
         self.count_t = self.smooth * np.ones((self.n, self.n))
         self.count_e = self.smooth * np.ones((self.n, self.m))
         self.count_start = self.smooth * np.ones((self.n,))
-        #self.count_sen = self.smooth * np.ones((self.n_workers,2))
-        #self.count_spe = self.smooth * np.ones((self.n_workers, 2))
-        #self.count_wca = self.smooth_w * np.ones((self.n, self.n_workers, 2))
-        #self.count_prior = self.smooth * np.ones( (self.n,) )
         self.count_wa = self.smooth * np.ones( (self.n_workers, self.n, self.n) )
-
 
         self.sen_posterior = []
         self.trans_posterior = []
@@ -446,24 +416,6 @@ class HMM_crowd(HMM):
             self.e[i] = self.count_e[i] * 1.0 / np.sum(self.count_e[i])
 
         self.wm.learn_from_count(self.count_wa)
-        #for w in range(self.n_workers):
-            #self.wsen[w] = self.count_sen[w][1] * 1.0 / (self.count_sen[w][0] + self.count_sen[w][1])
-            #self.wspe[w] = self.count_spe[w][0] * 1.0 / (self.count_spe[w][0] + self.count_spe[w][1])
-            #ne = self.ne
-            #self.wca[ne, w] = self.count_wca[ne, w][1] * 1.0 / \
-            #    (self.count_wca[ne, w][0] + self.count_wca[ne, w][1])
-            # sum over pos class (not include non-entity)
-            #sum_pos_1 = np.sum(
-            #    self.count_wca[:, w, 1]) - self.count_wca[ne, w, 1]
-            #sum_pos_0 = np.sum(
-            #    self.count_wca[:, w, 0]) - self.count_wca[ne, w, 0]
-            #for i in range(self.n):
-            #    if i != ne:
-                    #self.wca[i, w] = self.count_wca[i, w][1] * 1.0 / (self.count_wca[i, w][0] + self.count_wca[i, w][1])
-            #        self.wca[i, w] = sum_pos_1 * 1.0 / (sum_pos_1 + sum_pos_0)
-            #for i in range(self.n):
-            #    self.wa[w][i] = self.count_wa[w][i] * 1.0 / np.sum(self.count_wa[w][i])
-            #self.wm.learn_from_pos(self.data, self.sen_posterior)
 
     def m_step_vb(self):
         """
@@ -509,7 +461,7 @@ class HMM_crowd(HMM):
             self.e[i] = self.e[i] * 1.0 / np.sum(self.e[i])
 
 
-    def init(self, init_type='mv', sen_a=1, sen_b=1, spe_a=1, spe_b=1, wm_rep =
+    def init(self, init_type='dw', sen_a=1, sen_b=1, spe_a=1, spe_b=1, wm_rep =
             'cv', save_count_e = False, dw_em = 5, wm_smooth = 0.001):
         """
 
@@ -519,36 +471,7 @@ class HMM_crowd(HMM):
         expect MV to over-estimate worker
         :return:
         """
-        if init_type == 'mv':
-            h = HMM(self.n, self.m)
-            mv_sen = util.mv_cd(self.data, self.labels, n_workers=self.n_workers)
-            h.learn(mv_sen, smooth=self.smooth)
-
-            for i in range(self.n):
-                self.start[i] = h.start[i]
-
-            #(correct_0, correct_1, wrong_0, wrong_1) = util.cal_workers_true_acc(self.data, util.get_all_lab(mv_sen), ne = self.ne)
-            self.wca = util.cal_workers_true_acc(
-                self.data, util.get_all_lab(mv_sen), ne=self.ne, n_workers=self.n_workers, return_ss=True)
-
-            # for i in range(self.n_workers):
-            #self.wsen[i] = (correct_1[i] + sen_a) * 1.0 / (wrong_1[i] + correct_1[i] + sen_a + sen_b)
-            #self.wsen[i] = 0.5
-            #self.wspe[i] = (correct_0[i] + spe_a) * 1.0 / (wrong_0[i] + correct_0[i] + spe_a + spe_b)
-
-            for s in range(self.n):
-                for s2 in range(self.n):
-                    self.t[s][s2] = h.t[s][s2]
-                    # for s in range(self.n):
-                for o in range(self.m):
-                    self.e[s][o] = h.e[s][o]
-            #save the count of e for hmm_sage
-            if save_count_e:
-                self.count_e = h.count_e
-            #self.init2()
-
-            self.h = h
-        elif init_type == 'dw':
+        if init_type == 'dw':
             d = dw(self.n, self.m, self.data, self.features, self.labels,
                            self.n_workers, self.init_w, self.smooth)
             d.init()
@@ -560,8 +483,6 @@ class HMM_crowd(HMM):
             sen = copy.deepcopy(self.data.sentences)
             util.make_sen(sen, d.res)
             h.learn(sen, smooth = self.smooth)
-            #self.wm = WorkerModel()
-            #self.wm.learn_from_pos(self.data, d.pos)
 
             self.wm = WorkerModel(n_workers = self.n_workers, n_class = self.n,
                     rep=wm_rep, ne = self.ne, smooth = wm_smooth)
@@ -575,7 +496,6 @@ class HMM_crowd(HMM):
                 for o in range(self.m):
                     self.e[s][o] = h.e[s][o]
 
-            #self.init_te_from_pos(d.pos)
             #save the count of e for sage
             if save_count_e:
                 self.count_e = h.count_e
@@ -626,17 +546,6 @@ class HMM_crowd(HMM):
         learn by EM
         :return:
         """
-        # init params (uniform)
-        # for i in range(self.n):
-        #     self.start[i] = 1.0/self.n
-        # self.wa = [0.9] * self.n_workers
-        # for s in range(self.n):
-        #     for s2 in range(self.n):
-        #         self.t[s][s2] = 1.0/self.n
-        #
-        # for s in range(self.n):
-        #     for o in range(self.m):
-        #         self.e[s][o] = 1.0/self.m
         self.init()
         self.em(num)
 
@@ -828,516 +737,3 @@ class dw(HMM_crowd):
             for j in range(len(sentence)):
                 self.res[i][j] = np.argmax(self.pos[i][j])
 
-
-##########################################################################
-##########################################################################
-data_atis = 'atis3_features.txt'
-
-
-def run_test(test, h):
-    cnt = 0
-    correct = 0
-    for s in test:
-        x = util.get_obs(s)
-        g = util.get_lab(s)
-        p = h.decode(x)
-        for i, j in zip(g, p):
-            cnt += 1
-            if i == j:
-                correct += 1
-
-    print correct * 1.0 / cnt
-
-
-def run(smooth, filename=data_atis):
-    #train, test, features, labels = util.load(filename)
-    #train, test, features, labels = util.load('data/WSJ_all.txt', 0.49)
-    train, test, features, labels = util.load('atis3_features.txt')
-    n = len(labels) + 1
-    m = len(features) + 1
-    h = HMM(n, m)
-
-    h.learn(train, smooth)
-    run_test(test, h)
-
-    return h
-
-
-def run_crowd(filename='atis3_features.txt'):
-    train, test, features, labels = util.load(filename)
-    n = len(labels) + 1
-    m = len(features) + 1
-    s = util.simulator(train, features, labels, 1)
-    s.simulate()
-    hc = HMM_crowd(n, m, s.cd, features, labels)
-    return hc
-
-
-def split_rod(all_sen, cd, features, labels):
-    """
-    split rod data into validation/test
-    """
-    n = len(all_sen) / 2
-    sen_val = all_sen[:n]
-    sen_test = all_sen[n:]
-
-    cd_val = util.crowd_data(sen_val, cd.crowdlabs[:n])
-    cd_test = util.crowd_data(sen_test, cd.crowdlabs[n:])
-
-    return (sen_val, sen_test, cd_val, cd_test)
-
-
-def run_rod(smooth = 0.001, use_set = 'val'):
-    """
-    use_set: validation or test
-    """
-    if use_set == 'val':
-        dirname = 'task1/val/'
-    elif use_set == 'test':
-        dirname = 'task1/test/'
-    else:
-        dirname = ''
-
-    # read ground truth
-    all_sen, features, labels, docs = util.read_rod(dirname = dirname +
-        'ground_truth')
-    # read crowd labels
-    cd = util.read_workers_rod(all_sen, features, labels, docs, dirname =
-            dirname + 'mturk_train_data')
-
-    n = len(labels) + 1
-    m = len(features) + 1
-
-    hc = HMM_crowd(n, m, cd, features, labels, smooth = smooth)
-    hs = HMM_sage(n, m, cd, features, labels, smooth = smooth)
-    return hs, hc, all_sen, features, labels
-
-
-def list_entities(sen, st, inside):
-    """
-    list the occurence of an entity
-    """
-    n = len(sen)
-    res = []
-    i = 0
-    while i < n:
-        if sen[i] == st:
-            x = i
-            i += 1
-            while i < n and sen[i] == inside:
-                i += 1
-            res.append((x, i - 1))
-        else:
-            i += 1
-    return res
-
-
-def eval_ner(gold, sen, labels):
-    """
-    evaluate NER
-    """
-
-    if len(gold) != len(sen):
-        print len(gold), len(sen)
-        raise "lenghts not equal"
-
-    tp = 0
-    #tn = 0
-    fp = 0
-    fn = 0
-
-    list_en = ["LOC", "MISC", "ORG", "PER"]
-    for en in list_en:
-        g = list_entities(gold, labels["B-" + en], labels["I-" + en])
-        s = list_entities(sen, labels["B-" + en], labels["I-" + en])
-        for loc in g:
-            if loc in s:
-                tp += 1
-            else:
-                fn += 1
-
-        for loc in s:
-            if loc not in g:
-                fp += 1
-
-    return (tp, fp, fn)
-
-
-def eval_hc_train(hc, labels, print_err = False):
-    """
-    evaluate in the train set
-    :param hc:
-    :param labels:
-    :return:
-    """
-    n = len(hc.res)
-    tp = 0
-    fp = 0
-    fn = 0
-
-    for i in range(n):
-        if len(hc.data.sentences[i]) > 0:
-            (x, y, z) = eval_ner(util.get_lab(
-                hc.data.sentences[i]), hc.res[i], labels)
-            tp += x
-            fp += y
-            fn += z
-
-
-
-    try:
-        pre = tp * 1.0 / (tp + fp)
-        rec = tp * 1.0 / (tp + fn)
-        f = 2.0 * pre * rec / (pre + rec)
-        print pre, rec, f
-    except ZeroDivisionError:
-        print "DIV BY 0 ", tp, fp, fn
-
-
-def has_oov(sen):
-    for i in sen:
-        for j in i.features:
-            if j == 0:
-                return True
-    return False
-
-
-def get_tag_hc(hc, sen):
-    return hc.decode(util.get_obs(sen))
-
-def get_tag_t(tagger, sen, features):
-    words = []
-    for i in sen:
-        words.append(i.word)
-    x = nltk.pos_tag(words)
-    x = [crf.word2features(x, i) for i in range(len(x))]
-    tags = tagger.tag(x)
-    return map(int, tags)
-
-
-def get_tag(f, sen, features, decoder):
-    if decoder == 'hc':
-        return get_tag_hc(f, sen)
-    else:
-        return get_tag_t(f, sen, features)
-
-def eval_hc_test(hc, features, labels, print_err=False, decoder='hc'):
-    """
-    evaluate in the train set
-    :param hc:
-    :param labels:
-    :return:
-    """
-    tp = 0
-    fp = 0
-    fn = 0
-
-    dirname = "testa"
-    input = []
-    for file in os.listdir(dirname):
-        # print file
-        if file.endswith(".txt"):
-            f = open(os.path.join(dirname, file))
-            l = list(f)
-            input.extend(l)
-            f.close()
-    # return input
-    sentences = util.extract(input, features, labels, keep_word = True)
-
-    # return sentences
-
-    for sen in sentences:
-        if True:
-            # if not has_oov(sen):
-            #predicted = hc.decode(util.get_obs(sen))
-            predicted = get_tag(hc, sen, features, decoder)
-            (x, y, z) = eval_ner(util.get_lab(sen), predicted, labels)
-            tp += x
-            fp += y
-            fn += z
-            if print_err:
-                if y + z > 0:
-                    print "sen: ",  util.get_words(sen, features) + " OOV = " + str(has_oov(sen))
-                    print "true labels: ", util.get_lab_name(util.get_lab(sen), labels)
-                    print "predicted: ", util.get_lab_name(predicted, labels)
-
-    try:
-        pre = tp * 1.0 / (tp + fp)
-        rec = tp * 1.0 / (tp + fn)
-        f = 2.0 * pre * rec / (pre + rec)
-        print pre, rec, f
-    except ZeroDivisionError:
-        print "DIV BY 0 ", tp, fp, fn
-
-
-def eval_seq_train(gold, pre, labels, hc = None, features = None):
-    """
-    evaluate a sequence labeler
-    """
-    n = len(gold)
-    tp = 0
-    fp = 0
-    fn = 0
-
-    for i in range(n):
-        (x, y, z) = eval_ner(gold[i], pre[i], labels)
-        tp += x
-        fp += y
-        fn += z
-        if hc != None:
-            if y + z > 0:
-                sen = hc.sentences[i]
-                print "sen: ",  util.get_words(sen, features) + " OOV = " + str(has_oov(sen))
-                print "true labels: ", util.get_lab_name(gold[i], labels)
-                print "predicted: ", util.get_lab_name(pre[i], labels)
-
-    try:
-        pre = tp * 1.0 / (tp + fp)
-        rec = tp * 1.0 / (tp + fn)
-        f = 2.0 * pre * rec / (pre + rec)
-        print pre, rec, f
-    except ZeroDivisionError:
-        print "DIV BY 0 ", tp, fp, fn
-
-
-
-
-def eval_pico_word_bs(gold, res, n = 100, l = 0, r = 950, seed = 33):
-    """
-    use bootstrap re-sample
-    """
-    rs = np.random.RandomState()
-    rs.seed(seed)
-    a = rs.permutation(len(gold))
-    b = [] # list of indices to use
-
-    for index in a[l:r]:
-        b.append(index)
-
-    list_p = []; list_r = []; list_f = []
-
-    for bs in range(n):
-        c = sklearn.utils.resample(b, random_state = bs)
-        cm = np.zeros( (2,2) )
-
-        for index in c:
-            g = gold[index]
-            i = g[0]
-            t = g[1]
-            for x, y in zip(t, res[i]):
-                cm[x][y] += 1
-        p = cm[1][1] * 1.0 / (cm[1][1] + cm[0][1])
-        r = cm[1][1] * 1.0 / (cm[1][1] + cm[1][0])
-        f = 2 * p * r / (p + r)
-        list_p.append(p); list_r.append(r); list_f.append(f)
-
-    print np.mean(list_p), np.mean(list_r), np.mean(list_f)
-    print np.std(list_p),  np.std(list_r),  np.std(list_f)
-    return list_f
-
-
-
-def eval_pico_word(gold, res, l = 0, r = 950, seed = 33):
-    rs = np.random.RandomState()
-    rs.seed(seed)
-    a = rs.permutation(len(gold))
-
-    cm = np.zeros( (2,2) )
-    for index in a[l:r]:
-        g = gold[index]
-        i = g[0]
-        t = g[1]
-        for x, y in zip(t, res[i]):
-            cm[x][y] += 1
-    p = cm[1][1] * 1.0 / (cm[1][1] + cm[0][1])
-    r = cm[1][1] * 1.0 / (cm[1][1] + cm[1][0])
-    f = 2 * p * r / (p + r)
-    print p, r, f
-    return cm
-
-def eval_pico_entity(gold, res, l = 0, r = 950, seed = 33):
-    tp = 0; fn = 0; fp = 0
-
-    rs = np.random.RandomState()
-    rs.seed(seed)
-    a = rs.permutation(len(gold))
-
-    for index in a[l:r]:
-        g = gold[index]
-        i = g[0]
-        t = g[1]
-        ge = list_entities(t, 1, 1)
-        re = list_entities(res[i], 1, 1)
-
-        for loc in ge:
-            if loc in re:
-                tp += 1
-            else:
-                fn += 1
-
-        for loc in re:
-            if loc not in ge:
-                fp += 1
-
-    pre = tp * 1.0 / (tp + fp)
-    rec = tp * 1.0 / (tp + fn)
-    f = 2.0 * pre * rec / (pre + rec)
-    print pre, rec, f
-
-
-def longest_x(a, x=0):
-    i = 0
-    n = len(a)
-    res = 0
-    while (i < n):
-        while (i < n and a[i] != x): i += 1
-        start = i
-        while (i < n and a[i] == x): i += 1
-        if i - start > res: res = i - start
-    return res
-
-def eval_pico_new(gold, res, l=0, r=950):
-    """
-    eval PICO using three metrics
-    :param gold:
-    :param res:
-    :param l:
-    :param r:
-    :param seed:
-    :return:
-    """
-    tp = 0;
-    fn = 0;
-    fp = 0
-
-    list_rec = []
-    list_sr = []
-    list_spe = []
-    list_pre = []
-
-    for index in range(l, r, 1):
-        g = gold[index]
-        i = g[0]
-        (t1, t2, t3) = eval_pico_sen(g[1], res[i])
-        list_pre.extend(t1)
-        list_rec.extend(t2)
-        list_spe.extend(t3)
-
-    if len(list_pre) == 0: list_pre.append(0)
-    res = eval_pico_summary(list_pre, list_rec, list_spe)
-    print res
-    return res[3]
-
-def eval_pico_sen(gold, res):
-    """
-    eval a PICO sentence
-    :param gold:
-    :param res:
-    :return:
-    """
-    ge = list_entities(gold, 1, 1)  # gold entities
-    neg = list_entities(gold, 0, 0)  # negative entities
-    re = list_entities(res, 1, 1)  # entities in the predicted
-
-    list_rec = []; list_pre = []; list_spe = []
-
-    for (x, y) in ge:
-        # coverage, loss of coverage:
-        l = y - x + 1
-        rec = np.sum(res[x:y + 1]) * 1.0 / l
-        # loss = longeset_zeros(res[i][x:y+1])
-        #sr = longest_x(res[x:y + 1], 1) * 1.0 / l
-        list_rec.append(rec)
-        #list_sr.append(sr)
-
-    # precision
-    for (x, y) in re:
-        l = y - x + 1
-        pre = np.sum(gold[x:y + 1]) * 1.0 / l
-        list_pre.append(pre)
-    # specificity:
-    for (x, y) in neg:
-        l = y - x + 1
-        spe = (l - np.sum(res[x:y + 1])) * 1.0 / l
-        list_spe.append(spe)
-
-    return (list_pre, list_rec, list_spe)
-
-def eval_pico_summary(list_pre, list_rec, list_spe, n_bs = 100):
-    if len(list_pre) == 0: list_pre.append(0)
-    lp = []; lr = []; ls = []; lf = []
-
-    for bs in range(n_bs):
-        bs_pre = sklearn.utils.resample(list_pre, random_state=bs)
-        bs_rec = sklearn.utils.resample(list_rec, random_state=bs)
-        bs_spe = sklearn.utils.resample(list_spe, random_state=bs)
-        p = np.mean(bs_pre); lp.append(p)
-        r = np.mean(bs_rec); lr.append(r)
-        s = np.mean(bs_spe); ls.append(s)
-        f = 2.0 * p * r / (p + r); lf.append(f)
-
-    return ( np.mean(lp), np.mean(lr), np.mean(ls), np.mean(lf), \
-             np.std(lp), np.std(lr), np.std(ls), np.std(lf) )
-
-def eval_pico_test(gold, f, sentences, features, l = 0, r = 950):
-    """
-
-    :param gold:
-    :param f: prediction model
-    :return:
-    """
-    inv_f = {v: k for (k, v) in features.items()}
-    list_pre = []
-    list_rec = []
-    list_spe = []
-
-    #res = [ [] for i in range(len(sentences))]
-    for i, g in gold[l:r]:
-        sen = sentences[i]
-        for ins in sen:
-            ins.word = inv_f[ins.features[0]]
-        predicted = get_tag(f, sen, None, 't')
-        #print predicted, g
-        #res[i] = predicted
-        (t1, t2, t3) = eval_pico_sen(g, predicted)
-        list_pre.extend(t1)
-        list_rec.extend(t2)
-        list_spe.extend(t3)
-
-    if len(list_pre) == 0: list_pre.append(0)
-    res = eval_pico_summary(list_pre, list_rec, list_spe)
-    print res
-    return res[3]
-
-
-def main():
-    hc, all_sen, features, labels = run_rod()
-    hc.learn(0)
-    eval_hc_test(hc, features, labels, print_err=True)
-
-
-def main2():
-    hc, all_sen, features, labels = run_rod()
-    h = HMM(len(labels) + 1, len(features) + 1)
-    mv_sen, cor, wrong = util.mv_cd(hc.data, labels)
-    h.learn(mv_sen)
-    h.decode_all(mv_sen)
-    eval_seq_train(util.get_all_lab(all_sen), h.res, labels)
-
-
-def main_em():
-    """
-    run em, eval, print
-    """
-    hs, hc, all_sen, features, labels = run_rod(use_set = 'val')
-    hc.init(init_type = 'dw', wm_rep='cv2')
-    gold = util.get_all_lab(all_sen)
-
-    for i in range(200):
-        hc.em(5)
-        hc.mls()
-        print (i+1)*5,
-        eval_seq_train(gold, hc.res, labels)
-
-if __name__ == "__main__":
-    main_em()

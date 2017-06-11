@@ -2,7 +2,6 @@ import numpy as np
 import scipy.optimize
 import copy
 import sys
-#sys.path.insert(0, 'jos-gender-2014-master')
 import jos.sage
 
 def estimate(ecounts, m, im = 'jos'):
@@ -18,7 +17,6 @@ def estimate(ecounts, m, im = 'jos'):
 
     for k in range(K):
         if im == 'jos':
-            #eta[:, k] = sage.estimate(ecounts[:, k], m, max_its=1, init_inv_tau=1e5)
             eta[:, k] = jos.sage.estimate(ecounts[:, k], m, max_its=1)
         else:
             eta[:, k] = estimate_1class(ecounts[:, k], m)
