@@ -89,6 +89,33 @@ class Doc:
     def text(self):
         return self.spacydoc.text
 
+    def get_markups_text(self, annotype=None):
+        if annotype and annotype not in self.markups:
+            return dict()
+
+        annotypes = [annotype] if annotype else self.markups.keys()
+
+        markups_text = {}
+        for annotype in annotypes:
+            markups_anno = self.markups[annotype]
+            markups_text[annotype] = {}
+
+            for wid, spans in markups_anno.iteritems():
+                markups_text[annotype][wid] = []
+                for span in spans:
+                    text = self._get_text_by_span(span)
+                    if len(text) > 0:
+                        markups_text[annotype][wid].append((span, text))
+        print markups_text
+        if annotype:
+            return markups_text[annotype]
+        else:
+            return markups_text
+
+    def _get_text_by_span(self, span):
+        if span[1] <= span[0]:
+            return ""
+        return self.spacydoc[span[0]:span[1]].text
 
     def _mask2spans(self, mask):
         mask.append(0)  # append a non span
@@ -114,7 +141,6 @@ class Corpus:
         self.docs = dict()
         self.doc_path = doc_path
         self.verbose = verbose
-
 
     def __len__(self):
         return len(self.docs)
@@ -200,12 +226,15 @@ class Corpus:
                 self.docs[docid].set_groundtruth(anno, gt_wids)
 
 
-    def get_doc_annos(self, docid, annotype=None):
+    def get_doc_annos(self, docid, annotype=None, text=False):
         if docid not in self.docs:
             print 'docid {0} is not found'.format(docid)
             return None
 
-        return self.docs[docid].get_markups(annotype)
+        if text:
+            return self.docs[docid].get_markups_text(annotype)
+        else:
+            return self.docs[docid].get_markups(annotype)
 
 
     def get_doc_groundtruth(self, docid, annotype=None):

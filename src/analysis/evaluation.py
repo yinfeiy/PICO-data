@@ -45,28 +45,18 @@ def evaluating_worker(corpus, annotype, metric_name):
     worker_scores = evaluating_worker_per_doc(corpus.docs, annotype, metric_name)
     return worker_scores
 
-
-def docs_with_gt(gt_fn):
-    docids = []
-    with open(gt_fn) as fin:
-        for line in fin:
-            item = json.loads(line.strip())
-            docids.append( item['docid'] )
-    return docids
-
 if __name__ == '__main__':
     doc_path = '../docs/'
 
     #anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw.json'
     anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/seqcrowd/aggregated_results/Outcome-aggregated_dw.json'
 
-    #anno_fn = '../results_to_evaluate/PICO-annos-HMMCrowd.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
     #gt_wids = ['AXQIZSZFYCA8T']
     #gt_wids = ['md2']
     gt_wids = None
 
-    docids = docs_with_gt(gt_fn)
+    docids = utils.docs_with_gt(gt_fn)
 
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)

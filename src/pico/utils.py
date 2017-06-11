@@ -1,8 +1,10 @@
 import numpy as np
 import scipy.stats as stats
+import json
+
+ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 
 def worker_scores_doc(doc, annotype, pruned_workers=set()):
-
     # Leave One Out
     markups = doc.markups[annotype]
 
@@ -86,6 +88,7 @@ def get_reverse_spans(mask):
             spans_reverse.append( (sidx, eidx) )
     return spans_reverse
 
+
 def span2mask(spans, num):
     mask = np.zeros(num)
 
@@ -94,8 +97,17 @@ def span2mask(spans, num):
         if st > num: continue
         if et > num: et = num
         mask[st:et] = 1
-
     return mask
+
+
+def docs_with_gt(gt_fn):
+    docids = []
+    with open(gt_fn) as fin:
+        for line in fin:
+            item = json.loads(line.strip())
+            docids.append( item['docid'] )
+    return docids
+
 
 if __name__ == '__main__':
     from corpus import Corpus, Doc
