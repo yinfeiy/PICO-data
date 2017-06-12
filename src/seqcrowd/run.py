@@ -51,7 +51,7 @@ def output(ofname, annotator, results_multi):
             fo.write(json.dumps(item)+'\n')
 
 def main():
-    annotype  = 'Participants'
+    annotype  = 'Intervention'
     if len(sys.argv) > 1:
         annotype = sys.argv[1]
 

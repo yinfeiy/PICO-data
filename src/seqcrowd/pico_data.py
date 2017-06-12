@@ -89,6 +89,7 @@ def make_crowd_data(corpus, data, list_wid, dic_wid, dic_pid_data, features, lab
 
         sens = util.extract(inp, features, labels)
         if pid not in dic_pid_data:
+            # TODO(yinfeiy): find out why it is missing here
             print pid,
             continue
         sentences.extend(sens)
