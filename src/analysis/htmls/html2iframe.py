@@ -1,5 +1,8 @@
 import os, sys, glob, json
 
+
+# TODO(yinfeiy) Clean the path to be safe contained instead of depend on other sources
+
 ref_annotype = 'Participants'
 ref_path = '/mnt/data/workspace/nlp/PICO-src/med_abst/vis_gts/{0}/'.format(ref_annotype)
 
