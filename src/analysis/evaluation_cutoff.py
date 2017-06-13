@@ -105,7 +105,7 @@ if __name__ == '__main__':
         # Loading corpus for each annotype as number of workers are different for annotypes
         corpus = Corpus(doc_path = doc_path, verbose = False)
         corpus.load_annotations(anno_fn, docids)
-        corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
+        corpus.load_groundtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
         print 'Processing ', annotype
         worker_scores = defaultdict(dict)

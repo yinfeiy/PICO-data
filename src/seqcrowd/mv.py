@@ -5,8 +5,6 @@ from collections import defaultdict
 import numpy as np
 import json
 
-ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
-
 def mv_doc(doc, annotype, pruned_workers):
     markups = doc.markups[annotype]
 
@@ -48,7 +46,7 @@ def mv_corpus(corpus, annotype):
 
     return results
 
-def process(corpus, ofn, annotypes=ANNOTYPES):
+def process(corpus, ofn, annotypes=utils.ANNOTYPES):
 
     mv_res = defaultdict(dict)
     for annotype in annotypes:
@@ -89,5 +87,5 @@ if __name__ == '__main__':
     corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn, docids)
 
-    for annotype in ANNOTYPES:
+    for annotype in utils.ANNOTYPES:
         process(corpus, ofn='./aggregated_results/{0}-aggregated-mv.json'.format(annotype), annotypes=[annotype])

@@ -14,7 +14,7 @@ if __name__ == '__main__':
     corpus = Corpus(doc_path = DOC_PATH)
     corpus.load_annotations(anno_fn, docids=['10036953'],\
             max_num_worker=2, pruned_workers={'Intervention':['A1P6L6W6TA5NJ']})
-    corpus.load_groudtruth(gt_fn)
+    corpus.load_groundtruth(gt_fn)
 
     docid = '10036953'
     annos = corpus.get_doc_annos(docid, 'Intervention')

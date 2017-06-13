@@ -118,7 +118,7 @@ if __name__ == '__main__':
 
     corpus = Corpus(doc_path = '../../docs/')
     corpus.load_annotations(anno_fn)
-    corpus.load_groudtruth(gt_fn)
+    corpus.load_groundtruth(gt_fn)
 
     pruned_workers = get_pruned_workers(corpus, annotype ='Participants')
     print pruned_workers
