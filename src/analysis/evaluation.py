@@ -51,6 +51,7 @@ if __name__ == '__main__':
     #annotypes = ['Participants', 'Intervention', 'Outcome']
     annotypes = ['Outcome']
     anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/aggregated_results/Outcome-aggregated_hq_dw.json'
+    anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/analysis/htmls/output/tmp.json'
 
     gt_fn = '../annotations/PICO-annos-professional.json'
     #gt_wids = ['AXQIZSZFYCA8T']
