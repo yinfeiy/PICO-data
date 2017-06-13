@@ -62,7 +62,7 @@ if __name__ == '__main__':
     # Loading corpus
     corpus = Corpus(doc_path = doc_path, verbose=False)
     corpus.load_annotations(anno_fn, docids)
-    corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
+    corpus.load_groundtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
 
     for annotype in annotypes:

@@ -16,8 +16,8 @@ class Doc:
         self.markups_offset = markups_offset  ## offset markups on string character level
         self.markups = self.offset2markups(markups_offset)  ## markups on token level
 
-        self.groudtruth_offset = None
-        self.groudtruth = None
+        self.groundtruth_offset = None
+        self.groundtruth = None
 
 
     def offset2markups(self, markups_offset):
@@ -60,8 +60,8 @@ class Doc:
 
 
     def set_groundtruth(self, gt_markups_offset, gt_wids=None):
-        self.groudtruth_offset = gt_markups_offset
-        self.groudtruth = {}
+        self.groundtruth_offset = gt_markups_offset
+        self.groundtruth = {}
 
         ## Combining groundtruth from multiple professionals
         markups = self.offset2markups(gt_markups_offset)
@@ -76,15 +76,15 @@ class Doc:
                     for i in range(span[0], span[1]):
                         mask[i] = 1
 
-            self.groudtruth[annotype] = self._mask2spans(mask)
+            self.groundtruth[annotype] = self._mask2spans(mask)
 
     def get_groundtruth(self, annotype):
-        if annotype == None or self.groudtruth == None:
-            return self.groudtruth
-        elif annotype not in self.groudtruth:
+        if annotype == None or self.groundtruth == None:
+            return self.groundtruth
+        elif annotype not in self.groundtruth:
             return dict()
         else:
-            return self.groudtruth[annotype]
+            return self.groundtruth[annotype]
 
     def text(self):
         return self.spacydoc.text
@@ -106,7 +106,7 @@ class Doc:
                     text = self._get_text_by_span(span)
                     if len(text) > 0:
                         markups_text[annotype][wid].append((span, text))
-        print markups_text
+
         if annotype:
             return markups_text[annotype]
         else:
@@ -211,9 +211,9 @@ class Corpus:
                 self.docs[docid] = Doc(docid, anno, spacydoc)
 
 
-    def load_groudtruth(self, gt_fn, gt_wids=None):
+    def load_groundtruth(self, gt_fn, gt_wids=None):
         """
-        Load groudtruth for corpus, has to been called after load annotation
+        Load groundtruth for corpus, has to been called after load annotation
         """
         with open(gt_fn) as fin:
             for line in fin:
