@@ -48,8 +48,9 @@ def evaluating_worker(corpus, annotype, metric_name):
 if __name__ == '__main__':
     doc_path = '../docs/'
 
-    #anno_fn = '/mnt/data/workspace/nlp/dawid_skene_pico/aggregated_results/PICO-annos-dw.json'
-    anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/seqcrowd/aggregated_results/Outcome-aggregated_dw.json'
+    #annotypes = ['Participants', 'Intervention', 'Outcome']
+    annotypes = ['Outcome']
+    anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/aggregated_results/Outcome-aggregated_hq_dw.json'
 
     gt_fn = '../annotations/PICO-annos-professional.json'
     #gt_wids = ['AXQIZSZFYCA8T']
@@ -59,12 +60,10 @@ if __name__ == '__main__':
     docids = utils.docs_with_gt(gt_fn)
 
     # Loading corpus
-    corpus = Corpus(doc_path = doc_path)
+    corpus = Corpus(doc_path = doc_path, verbose=False)
     corpus.load_annotations(anno_fn, docids)
     corpus.load_groudtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
-    #annotypes = ['Participants', 'Intervention', 'Outcome']
-    annotypes = ['Outcome']
 
     for annotype in annotypes:
         worker_scores = defaultdict(dict)

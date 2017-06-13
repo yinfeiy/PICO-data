@@ -151,6 +151,9 @@ class Corpus:
         wids.sort()
         random.shuffle(wids)
 
+        if len(anno.keys()) != len(wids):
+            print "filtered plus"
+
         if len(wids) > max_num_worker:
             wids = wids[:max_num_worker]
 

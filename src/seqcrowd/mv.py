@@ -84,10 +84,19 @@ if __name__ == '__main__':
 
     #docids = docs_with_gt(gt_fn)
     docids = None
+    high_quality = True
 
+    pruned_workers = {}
+    if high_quality:
+        corpus_raw = Corpus(doc_path = doc_path, verbose=False)
+        corpus_raw.load_annotations(anno_fn, docids=docids)
+        for annotype in ANNOTYPES:
+            pruned_workers[annotype] = utils.get_pruned_workers(corpus_raw, annotype)
+
+    print pruned_workers
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)
-    corpus.load_annotations(anno_fn, docids)
+    corpus.load_annotations(anno_fn, docids, pruned_workers=pruned_workers)
 
     for annotype in ANNOTYPES:
-        process(corpus, ofn='./aggregated_results/{0}-aggregated-mv.json'.format(annotype), annotypes=[annotype])
+        process(corpus, ofn='./aggregated_results/{0}-aggregated_hq_mv.json'.format(annotype), annotypes=[annotype])

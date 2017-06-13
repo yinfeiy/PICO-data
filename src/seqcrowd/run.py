@@ -51,7 +51,7 @@ def output(ofname, annotator, results_multi):
             fo.write(json.dumps(item)+'\n')
 
 def main():
-    annotype  = 'Intervention'
+    annotype  = 'Outcome'
     if len(sys.argv) > 1:
         annotype = sys.argv[1]
 
@@ -61,7 +61,7 @@ def main():
     max_num_worker = 10
     niter= 5
 
-    (cd, list_wid, features, labels) = pico_data.main(annotype, max_num_worker=max_num_worker)
+    (cd, list_wid, features, labels) = pico_data.main(annotype, max_num_worker=max_num_worker, high_quality=True)
 
     n = 2
     m = len(features) + 1
@@ -83,7 +83,7 @@ def main():
             end = get_end(inv_l, s[r])
             results_init[pid].append([start, end])
 
-    ofname = 'aggregated_results/{0}-aggregated_{1}.json'.format(annotype, init_type)
+    ofname = 'aggregated_results/{0}-aggregated_hq_{1}.json'.format(annotype, init_type)
     output(ofname, 'dw', {annotype:results_init})
 
 
@@ -101,7 +101,7 @@ def main():
             end = get_end(inv_l, s[r])
             results[pid].append([start, end])
 
-    ofname = 'aggregated_results/{0}-aggregated_{1}_HMM_Crowd.json'.format(annotype, init_type)
+    ofname = 'aggregated_results/{0}-aggregated__hq_{1}_HMM_Crowd.json'.format(annotype, init_type)
     output(ofname, 'HMMCrowd', {annotype:results})
 
 if __name__ == '__main__':

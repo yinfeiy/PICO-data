@@ -5,6 +5,7 @@ from collections import defaultdict
 
 sys.path.insert(0, '/mnt/data/workspace/nlp/PICO-data/src/')
 from pico.corpus import Corpus
+from pico import utils
 
 ANNO_PATH = '/mnt/data/workspace/nlp/PICO-data/annotations/PICO-annos-crowdsourcing.json'
 DOC_PATH = '/mnt/data/workspace/nlp/PICO-data/docs/'
@@ -109,10 +110,19 @@ def make_crowd_data(corpus, data, list_wid, dic_wid, dic_pid_data, features, lab
     return util.crowd_data(sentences, clabs)
 
 
-def main(annotype, docids=None, max_num_worker=None):
+def main(annotype, docids=None, max_num_worker=None, high_quality=False):
+
+    if high_quality:
+        print "[INFO] high_quality mode enabled, calculating low quality workers"
+        corpus = Corpus(doc_path = DOC_PATH, verbose=False)
+        corpus.load_annotations(ANNO_PATH, docids=docids)
+        pruned_workers = {annotype: utils.get_pruned_workers(corpus, annotype)}
+        print "[INFO] {0} workers are pruned because of low quality.".format(len(pruned_workers[annotype]))
+    else:
+        pruned_workers = {}
 
     corpus = Corpus(doc_path = DOC_PATH)
-    corpus.load_annotations(ANNO_PATH, docids, max_num_worker=max_num_worker)
+    corpus.load_annotations(ANNO_PATH, docids, max_num_worker=max_num_worker, pruned_workers=pruned_workers)
 
     list_wid, dic_wid, data, dic_did_data = make_data(corpus, annotype)
     features, labels = make_index(corpus, annotype)
@@ -124,5 +134,8 @@ def main(annotype, docids=None, max_num_worker=None):
 
 if __name__ == '__main__':
     annotype = 'Outcome'
-    main(annotype, docids=['23549581'])
+    main(annotype, high_quality=True)
+
+    # example docids = ['23549581']
+    #main(annotype, docids=['23549581'], high_quality=True)
 
