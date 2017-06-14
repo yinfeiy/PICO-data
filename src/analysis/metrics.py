@@ -42,6 +42,10 @@ def metrics(spans, ref_spans, ntokens, metric_name):
         score = precision(spans, m2)
     elif metric_name == 'recl':
         score = recall(ref_spans, m1)
+    elif metric_name == 'f1':
+        prec = precision(spans, m2)
+        recl = recall(ref_spans, m1)
+        score = 2.0*prec*recl/(prec+recl)
     elif metric_name == 'corr':
         score = corr(m1, m2)
 

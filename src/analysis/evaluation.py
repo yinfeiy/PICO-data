@@ -48,8 +48,8 @@ def evaluating_worker(corpus, annotype, metric_name):
 if __name__ == '__main__':
     doc_path = '../docs/'
 
-    #annotypes = ['Participants', 'Intervention', 'Outcome']
-    annotypes = ['Outcome']
+    annotypes = ['Participants', 'Intervention', 'Outcome']
+    #annotypes = ['Outcome']
     anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/aggregated_results/Outcome-aggregated_hq_dw.json'
     anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/analysis/htmls/output/tmp.json'
 
@@ -65,17 +65,21 @@ if __name__ == '__main__':
     corpus.load_annotations(anno_fn, docids)
     corpus.load_groundtruth(gt_fn, gt_wids) # It will load all annotators if wid is None
 
-
+    display_name = dict(mv='Majority Vote', dw='Dawid Skene', HMMCrowd='HMMCrowd')
     for annotype in annotypes:
         worker_scores = defaultdict(dict)
         print 'Processing ', annotype
-        for metric_name in ['corr', 'prec', 'recl']:
+        for metric_name in ['corr', 'prec', 'recl', 'f1']:
             worker_scores_annotype = evaluating_worker(corpus, annotype, metric_name)
             for wid in worker_scores_annotype:
                 worker_scores[wid][metric_name] = worker_scores_annotype[wid]['score']
                 worker_scores[wid]['count'] = worker_scores_annotype[wid]['count']
 
-        print worker_scores
+        for wid in worker_scores.keys():
+            print display_name[wid] + '\t',
+            for metric_name in ['prec', 'recl', 'f1', 'corr']:
+                print '& {:.3f} '.format(worker_scores[wid][metric_name]),
+            print '\\\\'
 
         #with open(annotype+'.csv', 'w+') as fout:
         #    fout.write('workerid, numebr of doc, corr, prec, recl\n')

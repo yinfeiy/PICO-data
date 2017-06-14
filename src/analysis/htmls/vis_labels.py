@@ -15,7 +15,10 @@ def viz_annotation(corpus, annotype, opath, gt=False):
     for docid in corpus.docs:
         doc = corpus.docs[docid]
         spacydoc = doc.spacydoc
-        markups = doc.markups[annotype]
+        if gt:
+            markups = doc.groundtruth_markups.get(annotype, {})
+        else:
+            markups = doc.markups[annotype]
 
         masks = np.zeros(doc.ntokens)
         for wid, spans in markups.iteritems():

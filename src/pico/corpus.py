@@ -16,6 +16,7 @@ class Doc:
         self.markups_offset = markups_offset  ## offset markups on string character level
         self.markups = self.offset2markups(markups_offset)  ## markups on token level
 
+        self.groundtruth_markups = None
         self.groundtruth_offset = None
         self.groundtruth = None
 
@@ -65,6 +66,8 @@ class Doc:
 
         ## Combining groundtruth from multiple professionals
         markups = self.offset2markups(gt_markups_offset)
+        self.groundtruth_markups = markups
+
         for annotype in markups:
             mask = [0] * self.ntokens
 
