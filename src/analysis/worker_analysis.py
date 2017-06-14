@@ -127,8 +127,12 @@ def calculate_worker_scores(corpus, annotype, scoretype, max_workers=DEFAULT_MAX
 def plot_worker_hist(doc_hist, title):
     ct = Counter(doc_hist.values())
     plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
-    plt.title(title)
-    plt.show()
+    plt.title(title, fontsize=26)
+    plt.xlabel("number of valid workers", fontsize=20)
+    plt.ylabel("number of abstracts", fontsize=20)
+    plt.xlim([0,8])
+    #plt.show()
+    plt.savefig('hist_worker_{0}.png'.format(title.lower()))
 
 def output_worker_scores(worker_scores, valid_docs, output_filename):
     fout = open(output_filename, 'w+')
@@ -145,7 +149,7 @@ if __name__ == '__main__':
     doc_path = '../docs/'
     max_workers = DEFAULT_MAX_WORKERS
 
-    annotype = 'Participants'
+    annotype = 'Intervention'
 
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     #anno_fn = '../annotations/PICO-annos-professional.json'
@@ -160,6 +164,8 @@ if __name__ == '__main__':
 
         # number of workers per doc
         doc_hist = worker_hist_per_doc(worker_scores_tmp)
+        #plot_worker_hist(doc_hist, annotype)
+
         for th in [4,5,6,7]:
             valid_docs = [did for did in doc_hist if doc_hist[did] >= th]
 
