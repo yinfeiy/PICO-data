@@ -118,21 +118,53 @@ def worker_hist_per_doc(worker_scores):
 
 
 def calculate_worker_scores(corpus, annotype, scoretype, max_workers=DEFAULT_MAX_WORKERS):
-    pruned_workers = utils.get_pruned_workers(corpus, annotype)
+    #pruned_workers = utils.get_pruned_workers(corpus, annotype)
+    pruned_workers = {}
 
     worker_scores = worker_scores_per_doc(corpus.docs, annotype, scoretype, pruned_workers, max_workers)
     return worker_scores
 
 
-def plot_worker_hist(doc_hist, title):
+def plot_worker_hist(doc_hist, title, savefig=False):
     ct = Counter(doc_hist.values())
     plt.bar(ct.keys(), ct.values(), align='center', alpha=0.5)
     plt.title(title, fontsize=26)
     plt.xlabel("number of valid workers", fontsize=20)
     plt.ylabel("number of abstracts", fontsize=20)
     plt.xlim([0,8])
-    #plt.show()
-    plt.savefig('hist_worker_{0}.png'.format(title.lower()))
+    if savefig:
+        plt.savefig('hist_worker_{0}.png'.format(title.lower()))
+    else:
+        plt.show()
+
+def plot_worker_scores_hist(worker_scores, title, savefig=False, gt=False):
+    values = worker_scores.values()
+    plt.clf()
+    plt.hist(values, bins=20, alpha=0.5, edgecolor='w')
+    plt.title(title, fontsize=26)
+    plt.xlabel("worker scores", fontsize=20)
+    plt.ylabel("number of workers", fontsize=20)
+    plt.xlim([-0.2,1])
+    if savefig:
+        if gt:
+            plt.savefig('hist_worker_scores_gt_{0}.png'.format(title.lower()))
+        else:
+            plt.savefig('hist_worker_scores_{0}.png'.format(title.lower()))
+    else:
+        plt.show()
+
+def plot_tasks_per_worker_hist(worker_hist, title,savefig=False):
+    values = worker_hist.values()
+    values = [min(v, 100) for v in values]
+    plt.clf()
+    plt.hist(values, bins=30, alpha=0.5, edgecolor='w')
+    plt.title(title + '({0})'.format(len(values)), fontsize=26)
+    plt.xlabel("number of tasks completed", fontsize=20)
+    plt.ylabel("number of workers", fontsize=20)
+    if savefig:
+        plt.savefig('tasks_per_worker_{0}.png'.format(title.lower()))
+    else:
+        plt.show()
 
 def output_worker_scores(worker_scores, valid_docs, output_filename):
     fout = open(output_filename, 'w+')
@@ -145,6 +177,39 @@ def output_worker_scores(worker_scores, valid_docs, output_filename):
     fout.close()
 
 
+def count_tasks_per_worker(corpus, plot=False):
+    worker_count_all = defaultdict(dict)
+    for annotype in utils.ANNOTYPES:
+        worker_count = defaultdict(int)
+        for docid in corpus.docs:
+            annos = corpus.get_doc_annos(docid, annotype)
+            if not annos:
+                continue
+            for wid in annos:
+                worker_count[wid] += 1
+        plot_tasks_per_worker_hist(worker_count, annotype, savefig=True)
+        for wid in worker_count:
+            worker_count_all[wid][annotype] = worker_count[wid]
+
+    # How many of them come back for other annotypes
+    vals = [len(worker_count_all[wid].keys()) for wid in worker_count_all]
+    print Counter(vals)
+
+def worker_scores(corpus, plot=False):
+    # Worker Scores
+    for annotype in utils.ANNOTYPES:
+        worker_scores_tmp = calculate_worker_scores(corpus, annotype, 'corr', DEFAULT_MAX_WORKERS)
+
+        # number of workers per doc
+        doc_hist = worker_hist_per_doc(worker_scores_tmp)
+        # plot_worker_hist(doc_hist, annotype)
+
+        mean_scores = dict([(wid, np.mean(worker_scores_tmp[wid].values())) for wid in worker_scores_tmp])
+        print annotype, "number of wokers <0.2: ", sum([ 1 if s < 0.2 else 0 for s in mean_scores.values()])
+        if plot:
+            plot_worker_scores_hist(mean_scores, annotype, savefig=True)
+
+
 if __name__ == '__main__':
     doc_path = '../docs/'
     max_workers = DEFAULT_MAX_WORKERS
@@ -152,38 +217,13 @@ if __name__ == '__main__':
     annotype = 'Intervention'
 
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
-    #anno_fn = '../annotations/PICO-annos-professional.json'
+    gt_fn = '../annotations/PICO-annos-professional.json'
 
     # Loading corpus
     corpus = Corpus(doc_path = doc_path)
     corpus.load_annotations(anno_fn)
+    corpus.load_groundtruth(gt_fn)
 
-    worker_scores = defaultdict(dict)
-    for scoretype in ['corr']:
-        worker_scores_tmp = calculate_worker_scores(corpus, annotype, scoretype, max_workers)
+    worker_scores(corpus, plot=True)
+    #count_tasks_per_worker(corpus, plot=True)
 
-        # number of workers per doc
-        doc_hist = worker_hist_per_doc(worker_scores_tmp)
-        #plot_worker_hist(doc_hist, annotype)
-
-        for th in [4,5,6,7]:
-            valid_docs = [did for did in doc_hist if doc_hist[did] >= th]
-
-            filename = './adhoc/{0}_ws_cutoff_{1}.csv'.format(annotype, th)
-            #output_worker_scores(worker_scores_tmp, valid_docs, filename)
-
-        for wid in worker_scores_tmp:
-            worker_scores[wid][scoretype] = worker_scores_tmp[wid]
-
-    with open('adhoc/{0}_ws_max_{1}.csv'.format(annotype, max_workers), 'w+') as fout:
-        for wid in worker_scores:
-            ostr = '{0},'.format(wid)
-            for scoretype in ['corr']:
-                if scoretype in worker_scores[wid]:
-                    c = len(worker_scores[wid][scoretype].values())
-                    s = np.mean(worker_scores[wid][scoretype].values())
-                    ostr += '{0}, {1:.3f}, '.format(c, s)
-                else:
-                    ostr += 'Nan, Nan, '
-            ostr = ostr.strip()[:-1]
-            fout.write(ostr+'\n')

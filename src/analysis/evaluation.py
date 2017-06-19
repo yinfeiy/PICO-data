@@ -4,6 +4,7 @@ from pico import utils
 import numpy as np
 from collections import defaultdict
 import scipy.stats as stats
+import matplotlib.pyplot as plt
 import metrics
 import json
 
@@ -49,8 +50,8 @@ if __name__ == '__main__':
     doc_path = '../docs/'
 
     annotypes = ['Participants', 'Intervention', 'Outcome']
-    #annotypes = ['Outcome']
-    anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/analysis/htmls/output/tmp.json'
+    #anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/analysis/htmls/output/tmp.json'
+    anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
 
     gt_fn = '../annotations/PICO-annos-professional.json'
     #gt_wids = ['AXQIZSZFYCA8T']
@@ -74,11 +75,24 @@ if __name__ == '__main__':
                 worker_scores[wid][metric_name] = worker_scores_annotype[wid]['score']
                 worker_scores[wid]['count'] = worker_scores_annotype[wid]['count']
 
+        scores = []
         for wid in worker_scores.keys():
-            print display_name[wid] + '\t',
-            for metric_name in ['prec', 'recl', 'f1', 'corr']:
-                print '& {:.3f} '.format(worker_scores[wid][metric_name]),
+            print display_name.get(wid, wid) + '\t',
+            for metric_name in ['corr']:
+                print '& {:.3f} '.format(worker_scores[wid].get(metric_name,-1)),
+                if metric_name in worker_scores[wid]:
+                    scores.append(worker_scores[wid][metric_name])
             print '\\\\'
+
+        # Plot worker score histogram
+        plt.clf()
+        plt.hist(scores, bins=20, alpha=0.5, edgecolor='w')
+        plt.title(annotype, fontsize=26)
+        plt.xlabel("worker scores", fontsize=20)
+        plt.ylabel("number of workers", fontsize=20)
+        plt.xlim([-0.2,1])
+        plt.savefig('hist_worker_scores_gt_{0}.png'.format(annotype.lower()))
+        #plt.show()
 
         #with open(annotype+'.csv', 'w+') as fout:
         #    fout.write('workerid, numebr of doc, corr, prec, recl\n')
