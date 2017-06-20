@@ -4,8 +4,9 @@ from analysis.worker_analysis import worker_scores_doc_corr
 from collections import defaultdict
 
 import numpy as np
+import json
 
-def main(corpus):
+def doc_scorer(corpus):
     doc_scores = defaultdict(dict)
 
     for annotype in utils.ANNOTYPES:
@@ -18,7 +19,14 @@ def main(corpus):
             if not np.isnan(doc_score):
                 doc_scores[docid][annotype] = doc_score
 
-        break
+    fout = open('./difficulty.json', 'w+')
+    for docid in corpus.docs:
+        doc_scores[docid]['text'] = corpus.get_doc_tokenized_text(docid)
+        doc_scores[docid]['docid'] = docid
+        ostr = json.dumps(doc_scores[docid])
+        fout.write(ostr + '\n')
+    fout.close()
+
 
 if __name__ == '__main__':
     doc_path = '../docs/'
@@ -31,4 +39,4 @@ if __name__ == '__main__':
     corpus.load_annotations(anno_fn)
     corpus.load_groundtruth(gt_fn)
 
-    main(corpus)
+    doc_scorer(corpus)

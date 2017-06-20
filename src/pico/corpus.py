@@ -81,6 +81,7 @@ class Doc:
 
             self.groundtruth[annotype] = self._mask2spans(mask)
 
+
     def get_groundtruth(self, annotype):
         if annotype == None or self.groundtruth == None:
             return self.groundtruth
@@ -91,6 +92,12 @@ class Doc:
 
     def text(self):
         return self.spacydoc.text
+
+    def tokenized_text(self):
+        text = ""
+        for token in self.spacydoc:
+            text += " " + token.text
+        return text.strip()
 
     def get_markups_text(self, annotype=None):
         if annotype and annotype not in self.markups:
@@ -257,6 +264,12 @@ class Corpus:
 
         return self.docs[docid].text()
 
+    def get_doc_tokenized_text(self, docid):
+        if docid not in self.docs:
+            print 'docid {0} is not found'.format(docid)
+            return None
+
+        return self.docs[docid].tokenized_text()
 
     def get_doc_spacydoc(self, docid):
         if docid not in self.docs:
