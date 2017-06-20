@@ -118,8 +118,7 @@ def worker_hist_per_doc(worker_scores):
 
 
 def calculate_worker_scores(corpus, annotype, scoretype, max_workers=DEFAULT_MAX_WORKERS):
-    #pruned_workers = utils.get_pruned_workers(corpus, annotype)
-    pruned_workers = {}
+    pruned_workers = utils.get_pruned_workers(corpus, annotype)
 
     worker_scores = worker_scores_per_doc(corpus.docs, annotype, scoretype, pruned_workers, max_workers)
     return worker_scores
@@ -195,7 +194,9 @@ def count_tasks_per_worker(corpus, plot=False):
     vals = [len(worker_count_all[wid].keys()) for wid in worker_count_all]
     print Counter(vals)
 
-def worker_scores(corpus, plot=False):
+def main(corpus, plot=False):
+    #count_tasks_per_worker(corpus, plot=plot)
+
     # Worker Scores
     for annotype in utils.ANNOTYPES:
         worker_scores_tmp = calculate_worker_scores(corpus, annotype, 'corr', DEFAULT_MAX_WORKERS)
@@ -212,9 +213,6 @@ def worker_scores(corpus, plot=False):
 
 if __name__ == '__main__':
     doc_path = '../docs/'
-    max_workers = DEFAULT_MAX_WORKERS
-
-    annotype = 'Intervention'
 
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
@@ -224,6 +222,5 @@ if __name__ == '__main__':
     corpus.load_annotations(anno_fn)
     corpus.load_groundtruth(gt_fn)
 
-    worker_scores(corpus, plot=True)
-    #count_tasks_per_worker(corpus, plot=True)
+    main(corpus, plot=True)
 
