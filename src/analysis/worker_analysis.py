@@ -52,6 +52,55 @@ def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MA
     return worker_scores
 
 
+def worker_scores_sent_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
+    # Leave One Out
+    markups = doc.markups[annotype]
+    workers = [w for w in markups.keys() if w not in pruned_workers]
+    nworkers = len(workers)
+
+    if nworkers > max_workers:
+        random.shuffle(workers)
+        workers = workers[:max_workers]
+        workers.sort()
+        nworkers = max_workers
+
+    markup_mask = np.zeros(doc.ntokens)
+    for i in range(nworkers):
+        spans = markups[workers[i]]
+        for span in spans:
+            markup_mask[span[0]:span[1]] = markup_mask[span[0]:span[1]] + [1] * (span[1]-span[0])
+
+    worker_scores = {}
+    for i in range(nworkers):
+        worker_mask = np.zeros(doc.ntokens)
+        spans = markups[workers[i]]
+        for span in spans:
+            worker_mask[span[0]:span[1]] = [1] * (span[1]-span[0])
+
+        if nworkers == 1:
+            print "[Warn] Only one worker for doc {0}, do not calculate worker score.".format(doc.docid)
+            continue
+
+        elif len(worker_mask) == sum(worker_mask):
+            c = 0
+        else:
+            mask_loo = (markup_mask - worker_mask) / (nworkers-1)
+
+            for sent in doc.spacydoc.sents:
+                print sent.start, sent.end, sent
+                # TODO(yinfeiy): Finish the sentence scorer here
+                s, e = sent.start, sent.end
+                print mask_loo[s:e], worker_mask[s:e]
+                print stats.pearsonr(mask_loo[s:e], worker_mask[s:e])
+            c, p = stats.spearmanr(mask_loo, worker_mask)
+            print "end: ",  c, p
+            exit()
+
+        worker_scores[workers[i]] = c
+
+    return worker_scores
+
+
 def worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
     markups = doc.markups[annotype]
     workers = [w for w in markups.keys() if w not in pruned_workers]
