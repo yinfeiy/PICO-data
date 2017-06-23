@@ -3,6 +3,7 @@ from pico import utils
 from analysis.worker_analysis import worker_scores_doc_corr, worker_scores_doc_helper
 from analysis.worker_analysis import worker_scores_sent_corr
 from collections import defaultdict
+from itertools import combinations
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -95,6 +96,21 @@ def load_doc_scores(ifn, is_dict=False):
         doc_scores = dict(zip([d['docid'] for d in doc_scores], doc_scores))
     return doc_scores
 
+def inter_annotype_correlation(doc_scores, scoretype='corr'):
+    if isinstance(doc_scores, dict):
+        doc_scores = doc_scores.values()
+    for annotype_1, annotype_2 in combinations(utils.ANNOTYPES, 2):
+        ss1, ss2 = [], []
+        for item in doc_scores:
+            s1 = item[annotype_1+'_'+scoretype]
+            s2 = item[annotype_2+'_'+scoretype]
+            if s1 and s2:
+                ss1.append(s1), ss2.append(s2)
+        print "Inter annotype corrleation: ", annotype_1, annotype_2
+        print stats.pearsonr(ss1, ss2)
+        print stats.spearmanr(ss1, ss2)
+
+# TODO(yinfeiy): either remove of finish the sentence scorer, current focus on doc level
 def sent_scorer(corpus):
     sent_scores = defaultdict(dict)
 
@@ -114,16 +130,17 @@ if __name__ == '__main__':
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
 
-    ofn = './difficulty/difficulty_sent.json'
+    ofn = './difficulty/difficulty.json'
 
     # Loading corpus
-    if True:
+    if False:
         corpus = Corpus(doc_path = doc_path)
         corpus.load_annotations(anno_fn)
         corpus.load_groundtruth(gt_fn)
 
-        doc_scores = sent_scorer(corpus)
+        doc_scores = doc_scorer(corpus)
         save_doc_scores(corpus, doc_scores, ofn)
     else:
         doc_scores = load_doc_scores(ofn, is_dict=True)
-    plot_score_dist(doc_scores, savefig=True, figname='./hist_sent_scores.png')
+    inter_annotype_correlation(doc_scores)
+    plot_score_dist(doc_scores, savefig=False, figname='./hist_sent_scores.png')

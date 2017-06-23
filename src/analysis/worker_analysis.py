@@ -52,6 +52,9 @@ def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MA
     return worker_scores
 
 
+# TODO(yinfeiy): either remove it or finish it
+# Sentence level corr is more difficult as many sentence have no annotaions,
+# which will cause a invalid correlation score.
 def worker_scores_sent_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
     # Leave One Out
     markups = doc.markups[annotype]
