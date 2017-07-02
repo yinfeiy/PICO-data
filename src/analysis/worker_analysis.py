@@ -52,6 +52,35 @@ def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MA
     return worker_scores
 
 
+def worker_scores_doc_corr_gt(doc, annotype, pruned_workers):
+    markups = doc.markups[annotype]
+    workers = [w for w in markups.keys() if w not in pruned_workers]
+    nworkers = len(workers)
+
+    gt = doc.get_groundtruth(annotype)
+    if not gt:
+        return {}
+
+    mask_gt = np.zeros(doc.ntokens)
+    for span in gt:
+        mask_gt[span[0]:span[1]] = 1
+
+    worker_scores = {}
+    for i in range(nworkers):
+        worker_mask = np.zeros(doc.ntokens)
+        spans = markups[workers[i]]
+        for span in spans:
+            worker_mask[span[0]:span[1]] = [1] * (span[1]-span[0])
+
+        if len(worker_mask) == sum(worker_mask):
+            c = 0
+        else:
+            c, p = stats.spearmanr(mask_gt, worker_mask)
+        worker_scores[workers[i]] = c
+
+    return worker_scores
+
+
 # TODO(yinfeiy): either remove it or finish it
 # Sentence level corr is more difficult as many sentence have no annotaions,
 # which will cause a invalid correlation score.
@@ -139,6 +168,22 @@ def worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers, max_worke
 
     return worker_scores
 
+def worker_scores_doc_gt_helper(doc, annotype, scoretype, pruned_workers):
+    markups = doc.markups[annotype]
+    workers = [w for w in markups.keys() if w not in pruned_workers]
+    nworkers = len(workers)
+
+    gt_spans = doc.get_groundtruth(annotype)
+    if not gt_spans:
+        return {}
+
+    worker_scores = {}
+    for i in range(nworkers):
+        worker_spans = markups[workers[i]]
+        score = metrics.metrics(worker_spans, gt_spans, doc.ntokens, scoretype)
+        worker_scores[workers[i]] = score
+
+    return worker_scores
 
 def worker_scores_per_doc(docs, annotype, scoretype, pruned_workers=set(), max_workers=DEFAULT_MAX_WORKERS):
 

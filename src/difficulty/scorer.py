@@ -1,6 +1,7 @@
 from pico.corpus import Corpus, Doc
 from pico import utils
 from analysis.worker_analysis import worker_scores_doc_corr, worker_scores_doc_helper
+from analysis.worker_analysis import worker_scores_doc_corr_gt, worker_scores_doc_gt_helper
 from analysis.worker_analysis import worker_scores_sent_corr
 from collections import defaultdict
 from itertools import combinations
@@ -22,8 +23,12 @@ def doc_scorer(corpus):
             for scoretype in ['corr', 'prec', 'recl']:
                 if scoretype == 'corr':
                     worker_scores = worker_scores_doc_corr(doc, annotype, pruned_workers)
-                elif scoretype in ['perc', 'recl']:
+                    worker_scores_gt = worker_scores_doc_corr_gt(doc, annotype, pruned_workers)
+                elif scoretype in ['prec', 'recl']:
                     worker_scores = worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers)
+                    worker_scores_gt = worker_scores_doc_gt_helper(doc, annotype, scoretype, pruned_workers)
+                else:
+                    worker_scores, worker_scores_gt = {}, {}
 
                 doc_score = np.mean(worker_scores.values())
                 if not np.isnan(doc_score):
@@ -31,6 +36,11 @@ def doc_scorer(corpus):
                 else:
                     doc_scores[docid][annotype+'_'+scoretype] = None
 
+                doc_score_gt = np.mean(worker_scores_gt.values())
+                if not np.isnan(doc_score_gt):
+                    doc_scores[docid][annotype+'_'+scoretype+'_'+'gt'] = doc_score_gt
+                else:
+                    doc_scores[docid][annotype+'_'+scoretype+'_'+'gt'] = None
 
     return doc_scores
 
@@ -110,7 +120,21 @@ def inter_annotype_correlation(doc_scores, scoretype='corr'):
         print stats.pearsonr(ss1, ss2)
         print stats.spearmanr(ss1, ss2)
 
-# TODO(yinfeiy): either remove of finish the sentence scorer, current focus on doc level
+def doc_score_anno_quality(doc_scores, scoretype='corr'):
+    if isinstance(doc_scores, dict):
+        doc_scores = doc_scores.values()
+    for annotype in utils.ANNOTYPES:
+        ss1, ss2 = [], []
+        for item in doc_scores:
+            s1 = item[annotype+'_'+scoretype]
+            s2 = item[annotype+'_'+scoretype + '_' + 'gt']
+            if s1 and s2:
+                ss1.append(s1), ss2.append(s2)
+        print "Annotation quality for : ", annotype,
+        print stats.pearsonr(ss1, ss2)
+        print stats.spearmanr(ss1, ss2)
+
+# TODO(yinfeiy): either remove or finish the sentence scorer, currently focus on doc level
 def sent_scorer(corpus):
     sent_scores = defaultdict(dict)
 
@@ -133,7 +157,7 @@ if __name__ == '__main__':
     ofn = './difficulty/difficulty.json'
 
     # Loading corpus
-    if False:
+    if True:
         corpus = Corpus(doc_path = doc_path)
         corpus.load_annotations(anno_fn)
         corpus.load_groundtruth(gt_fn)
@@ -143,4 +167,5 @@ if __name__ == '__main__':
     else:
         doc_scores = load_doc_scores(ofn, is_dict=True)
     inter_annotype_correlation(doc_scores)
+    doc_score_anno_quality(doc_scores, scoretype='corr')
     plot_score_dist(doc_scores, savefig=False, figname='./hist_sent_scores.png')
