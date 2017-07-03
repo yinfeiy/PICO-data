@@ -1,6 +1,7 @@
 import json, os
-import numpy as np
+import re
 import random
+import numpy as np
 
 random.seed(10)
 
@@ -12,6 +13,42 @@ SCORETYPES = ['corr', 'prec', 'recl']
 DEFAULT_ANNOTYPE = 'min'
 DEFAULT_SCORETYPE = 'corr'
 
+def clean_str(string):
+    """
+    Tokenization/string cleaning for all datasets except for SST.
+    Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data.py
+    """
+    string = re.sub(r"[^A-Za-z0-9(),!?\'\`]", " ", string)
+    string = re.sub(r"\'s", " \'s", string)
+    string = re.sub(r"\'ve", " \'ve", string)
+    string = re.sub(r"n\'t", " n\'t", string)
+    string = re.sub(r"\'re", " \'re", string)
+    string = re.sub(r"\'d", " \'d", string)
+    string = re.sub(r"\'ll", " \'ll", string)
+    string = re.sub(r"\s{2,}", " ", string)
+    return string.strip().lower()
+
+
+def batch_iter(data, batch_size, num_epochs, shuffle=True):
+    """
+    Generates a batch iterator for a dataset.
+    """
+    data = np.array(data)
+    data_size = len(data)
+    num_batches_per_epoch = int(len(data)/batch_size) + 1
+
+    for epoch in range(num_epochs):
+        # Shuffle the data at each epoch
+        if shuffle:
+            shuffle_indices = np.random.permutation(np.arange(data_size))
+            shuffled_data = data[shuffle_indices]
+        else:
+            shuffled_data = data
+        for batch_num in range(num_batches_per_epoch):
+            start_index = batch_num * batch_size
+            end_index = min((batch_num + 1) * batch_size, data_size)
+            yield shuffled_data[start_index:end_index]
+
 def calculate_percentiles(docs, field='score', new_field='percentile'):
     scores = [doc[field] for doc in docs]
     num = len(scores)
@@ -21,6 +58,7 @@ def calculate_percentiles(docs, field='score', new_field='percentile'):
         docs[idx][new_field] = round(rank*100.0/num, 0)
 
     return docs
+
 
 def split_train_test(docs, development_set=0):
     gt_keys = []
@@ -47,6 +85,28 @@ def split_train_test(docs, development_set=0):
         dev_docids = set()
 
     return train_docids, dev_docids, test_docids
+
+
+def extract_text(docs, percentile=True, gt=False):
+    text = []
+    ys = []
+    for doc in docs:
+        if gt and 'gt' not in doc:
+            continue
+
+        text.append(clean_str(doc['text']))
+        if gt:
+            if percentile:
+                ys.append(doc['percentile_gt'])
+            else:
+                ys.append(doc['gt'])
+        else:
+            if percentile:
+                ys.append(doc['percentile'])
+            else:
+                ys.append(doc['score'])
+
+    return text, ys
 
 
 def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
@@ -95,28 +155,6 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
         return train_text, y_train, dev_text, y_dev, test_text, y_test
     else:
         return train_text, y_train, test_text, y_test
-
-
-def extract_text(docs, percentile=True, gt=False):
-    text = []
-    ys = []
-    for doc in docs:
-        if gt and 'gt' not in doc:
-            continue
-
-        text.append(doc['text'].lower())
-        if gt:
-            if percentile:
-                ys.append(doc['percentile_gt'])
-            else:
-                ys.append(doc['gt'])
-        else:
-            if percentile:
-                ys.append(doc['percentile'])
-            else:
-                ys.append(doc['score'])
-
-    return text, ys
 
 
 if __name__ == '__main__':

@@ -28,6 +28,8 @@ class DifficultyModel:
         self.x_dev = ngram_vectorizer.transform(self.dev_text).toarray()
         self.x_test = ngram_vectorizer.transform(self.test_text).toarray()
 
+        self.model = SVR(kernel='linear')
+
     def prepare_cnn_task(self):
         max_document_length = max(
                 [len(x.split(" ")) for x in self.train_text])
@@ -36,21 +38,23 @@ class DifficultyModel:
     def train(self):
         if self.classifier == 'SVM':
             self.prepare_svm_task()
-            self.model = SVR(kernel='linear')
             self.model.fit(self.x_train, self.y_train)
 
-            y_pred_train = self.model.predict(self.x_train)
-            y_pred_dev = self.model.predict(self.x_dev)
-            y_pred_test = self.model.predict(self.x_test)
-            print "Training metrics:"
-            print ( stats.pearsonr(self.y_train, y_pred_train),
-                    stats.spearmanr(self.y_train, y_pred_train) )
-            print "Development metrics:"
-            print (stats.pearsonr(self.y_dev, y_pred_dev),
-                    stats.spearmanr(self.y_dev, y_pred_dev) )
-            print "Testing metrics:"
-            print (stats.pearsonr(self.y_test, y_pred_test),
-                    stats.spearmanr(self.y_test, y_pred_test) )
+            self.eval(self.x_train, self.y_train, msg="Training metrics")
+            self.eval(self.x_dev, self.y_dev, msg="Development metrics")
+            self.eval(self.x_test, self.y_test, msg="Testing metrics")
+
+        elif self.classifier == 'CNN':
+            pass
+
+
+    def eval(self, x, y, msg=None):
+        if self.classifier == 'SVM':
+            y_pred = self.model.predict(x)
+            pearsonr, _ = stats.pearsonr(y, y_pred)
+            spearmanr, _ = stats.spearmanr(y, y_pred)
+            if msg: print msg
+            print round(pearsonr, 3), round(spearmanr, 3)
 
     def save(self):
         pass
