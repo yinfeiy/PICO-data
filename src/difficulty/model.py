@@ -7,6 +7,8 @@ from scipy import stats
 from cnn import CNN
 import numpy as np
 
+from tensorflow.contrib import learn
+
 class DifficultyModel:
 
     def __init__(self, classifier='SVM'):
@@ -29,7 +31,17 @@ class DifficultyModel:
         self.model = SVR(kernel='linear')
 
     def prepare_cnn_task(self):
-        self.model = CNN(self.train_text, self.y_train, self.dev_text, self.y_dev)
+        max_document_length = max([len(x.split(" ")) for x in self.train_text])
+        max_document_length = int(max_document_length * 0.9);
+
+        self.vocab = learn.preprocessing.VocabularyProcessor(max_document_length)
+
+        self.x_train = np.array(list(self.vocab.transform(self.train_text)))
+        self.y_train = np.array([ [y] for y in self.y_train])
+        self.x_dev = np.array(list(self.vocab.transform(self.dev_text)))
+        self.y_dev = np.array([ [y] for y in self.y_dev])
+
+        self.model = CNN(self.vocab, self.x_train, self.y_train, self.x_dev, self.y_dev)
 
     def train(self):
         if self.classifier == 'SVM':

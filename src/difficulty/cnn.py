@@ -5,7 +5,6 @@ import time
 import datetime
 import os
 
-from tensorflow.contrib import learn
 from tensorflow.contrib.tensorboard.plugins import projector
 
 from scipy import stats
@@ -14,7 +13,7 @@ from difficulty import data_utils
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding (default: 300)")
 tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
-tf.flags.DEFINE_integer("num_filters", 32, "Number of filters per filter size (default: 128)")
+tf.flags.DEFINE_integer("num_filters", 32, "Number of filters per filter size (default: 32)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
 tf.flags.DEFINE_float("l2_reg_lambda", 0.1, "L2 regularizaion lambda (default: 0.1)")
 
@@ -116,16 +115,12 @@ class CNNGraph(object):
 
 class CNN(object):
 
-    def __init__(self, x_train_text, y_train, x_test_text, y_test):
-        max_document_length = max([len(x.split(" ")) for x in x_train_text])
-        max_document_length = int(max_document_length * 0.8);
-
-        self.vocab = learn.preprocessing.VocabularyProcessor(max_document_length)
-
-        self.x_train = np.array(list(self.vocab.transform(x_train_text)))
-        self.y_train = np.array([ [y] for y in y_train])
-        self.x_test = np.array(list(self.vocab.transform(x_test_text)))
-        self.y_test = np.array([ [y] for y in y_test])
+    def __init__(self, vocab, x_train, y_train, x_test, y_test):
+        self.vocab = vocab
+        self.x_train = x_train
+        self.y_train = y_train
+        self.x_test = x_test
+        self.y_test = y_test
 
     def run(self):
         with tf.Graph().as_default():
