@@ -1,12 +1,10 @@
 from difficulty import data_utils
 
-import tensorflow as tf
-from tensorflow.contrib import learn
-
 from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
 from sklearn.svm import SVR
 
 from scipy import stats
+from cnn import CNN
 import numpy as np
 
 class DifficultyModel:
@@ -31,9 +29,7 @@ class DifficultyModel:
         self.model = SVR(kernel='linear')
 
     def prepare_cnn_task(self):
-        max_document_length = max(
-                [len(x.split(" ")) for x in self.train_text])
-        vocab_processor = learn.preprocessing.VocabularyProcessor(max_document_length)
+        self.model = CNN(self.train_text, self.y_train, self.dev_text, self.y_dev)
 
     def train(self):
         if self.classifier == 'SVM':
@@ -45,7 +41,8 @@ class DifficultyModel:
             self.eval(self.x_test, self.y_test, msg="Testing metrics")
 
         elif self.classifier == 'CNN':
-            pass
+            self.prepare_cnn_task()
+            self.model.run()
 
 
     def eval(self, x, y, msg=None):
@@ -63,5 +60,5 @@ class DifficultyModel:
         pass
 
 if __name__ == '__main__':
-    model = DifficultyModel()
+    model = DifficultyModel(classifier='CNN')
     model.train()
