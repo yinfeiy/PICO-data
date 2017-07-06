@@ -11,11 +11,11 @@ from scipy import stats
 from difficulty import data_utils
 
 # Model Hyperparameters
-tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding (default: 300)")
-tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
+tf.flags.DEFINE_integer("embedding_dim", 100, "Dimensionality of character embedding (default: 300)")
+tf.flags.DEFINE_string("filter_sizes", "1,2,3,4", "Comma-separated filter sizes (default: '3,4,5')")
 tf.flags.DEFINE_integer("num_filters", 32, "Number of filters per filter size (default: 32)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
-tf.flags.DEFINE_float("l2_reg_lambda", 0.1, "L2 regularizaion lambda (default: 0.1)")
+tf.flags.DEFINE_float("l2_reg_lambda", 1, "L2 regularizaion lambda (default: 1)")
 
 # Training parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
@@ -31,10 +31,10 @@ tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on 
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
 
-print("\nCNN Parameters:")
-for attr, value in sorted(FLAGS.__flags.items()):
-    print("{}={}".format(attr.upper(), value))
-print("")
+#print("\nCNN Parameters:")
+#for attr, value in sorted(FLAGS.__flags.items()):
+#    print("{}={}".format(attr.upper(), value))
+#print("")
 
 class CNNGraph(object):
     """
@@ -44,6 +44,7 @@ class CNNGraph(object):
     def __init__(
       self, sequence_length, num_classes, vocab_size,
       embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0):
+
 
         # Placeholders for input, output and dropout
         self.input_x = tf.placeholder(tf.int32, [None, sequence_length], name="input_x")
@@ -115,14 +116,10 @@ class CNNGraph(object):
 
 class CNN(object):
 
-    def __init__(self, vocab, x_train, y_train, x_test, y_test):
+    def __init__(self, vocab):
         self.vocab = vocab
-        self.x_train = x_train
-        self.y_train = y_train
-        self.x_test = x_test
-        self.y_test = y_test
 
-    def run(self):
+    def run(self, x_train, y_train, x_test, y_test):
         with tf.Graph().as_default():
             session_conf = tf.ConfigProto(
                     allow_soft_placement=FLAGS.allow_soft_placement,
@@ -130,8 +127,8 @@ class CNN(object):
 
             sess = tf.Session(config=session_conf)
             with sess.as_default():
-                cnn=CNNGraph(sequence_length = self.x_train.shape[1],
-                        num_classes = self.y_train.shape[1],
+                cnn=CNNGraph(sequence_length = x_train.shape[1],
+                        num_classes = y_train.shape[1],
                         vocab_size = len(self.vocab.vocabulary_),
                         embedding_size = FLAGS.embedding_dim,
                         filter_sizes = list(map(int, FLAGS.filter_sizes.split(","))),
@@ -261,12 +258,13 @@ class CNN(object):
                         y_gt.extend([s[0] for s in y_batch])
                         y_dt.extend([s[0] for s in y_preds])
                     pearsonr, p_value = stats.pearsonr(y_gt, y_dt)
+                    spearmanr, p_value = stats.spearmanr(y_gt, y_dt)
 
-                    print(" == pearsonr {:g}".format(pearsonr))
+                    print(" == pearsonr {:.3g}, spearmanr {:.3g}".format(pearsonr, spearmanr))
 
                 # Generate batches
                 batches = data_utils.batch_iter(
-                    list(zip(self.x_train, self.y_train)), FLAGS.batch_size, FLAGS.num_epochs)
+                    list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
 
                 # Training loop. For each batch...
                 for batch in batches:
@@ -275,7 +273,7 @@ class CNN(object):
                     current_step = tf.train.global_step(sess, global_step)
                     if current_step % FLAGS.evaluate_every == 0:
                         print("\nEvaluation:")
-                        dev_step(self.x_test, self.y_test, writer=dev_summary_writer)
+                        dev_step(x_test, y_test, writer=dev_summary_writer)
                         print("")
                     if current_step % FLAGS.checkpoint_every == 0:
                         path = saver.save(sess, checkpoint_prefix, global_step=current_step)

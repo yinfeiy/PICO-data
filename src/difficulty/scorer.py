@@ -157,7 +157,7 @@ if __name__ == '__main__':
     ofn = './difficulty/difficulty.json'
 
     # Loading corpus
-    if True:
+    if False:
         corpus = Corpus(doc_path = doc_path)
         corpus.load_annotations(anno_fn)
         corpus.load_groundtruth(gt_fn)

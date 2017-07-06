@@ -11,9 +11,9 @@ from tensorflow.contrib import learn
 
 class DifficultyModel:
 
-    def __init__(self, classifier='SVM'):
+    def __init__(self, classifier='SVM', annotype='min'):
         (self.train_text, self.y_train, self.dev_text, self.y_dev,
-                self.test_text, self.y_test ) = data_utils.load_dataset(annotype='min')
+                self.test_text, self.y_test ) = data_utils.load_dataset(annotype=annotype)
 
         self.classifier = classifier
         self.model = None
@@ -40,8 +40,10 @@ class DifficultyModel:
         self.y_train = np.array([ [y] for y in self.y_train])
         self.x_dev = np.array(list(self.vocab.transform(self.dev_text)))
         self.y_dev = np.array([ [y] for y in self.y_dev])
+        self.x_test = np.array(list(self.vocab.transform(self.test_text)))
+        self.y_test = np.array([ [y] for y in self.y_test])
 
-        self.model = CNN(self.vocab, self.x_train, self.y_train, self.x_dev, self.y_dev)
+        self.model = CNN(self.vocab)
 
     def train(self):
         if self.classifier == 'SVM':
@@ -54,7 +56,7 @@ class DifficultyModel:
 
         elif self.classifier == 'CNN':
             self.prepare_cnn_task()
-            self.model.run()
+            self.model.run(self.x_train, self.y_train, self.x_test, self.y_test)
 
 
     def eval(self, x, y, msg=None):
@@ -72,5 +74,5 @@ class DifficultyModel:
         pass
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='CNN')
+    model = DifficultyModel(classifier='CNN', annotype='Outcome')
     model.train()

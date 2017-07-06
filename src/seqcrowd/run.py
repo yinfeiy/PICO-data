@@ -50,6 +50,19 @@ def output(ofname, annotator, results_multi):
         for _, item in results_agg.iteritems():
             fo.write(json.dumps(item)+'\n')
 
+def filter_docs(annotype, min_workers):
+    ANNO_PATH = '/mnt/data/workspace/nlp/PICO-data/annotations/PICO-annos-crowdsourcing.json'
+
+    docids = []
+    with open(ANNO_PATH) as fin:
+        for line in fin:
+            item = json.loads(line.strip())
+            annos = item.get(annotype, {})
+            nworkers = len(annos.keys())
+            if nworkers >= min_workers:
+                docids.append(item['docid'])
+    return docids
+
 def main():
     annotype  = 'Intervention'
     if len(sys.argv) > 1:
@@ -57,11 +70,13 @@ def main():
 
     print annotype
 
+    docids_filtered = filter_docs(annotype, min_workers=6)
+
     init_type = 'dw'
     max_num_worker = 10
     niter= 5
 
-    (cd, list_wid, features, labels) = pico_data.main(annotype, max_num_worker=max_num_worker, high_quality=True)
+    (cd, list_wid, features, labels) = pico_data.main(annotype, docids=docids_filtered, max_num_worker=max_num_worker, high_quality=True)
 
     n = 2
     m = len(features) + 1
