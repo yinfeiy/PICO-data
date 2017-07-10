@@ -20,9 +20,10 @@ class DifficultyModel:
 
     def prepare_svm_task(self):
         print ('Building features...')
-        ngram_vectorizer = TfidfVectorizer(max_features=1500,
+        ngram_vectorizer = TfidfVectorizer(max_features=15000,
                                  ngram_range=(1, 3), stop_words=None, min_df=3,
                                  lowercase=False, analyzer='word')
+        print ('Building features done.')
 
         self.x_train = ngram_vectorizer.fit_transform(self.train_text).toarray()
         self.x_dev = ngram_vectorizer.transform(self.dev_text).toarray()
@@ -74,5 +75,5 @@ class DifficultyModel:
         pass
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='CNN', annotype='Outcome')
+    model = DifficultyModel(classifier='SVM', annotype='Participants')
     model.train()

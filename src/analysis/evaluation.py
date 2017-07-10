@@ -18,7 +18,8 @@ def evaluating_worker_per_doc(docs, annotype, metric_name):
         gt = doc.get_groundtruth(annotype)
         if not gt or annotype not in doc.markups:
             if annotype not in doc.markups:
-                print docid
+                # print docid
+                pass
             continue
 
         markups = doc.markups[annotype]
@@ -50,8 +51,8 @@ if __name__ == '__main__':
     doc_path = '../docs/'
 
     annotypes = ['Participants', 'Intervention', 'Outcome']
-    #anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/analysis/htmls/output/tmp.json'
-    anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
+    anno_fn = '/mnt/data/workspace/nlp/PICO-data/src/analysis/htmls/output/tmp.json'
+    #anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
 
     gt_fn = '../annotations/PICO-annos-professional.json'
     #gt_wids = ['AXQIZSZFYCA8T']

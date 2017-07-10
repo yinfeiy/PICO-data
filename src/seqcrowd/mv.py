@@ -101,7 +101,7 @@ if __name__ == '__main__':
     if high_quality:
         corpus_raw = Corpus(doc_path = doc_path, verbose=False)
         corpus_raw.load_annotations(anno_fn, docids=docids)
-        for annotype in ANNOTYPES:
+        for annotype in utils.ANNOTYPES:
             pruned_workers[annotype] = utils.get_pruned_workers(corpus_raw, annotype)
 
     print pruned_workers

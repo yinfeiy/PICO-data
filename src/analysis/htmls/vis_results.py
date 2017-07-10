@@ -41,18 +41,18 @@ def main(corpus):
 
 
 def merge_annos():
-    methods = ['mv', 'dw', 'dw_HMM_Crowd']
+    methods = ['mv', 'hq_dw', 'hq_dw_HMM_Crowd']
     annotypes = utils.ANNOTYPES
 
     final_annos = {}
     for annotype  in annotypes:
         for method in methods:
-            fn = '../../aggregated_results/{0}-aggregated_{1}.json'.format(annotype, method)
+            fn = '../../aggregated_results/{0}-aggregated_{1}_min6.json'.format(annotype, method)
             with open(fn) as fin:
                 for line in fin:
                     item = json.loads(line.strip())
                     docid = item['docid']
-                    key = method.replace('dw_HMM_Crowd', 'HMMCrowd')
+                    key = method.replace('dw_HMM_Crowd', 'HMMCrowd').replace('hq_','')
                     if docid in final_annos:
                         final_annos[docid][annotype][key] =item[annotype][key]
                     else:
@@ -63,7 +63,7 @@ def merge_annos():
     docids = final_annos.keys()
     docids.sort()
 
-    ofn = 'output/tmp.json'
+    ofn = 'output/tmp_min6.json'
     with open(ofn, 'w+') as fout:
         for docid in docids:
             item = final_annos[docid]
@@ -76,6 +76,7 @@ if __name__ == '__main__':
     doc_path = '../../../docs/'
 
     anno_fn = merge_annos()
+    exit()
     gt_fn = '../../../annotations/PICO-annos-professional.json'
     gt_wids = None
 
