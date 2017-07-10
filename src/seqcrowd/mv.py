@@ -94,6 +94,7 @@ if __name__ == '__main__':
     gt_fn = '../annotations/PICO-annos-professional.json'
 
     #docids = docs_with_gt(gt_fn)
+    docids = None
     high_quality = True
 
     pruned_workers = {}
