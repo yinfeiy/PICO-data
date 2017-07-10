@@ -98,7 +98,7 @@ def main():
             end = get_end(inv_l, s[r])
             results_init[pid].append([start, end])
 
-    ofname = 'aggregated_results/{0}-aggregated_hq_{1}.json'.format(annotype, init_type)
+    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_min6.json'.format(annotype, init_type)
     output(ofname, 'dw', {annotype:results_init})
 
 
@@ -116,7 +116,7 @@ def main():
             end = get_end(inv_l, s[r])
             results[pid].append([start, end])
 
-    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_HMM_Crowd.json'.format(annotype, init_type)
+    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_HMM_Crowd_min6.json'.format(annotype, init_type)
     output(ofname, 'HMMCrowd', {annotype:results})
 
 if __name__ == '__main__':

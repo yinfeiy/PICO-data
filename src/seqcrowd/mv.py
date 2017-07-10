@@ -74,6 +74,19 @@ def docs_with_gt(gt_fn):
             docids.append( item['docid'] )
     return docids
 
+def filter_docs(annotype, min_workers):
+    ANNO_PATH = '/mnt/data/workspace/nlp/PICO-data/annotations/PICO-annos-crowdsourcing.json'
+
+    docids = []
+    with open(ANNO_PATH) as fin:
+        for line in fin:
+            item = json.loads(line.strip())
+            annos = item.get(annotype, {})
+            nworkers = len(annos.keys())
+            if nworkers >= min_workers:
+                docids.append(item['docid'])
+    return docids
+
 if __name__ == '__main__':
     doc_path = '../docs/'
 
@@ -81,7 +94,6 @@ if __name__ == '__main__':
     gt_fn = '../annotations/PICO-annos-professional.json'
 
     #docids = docs_with_gt(gt_fn)
-    docids = None
     high_quality = True
 
     pruned_workers = {}
@@ -92,9 +104,10 @@ if __name__ == '__main__':
             pruned_workers[annotype] = utils.get_pruned_workers(corpus_raw, annotype)
 
     print pruned_workers
-    # Loading corpus
-    corpus = Corpus(doc_path = doc_path)
-    corpus.load_annotations(anno_fn, docids, pruned_workers=pruned_workers)
-
     for annotype in utils.ANNOTYPES:
-        process(corpus, ofn='./aggregated_results/{0}-aggregated-mv.json'.format(annotype), annotypes=[annotype])
+        docids = filter_docs(annotype, min_workers=6)
+        # Loading corpus
+        corpus = Corpus(doc_path = doc_path)
+        corpus.load_annotations(anno_fn, docids, pruned_workers=pruned_workers)
+
+        process(corpus, ofn='./aggregated_results/{0}-aggregated-mv_min6.json'.format(annotype), annotypes=[annotype])
