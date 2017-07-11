@@ -6,7 +6,7 @@ import numpy as np
 random.seed(10)
 
 CPATH = os.path.dirname(os.path.realpath(__file__))
-DATASET =  os.path.join(CPATH, 'difficulty.json')
+DATASET =  os.path.join(CPATH, 'difficulty_with_span.json')
 
 ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 SCORETYPES = ['corr', 'prec', 'recl']
@@ -109,7 +109,7 @@ def extract_text(docs, percentile=True, gt=False):
     return text, ys
 
 
-def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
+def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE, span_text=False):
     docs = []
     docs_raw = []
     with open(DATASET) as fin:
@@ -132,7 +132,11 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
             else:
                 raise 'To be implementated'
 
-            doc['text'] = item['text']
+            if span_text:
+                key = '{0}_text'.format(annotype)
+                doc['text'] = item.get(key, item['text'])
+            else:
+                doc['text'] = item['text']
             doc['docid'] = item['docid']
             docs.append(doc)
 

@@ -13,14 +13,14 @@ class DifficultyModel:
 
     def __init__(self, classifier='SVM', annotype='min'):
         (self.train_text, self.y_train, self.dev_text, self.y_dev,
-                self.test_text, self.y_test ) = data_utils.load_dataset(annotype=annotype)
+                self.test_text, self.y_test ) = data_utils.load_dataset(annotype=annotype, span_text=True)
 
         self.classifier = classifier
         self.model = None
 
     def prepare_svm_task(self):
         print ('Building features...')
-        ngram_vectorizer = TfidfVectorizer(max_features=15000,
+        ngram_vectorizer = TfidfVectorizer(max_features=1500,
                                  ngram_range=(1, 3), stop_words=None, min_df=3,
                                  lowercase=False, analyzer='word')
         print ('Building features done.')

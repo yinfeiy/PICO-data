@@ -44,14 +44,53 @@ def doc_scorer(corpus):
 
     return doc_scores
 
+def get_span_text(spacydoc, markups):
+    mask = np.zeros(len(spacydoc)+1) # append a non span at the end
+    for wid, spans in markups.iteritems():
+        for span in spans:
+            mask[span[0]:span[1]] = 1
+
+    # convert mask to final spans
+
+    spans = []
+    if mask[0] == 1:
+        sidx = 0
+
+    for idx, v in enumerate(mask[1:], 1):
+        if v==1 and mask[idx-1] == 0: # start of span
+            sidx = idx
+        elif v==0 and mask[idx-1] == 1 : # end of span
+            eidx = idx
+            spans.append( (sidx, eidx) )
+
+    text = ""
+    for span in spans:
+        span = spacydoc[span[0]:span[1]]
+        for token in span:
+            text += " " + token.text
+
+        if not token.is_punct:
+            text += " ."
+
+    return text.strip()
+
+
 def save_doc_scores(corpus, doc_scores, ofn=None):
     if not ofn:
-        ofn = './.difficulty.json'
+        ofn = './difficulty.json'
 
     with open(ofn, 'w+') as fout:
         for docid in corpus.docs:
             doc_scores[docid]['text'] = corpus.get_doc_tokenized_text(docid)
             doc_scores[docid]['docid'] = docid
+
+            annos = corpus.get_doc_annos(docid)
+            spacydoc = corpus.get_doc_spacydoc(docid)
+            for annotype in annos.keys():
+                markups = annos[annotype]
+                span_text = get_span_text(spacydoc, markups)
+                doc_scores[docid]['{0}_text'.format(annotype)] = span_text
+
             ostr = json.dumps(doc_scores[docid])
             fout.write(ostr + '\n')
 
@@ -154,10 +193,10 @@ if __name__ == '__main__':
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
 
-    ofn = './difficulty/difficulty.json'
+    ofn = './difficulty/difficulty_with_span.json'
 
     # Loading corpus
-    if False:
+    if True:
         corpus = Corpus(doc_path = doc_path)
         corpus.load_annotations(anno_fn)
         corpus.load_groundtruth(gt_fn)
@@ -168,4 +207,4 @@ if __name__ == '__main__':
         doc_scores = load_doc_scores(ofn, is_dict=True)
     inter_annotype_correlation(doc_scores)
     doc_score_anno_quality(doc_scores, scoretype='corr')
-    plot_score_dist(doc_scores, savefig=False, figname='./hist_sent_scores.png')
+    #plot_score_dist(doc_scores, savefig=False, figname='./hist_sent_scores.png')
