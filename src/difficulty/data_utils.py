@@ -133,7 +133,7 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
                 raise 'To be implementated'
 
             if span_text:
-                key = '{0}_text'.format(annotype)
+                key = 'span_text' if annotype == 'min' else '{0}_text'.format(annotype)
                 doc['text'] = item.get(key, item['text'])
             else:
                 doc['text'] = item['text']

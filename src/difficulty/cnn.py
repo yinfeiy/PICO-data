@@ -11,7 +11,7 @@ from scipy import stats
 from difficulty import data_utils
 
 # Model Hyperparameters
-tf.flags.DEFINE_integer("embedding_dim", 100, "Dimensionality of character embedding (default: 300)")
+tf.flags.DEFINE_integer("embedding_dim", 200, "Dimensionality of character embedding (default: 300)")
 tf.flags.DEFINE_string("filter_sizes", "1,2,3,4", "Comma-separated filter sizes (default: '3,4,5')")
 tf.flags.DEFINE_integer("num_filters", 32, "Number of filters per filter size (default: 32)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
@@ -35,6 +35,8 @@ FLAGS._parse_flags()
 #for attr, value in sorted(FLAGS.__flags.items()):
 #    print("{}={}".format(attr.upper(), value))
 #print("")
+
+W2VModel="/mnt/data/workspace/nlp/w2v_models/PubMed-w2v.bin"
 
 class CNNGraph(object):
     """
@@ -119,7 +121,7 @@ class CNN(object):
     def __init__(self, vocab):
         self.vocab = vocab
 
-    def run(self, x_train, y_train, x_test, y_test):
+    def run(self, x_train, y_train, x_test, y_test, vocab_processor):
         with tf.Graph().as_default():
             session_conf = tf.ConfigProto(
                     allow_soft_placement=FLAGS.allow_soft_placement,
@@ -183,7 +185,7 @@ class CNN(object):
 
                 # Write vocabulary
                 #vocab_processor.save(os.path.join(train_summary_dir, "vocab"))
-                #vks = vocab_processor.vocabulary_._reverse_mapping
+                vks = vocab_processor.vocabulary_._reverse_mapping
                 #with open(train_summary_dir + '/vocab_raw', 'w+') as fout:
                 #    for v in vks:
                 #        fout.write(v+'\n')
@@ -193,20 +195,19 @@ class CNN(object):
                 sess.run(tf.local_variables_initializer())
 
                 ## Initialize word_embedding
-                #print ('Loading w2v model...')
-                #w2v_model = gensim.models.Word2Vec.load_word2vec_format('/ssd/word2vec/models/GoogleNews-vectors-negative300.bin', binary=True)
-                #w2v_model = gensim.models.Word2Vec.load_word2vec_format('~/workspace/nlp/word2vec/models/vectors-reviews-restaurants.bin', binary=True)
-                #print ('Load w2v model done.')
+                print ('Loading w2v model...')
+                w2v_model = gensim.models.KeyedVectors.load_word2vec_format(W2VModel, binary=True)
+                print ('Load w2v model done.')
 
-                #W_init = []
-                #for v in vks:
-                #    #try:
-                #    #    v_vec = w2v_model[v]
-                #    #except:
-                #        v_vec = np.random.uniform(-1, 1, 300)
-                #    W_init.append(v_vec)
-                #W_init = np.array(W_init)
-                #sess.run(cnn.embedding.assign(W_init))
+                W_init = []
+                for v in vks:
+                    try:
+                        v_vec = w2v_model[v]
+                    except:
+                        v_vec = np.random.uniform(-1, 1, FLAGS.embedding_dim)
+                    W_init.append(v_vec)
+                W_init = np.array(W_init)
+                sess.run(cnn.embedding.assign(W_init))
 
                 def train_step(x_batch, y_batch):
                     """

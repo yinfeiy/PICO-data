@@ -57,7 +57,7 @@ class DifficultyModel:
 
         elif self.classifier == 'CNN':
             self.prepare_cnn_task()
-            self.model.run(self.x_train, self.y_train, self.x_test, self.y_test)
+            self.model.run(self.x_train, self.y_train, self.x_test, self.y_test, self.vocab)
 
 
     def eval(self, x, y, msg=None):
@@ -75,5 +75,5 @@ class DifficultyModel:
         pass
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Participants')
+    model = DifficultyModel(classifier='CNN', annotype='min')
     model.train()

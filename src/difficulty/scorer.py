@@ -44,11 +44,10 @@ def doc_scorer(corpus):
 
     return doc_scores
 
-def get_span_text(spacydoc, markups):
+def get_span_text(spacydoc, spans):
     mask = np.zeros(len(spacydoc)+1) # append a non span at the end
-    for wid, spans in markups.iteritems():
-        for span in spans:
-            mask[span[0]:span[1]] = 1
+    for span in spans:
+        mask[span[0]:span[1]] = 1
 
     # convert mask to final spans
 
@@ -86,10 +85,17 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
 
             annos = corpus.get_doc_annos(docid)
             spacydoc = corpus.get_doc_spacydoc(docid)
+            all_spans = []
             for annotype in annos.keys():
-                markups = annos[annotype]
-                span_text = get_span_text(spacydoc, markups)
+                spans = []
+                for ss in annos[annotype].values():
+                    spans.extend(ss)
+                all_spans.extend(spans)
+
+                span_text = get_span_text(spacydoc, spans)
                 doc_scores[docid]['{0}_text'.format(annotype)] = span_text
+            span_test = get_span_text(spacydoc, all_spans)
+            doc_scores[docid]['span_text'.format(annotype)] = span_text
 
             ostr = json.dumps(doc_scores[docid])
             fout.write(ostr + '\n')
