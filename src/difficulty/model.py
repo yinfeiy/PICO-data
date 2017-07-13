@@ -13,7 +13,7 @@ class DifficultyModel:
 
     def __init__(self, classifier='SVM', annotype='min'):
         (self.train_text, self.y_train, self.dev_text, self.y_dev,
-                self.test_text, self.y_test ) = data_utils.load_dataset(annotype=annotype, span_text=True)
+                self.test_text, self.y_test ) = data_utils.load_dataset(annotype=annotype, span_text=False)
 
         self.classifier = classifier
         self.model = None
@@ -75,5 +75,5 @@ class DifficultyModel:
         pass
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='CNN', annotype='min')
+    model = DifficultyModel(classifier='CNN', annotype='Outcome')
     model.train()

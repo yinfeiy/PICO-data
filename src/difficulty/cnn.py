@@ -12,7 +12,7 @@ from difficulty import data_utils
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 200, "Dimensionality of character embedding (default: 300)")
-tf.flags.DEFINE_string("filter_sizes", "1,2,3,4", "Comma-separated filter sizes (default: '3,4,5')")
+tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
 tf.flags.DEFINE_integer("num_filters", 32, "Number of filters per filter size (default: 32)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
 tf.flags.DEFINE_float("l2_reg_lambda", 1, "L2 regularizaion lambda (default: 1)")
@@ -279,5 +279,5 @@ class CNN(object):
                     if current_step % FLAGS.checkpoint_every == 0:
                         path = saver.save(sess, checkpoint_prefix, global_step=current_step)
                         print("Saved model checkpoint to {}\n".format(path))
-                    if current_step % 10000 == 0:
+                    if current_step > 10000:
                         break
