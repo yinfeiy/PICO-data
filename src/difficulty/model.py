@@ -75,5 +75,5 @@ class DifficultyModel:
         pass
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='CNN', annotype='Outcome')
+    model = DifficultyModel(classifier='SVM', annotype='Intervention')
     model.train()

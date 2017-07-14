@@ -47,10 +47,22 @@ def doc_scorer(corpus):
 def get_span_text(spacydoc, spans):
     mask = np.zeros(len(spacydoc)+1) # append a non span at the end
     for span in spans:
-        mask[span[0]:span[1]] = 1
+        mask[span[0]:span[1]] += 1
 
+    for sent in spacydoc.sents:
+        if np.sum(mask[sent.start:sent.end]) > 0:
+            for idx in range(sent.start, sent.end):
+                if mask[idx] >= 1:
+                    print '[ ' + spacydoc[idx].text + '_' + str(mask[idx]) + ' ]',
+                else:
+                    print spacydoc[idx].text,
+            print ''
+            mask[sent.start:sent.end] = 1
+        else:
+            print "hello"
+
+    print list(mask)
     # convert mask to final spans
-
     spans = []
     if mask[0] == 1:
         sidx = 0
@@ -86,7 +98,7 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
             annos = corpus.get_doc_annos(docid)
             spacydoc = corpus.get_doc_spacydoc(docid)
             all_spans = []
-            for annotype in annos.keys():
+            for annotype in ['Participants']: #annos.keys():
                 spans = []
                 for ss in annos[annotype].values():
                     spans.extend(ss)
@@ -94,8 +106,8 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
 
                 span_text = get_span_text(spacydoc, spans)
                 doc_scores[docid]['{0}_text'.format(annotype)] = span_text
-            span_test = get_span_text(spacydoc, all_spans)
-            doc_scores[docid]['span_text'.format(annotype)] = span_text
+            #span_test = get_span_text(spacydoc, all_spans)
+            #doc_scores[docid]['span_text'.format(annotype)] = span_text
 
             ostr = json.dumps(doc_scores[docid])
             fout.write(ostr + '\n')
@@ -199,7 +211,7 @@ if __name__ == '__main__':
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
 
-    ofn = './difficulty/difficulty_with_span.json'
+    ofn = './difficulty/difficulty_with_span_sents.json'
 
     # Loading corpus
     if True:

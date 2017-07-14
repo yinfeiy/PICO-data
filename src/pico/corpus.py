@@ -199,6 +199,7 @@ class Corpus:
                 if idx % 500 == 0:
                     if self.verbose:
                         print '[INFO] {0} docs has been loaded'.format(idx)
+                    return
 
                 anno = json.loads(line.strip())
                 docid = anno['docid']

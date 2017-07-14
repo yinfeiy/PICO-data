@@ -6,7 +6,7 @@ import numpy as np
 random.seed(10)
 
 CPATH = os.path.dirname(os.path.realpath(__file__))
-DATASET =  os.path.join(CPATH, 'difficulty_with_span.json')
+DATASET =  os.path.join(CPATH, 'difficulty_with_span_sents.json')
 
 ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 SCORETYPES = ['corr', 'prec', 'recl']

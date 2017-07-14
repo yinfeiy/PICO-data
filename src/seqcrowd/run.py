@@ -70,10 +70,11 @@ def main():
 
     print annotype
 
-    docids_filtered = filter_docs(annotype, min_workers=6)
+    #docids_filtered = filter_docs(annotype, min_workers=6)
+    docids_filtered = None
 
     init_type = 'dw'
-    max_num_worker = 10
+    max_num_worker = 3
     niter= 5
 
     (cd, list_wid, features, labels) = pico_data.main(annotype, docids=docids_filtered, max_num_worker=max_num_worker, high_quality=True)
@@ -98,7 +99,7 @@ def main():
             end = get_end(inv_l, s[r])
             results_init[pid].append([start, end])
 
-    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_min6.json'.format(annotype, init_type)
+    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_max3.json'.format(annotype, init_type)
     output(ofname, 'dw', {annotype:results_init})
 
 
@@ -116,7 +117,7 @@ def main():
             end = get_end(inv_l, s[r])
             results[pid].append([start, end])
 
-    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_HMM_Crowd_min6.json'.format(annotype, init_type)
+    ofname = 'aggregated_results/{0}-aggregated_hq_{1}_HMM_Crowd_max3.json'.format(annotype, init_type)
     output(ofname, 'HMMCrowd', {annotype:results})
 
 if __name__ == '__main__':

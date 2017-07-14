@@ -96,6 +96,7 @@ if __name__ == '__main__':
     #docids = docs_with_gt(gt_fn)
     docids = None
     high_quality = True
+    max_num_worker = 3
 
     pruned_workers = {}
     if high_quality:
@@ -106,9 +107,9 @@ if __name__ == '__main__':
 
     print pruned_workers
     for annotype in utils.ANNOTYPES:
-        docids = filter_docs(annotype, min_workers=6)
+        #docids = filter_docs(annotype, min_workers=6)
         # Loading corpus
         corpus = Corpus(doc_path = doc_path)
-        corpus.load_annotations(anno_fn, docids, pruned_workers=pruned_workers)
+        corpus.load_annotations(anno_fn, docids, max_num_worker=max_num_worker, pruned_workers=pruned_workers)
 
-        process(corpus, ofn='./aggregated_results/{0}-aggregated-mv_min6.json'.format(annotype), annotypes=[annotype])
+        process(corpus, ofn='./aggregated_results/{0}-aggregated-mv_max3.json'.format(annotype), annotypes=[annotype])
