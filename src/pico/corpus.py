@@ -82,6 +82,28 @@ class Doc:
             self.groundtruth[annotype] = self._mask2spans(mask)
 
 
+    def set_aggregation(self, agg_markups_offset, agg_ids=None):
+        self.aggregation_offset = agg_markups_offset
+        self.aggregation = {}
+
+        ## Combining groundtruth from multiple professionals
+        markups = self.offset2markups(agg_markups_offset)
+        self.aggregation_markups = markups
+
+        for annotype in markups:
+            mask = [0] * self.ntokens
+
+            for wid, spans in markups[annotype].items():
+                if agg_ids is not None and wid not in agg_ids:
+                    continue
+
+                for span in spans:
+                    for i in range(span[0], span[1]):
+                        mask[i] = 1
+
+            self.aggregation[annotype] = self._mask2spans(mask)
+
+
     def get_groundtruth(self, annotype):
         if annotype == None or self.groundtruth == None:
             return self.groundtruth
@@ -89,6 +111,15 @@ class Doc:
             return dict()
         else:
             return self.groundtruth[annotype]
+
+
+    def get_aggregation(self, annotype):
+        if annotype == None or self.aggregation == None:
+            return self.aggregation
+        elif annotype not in self.aggregation:
+            return dict()
+        else:
+            return self.aggregation[annotype]
 
     def text(self):
         return self.spacydoc.text
@@ -199,7 +230,6 @@ class Corpus:
                 if idx % 500 == 0:
                     if self.verbose:
                         print '[INFO] {0} docs has been loaded'.format(idx)
-                    return
 
                 anno = json.loads(line.strip())
                 docid = anno['docid']
@@ -240,6 +270,24 @@ class Corpus:
                 self.docs[docid].set_groundtruth(anno, gt_wids)
 
 
+    def load_aggregation(self, agg_fn, agg_ids=None):
+        """
+        Load aggregated results for each doc
+        """
+        with open(agg_fn) as fin:
+            for line in fin:
+                aggs = json.loads(line.strip())
+                docid = aggs['docid']
+                del aggs['docid']
+
+                if docid not in self.docs:
+                    if self.verbose:
+                        print '[WARN] doc {0} is not loaded yet'.format(docid)
+                    continue
+
+                self.docs[docid].set_aggregation(aggs, agg_ids)
+
+
     def get_doc_annos(self, docid, annotype=None, text=False):
         if docid not in self.docs:
             print 'docid {0} is not found'.format(docid)
@@ -258,6 +306,15 @@ class Corpus:
 
         return self.docs[docid].get_groundtruth(annotype)
 
+
+    def get_doc_aggregation(self, docid, annotype=None):
+        if docid not in self.docs:
+            print 'docid {0} is not found'.format(docid)
+            return None
+
+        return self.docs[docid].get_aggregation(annotype)
+
+
     def get_doc_text(self, docid):
         if docid not in self.docs:
             print 'docid {0} is not found'.format(docid)
@@ -265,12 +322,14 @@ class Corpus:
 
         return self.docs[docid].text()
 
+
     def get_doc_tokenized_text(self, docid):
         if docid not in self.docs:
             print 'docid {0} is not found'.format(docid)
             return None
 
         return self.docs[docid].tokenized_text()
+
 
     def get_doc_spacydoc(self, docid):
         if docid not in self.docs:

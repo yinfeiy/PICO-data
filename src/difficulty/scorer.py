@@ -51,17 +51,17 @@ def get_span_text(spacydoc, spans):
 
     for sent in spacydoc.sents:
         if np.sum(mask[sent.start:sent.end]) > 0:
-            for idx in range(sent.start, sent.end):
-                if mask[idx] >= 1:
-                    print '[ ' + spacydoc[idx].text + '_' + str(mask[idx]) + ' ]',
-                else:
-                    print spacydoc[idx].text,
-            print ''
+            #for idx in range(sent.start, sent.end):
+            #    if mask[idx] >= 1:
+            #        print '[ ' + spacydoc[idx].text + '_' + str(mask[idx]) + ' ]',
+            #    else:
+            #        print spacydoc[idx].text,
+            #print ''
             mask[sent.start:sent.end] = 1
         else:
-            print "hello"
+            #print "hello"
+            pass
 
-    print list(mask)
     # convert mask to final spans
     spans = []
     if mask[0] == 1:
@@ -95,13 +95,18 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
             doc_scores[docid]['text'] = corpus.get_doc_tokenized_text(docid)
             doc_scores[docid]['docid'] = docid
 
-            annos = corpus.get_doc_annos(docid)
+            #annos = corpus.get_doc_annos(docid)
+            annos = corpus.get_doc_aggregation(docid)
+
             spacydoc = corpus.get_doc_spacydoc(docid)
             all_spans = []
-            for annotype in ['Participants']: #annos.keys():
-                spans = []
-                for ss in annos[annotype].values():
-                    spans.extend(ss)
+            for annotype in annos.keys():
+                if isinstance(annos[annotype], list):
+                    spans = annos[annotype]
+                elif isinstance(annos[annotype], dict):
+                    spans = []
+                    for ss in annos[annotype].values():
+                        spans.extend(ss)
                 all_spans.extend(spans)
 
                 span_text = get_span_text(spacydoc, spans)
@@ -209,7 +214,9 @@ if __name__ == '__main__':
     doc_path = '../docs/'
 
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
+    agg_fn = '../annotations/PICO-annos-crowdsourcing-agg.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
+    agg_ids = 'HMMCrowd'
 
     ofn = './difficulty/difficulty_with_span_sents.json'
 
@@ -218,6 +225,7 @@ if __name__ == '__main__':
         corpus = Corpus(doc_path = doc_path)
         corpus.load_annotations(anno_fn)
         corpus.load_groundtruth(gt_fn)
+        corpus.load_aggregation(agg_fn, agg_ids)
 
         doc_scores = doc_scorer(corpus)
         save_doc_scores(corpus, doc_scores, ofn)
