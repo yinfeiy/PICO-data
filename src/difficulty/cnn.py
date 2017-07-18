@@ -15,7 +15,7 @@ tf.flags.DEFINE_integer("embedding_dim", 200, "Dimensionality of character embed
 tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
 tf.flags.DEFINE_integer("num_filters", 32, "Number of filters per filter size (default: 32)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
-tf.flags.DEFINE_float("l2_reg_lambda", 1, "L2 regularizaion lambda (default: 1)")
+tf.flags.DEFINE_float("l2_reg_lambda", 0.1, "L2 regularizaion lambda (default: 0.1)")
 
 # Training parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
@@ -63,7 +63,7 @@ class CNNGraph(object):
                 name="W")
             self.embedding = W
             self.embedding_no_gradient = tf.stop_gradient(self.embedding)
-            self.embedded_chars = tf.nn.embedding_lookup(self.embedding, self.input_x)
+            self.embedded_chars = tf.nn.embedding_lookup(self.embedding_no_gradient, self.input_x)
             self.embedded_chars_expanded = tf.expand_dims(self.embedded_chars, -1)
 
         # Create a convolution + maxpool layer for each filter size
@@ -113,7 +113,8 @@ class CNNGraph(object):
 
         # Calculate root mean square loss
         with tf.name_scope("loss"):
-            losses = tf.square(self.scores-self.input_y)
+            #losses = tf.square(self.scores-self.input_y)
+            losses = tf.nn.sigmoid_cross_entropy_with_logits(labels=self.input_y, logits=self.scores)
             self.loss = tf.sqrt(tf.reduce_mean(losses)) + l2_reg_lambda * l2_loss
 
 class CNN(object):

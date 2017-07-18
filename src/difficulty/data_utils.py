@@ -55,7 +55,7 @@ def calculate_percentiles(docs, field='score', new_field='percentile'):
     idxs = range(num)
     idxs.sort(key=lambda x:scores[x], reverse=False)
     for rank, idx in enumerate(idxs, 1):
-        docs[idx][new_field] = round(rank*100.0/num, 0)
+        docs[idx][new_field] = round(rank*100.0/num, 0) / 100.0
 
     return docs
 
@@ -126,6 +126,17 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
                     if g: gts.append(g)
                 doc['score'] = np.min(scores) if scores else None
                 doc['gt'] = np.min(gts) if gts else None
+            elif annotype == 'all':
+                scores, gts = [], []
+                for at in ANNOTYPES:
+                    s = item[at+'_'+scoretype]
+                    g = item[at+'_'+scoretype+'_'+'gt']
+                    if s: scores.append(s)
+                    else: scores.append(np.nan)
+                    if g: gts.append(g)
+                    else: gts.append(np.nan)
+                doc['score'] = scores
+                doc['gt'] = gts
             elif annotype in ANNOTYPES:
                 doc['score'] = item[annotype+'_'+scoretype]
                 doc['gt'] = item[annotype+'_'+scoretype+'_'+'gt']
@@ -133,7 +144,8 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
                 raise 'To be implementated'
 
             if span_text:
-                key = 'span_text' if annotype == 'min' else '{0}_text'.format(annotype)
+                #key = 'span_text' if annotype == 'min' else '{0}_text'.format(annotype)
+                key='span_text'
                 doc['text'] = item.get(key, item['text'])
             else:
                 doc['text'] = item['text']

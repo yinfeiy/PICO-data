@@ -111,13 +111,14 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
 
                 span_text = get_span_text(spacydoc, spans)
                 doc_scores[docid]['{0}_text'.format(annotype)] = span_text
-            #span_test = get_span_text(spacydoc, all_spans)
-            #doc_scores[docid]['span_text'.format(annotype)] = span_text
+            span_text = get_span_text(spacydoc, all_spans)
+            doc_scores[docid]['span_text'.format(annotype)] = span_text
 
             ostr = json.dumps(doc_scores[docid])
             fout.write(ostr + '\n')
 
     return ofn
+
 
 def plot_score_dist(scores, scoretype='corr', savefig=False, figname=None):
     keys = ['min'];
@@ -159,6 +160,7 @@ def plot_score_dist(scores, scoretype='corr', savefig=False, figname=None):
     else:
         plt.show()
 
+
 def load_doc_scores(ifn, is_dict=False):
     doc_scores = []
     with open(ifn) as fin:
@@ -167,6 +169,7 @@ def load_doc_scores(ifn, is_dict=False):
     if is_dict:
         doc_scores = dict(zip([d['docid'] for d in doc_scores], doc_scores))
     return doc_scores
+
 
 def inter_annotype_correlation(doc_scores, scoretype='corr'):
     if isinstance(doc_scores, dict):
@@ -182,6 +185,7 @@ def inter_annotype_correlation(doc_scores, scoretype='corr'):
         print stats.pearsonr(ss1, ss2)
         print stats.spearmanr(ss1, ss2)
 
+
 def doc_score_anno_quality(doc_scores, scoretype='corr'):
     if isinstance(doc_scores, dict):
         doc_scores = doc_scores.values()
@@ -195,6 +199,7 @@ def doc_score_anno_quality(doc_scores, scoretype='corr'):
         print "Annotation quality for : ", annotype,
         print stats.pearsonr(ss1, ss2)
         print stats.spearmanr(ss1, ss2)
+
 
 # TODO(yinfeiy): either remove or finish the sentence scorer, currently focus on doc level
 def sent_scorer(corpus):
@@ -216,7 +221,7 @@ if __name__ == '__main__':
     anno_fn = '../annotations/PICO-annos-crowdsourcing.json'
     agg_fn = '../annotations/PICO-annos-crowdsourcing-agg.json'
     gt_fn = '../annotations/PICO-annos-professional.json'
-    agg_ids = 'HMMCrowd'
+    agg_ids = 'mv'
 
     ofn = './difficulty/difficulty_with_span_sents.json'
 
@@ -231,6 +236,7 @@ if __name__ == '__main__':
         save_doc_scores(corpus, doc_scores, ofn)
     else:
         doc_scores = load_doc_scores(ofn, is_dict=True)
+
     inter_annotype_correlation(doc_scores)
     doc_score_anno_quality(doc_scores, scoretype='corr')
     #plot_score_dist(doc_scores, savefig=False, figname='./hist_sent_scores.png')

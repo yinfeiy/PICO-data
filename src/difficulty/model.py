@@ -31,6 +31,7 @@ class DifficultyModel:
 
         self.model = SVR(kernel='linear')
 
+
     def prepare_cnn_task(self):
         max_document_length = max([len(x.split(" ")) for x in self.train_text])
         max_document_length = int(max_document_length * 0.9);
@@ -45,6 +46,7 @@ class DifficultyModel:
         self.y_test = np.array([ [y] for y in self.y_test])
 
         self.model = CNN(self.vocab)
+
 
     def train(self):
         if self.classifier == 'SVM':
@@ -68,12 +70,15 @@ class DifficultyModel:
             if msg: print msg
             print round(pearsonr, 3), round(spearmanr, 3)
 
+
     def save(self):
         pass
+
 
     def load(self):
         pass
 
+
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Intervention')
+    model = DifficultyModel(classifier='CNN', annotype='Participants')
     model.train()
