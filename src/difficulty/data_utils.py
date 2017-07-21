@@ -49,13 +49,25 @@ def batch_iter(data, batch_size, num_epochs, shuffle=True):
             end_index = min((batch_num + 1) * batch_size, data_size)
             yield shuffled_data[start_index:end_index]
 
+
 def calculate_percentiles(docs, field='score', new_field='percentile'):
     scores = [doc[field] for doc in docs]
-    num = len(scores)
-    idxs = range(num)
-    idxs.sort(key=lambda x:scores[x], reverse=False)
-    for rank, idx in enumerate(idxs, 1):
-        docs[idx][new_field] = round(rank*100.0/num, 0) / 100.0
+    if isinstance(scores[0], list):
+        scores = np.array(scores)
+        scores[1,1] = np.nan
+        ranks = scores.argsort(axis=0).argsort(axis=0).astype(np.float32) + 1
+        idxs = np.argwhere(np.isnan(scores))
+        for idx in idxs:
+            ranks[idx[0], idx[1]] = np.nan
+        pctls = np.round(ranks/np.nanmax(ranks, 0)*100, 0)/100
+        for idx, doc in enumerate(docs):
+            doc[new_field] = pctls[idx,:]
+    else:
+        num = len(scores)
+        idxs = range(num)
+        idxs.sort(key=lambda x:scores[x], reverse=False)
+        for rank, idx in enumerate(idxs, 1):
+            docs[idx][new_field] = round(rank*100.0/num, 0) / 100.0
 
     return docs
 
@@ -109,6 +121,19 @@ def extract_text(docs, percentile=True, gt=False):
     return text, ys
 
 
+def imputation(data):
+    data = np.array(data)
+    if len(data.shape) == 1:
+        data = np.expand_dims(data, 1)
+
+    cols = data.shape[1]
+    default_score = np.nanmean(data, 0)
+    for col in range(cols):
+        idxs = np.argwhere(np.isnan(data[:,col]))
+        data[idxs, col] = default_score[col]
+
+    return data
+
 def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE, span_text=False):
     docs = []
     docs_raw = []
@@ -126,7 +151,7 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
                     if g: gts.append(g)
                 doc['score'] = np.min(scores) if scores else None
                 doc['gt'] = np.min(gts) if gts else None
-            elif annotype == 'all':
+            elif annotype == 'multitask':
                 scores, gts = [], []
                 for at in ANNOTYPES:
                     s = item[at+'_'+scoretype]
@@ -144,8 +169,8 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
                 raise 'To be implementated'
 
             if span_text:
-                #key = 'span_text' if annotype == 'min' else '{0}_text'.format(annotype)
-                key='span_text'
+                key = 'span_text' if annotype in ['min', 'multitask'] else '{0}_text'.format(annotype)
+                #key='span_text'
                 doc['text'] = item.get(key, item['text'])
             else:
                 doc['text'] = item['text']
@@ -174,6 +199,9 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
 
 
 if __name__ == '__main__':
-    items = load_dataset()
-    for item in items:
-        print len(item)
+    a = np.array([[1,2,3],[1,np.nan, np.nan], [3,4.1,np.nan]])
+    a = imputation(a)
+    print a
+    #items = load_dataset()
+    #for item in items:
+    #    print len(item)

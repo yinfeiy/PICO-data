@@ -39,17 +39,29 @@ class DifficultyModel:
         self.vocab = learn.preprocessing.VocabularyProcessor(max_document_length)
 
         self.x_train = np.array(list(self.vocab.transform(self.train_text)))
-        self.y_train = np.array([ [y] for y in self.y_train])
+        self.y_train = np.array(self.y_train)
+        self.y_train = np.expand_dim(self.y_train, 1) \
+                if len(self.y_train.shape) == 1 else self.y_train
+
+        self.y_train = data_utils.imputation(self.y_train)
+
         self.x_dev = np.array(list(self.vocab.transform(self.dev_text)))
-        self.y_dev = np.array([ [y] for y in self.y_dev])
+        self.y_dev = np.array(self.y_dev)
+        self.y_dev = np.expand_dim(self.y_dev, 1) \
+                if len(self.y_dev.shape) == 1 else self.y_dev
         self.x_test = np.array(list(self.vocab.transform(self.test_text)))
-        self.y_test = np.array([ [y] for y in self.y_test])
+        self.y_test = np.array(self.y_test)
+        self.y_test = np.expand_dim(self.y_test, 1) \
+                if len(self.y_test.shape) == 1 else self.y_test
+        self.y_test = data_utils.imputation(self.y_test)
 
         self.model = CNN(self.vocab)
 
 
     def train(self):
         if self.classifier == 'SVM':
+            if annotype == 'multitask':
+                print 'SVM does not support multitask'
             self.prepare_svm_task()
             self.model.fit(self.x_train, self.y_train)
 
@@ -80,5 +92,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='CNN', annotype='Participants')
+    model = DifficultyModel(classifier='CNN', annotype='multitask')
     model.train()

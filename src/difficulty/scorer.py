@@ -49,7 +49,9 @@ def get_span_text(spacydoc, spans):
     for span in spans:
         mask[span[0]:span[1]] += 1
 
+    ps = 0; ts = 0
     for sent in spacydoc.sents:
+        ts += 1
         if np.sum(mask[sent.start:sent.end]) > 0:
             #for idx in range(sent.start, sent.end):
             #    if mask[idx] >= 1:
@@ -58,9 +60,11 @@ def get_span_text(spacydoc, spans):
             #        print spacydoc[idx].text,
             #print ''
             mask[sent.start:sent.end] = 1
+            ps += 1
         else:
             #print "hello"
             pass
+    print '{0}/{1} sents are marked'.format(ps, ts)
 
     # convert mask to final spans
     spans = []

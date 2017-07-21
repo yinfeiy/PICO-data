@@ -112,10 +112,19 @@ class CNNGraph(object):
             self.scores = tf.nn.xw_plus_b(self.h_drop, W, b, name="scores")
 
         # Calculate root mean square loss
+        c1 = self.scores[:,0]
+        c1 = tf.Print(c1, [c1], "h1: ")
+        c2 = self.scores[:,1]
+        c2 = tf.Print(c2, [c2], "h2: ")
+
+        self.scores = tf.Print(self.scores, [self.scores], "h0: ")
+
+        t_loss = tf.reduce_sum(c1)*tf.reduce_sum(c2)*0
         with tf.name_scope("loss"):
             #losses = tf.square(self.scores-self.input_y)
             losses = tf.nn.sigmoid_cross_entropy_with_logits(labels=self.input_y, logits=self.scores)
-            self.loss = tf.sqrt(tf.reduce_mean(losses)) + l2_reg_lambda * l2_loss
+            self.loss = tf.sqrt(tf.reduce_mean(losses)) + l2_reg_lambda * l2_loss + t_loss
+            #self.loss = tf.Print(self.loss,[self.loss], "loss: ")
 
 class CNN(object):
 
@@ -224,10 +233,14 @@ class CNN(object):
                         feed_dict)
                     time_str = datetime.datetime.now().isoformat()
                     if step % 1 == 0:
-                        y_gt = [s[0] for s in y_batch]
-                        y_dt = [s[0] for s in y_preds]
-                        pearsonr, p_value = stats.pearsonr(y_gt, y_dt)
-                        print("{}: step {}, loss {:g}, pearsonr {:g}".format(time_str, step, loss, pearsonr))
+                        y_gt = np.array(y_batch)
+                        y_dt = np.array(y_preds)
+                        print("{}: step {}, loss {:g}, ".format(time_str, step, loss)),
+                        for n in range(y_gt.shape[1]):
+                            pearsonr, p_value = stats.pearsonr(y_gt[:,n], y_dt[:,n])
+                            print " == pearsonr for c{}: {:.3f},".format(n, pearsonr),
+                        print ''
+
                     train_summary_writer.add_summary(summaries, step)
 
                 def dev_step(x_test, y_test, writer=None):
@@ -257,12 +270,17 @@ class CNN(object):
                         if writer:
                             writer.add_summary(summaries, step)
 
-                        y_gt.extend([s[0] for s in y_batch])
-                        y_dt.extend([s[0] for s in y_preds])
-                    pearsonr, p_value = stats.pearsonr(y_gt, y_dt)
-                    spearmanr, p_value = stats.spearmanr(y_gt, y_dt)
+                        y_gt.extend(y_batch)
+                        y_dt.extend(y_preds)
 
-                    print(" == pearsonr {:.3g}, spearmanr {:.3g}".format(pearsonr, spearmanr))
+                    y_gt = np.array(y_gt)
+                    y_dt = np.array(y_dt)
+                    print("{}: step {}, loss {:g}, ".format(time_str, step, loss))
+                    for n in range(y_gt.shape[1]):
+                        pearsonr, p_value = stats.pearsonr(y_gt[:,n], y_dt[:,n])
+                        spearmanr, p_value = stats.spearmanr(y_gt[:,n], y_dt[:,n])
+                        print " == perfornamce for class {}:".format(n)
+                        print("   -- pearsonr {:.3g}, spearmanr {:.3g}".format(pearsonr, spearmanr))
 
                 # Generate batches
                 batches = data_utils.batch_iter(
