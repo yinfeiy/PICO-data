@@ -1,23 +1,21 @@
 from pico.corpus import Corpus, Doc
 
 DOC_PATH = '../docs/'
-ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
+ANNOTYPES = ['Participants']
 
 
 if __name__ == '__main__':
-    anno_path = '../annotations/'
+    anno_path = '../annotations/acl17-test/'
 
-    #anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
     anno_fn = anno_path + 'PICO-annos-crowdsourcing.json'
     gt_fn = anno_path + 'PICO-annos-professional.json'
 
-    corpus = Corpus(doc_path = DOC_PATH)
-    corpus.load_annotations(anno_fn, docids=['10036953'],\
-            max_num_worker=2, pruned_workers={'Intervention':['A1P6L6W6TA5NJ']})
+    corpus = Corpus(doc_path = DOC_PATH, verbose=False)
+    corpus.load_annotations(anno_fn, docids=['23549581'])
     corpus.load_groundtruth(gt_fn)
 
-    docid = '10036953'
-    annos = corpus.get_doc_annos(docid, 'Intervention')
+    docid = '23549581'
+    annos = corpus.get_doc_annos(docid, 'Participants')
 
     print annos
     print corpus.get_doc_text(docid)
