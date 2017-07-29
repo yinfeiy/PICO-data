@@ -11,15 +11,15 @@ A SDK and sample codes are provided for retrieving the annotations.
 ## Description
 
 The dataset is in [annotations/](./annotations/), it is splited into 4 parts:
-1. train contains random selected 3549 abstracts.
-2. dev contains random selected 500 abstracts.
-3. test contains random selected 500 abstracts.
-4. acl17-test contains 191 abstarcts with annotations by a medical student.
+1. [train/](./annotations/train/) contains random selected 3549 abstracts.
+2. [dev/](./annotations/dev/) contains random selected 500 abstracts.
+3. [test/](./annotations/test/) contains random selected 500 abstracts.
+4. [acl17-test](./annotations/acl17-test/) contains 191 abstarcts with annotations by a medical student.
 
 In each folder:
-1. *ICO-annos-crowdsourcing.json* contains annotations from crowd sourced workers.
-2. *ICO-annos-crowdsourcing-agg.json* contains aggregated results from crowd sourced annotations.
-3. *ICO-annos-professional.json* for [acl17-test](./annotaions/acl17-test/) only, contains annotations from a medical student.
+1. **PICO-annos-crowdsourcing.json** contains annotations from crowd sourced workers.
+2. **PICO-annos-crowdsourcing-agg.json** contains aggregated results from crowd sourced annotations. The aggregation methods are described in [Aggregating and Predicting Sequence Labels from Crowd Annotations](https://www.ischool.utexas.edu/~ml/papers/nguyen-acl17.pdf).:
+3. **PICO-annos-professional.json** for [acl17-test](./annotations/acl17-test/) only, contains annotations from a medical student.
 
 ## Environment and dependencies:
 
