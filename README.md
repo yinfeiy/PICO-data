@@ -4,7 +4,7 @@ This repo contains raw annotaions for PICO dataset used in paper:
 
 [Aggregating and Predicting Sequence Labels from Crowd Annotations](https://www.ischool.utexas.edu/~ml/papers/nguyen-acl17.pdf)
 An Thanh Nguyen, Byron C. Wallace, Junyi Jessy Li, Ani Nenkova and Matthew Lease
-Association for Computational Linguistics (ACL).
+[Association for Computational Linguistics (ACL), 2017](https://acl2017.org).
 
 A SDK and sample codes are provided for retrieving the annotations.
 
