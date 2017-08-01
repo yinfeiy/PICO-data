@@ -49,22 +49,9 @@ def get_span_text(spacydoc, spans):
     for span in spans:
         mask[span[0]:span[1]] += 1
 
-    ps = 0; ts = 0
     for sent in spacydoc.sents:
-        ts += 1
         if np.sum(mask[sent.start:sent.end]) > 0:
-            #for idx in range(sent.start, sent.end):
-            #    if mask[idx] >= 1:
-            #        print '[ ' + spacydoc[idx].text + '_' + str(mask[idx]) + ' ]',
-            #    else:
-            #        print spacydoc[idx].text,
-            #print ''
             mask[sent.start:sent.end] = 1
-            ps += 1
-        else:
-            #print "hello"
-            pass
-    print '{0}/{1} sents are marked'.format(ps, ts)
 
     # convert mask to final spans
     spans = []
@@ -89,6 +76,41 @@ def get_span_text(spacydoc, spans):
 
     return text.strip()
 
+def get_annotation_masks(spacydoc, spans):
+    mask = np.zeros(len(spacydoc)+1, dtype=np.int) # append a non span at the end
+    for span in spans:
+        mask[span[0]:span[1]] += 1
+
+    # convert mask to final spans
+    spans = []
+    if mask[0] == 1:
+        sidx = 0
+
+    for idx, v in enumerate(mask[1:], 1):
+        if v==1 and mask[idx-1] == 0: # start of span
+            sidx = idx
+        elif v==0 and mask[idx-1] == 1 : # end of span
+            eidx = idx
+            spans.append( (sidx, eidx) )
+
+    annotaiton_masks_sents = []
+    for sent in spacydoc.sents:
+        mask_sent = list(mask[sent.start:sent.end])
+        annotaiton_masks_sents.append(mask_sent)
+
+    return annotaiton_masks_sents
+
+def get_parsed_text(spacydoc):
+    parsed_text = dict(sents=[])
+
+    for sent in spacydoc.sents:
+        parsed_sent = dict(tokens=[])
+        for token in sent:
+            parsed_sent['tokens'].append((token.text, token.pos_, token.tag_))
+        parsed_text['sents'].append(parsed_sent)
+
+    return parsed_text
+
 
 def save_doc_scores(corpus, doc_scores, ofn=None):
     if not ofn:
@@ -103,7 +125,8 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
             annos = corpus.get_doc_aggregation(docid)
 
             spacydoc = corpus.get_doc_spacydoc(docid)
-            all_spans = []
+            parsed_text = get_parsed_text(spacydoc)
+
             for annotype in annos.keys():
                 if isinstance(annos[annotype], list):
                     spans = annos[annotype]
@@ -111,12 +134,11 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
                     spans = []
                     for ss in annos[annotype].values():
                         spans.extend(ss)
-                all_spans.extend(spans)
 
-                span_text = get_span_text(spacydoc, spans)
-                doc_scores[docid]['{0}_text'.format(annotype)] = span_text
-            span_text = get_span_text(spacydoc, all_spans)
-            doc_scores[docid]['span_text'.format(annotype)] = span_text
+                sent_mask = get_annotation_masks(spacydoc, spans)
+                for idx, mask in enumerate(sent_mask):
+                    parsed_text['sents'][idx]['{0}_mv_mask'.format(annotype)] = sent_mask
+            doc_scores[docid]['parsed_text'] = parsed_text
 
             ostr = json.dumps(doc_scores[docid])
             fout.write(ostr + '\n')
@@ -227,7 +249,7 @@ if __name__ == '__main__':
     gt_fn = '../annotations/PICO-annos-professional.json'
     agg_ids = 'mv'
 
-    ofn = './difficulty/difficulty_with_span_sents.json'
+    ofn = './difficulty/difficulty.json'
 
     # Loading corpus
     if True:
