@@ -137,7 +137,7 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
 
                 sent_mask = get_annotation_masks(spacydoc, spans)
                 for idx, mask in enumerate(sent_mask):
-                    parsed_text['sents'][idx]['{0}_mv_mask'.format(annotype)] = sent_mask
+                    parsed_text['sents'][idx]['{0}_mv_mask'.format(annotype)] = mask
             doc_scores[docid]['parsed_text'] = parsed_text
 
             ostr = json.dumps(doc_scores[docid])
