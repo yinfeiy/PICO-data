@@ -101,25 +101,22 @@ def split_train_test(docs, development_set=0):
 
 def extract_pos(docs, docids=None):
     pos = []
-    for doc in docs:
-        if docids and doc['docid'] not in docids:
-            continue
+    if not docids:
+        docids = docs.keys()
 
-        pos.append(doc['pos'])
+    for docid in docids:
+        pos.append(docs[docid]['pos'])
     return pos
 
-def extract_text(docs, percentile=True, gt=False):
+def extract_text(docs, gt=False, percentile=True):
     text = []
     ys = []
-    docids = []
     for doc in docs:
-        if gt and 'gt' not in doc:
-            continue
-
-        docids.append(doc['docid'])
         text.append(clean_str(doc['text']))
         if gt:
-            if percentile:
+            if 'gt' not in doc:
+                ys.append(-1)
+            elif percentile:
                 ys.append(doc['percentile_gt'])
             else:
                 ys.append(doc['gt'])
@@ -129,7 +126,7 @@ def extract_text(docs, percentile=True, gt=False):
             else:
                 ys.append(doc['score'])
 
-    return docids, text, ys
+    return text, ys
 
 
 def imputation(data):
@@ -145,7 +142,7 @@ def imputation(data):
 
     return data
 
-def load_dataset_prob(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
+def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
     max_sents=100
     docs = []
     docs_raw = []
@@ -177,10 +174,6 @@ def load_dataset_prob(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=
                         pos += sent_pos.strip() + ' '
                 doc['text'] = text
                 doc['pos'] = pos
-                #if doc['gt'] != None:
-                #    print item['docid']
-                #    print text
-                #    exit()
             else:
                 raise 'To be implementated'
 
@@ -188,28 +181,26 @@ def load_dataset_prob(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=
             docs.append(doc)
 
     docs = calculate_percentiles(docs)
+    docs = dict(zip([d['docid'] for d in docs], docs))
 
     train_docids, dev_docids, test_docids = split_train_test(
             docs_raw, development_set=development_set)
 
-    train_docs = [doc for doc in docs if doc['docid'] in train_docids and doc['score']]
-    dev_docs   = [doc for doc in docs if doc['docid'] in dev_docids and doc['score']]
-    test_docs  = [doc for doc in docs if doc['docid'] in test_docids and doc['gt'] and doc['score']]
+    train_docids = [i for i in train_docids if docs[i]['score']]
+    dev_docids = [i for i in dev_docids if docs[i]['score']]
+    test_docids = [i for i in test_docids if docs[i]['gt'] and docs[i]['score']]
+    return docs, train_docids, dev_docids, test_docids
 
-    test_docs = calculate_percentiles(test_docs, field='gt', new_field='percentile_gt')
 
-    train_docids, train_text, y_train = extract_text(train_docs)
-    dev_docids, dev_text, y_dev = extract_text(dev_docs)
-    test_docids, test_text, y_test = extract_text(test_docs, gt=True)
+def load_text_and_y(docs, docids, gt=False):
+    docs_f = [docs[i] for i in docids]
 
-    train_pos = extract_pos(train_docs, train_docids)
-    dev_pos = extract_pos(dev_docs, dev_docids)
-    test_pos = extract_pos(test_docs, test_docids)
+    if gt:
+        docs_f = calculate_percentiles(docs_f, field='gt', new_field='percentile_gt')
 
-    if development_set:
-        return train_text, train_pos, y_train, dev_text, dev_pos, y_dev, test_text, test_pos, y_test
-    else:
-        return train_text, train_pos, y_train, test_text,test_pos,  y_test
+    text, y = extract_text(docs_f, gt=gt)
+    return text, y
+
 
 def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE, span_text=False):
     docs = []

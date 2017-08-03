@@ -12,13 +12,15 @@ from tensorflow.contrib import learn
 class DifficultyModel:
 
     def __init__(self, classifier='SVM', annotype='Participants'):
-        (self.train_text, self.train_pos, self.y_train,
-                self.dev_text, self.dev_pos, self.y_dev,
-                self.test_text, self.test_pos, self.y_test ) = data_utils.load_dataset_prob(annotype=annotype)
+        docs, train_docids, dev_docids, test_docids = data_utils.load_docs(annotype=annotype)
 
-        #(self.train_text, self.y_train,
-        #        self.dev_text, self.y_dev,
-        #        self.test_text, self.y_test ) = data_utils.load_dataset_prob(annotype=annotype)
+        self.train_text, self.y_train = data_utils.load_text_and_y(docs, train_docids)
+        self.dev_text, self.y_dev = data_utils.load_text_and_y(docs, dev_docids)
+        self.test_text, self.y_test = data_utils.load_text_and_y(docs, test_docids)
+
+        self.train_pos = data_utils.extract_pos(docs, train_docids)
+        self.dev_pos = data_utils.extract_pos(docs, dev_docids)
+        self.test_pos = data_utils.extract_pos(docs, test_docids)
 
         #print "\n\n".join(self.train_text[:3])
         #print "\n\n".join(self.train_pos[:3])
@@ -36,11 +38,10 @@ class DifficultyModel:
         pos_vectorizer = TfidfVectorizer(max_features=1500,
                                  ngram_range=(1, 3), stop_words=None, min_df=5,
                                  lowercase=True, analyzer='word')
-        print ('Building features done.')
 
-        self.x_train = pos_vectorizer.fit_transform(self.train_pos).toarray()
-        self.x_dev = pos_vectorizer.transform(self.dev_pos).toarray()
-        self.x_test = pos_vectorizer.transform(self.test_pos).toarray()
+        self.x_train = ngram_vectorizer.fit_transform(self.train_text).toarray()
+        self.x_dev = ngram_vectorizer.transform(self.dev_text).toarray()
+        self.x_test = ngram_vectorizer.transform(self.test_text).toarray()
 
         if False:
             self.x_train = np.hstack([self.x_train,
@@ -50,6 +51,7 @@ class DifficultyModel:
             self.x_test = np.hstack([self.x_test,
                 pos_vectorizer.transform(self.test_pos).toarray()])
 
+        print ('Building features done.')
         self.model = SVR(kernel='rbf')
 
 
