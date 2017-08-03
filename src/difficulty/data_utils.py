@@ -7,10 +7,11 @@ random.seed(10)
 
 CPATH = os.path.dirname(os.path.realpath(__file__))
 DATASET =  os.path.join(CPATH, 'difficulty_with_span_sents.json')
+DATASET_PROB =  os.path.join(CPATH, 'difficulty_annotated.json')
 
 ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 SCORETYPES = ['corr', 'prec', 'recl']
-DEFAULT_ANNOTYPE = 'min'
+DEFAULT_ANNOTYPE = 'Participants'
 DEFAULT_SCORETYPE = 'corr'
 
 def clean_str(string):
@@ -98,14 +99,24 @@ def split_train_test(docs, development_set=0):
 
     return train_docids, dev_docids, test_docids
 
+def extract_pos(docs, docids=None):
+    pos = []
+    for doc in docs:
+        if docids and doc['docid'] not in docids:
+            continue
+
+        pos.append(doc['pos'])
+    return pos
 
 def extract_text(docs, percentile=True, gt=False):
     text = []
     ys = []
+    docids = []
     for doc in docs:
         if gt and 'gt' not in doc:
             continue
 
+        docids.append(doc['docid'])
         text.append(clean_str(doc['text']))
         if gt:
             if percentile:
@@ -118,7 +129,7 @@ def extract_text(docs, percentile=True, gt=False):
             else:
                 ys.append(doc['score'])
 
-    return text, ys
+    return docids, text, ys
 
 
 def imputation(data):
@@ -134,24 +145,81 @@ def imputation(data):
 
     return data
 
+def load_dataset_prob(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
+    max_sents=100
+    docs = []
+    docs_raw = []
+    with open(DATASET_PROB) as fin:
+        for line in fin:
+            doc = {}
+            item = json.loads(line)
+            docs_raw.append(item)
+            parsed_text = item['parsed_text']
+
+            if annotype == 'multitask':
+                # (TODO)
+                pass
+            elif annotype in ANNOTYPES:
+                doc['score'] = item[annotype+'_'+scoretype]
+                doc['gt'] = item[annotype+'_'+scoretype+'_'+'gt']
+
+                sents = parsed_text['sents']
+                sent_scores = [sent['{0}_prob'.format(annotype)] for sent in sents]
+                sorted_idx = np.argsort(sent_scores)[::-1]
+
+                text = ''
+                pos = ''
+                for idx in sorted_idx[:max_sents]:
+                    if idx == 0 or sent_scores[idx] >= 0:
+                        sent_text = ' '.join([token[0] for token in sents[idx]['tokens']])
+                        sent_pos = ' '.join([token[2] for token in sents[idx]['tokens']])
+                        text += sent_text.strip() + ' '
+                        pos += sent_pos.strip() + ' '
+                doc['text'] = text
+                doc['pos'] = pos
+                #if doc['gt'] != None:
+                #    print item['docid']
+                #    print text
+                #    exit()
+            else:
+                raise 'To be implementated'
+
+            doc['docid'] = item['docid']
+            docs.append(doc)
+
+    docs = calculate_percentiles(docs)
+
+    train_docids, dev_docids, test_docids = split_train_test(
+            docs_raw, development_set=development_set)
+
+    train_docs = [doc for doc in docs if doc['docid'] in train_docids and doc['score']]
+    dev_docs   = [doc for doc in docs if doc['docid'] in dev_docids and doc['score']]
+    test_docs  = [doc for doc in docs if doc['docid'] in test_docids and doc['gt'] and doc['score']]
+
+    test_docs = calculate_percentiles(test_docs, field='gt', new_field='percentile_gt')
+
+    train_docids, train_text, y_train = extract_text(train_docs)
+    dev_docids, dev_text, y_dev = extract_text(dev_docs)
+    test_docids, test_text, y_test = extract_text(test_docs, gt=True)
+
+    train_pos = extract_pos(train_docs, train_docids)
+    dev_pos = extract_pos(dev_docs, dev_docids)
+    test_pos = extract_pos(test_docs, test_docids)
+
+    if development_set:
+        return train_text, train_pos, y_train, dev_text, dev_pos, y_dev, test_text, test_pos, y_test
+    else:
+        return train_text, train_pos, y_train, test_text,test_pos,  y_test
+
 def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE, span_text=False):
     docs = []
     docs_raw = []
     with open(DATASET) as fin:
         for line in fin:
             doc = {}
-            item = json.loads(line.strip())
+            item = json.loads(line)
             docs_raw.append(item)
-            if annotype == 'min':
-                scores, gts = [], []
-                for at in ANNOTYPES:
-                    s = item[at+'_'+scoretype]
-                    g = item[at+'_'+scoretype+'_'+'gt']
-                    if s: scores.append(s)
-                    if g: gts.append(g)
-                doc['score'] = np.min(scores) if scores else None
-                doc['gt'] = np.min(gts) if gts else None
-            elif annotype == 'multitask':
+            if annotype == 'multitask':
                 scores, gts = [], []
                 for at in ANNOTYPES:
                     s = item[at+'_'+scoretype]
@@ -169,7 +237,7 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
                 raise 'To be implementated'
 
             if span_text:
-                key = 'span_text' if annotype in ['min', 'multitask'] else '{0}_text'.format(annotype)
+                key = 'span_text' if annotype == 'multitask' else '{0}_text'.format(annotype)
                 #key='span_text'
                 doc['text'] = item.get(key, item['text'])
             else:
@@ -188,9 +256,9 @@ def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAU
 
     test_docs = calculate_percentiles(test_docs, field='gt', new_field='percentile_gt')
 
-    train_text, y_train = extract_text(train_docs)
-    dev_text, y_dev = extract_text(dev_docs)
-    test_text, y_test = extract_text(test_docs, gt=True)
+    train_docids, train_text, y_train = extract_text(train_docs)
+    dev_docids, dev_text, y_dev = extract_text(dev_docs)
+    test_docids, test_text, y_test = extract_text(test_docs, gt=True)
 
     if development_set:
         return train_text, y_train, dev_text, y_dev, test_text, y_test

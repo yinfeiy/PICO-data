@@ -123,10 +123,13 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
 
             #annos = corpus.get_doc_annos(docid)
             annos = corpus.get_doc_aggregation(docid)
+            gts = corpus.get_doc_groundtruth(docid)
+            print gts
 
             spacydoc = corpus.get_doc_spacydoc(docid)
             parsed_text = get_parsed_text(spacydoc)
 
+            print annos.keys()
             for annotype in annos.keys():
                 if isinstance(annos[annotype], list):
                     spans = annos[annotype]
@@ -134,6 +137,12 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
                     spans = []
                     for ss in annos[annotype].values():
                         spans.extend(ss)
+
+                gt_spans = gts.get(annotype, None) if gts else None
+                if gt_spans:
+                    gt_mask = get_annotation_masks(spacydoc, gt_spans)
+                    for idx, mask in enumerate(gt_mask):
+                        parsed_text['sents'][idx]['{0}_gt_mask'.format(annotype)] = mask
 
                 sent_mask = get_annotation_masks(spacydoc, spans)
                 for idx, mask in enumerate(sent_mask):
