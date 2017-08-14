@@ -13,6 +13,7 @@ def isTest(doc):
 
 def extractMarkedTokens(doc, annotype, vocab_dict):
     parsed_text = doc['parsed_text']
+    word_set = set()
     for sent in parsed_text['sents']:
         key = '{0}_mv_mask'.format(annotype)
         idxs = np.where(np.array(sent[key]) > 0)
@@ -25,7 +26,9 @@ def extractMarkedTokens(doc, annotype, vocab_dict):
 
             if pos_1 in ['PUNCT', 'NUM']: # Also, speical characters are important
                 continue
-            vocab_dict[word.lower()] += 1
+            word_set.add(word.lower())
+    for word in word_set:
+        vocab_dict[word] += 1
 
 annotypes = ['Participants', 'Intervention', 'Outcome']
 
