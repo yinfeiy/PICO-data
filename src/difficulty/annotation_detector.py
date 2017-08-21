@@ -265,7 +265,6 @@ with tf.Graph().as_default():
                     l2_reg_lambda = FLAGS.l2_reg_lambda)
 
             saver = tf.train.Saver()#tf.global_variables())
-            saver = tf.train.Saver()#tf.global_variables())
             saver.restore(sess, checkpoint)
             print("\nEvaluation:")
             test_step(cnn, x_test, y_test)#, writer=test_summary_writer)
