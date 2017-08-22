@@ -82,6 +82,8 @@ class TextCNN(object):
 
         # Accuracy
         with tf.name_scope("accuracy"):
+            self.predictions = tf.Print(self.predictions, [self.predictions], "Pred:", summarize=100, first_n=3)
+
             correct_predictions = tf.equal(self.predictions, tf.argmax(self.input_y, 1))
             self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
 

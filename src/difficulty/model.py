@@ -30,6 +30,7 @@ class DifficultyModel:
         self.classifier = classifier
         self.model = None
 
+
     def prepare_svm_task(self):
         print ('Building features...')
         ngram_vectorizer = TfidfVectorizer(max_features=1500,
@@ -115,5 +116,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Outcome')
+    model = DifficultyModel(classifier='SVM', annotype='Intervention')
     model.train()
