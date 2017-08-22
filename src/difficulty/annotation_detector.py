@@ -40,22 +40,6 @@ with tf.Graph().as_default():
 
     sess = tf.Session(config=session_conf)
     with sess.as_default():
-
-        def test_step(cnn, x_batch, y_batch, writer=None):
-            """
-            Evaluates model on a test set
-            """
-            feed_dict = {
-              cnn.input_x: x_batch,
-              cnn.input_y: y_batch,
-              cnn.dropout_keep_prob: 1.0
-            }
-            loss, accuracy, precision, recall = sess.run(
-                [cnn.loss, cnn.accuracy, cnn.precision, cnn.recall],
-                feed_dict)
-            time_str = datetime.datetime.now().isoformat()
-            print("{}: loss {:g}, acc {:g}, prec {:g}, recl {:g}".format(time_str, loss, accuracy, precision, recall))
-
         docs = load_dataset()
 
         model_dir = "/mnt/data/workspace/nlp/PICO-data/src/difficulty/annotation_detector_models/model_2/"

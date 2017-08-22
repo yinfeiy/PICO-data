@@ -169,7 +169,7 @@ def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
                 for idx in sorted_idx[:max_sents]:
                     if sent_scores[idx] > 0:
                         sent_text = ' '.join([token[0] for token in sents[idx]['tokens']])
-                        sent_pos = ' '.join([token[2] for token in sents[idx]['tokens']])
+                        sent_pos = ' '.join([token[1] for token in sents[idx]['tokens']])
                         text += sent_text.strip() + ' '
                         pos += sent_pos.strip() + ' '
                 if len(text) < 1:

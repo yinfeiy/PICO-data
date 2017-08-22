@@ -1,26 +1,20 @@
-from difficulty import data_utils
-
-from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
-from sklearn.svm import SVR
-
-from scipy import stats
 from cnn import CNN
-import numpy as np
-
+from difficulty import data_utils
+from difficulty import features
+from scipy import stats
+from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
+from sklearn.svm import SVR, LinearSVR
 from tensorflow.contrib import learn
+
+import os
+import numpy as np
 
 class DifficultyModel:
 
     def __init__(self, classifier='SVM', annotype='Participants'):
-        docs, train_docids, dev_docids, test_docids = data_utils.load_docs(annotype=annotype)
+        self.docs, self.train_docids, self.dev_docids, self.test_docids = data_utils.load_docs(annotype=annotype)
 
-        self.train_text, self.y_train = data_utils.load_text_and_y(docs, train_docids)
-        self.dev_text, self.y_dev = data_utils.load_text_and_y(docs, dev_docids)
-        self.test_text, self.y_test = data_utils.load_text_and_y(docs, test_docids)
 
-        self.train_pos = data_utils.extract_pos(docs, train_docids)
-        self.dev_pos = data_utils.extract_pos(docs, dev_docids)
-        self.test_pos = data_utils.extract_pos(docs, test_docids)
 
         #print "\n\n".join(self.train_text[:3])
         #print "\n\n".join(self.train_pos[:3])
@@ -33,27 +27,72 @@ class DifficultyModel:
 
     def prepare_svm_task(self):
         print ('Building features...')
+
+        # Text and y
+        train_text, y_train = data_utils.load_text_and_y(self.docs, self.train_docids)
+        dev_text, y_dev = data_utils.load_text_and_y(self.docs, self.dev_docids)
+        test_text, y_test = data_utils.load_text_and_y(self.docs, self.test_docids)
+
+        train_pos = data_utils.extract_pos(self.docs, self.train_docids)
+        dev_pos = data_utils.extract_pos(self.docs, self.dev_docids)
+        test_pos = data_utils.extract_pos(self.docs, self.test_docids)
+
+        # NGram feature
         ngram_vectorizer = TfidfVectorizer(max_features=1500,
                                  ngram_range=(1, 3), stop_words=None, min_df=5,
                                  lowercase=True, analyzer='word')
+
+        ngram_x_train = ngram_vectorizer.fit_transform(train_text).toarray()
+        ngram_x_dev = ngram_vectorizer.transform(dev_text).toarray()
+        ngram_x_test = ngram_vectorizer.transform(test_text).toarray()
+
+        # POS feature
         pos_vectorizer = TfidfVectorizer(max_features=1500,
                                  ngram_range=(1, 3), stop_words=None, min_df=5,
                                  lowercase=True, analyzer='word')
+        pos_x_train = pos_vectorizer.fit_transform(train_pos).toarray()
+        pos_x_dev = pos_vectorizer.fit_transform(dev_pos).toarray()
+        pos_x_test = pos_vectorizer.fit_transform(test_pos).toarray()
 
-        self.x_train = ngram_vectorizer.fit_transform(self.train_text).toarray()
-        self.x_dev = ngram_vectorizer.transform(self.dev_text).toarray()
-        self.x_test = ngram_vectorizer.transform(self.test_text).toarray()
+        # vocab feature (domain depande nt)
+        fn_dict = os.path.join(*[os.path.dirname(__file__), 'anno_dict',
+            '{0}_vocab.dict'.format(self.annotype)])
+        vocab_dict = features.loadVocab(fn_dict, min_df = 5)
+        vocab_x_train = features.extractBOWtFeature(self.docs, self.train_docids,
+                vocab_dict, binary=False, lower=True)
+        vocab_x_dev   = features.extractBOWtFeature(self.docs, self.dev_docids,
+                vocab_dict, binary=False, lower=True)
+        vocab_x_test  = features.extractBOWtFeature(self.docs, self.test_docids,
+                vocab_dict, binary=False, lower=True)
 
-        if False:
-            self.x_train = np.hstack([self.x_train,
-                    pos_vectorizer.fit_transform(self.train_pos).toarray()])
-            self.x_dev = np.hstack([self.x_dev,
-                pos_vectorizer.transform(self.dev_pos).toarray()])
-            self.x_test = np.hstack([self.x_test,
-                pos_vectorizer.transform(self.test_pos).toarray()])
+        # Meta feature
+        meta_x_train = features.extractMetaFeature(self.docs, self.train_docids)
+        meta_x_dev   = features.extractMetaFeature(self.docs, self.dev_docids)
+        meta_x_test  = features.extractMetaFeature(self.docs, self.test_docids)
+
+        self.x_train = np.hstack([meta_x_train
+            #,ngram_x_train
+            #,pos_x_train
+            ,vocab_x_train
+            ])
+        self.x_dev = np.hstack([meta_x_dev
+            #,ngram_x_dev
+            #,pos_x_dev
+            ,vocab_x_dev
+            ])
+        self.x_test = np.hstack([meta_x_test
+            #,ngram_x_test
+            #,pos_x_test
+            ,vocab_x_test
+            ])
+
+        # Ground Truth
+        self.y_train = y_train
+        self.y_dev = y_dev
+        self.y_test = y_test
 
         print ('Building features done.')
-        self.model = SVR(kernel='rbf')
+        self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive')
 
 
     def prepare_cnn_task(self):
@@ -116,5 +155,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Intervention')
+    model = DifficultyModel(classifier='SVM', annotype='Participants')
     model.train()
