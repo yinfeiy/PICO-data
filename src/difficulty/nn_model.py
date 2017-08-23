@@ -13,36 +13,45 @@ class NNModel:
 
     def __init__(self,
             mode=MODE_TRAIN,
-            num_classes=1,
-            dropout=0.1,
-            is_lstm_bidirectionral=True,
-            sencoder="CNN",
+            encoder="CNN",
+            num_classes=2,
             max_document_length=64,
+            dropout=0.1,
+            l2_reg_lambda=0.1,
             cnn_filter_sizes=[3,4,5],
-            cnn_num_filters=128):
+            cnn_num_filters=128,
+            lstm_bidirectionral=True):
 
         self._train = True if mode == MODE_TRAIN else False
-        self._dropout = dropout
-        self._is_lstm_bidirectional = is_lstm_bidirectionral
-        self._max_document_length = max_document_length
-        self._eval_metrics = {}
-        self._num_classes = num_classes
-        self._encoder = encoder
 
+        # Basic params
+        self._max_document_length = max_document_length
+        self._num_classes = num_classes
+        self._embedding_size = 200
+        self._encoder = encoder
+        self._encoding_size = 300
+
+        # CNN params
         self._cnn_filter_sizes = cnn_filter_sizes
         self._cnn_num_filters = cnn_num_filters
-        self._l2_reg_lambda = 0.1
 
-        self._embedding_size = 200
+        # LSTM params
+        self._lstm_bidirectional = lstm_bidirectionral
+
+        # Hyper-params
+        self._l2_reg_lambda = l2_reg_lambda
+        self._dropout = dropout
+
         self._vocab = None
         self._train_dir = './test/train/'
         self._eval_dir = './test/eval/'
 
-        if self._train:
+        if not self._train:
             self._dropout = 0.0
 
         self.ops = []
         self.loss = None
+        self._eval_metrics = {}
 
 
     def Graph(self):
@@ -56,7 +65,7 @@ class NNModel:
             self._vocab = learn.preprocessing.VocabularyProcessor(self._max_document_length,
                     tokenizer_fn=lambda xs:[x.split(" ") for x in xs])
             self._vocab.fit(vocab)
-            self._vocab.save()
+            #self._vocab.save(os.path.join(self._train_dir, "vocab"))
 
             # Insert init embedding for <UNK>
             init_embedding = np.vstack([np.zeros(self._embedding_size), init_embedding])
@@ -86,9 +95,11 @@ class NNModel:
 
     def _classifier(self, input_encoded, output):
         with tf.variable_scope("Classifier"):
+            l2_loss = tf.constant(0.0)
+
             W = tf.get_variable(
                 "W",
-                shape=[tf.shape(input_encoded)[1], self._num_classes],
+                shape=[self._encoding_size, self._num_classes],
                 initializer=tf.contrib.layers.xavier_initializer())
             b = tf.Variable(tf.constant(0.1, shape=[self._num_classes]), name="b")
             scores = tf.nn.xw_plus_b(input_encoded, W, b, name="scores")
@@ -122,7 +133,7 @@ class NNModel:
     def _LookupEmbeddings(self, embeddings, inputs):
         # Return sequence length and inputs
 
-        mask = tf.not_equal(inputs, 0.0)
+        mask = tf.to_float(tf.not_equal(inputs, 0))
         inputs = tf.nn.embedding_lookup(embeddings, inputs)
 
         lengths = tf.cast(tf.reduce_sum(mask, axis=1), tf.int64)
@@ -130,7 +141,7 @@ class NNModel:
 
 
     def _CNNLayers(self, embeddings, inputs):
-        _, input_embeddings = self._LookupEmbeddings(inputs, embeddings)
+        _, input_embeddings = self._LookupEmbeddings(embeddings, inputs)
 
         input_embeddings = tf.expand_dims(input_embeddings, -1)
 
@@ -155,14 +166,16 @@ class NNModel:
                         strides=[1,1,1,1],
                         padding="VALID",
                         name="pool")
-                pooled_ouputs.append(pooled)
+                pooled_outputs.append(pooled)
 
         num_filters_total = self._cnn_num_filters * len(self._cnn_filter_sizes)
-        cnn_encoding = tf.concat(pooled_ouputs, 3)
+        cnn_encoding = tf.concat(pooled_outputs, 3)
         cnn_encoding = tf.reshape(cnn_encoding, [-1, num_filters_total])
 
         with tf.variable_scope("dropout"):
-            cnn_encoding = tf.nn.dropout(cnn_encoding, self._dropout)
+            cnn_encoding = tf.nn.dropout(cnn_encoding, 1-self._dropout)
+
+        cnn_encoding = tf.layers.dense(cnn_encoding, self._encoding_size)
 
         return cnn_encoding
 
@@ -171,14 +184,15 @@ class NNModel:
         pass
 
 
-def train(model):
-    global_step = tf.Variable(0, name="global_step", trainable=False)
-    optimizer = tf.train.AdamOptimizer(1e-3)
-    grads_and_vars = optimizer.compute_gradients(model.loss)
-    train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
-
+def train(model, FLAGS):
     with tf.Session() as sess:
         model.Graph()
+
+        global_step = tf.Variable(0, name="global_step", trainable=False)
+        optimizer = tf.train.AdamOptimizer(1e-3)
+        grads_and_vars = optimizer.compute_gradients(model.loss)
+        train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
+
 
         sess.run(tf.global_variables_initializer())
 
@@ -186,13 +200,15 @@ def train(model):
 
         feed_dict = {
                 model.input_x: input_x,
-                model.input_y: np.array([[1]])
+                model.input_y: np.array([[1, 0]])
                 }
 
         ops = [train_op]
         ops.extend(model.ops)
 
-        ops = sess.run(ops, feed_dict)
+        outputs = sess.run(ops, feed_dict)
+
+        print outputs
 
 
 def eval(model):
@@ -203,23 +219,24 @@ def main():
     model = NNModel(
             mode=FLAGS.mode,
             dropout=FLAGS.dropout,
-            is_lstm_bidirectionral=FLAGS.is_lstm_bidirectionral,
             max_document_length=FLAGS.max_document_length,
             encoder=FLAGS.encoder,
-            cnn_filter_sizes=FLAGS.cnn_filter_sizes,
-            cnn_num_filters=FLAGS.cnn_num_filters)
+            cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
+            cnn_num_filters=FLAGS.cnn_num_filters,
+            lstm_bidirectionral=FLAGS.lstm_bidirectionral)
 
     if FLAGS.mode == MODE_TRAIN:
-        train(model)
+        train(model, FLAGS)
 
 
 if __name__ == "__main__":
     flags = tf.app.flags
+    flags.DEFINE_string("mode", "train", "Model mode")
     flags.DEFINE_float("dropout", 0.1, "dropout")
-    flags.DEFINE_integer("max_document_length", 300, "max document length")
-    flags.DEFINE_bool("is_lstm_bidirectionral", True, "whther lstm is undirectional or bidirectional")
-    flags.DEFINE_enum("encoder", "CNN", ["CNN", "LSTM"], "type of encoder used to embed document")
-    flags.DEFINE_list("cnn_filter_sizes", [3,4,5], "Filter sizes in CNN encoder")
+    flags.DEFINE_integer("max_document_length", 300, "Max document length")
+    flags.DEFINE_bool("lstm_bidirectionral", True, "Whther lstm is undirectional or bidirectional")
+    flags.DEFINE_string("encoder", "CNN", "Type of encoder used to embed document")
+    flags.DEFINE_string("cnn_filter_sizes", "3,4,5", "Filter sizes in CNN encoder")
     flags.DEFINE_integer("cnn_num_filters", 128, "Number of filters per filter size in CNN encoder")
 
     FLAGS = tf.flags.FLAGS
