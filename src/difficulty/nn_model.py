@@ -43,8 +43,10 @@ class NNModel:
             self._vocab = learn.preprocessing.VocabularyProcessor(self._max_document_length,
                     tokenizer_fn=lambda xs:[x.split(" ") for x in xs])
             self._vocab.fit(vocab)
-            print os.path.join(self._train_dir, "vocab")
             #self._vocab.save()
+
+            # Insert init embedding for <UNK>
+            init_embedding = np.vstack([np.zeros(self._embedding_size), init_embedding])
 
             vocab_size = len(self._vocab.vocabulary_)
             with tf.variable_scope("Word_Embedding"):
@@ -110,8 +112,10 @@ def main():
 
         sess.run(tf.global_variables_initializer())
 
+        input_x = list(model._vocab.transform(["hello world"]))
+
         feed_dict = {
-                model.input_x: np.array([[23,23,25]]),
+                model.input_x: input_x,
                 model.input_y: np.array([[1]])
                 }
         ops = sess.run(model._ops, feed_dict)
