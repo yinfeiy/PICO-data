@@ -7,7 +7,7 @@ random.seed(10)
 
 CPATH = os.path.dirname(os.path.realpath(__file__))
 DATASET =  os.path.join(CPATH, 'difficulty_with_span_sents.json')
-DATASET_PROB =  os.path.join(CPATH, 'difficulty_annotated_2.json')
+DATASET_PROB =  os.path.join(CPATH, 'difficulty_annotated.json')
 
 ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 SCORETYPES = ['corr', 'prec', 'recl']
@@ -161,23 +161,20 @@ def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
                 doc['gt'] = item[annotype+'_'+scoretype+'_'+'gt']
 
                 sents = parsed_text['sents']
-                sent_scores = [sent['{0}_anno_gt'.format(annotype)] for sent in sents]
-                sorted_idx = np.argsort(sent_scores)[::-1]
+                sorted_idx = range(len(sents))
+                #sent_scores = [sent['{0}_anno_gt'.format(annotype)] for sent in sents]
+                #sorted_idx = np.argsort(sent_scores)[::-1]
 
                 text = ''
                 pos = ''
                 for idx in sorted_idx[:max_sents]:
-                    if sent_scores[idx] > 0:
-                        sent_text = ' '.join([token[0] for token in sents[idx]['tokens']])
-                        sent_pos = ' '.join([token[1] for token in sents[idx]['tokens']])
-                        text += sent_text.strip() + ' '
-                        pos += sent_pos.strip() + ' '
+                    sent_text = ' '.join([token[0] for token in sents[idx]['tokens']])
+                    sent_pos = ' '.join([token[1] for token in sents[idx]['tokens']])
+                    text += sent_text.strip() + ' '
+                    pos += sent_pos.strip() + ' '
+
                 if len(text) < 1:
-                    #print "aaa"
                     text = item['text']
-                else:
-                    #print "bbb"
-                    pass
 
                 doc['text'] = text
                 doc['pos'] = pos

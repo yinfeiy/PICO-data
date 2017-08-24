@@ -1,7 +1,8 @@
+import data_utils
 import gensim
 import numpy as np
-import tensorflow as tf
 import os
+import tensorflow as tf
 
 from tensorflow.contrib import learn
 from tensorflow.contrib.tensorboard.plugins import projector
@@ -14,8 +15,9 @@ class NNModel:
     def __init__(self,
             mode=MODE_TRAIN,
             encoder="CNN",
-            num_classes=2,
+            num_classes=1,
             max_document_length=64,
+            is_classifier=True,
             dropout=0.1,
             l2_reg_lambda=0.1,
             cnn_filter_sizes=[3,4,5],
@@ -27,6 +29,7 @@ class NNModel:
         # Basic params
         self._max_document_length = max_document_length
         self._num_classes = num_classes
+        self._is_classifier = is_classifier
         self._embedding_size = 200
         self._encoder = encoder
         self._encoding_size = 300
@@ -68,7 +71,7 @@ class NNModel:
             #self._vocab.save(os.path.join(self._train_dir, "vocab"))
 
             # Insert init embedding for <UNK>
-            init_embedding = np.vstack([np.zeros(self._embedding_size), init_embedding])
+            init_embedding = np.vstack([np.zeros(self._embedding_size)*0.1, init_embedding])
 
             vocab_size = len(self._vocab.vocabulary_)
             with tf.variable_scope("Word_Embedding"):
@@ -87,7 +90,10 @@ class NNModel:
         if self._encoder == "CNN":
             input_encoded = self._CNNLayers(embeddings, self.input_x)
 
-        pred_scores, loss = self._classifier(input_encoded, self.input_y)
+        if self._is_classifier:
+            pred_scores, loss = self._classifier(input_encoded, self.input_y)
+        else:
+            pred_scores, loss = self._regressor(input_encoded, self.input_y)
 
         self.ops.extend([pred_scores, loss])
         self.loss = loss
@@ -104,16 +110,29 @@ class NNModel:
             b = tf.Variable(tf.constant(0.1, shape=[self._num_classes]), name="b")
             scores = tf.nn.xw_plus_b(input_encoded, W, b, name="scores")
 
-            predictions = tf.argmax(scores, 1, name="predictions")
-
+            #predictions = tf.argmax(scores, 1, name="predictions")
             l2_loss += tf.nn.l2_loss(W)
             l2_loss += tf.nn.l2_loss(b)
-            losses = tf.nn.softmax_cross_entropy_with_logits(logits=scores, labels=output)
+            losses = tf.nn.sigmoid_cross_entropy_with_logits(logits=scores, labels=output)
+            logits = tf.sigmoid(scores)
 
             total_loss = tf.reduce_mean(losses) + self._l2_reg_lambda * l2_loss
 
-        return scores, total_loss
+        return logits, total_loss
 
+    def _regressor(self, input_encoded, output):
+        with tf.variable_scope("regressor"):
+            total_loss = tf.constant(0.0)
+            pooled_logits = []
+            for idx in range(self._num_classes):
+                logits = tf.layers.dense(input_encoded, 1, activation=tf.nn.sigmoid)
+                gts = output[:, idx]
+
+                pooled_logits.append(logits)
+                loss = tf.nn.l2_loss(logits-gts)
+                total_loss += loss
+
+        return pooled_logits, total_loss
 
     def _LoadInitEmbeddings(self):
         ## Initialize word_embedding
@@ -184,31 +203,58 @@ class NNModel:
         pass
 
 
+class DocumentReader:
+
+    def __init__(self, annotype):
+        self.docs, self.train_docids, self.dev_docids, self.test_docids = data_utils.load_docs(annotype=annotype)
+
+    def get_text_and_y(self, mode):
+        # Text and y
+        if mode == 'train':
+            text, y = data_utils.load_text_and_y(self.docs, self.train_docids)
+        elif mode == 'test':
+            text, y = data_utils.load_text_and_y(self.docs, self.test_docids)
+        else:
+            raise "Error, mode %s is not supported", mode
+
+        return text, y
+
+
 def train(model, FLAGS):
+
+    document_reader = DocumentReader(annotype="Participants")
+    x_train_text, y_train = document_reader.get_text_and_y("train")
+    #y_train = [[1] if y >0.5 else [0] for y  in y_train]
+    y_train = [[y] for y  in y_train]
+
     with tf.Session() as sess:
         model.Graph()
 
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdamOptimizer(1e-3)
+        optimizer = tf.train.AdamOptimizer(1e-6)
         grads_and_vars = optimizer.compute_gradients(model.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
 
         sess.run(tf.global_variables_initializer())
 
-        input_x = list(model._vocab.transform(["hello world"]))
+        x_train = list(model._vocab.transform(x_train_text))
 
-        feed_dict = {
-                model.input_x: input_x,
-                model.input_y: np.array([[1, 0]])
+        batches = data_utils.batch_iter(
+            list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
+
+        for batch in batches:
+            x_batch, y_batch = zip(*batch)
+            feed_dict = {
+                model.input_x: x_batch,
+                model.input_y: y_batch
                 }
 
-        ops = [train_op]
-        ops.extend(model.ops)
+            ops = [train_op, global_step]
+            ops.extend(model.ops)
 
-        outputs = sess.run(ops, feed_dict)
-
-        print outputs
+            _, step, scores, loss = sess.run(ops, feed_dict)
+            print step, loss
 
 
 def eval(model):
@@ -219,6 +265,7 @@ def main():
     model = NNModel(
             mode=FLAGS.mode,
             dropout=FLAGS.dropout,
+            is_classifier=False,
             max_document_length=FLAGS.max_document_length,
             encoder=FLAGS.encoder,
             cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
@@ -232,6 +279,8 @@ def main():
 if __name__ == "__main__":
     flags = tf.app.flags
     flags.DEFINE_string("mode", "train", "Model mode")
+    flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
+    flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 200)")
     flags.DEFINE_float("dropout", 0.1, "dropout")
     flags.DEFINE_integer("max_document_length", 300, "Max document length")
     flags.DEFINE_bool("lstm_bidirectionral", True, "Whther lstm is undirectional or bidirectional")
