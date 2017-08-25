@@ -46,15 +46,14 @@ class NNModel:
         self._dropout = dropout
 
         self._vocab = None
-        self._train_dir = './test/train/'
-        self._eval_dir = './test/eval/'
+        self._checkpoint_dir = './test/train/'
 
         if not self._train:
             self._dropout = 0.0
 
         self.ops = []
         self.loss = None
-        self._eval_metrics = {}
+        self.eval_metrics = {}
 
 
     def Graph(self):
@@ -65,10 +64,13 @@ class NNModel:
             # Assuming input text is pre-tokenized and splited by space
             vocab, init_embedding = self._LoadInitEmbeddings()
 
-            self._vocab = learn.preprocessing.VocabularyProcessor(self._max_document_length,
-                    tokenizer_fn=lambda xs:[x.split(" ") for x in xs])
+            def _tokenizer(xs):
+                return [x.split(" ") for x in xs]
+            self._vocab = learn.preprocessing.VocabularyProcessor(
+                    self._max_document_length, tokenizer_fn=_tokenizer)
             self._vocab.fit(vocab)
-            #self._vocab.save(os.path.join(self._train_dir, "vocab"))
+            self._vocab.save("./test/train/vocab")
+                    #os.path.join(self._checkpoint_dir, "vocab"))
 
             # Insert init embedding for <UNK>
             init_embedding = np.vstack([np.zeros(self._embedding_size)*0.1, init_embedding])
@@ -79,7 +81,7 @@ class NNModel:
                         initializer=tf.constant_initializer(init_embedding), trainable=False)
 
         else:
-            self._vocab = learn.preprocessing.VocabularyProcessor.restore(os.path.join(self._train_dir, "vocab"))
+            self._vocab = learn.preprocessing.VocabularyProcessor.restore(os.path.join(self._checkpoint_dir, "vocab"))
             vocab_size = len(self._vocab.vocabulary_)
             with tf.variable_scope("Word_Embedding"):
                 embeddings = tf.Variable(tf.constant(0, 0),
@@ -131,6 +133,9 @@ class NNModel:
                 pooled_logits.append(logits)
                 loss = tf.nn.l2_loss(logits-gts)
                 total_loss += loss
+                self.eval_metrics["Class_{0}/Pearsonr".format(idx)] = (
+                        tf.contrib.metrics.streaming_pearson_correlation(
+                            logits, gts))
 
         return pooled_logits, total_loss
 
@@ -222,7 +227,7 @@ class DocumentReader:
 
 def train(model, FLAGS):
 
-    document_reader = DocumentReader(annotype="Participants")
+    document_reader = DocumentReader(annotype="Outcome")#Participants")
     x_train_text, y_train = document_reader.get_text_and_y("train")
     #y_train = [[1] if y >0.5 else [0] for y  in y_train]
     y_train = [[y] for y  in y_train]
@@ -231,12 +236,13 @@ def train(model, FLAGS):
         model.Graph()
 
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdamOptimizer(1e-6)
+        optimizer = tf.train.AdamOptimizer(1e-5)
         grads_and_vars = optimizer.compute_gradients(model.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
 
         sess.run(tf.global_variables_initializer())
+
 
         x_train = list(model._vocab.transform(x_train_text))
 
@@ -254,8 +260,22 @@ def train(model, FLAGS):
             ops.extend(model.ops)
 
             _, step, scores, loss = sess.run(ops, feed_dict)
-            print step, loss
+            print step, loss,
 
+            updates = []
+            for name, (value_op, update_op) in model.eval_metrics.items():
+                updates.append(update_op)
+                tf.summary.scalar(name, tf.Print(value_op, [value_op], name))
+
+            updates_op = tf.group(*updates)
+            summary_op = tf.summary.merge_all()
+
+            reset_op = tf.local_variables_initializer()
+            table_init_op = tf.tables_initializer()
+            sess.run([reset_op, table_init_op])
+
+            sess.run(updates_op, feed_dict)
+            print sess.run(value_op)
 
 def eval(model):
     pass
