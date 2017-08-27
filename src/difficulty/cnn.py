@@ -8,7 +8,10 @@ import os
 from tensorflow.contrib.tensorboard.plugins import projector
 
 from scipy import stats
-from difficulty import data_utils
+try:
+    from difficulty import data_utils
+except:
+    import data_utils
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 200, "Dimensionality of character embedding (default: 300)")
@@ -114,12 +117,10 @@ class CNNGraph(object):
         # Calculate root mean square loss
         c1 = self.scores[:,0]
         c1 = tf.Print(c1, [c1], "h1: ")
-        c2 = self.scores[:,1]
-        c2 = tf.Print(c2, [c2], "h2: ")
 
         self.scores = tf.Print(self.scores, [self.scores], "h0: ")
 
-        t_loss = tf.reduce_sum(c1)*tf.reduce_sum(c2)*0
+        t_loss = tf.reduce_sum(c1)*0
         with tf.name_scope("loss"):
             #losses = tf.square(self.scores-self.input_y)
             losses = tf.nn.sigmoid_cross_entropy_with_logits(labels=self.input_y, logits=self.scores)

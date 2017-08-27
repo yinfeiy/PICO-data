@@ -1,6 +1,11 @@
 from cnn import CNN
-from difficulty import data_utils
-from difficulty import features
+try:
+    from difficulty import data_utils
+    from difficulty import features
+except:
+    import data_utils
+    import features
+
 from scipy import stats
 from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
 from sklearn.svm import SVR, LinearSVR
@@ -96,27 +101,29 @@ class DifficultyModel:
 
 
     def prepare_cnn_task(self):
-        max_document_length = max([len(x.split(" ")) for x in self.train_text])
+        # Text and y
+        train_text, y_train = data_utils.load_text_and_y(self.docs, self.train_docids)
+        dev_text, y_dev = data_utils.load_text_and_y(self.docs, self.dev_docids)
+        test_text, y_test = data_utils.load_text_and_y(self.docs, self.test_docids)
+
+        y_train = np.array(y_train)
+        y_dev = np.array(y_dev)
+        y_test = np.array(y_test)
+
+        max_document_length = max([len(x.split(" ")) for x in train_text])
         max_document_length = int(max_document_length * 0.9);
 
         self.vocab = learn.preprocessing.VocabularyProcessor(max_document_length)
 
-        self.x_train = np.array(list(self.vocab.transform(self.train_text)))
-        self.y_train = np.array(self.y_train)
-        self.y_train = np.expand_dim(self.y_train, 1) \
-                if len(self.y_train.shape) == 1 else self.y_train
+        self.x_train = np.array(list(self.vocab.transform(train_text)))
+        self.y_train = np.expand_dims(y_train, 1) if len(y_train.shape) == 1 else y_train
+        self.y_train = data_utils.imputation(y_train)
 
-        self.y_train = data_utils.imputation(self.y_train)
-
-        self.x_dev = np.array(list(self.vocab.transform(self.dev_text)))
-        self.y_dev = np.array(self.y_dev)
-        self.y_dev = np.expand_dim(self.y_dev, 1) \
-                if len(self.y_dev.shape) == 1 else self.y_dev
-        self.x_test = np.array(list(self.vocab.transform(self.test_text)))
-        self.y_test = np.array(self.y_test)
-        self.y_test = np.expand_dim(self.y_test, 1) \
-                if len(self.y_test.shape) == 1 else self.y_test
-        self.y_test = data_utils.imputation(self.y_test)
+        self.x_dev = np.array(list(self.vocab.transform(dev_text)))
+        self.y_dev = np.expand_dims(y_dev, 1) if len(y_dev.shape) == 1 else y_dev
+        self.x_test = np.array(list(self.vocab.transform(test_text)))
+        self.y_test = np.expand_dims(y_test, 1) if len(y_test.shape) == 1 else y_test
+        self.y_test = data_utils.imputation(y_test)
 
         self.model = CNN(self.vocab)
 
@@ -155,5 +162,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Participants')
+    model = DifficultyModel(classifier='CNN', annotype='Outcome')
     model.train()

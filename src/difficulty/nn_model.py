@@ -18,7 +18,6 @@ class NNModel:
             num_classes=1,
             max_document_length=64,
             is_classifier=True,
-            dropout=0.1,
             l2_reg_lambda=0.1,
             cnn_filter_sizes=[3,4,5],
             cnn_num_filters=128,
@@ -33,6 +32,7 @@ class NNModel:
         self._embedding_size = 200
         self._encoder = encoder
         self._encoding_size = 300
+        self._vocab = None
 
         # CNN params
         self._cnn_filter_sizes = cnn_filter_sizes
@@ -43,22 +43,19 @@ class NNModel:
 
         # Hyper-params
         self._l2_reg_lambda = l2_reg_lambda
-        self._dropout = dropout
-
-        self._vocab = None
-        self._checkpoint_dir = './test/train/'
-
-        if not self._train:
-            self._dropout = 0.0
 
         self.ops = []
         self.loss = None
         self.eval_metrics = {}
+        self.saver = None
+        self.checkpoint_dir = './test/train/'
+        self.eval_dir = './test/test/'
 
 
     def Graph(self):
         self.input_x = tf.placeholder(tf.int32, [None, self._max_document_length], name="input_x")
         self.input_y = tf.placeholder(tf.float32, [None, self._num_classes], name="input_y")
+        self.dropout = tf.placeholder(tf.float32, name="dropout_prob")
 
         if self._train:
             # Assuming input text is pre-tokenized and splited by space
@@ -81,7 +78,7 @@ class NNModel:
                         initializer=tf.constant_initializer(init_embedding), trainable=False)
 
         else:
-            self._vocab = learn.preprocessing.VocabularyProcessor.restore(os.path.join(self._checkpoint_dir, "vocab"))
+            self._vocab = learn.preprocessing.VocabularyProcessor.restore(os.path.join(self.checkpoint_dir, "vocab"))
             vocab_size = len(self._vocab.vocabulary_)
             with tf.variable_scope("Word_Embedding"):
                 embeddings = tf.Variable(tf.constant(0, 0),
@@ -99,6 +96,8 @@ class NNModel:
 
         self.ops.extend([pred_scores, loss])
         self.loss = loss
+
+        self.saver = tf.train.Saver(tf.global_variables())
 
 
     def _classifier(self, input_encoded, output):
@@ -127,12 +126,16 @@ class NNModel:
             total_loss = tf.constant(0.0)
             pooled_logits = []
             for idx in range(self._num_classes):
-                logits = tf.layers.dense(input_encoded, 1, activation=tf.nn.sigmoid)
-                gts = output[:, idx]
+                logits = tf.layers.dense(input_encoded, 1,
+                        kernel_regularizer=tf.contrib.layers.l2_regularizer(
+                            self._l2_reg_lambda))
+                gts = tf.expand_dims(output[:, idx], -1)
 
                 pooled_logits.append(logits)
-                loss = tf.nn.l2_loss(logits-gts)
-                total_loss += loss
+                lossse = tf.nn.sigmoid_cross_entropy_with_logits(logits=logits,
+                        labels=gts)
+                total_loss += tf.reduce_mean(lossse)
+
                 self.eval_metrics["Class_{0}/Pearsonr".format(idx)] = (
                         tf.contrib.metrics.streaming_pearson_correlation(
                             logits, gts))
@@ -197,7 +200,7 @@ class NNModel:
         cnn_encoding = tf.reshape(cnn_encoding, [-1, num_filters_total])
 
         with tf.variable_scope("dropout"):
-            cnn_encoding = tf.nn.dropout(cnn_encoding, 1-self._dropout)
+            cnn_encoding = tf.nn.dropout(cnn_encoding, 1-self.dropout)
 
         cnn_encoding = tf.layers.dense(cnn_encoding, self._encoding_size)
 
@@ -229,53 +232,83 @@ def train(model, FLAGS):
 
     document_reader = DocumentReader(annotype="Outcome")#Participants")
     x_train_text, y_train = document_reader.get_text_and_y("train")
-    #y_train = [[1] if y >0.5 else [0] for y  in y_train]
     y_train = [[y] for y  in y_train]
+
+    x_test_text, y_test =  document_reader.get_text_and_y("test")
+    y_test = [[y] for y  in y_test]
 
     with tf.Session() as sess:
         model.Graph()
 
+        names = tf.get_collection(tf.GraphKeys.REGULARIZATION_LOSSES)
+        print names
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdamOptimizer(1e-5)
+        optimizer = tf.train.AdamOptimizer(1e-3)
         grads_and_vars = optimizer.compute_gradients(model.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
 
         sess.run(tf.global_variables_initializer())
 
-
+        # Data preparation
         x_train = list(model._vocab.transform(x_train_text))
-
-        batches = data_utils.batch_iter(
+        x_test = list(model._vocab.transform(x_test_text))
+        train_batches = data_utils.batch_iter(
             list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
 
-        for batch in batches:
+        sw_train = tf.summary.FileWriter(model.checkpoint_dir, sess.graph)
+        sw_test = tf.summary.FileWriter(model.eval_dir, sess.graph)
+
+        for batch in train_batches:
             x_batch, y_batch = zip(*batch)
             feed_dict = {
                 model.input_x: x_batch,
-                model.input_y: y_batch
+                model.input_y: y_batch,
+                model.dropout: FLAGS.dropout
                 }
 
             ops = [train_op, global_step]
             ops.extend(model.ops)
 
             _, step, scores, loss = sess.run(ops, feed_dict)
-            print step, loss,
 
             updates = []
+            train_summaries = []
             for name, (value_op, update_op) in model.eval_metrics.items():
                 updates.append(update_op)
-                tf.summary.scalar(name, tf.Print(value_op, [value_op], name))
+                train_summaries.append(tf.summary.scalar(name, value_op))
+            train_summaries.append(tf.summary.scalar("loss", model.loss))
+            train_summary_op = tf.summary.merge(train_summaries)
 
             updates_op = tf.group(*updates)
-            summary_op = tf.summary.merge_all()
 
             reset_op = tf.local_variables_initializer()
             table_init_op = tf.tables_initializer()
             sess.run([reset_op, table_init_op])
 
             sess.run(updates_op, feed_dict)
-            print sess.run(value_op)
+            sw_train.add_summary(sess.run(train_summary_op), global_step)
+
+            if global_step % FLAGS.checkpoint_every == 0:
+                path = model.saver.save(sess, checkpoint_prefix, global_step=current_step)
+                print("Saved model checkpoint to {}\n".format(path))
+
+            if global_step % FLAGS.evaluate_every == 0:
+                feed_dict = {
+                        model.input_x: x_test,
+                        model.input_y: y_test,
+                        model.dropout: 0
+                        }
+
+                scores, loss = sess.run(model.ops, feed_dict)
+
+                test_summaries = []
+                for name, (value_op, update_op) in model.eval_metrics.items():
+                    test_summaries.append(tf.summary.scalar(name, value_op))
+                test_summaries.append(tf.summary.scalar("loss", model.loss))
+                test_summary_op = tf.summary.merge(test_summaries)
+                sw_test.add_summary(sess.run(test_summary_op), global_step)
+
 
 def eval(model):
     pass
@@ -284,7 +317,6 @@ def eval(model):
 def main():
     model = NNModel(
             mode=FLAGS.mode,
-            dropout=FLAGS.dropout,
             is_classifier=False,
             max_document_length=FLAGS.max_document_length,
             encoder=FLAGS.encoder,
@@ -301,12 +333,14 @@ if __name__ == "__main__":
     flags.DEFINE_string("mode", "train", "Model mode")
     flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
     flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 200)")
-    flags.DEFINE_float("dropout", 0.1, "dropout")
+    tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps (default: 100)")
+    tf.flags.DEFINE_integer("checkpoint_every", 1000, "Save model after this many steps (default: 1000)")
+    flags.DEFINE_float("dropout", 0.4, "dropout")
     flags.DEFINE_integer("max_document_length", 300, "Max document length")
     flags.DEFINE_bool("lstm_bidirectionral", True, "Whther lstm is undirectional or bidirectional")
     flags.DEFINE_string("encoder", "CNN", "Type of encoder used to embed document")
     flags.DEFINE_string("cnn_filter_sizes", "3,4,5", "Filter sizes in CNN encoder")
-    flags.DEFINE_integer("cnn_num_filters", 128, "Number of filters per filter size in CNN encoder")
+    flags.DEFINE_integer("cnn_num_filters", 32, "Number of filters per filter size in CNN encoder")
 
     FLAGS = tf.flags.FLAGS
     main()
