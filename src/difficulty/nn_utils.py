@@ -19,14 +19,15 @@ class DocumentReader:
         return text, y
 
 
-def train(model, FLAGS):
-
-    document_reader = DocumentReader(annotype="Participants")
+def train(model, document_reader, FLAGS):
     x_train_text, y_train = document_reader.get_text_and_y("train")
-    y_train = [[y] for y  in y_train]
+    x_train_text_bw = [ " ".join(t.split()[::-1]) for t in x_train_text ]
+    y_train = data_utils.imputation(y_train)
 
     x_test_text, y_test =  document_reader.get_text_and_y("test")
-    y_test = [[y] for y  in y_test]
+    x_test_text_bw = [ " ".join(t.split()[::-1]) for t in x_test_text ]
+    y_test = data_utils.imputation(y_test)
+    #y_test = [[y] for y  in y_test]
 
     with tf.Graph().as_default():
         model.Graph()
@@ -49,8 +50,10 @@ def train(model, FLAGS):
         # Data preparation
         x_train = list(model._vocab.transform(x_train_text))
         x_test = list(model._vocab.transform(x_test_text))
+
+
         train_batches = data_utils.batch_iter(
-            list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
+            list(zip(x_train, x_train_bw, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
 
         with tf.Session() as sess:
             sw_train = tf.summary.FileWriter(model.checkpoint_dir, sess.graph)
@@ -75,9 +78,10 @@ def train(model, FLAGS):
             for batch in train_batches:
                 sess.run([reset_op, table_init_op])
 
-                x_batch, y_batch = zip(*batch)
+                x_batch, x_bw_batch, y_batch = zip(*batch)
                 feed_dict = {
                     model.input_x: x_batch,
+                    model.input_l: #TODO
                     model.input_y: y_batch,
                     model.input_w: np.ones((len(y_batch), len(y_batch[0]))),
                     model.dropout: FLAGS.dropout
@@ -99,6 +103,7 @@ def train(model, FLAGS):
 
                     feed_dict = {
                             model.input_x: x_test,
+                            model.input_l: #TODO
                             model.input_y: y_test,
                             model.input_w: np.ones((len(y_test), len(y_test[0]))),
                             model.dropout: 0.0

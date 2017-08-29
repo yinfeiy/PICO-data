@@ -54,8 +54,7 @@ def batch_iter(data, batch_size, num_epochs, shuffle=True):
 def calculate_percentiles(docs, field='score', new_field='percentile'):
     scores = [doc[field] for doc in docs]
     if isinstance(scores[0], list):
-        scores = np.array(scores)
-        scores[1,1] = np.nan
+        scores = np.array(scores, dtype=np.float32)
         ranks = scores.argsort(axis=0).argsort(axis=0).astype(np.float32) + 1
         idxs = np.argwhere(np.isnan(scores))
         for idx in idxs:
@@ -115,7 +114,10 @@ def extract_text(docs, gt=False, percentile=True):
         text.append(clean_str(doc['text']))
         if gt:
             if 'gt' not in doc:
-                ys.append(-1)
+                if isinstance(doc['score'], list):
+                    ys.append([np.nan]*len(doc['score']))
+                else:
+                    ys.append(np.nan)
             elif percentile:
                 ys.append(doc['percentile_gt'])
             else:
@@ -153,31 +155,34 @@ def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
             docs_raw.append(item)
             parsed_text = item['parsed_text']
 
+            sents = parsed_text['sents']
+
+            text = ''
+            pos = ''
+            for sent in sents:
+                sent_text = ' '.join([token[0] for token in sent['tokens']])
+                sent_pos = ' '.join([token[1] for token in sent['tokens']])
+                text += sent_text.strip() + ' '
+                pos += sent_pos.strip() + ' '
+
+            if len(text) < 1:
+                text = item['text']
+
+            doc['text'] = text
+            doc['pos'] = pos
+
+
             if annotype == 'multitask':
-                # (TODO)
-                pass
+                doc['score'] = []
+                doc['gt'] = []
+                for annotype_iter in ANNOTYPES:
+                    doc['score'].append(item[annotype_iter+'_'+scoretype])
+                    doc['gt'].append(item[annotype_iter+'_'+scoretype+'_'+'gt'])
+
             elif annotype in ANNOTYPES:
                 doc['score'] = item[annotype+'_'+scoretype]
                 doc['gt'] = item[annotype+'_'+scoretype+'_'+'gt']
 
-                sents = parsed_text['sents']
-                sorted_idx = range(len(sents))
-                #sent_scores = [sent['{0}_anno_gt'.format(annotype)] for sent in sents]
-                #sorted_idx = np.argsort(sent_scores)[::-1]
-
-                text = ''
-                pos = ''
-                for idx in sorted_idx[:max_sents]:
-                    sent_text = ' '.join([token[0] for token in sents[idx]['tokens']])
-                    sent_pos = ' '.join([token[1] for token in sents[idx]['tokens']])
-                    text += sent_text.strip() + ' '
-                    pos += sent_pos.strip() + ' '
-
-                if len(text) < 1:
-                    text = item['text']
-
-                doc['text'] = text
-                doc['pos'] = pos
             else:
                 raise 'To be implementated'
 
@@ -205,60 +210,6 @@ def load_text_and_y(docs, docids, gt=False):
     text, y = extract_text(docs_f, gt=gt)
     return text, y
 
-
-def load_dataset(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE, span_text=False):
-    docs = []
-    docs_raw = []
-    with open(DATASET) as fin:
-        for line in fin:
-            doc = {}
-            item = json.loads(line)
-            docs_raw.append(item)
-            if annotype == 'multitask':
-                scores, gts = [], []
-                for at in ANNOTYPES:
-                    s = item[at+'_'+scoretype]
-                    g = item[at+'_'+scoretype+'_'+'gt']
-                    if s: scores.append(s)
-                    else: scores.append(np.nan)
-                    if g: gts.append(g)
-                    else: gts.append(np.nan)
-                doc['score'] = scores
-                doc['gt'] = gts
-            elif annotype in ANNOTYPES:
-                doc['score'] = item[annotype+'_'+scoretype]
-                doc['gt'] = item[annotype+'_'+scoretype+'_'+'gt']
-            else:
-                raise 'To be implementated'
-
-            if span_text:
-                key = 'span_text' if annotype == 'multitask' else '{0}_text'.format(annotype)
-                #key='span_text'
-                doc['text'] = item.get(key, item['text'])
-            else:
-                doc['text'] = item['text']
-            doc['docid'] = item['docid']
-            docs.append(doc)
-
-    docs = calculate_percentiles(docs)
-
-    train_docids, dev_docids, test_docids = split_train_test(
-            docs_raw, development_set=development_set)
-
-    train_docs = [doc for doc in docs if doc['docid'] in train_docids and doc['score']]
-    dev_docs   = [doc for doc in docs if doc['docid'] in dev_docids and doc['score']]
-    test_docs  = [doc for doc in docs if doc['docid'] in test_docids and doc['gt'] and doc['score']]
-
-    test_docs = calculate_percentiles(test_docs, field='gt', new_field='percentile_gt')
-
-    train_docids, train_text, y_train = extract_text(train_docs)
-    dev_docids, dev_text, y_dev = extract_text(dev_docs)
-    test_docids, test_text, y_test = extract_text(test_docs, gt=True)
-
-    if development_set:
-        return train_text, y_train, dev_text, y_dev, test_text, y_test
-    else:
-        return train_text, y_train, test_text, y_test
 
 
 if __name__ == '__main__':

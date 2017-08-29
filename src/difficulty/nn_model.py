@@ -57,9 +57,15 @@ class NNModel:
 
     def Graph(self):
         self.input_x = tf.placeholder(tf.int32, [None, self._max_document_length], name="input_x")
+        self.input_l = tf.placeholder(tf.int32, [None], name="input_l")
         self.input_y = tf.placeholder(tf.float32, [None, self._num_tasks], name="input_y")
         self.input_w = tf.placeholder(tf.float32, [None, self._num_tasks], name="input_w")
         self.dropout = tf.placeholder(tf.float32, name="dropout_prob")
+
+        if self._lstm_bidirectional:
+            self.input_x_bw = tf.placeholder(tf.int32,
+                    [None, self._max_document_length], name="input_x")
+            self.input_l_bw = tf.placeholder(tf.int32, [None], name="input_l_bw")
 
         if self._train:
             # Assuming input text is pre-tokenized and splited by space
@@ -128,10 +134,10 @@ class NNModel:
         return logits, total_loss
 
     def _regressor(self, input_encoded, output, weights):
-        with tf.variable_scope("regressor"):
-            total_loss = tf.constant(0.0)
-            pooled_logits = []
-            for idx in range(self._num_tasks):
+        total_loss = tf.constant(0.0)
+        pooled_logits = []
+        for idx in range(self._num_tasks):
+            with tf.variable_scope("{0}_regressor".format(self._task_names[idx])):
                 logits = tf.layers.dense(input_encoded, 1,
                         kernel_regularizer=tf.contrib.layers.l2_regularizer(
                             self._l2_reg_lambda))
@@ -139,13 +145,14 @@ class NNModel:
                 wts = tf.expand_dims(weights[:, idx], -1)
 
                 pooled_logits.append(logits)
-                lossse = tf.nn.sigmoid_cross_entropy_with_logits(logits=logits,
+                losses = tf.nn.sigmoid_cross_entropy_with_logits(logits=logits,
                         labels=gts)
-                total_loss += tf.reduce_mean(lossse * wts)
+                total_loss += tf.reduce_mean(losses * wts)
+                total_loss = tf.Print(total_loss, [total_loss], "total_loss: ")
 
                 self.eval_metrics["{0}/Pearsonr".format(self._task_names[idx])] = (
                         tf.contrib.metrics.streaming_pearson_correlation(
-                            logits, gts))
+                            logits, gts, wts))
 
         return pooled_logits, total_loss
 
@@ -178,59 +185,69 @@ class NNModel:
         _, input_embeddings = self._LookupEmbeddings(embeddings, inputs)
 
         input_embeddings = tf.expand_dims(input_embeddings, -1)
+        with tf.variable_scope("CNN"):
+            pooled_outputs = []
+            for i, filter_size in enumerate(self._cnn_filter_sizes):
+                with tf.variable_scope("conv-maxpool-%s" % filter_size):
+                    # Conv layer
+                    filter_shape = [filter_size, self._embedding_size, 1, self._cnn_num_filters]
+                    W = tf.Variable(tf.truncated_normal(filter_shape, stddev=0.1), name="W")
+                    b = tf.Variable(tf.constant(0.1, shape=[self._cnn_num_filters]), name="b")
+                    conv = tf.nn.conv2d(
+                            input_embeddings,
+                            W,
+                            strides=[1,1,1,1],
+                            padding="VALID",
+                            name="conv")
+                    h = tf.nn.relu(tf.nn.bias_add(conv, b), name="relu")
 
-        pooled_outputs = []
-        for i, filter_size in enumerate(self._cnn_filter_sizes):
-            with tf.variable_scope("conv-maxpool-%s" % filter_size):
-                # Conv layer
-                filter_shape = [filter_size, self._embedding_size, 1, self._cnn_num_filters]
-                W = tf.Variable(tf.truncated_normal(filter_shape, stddev=0.1), name="W")
-                b = tf.Variable(tf.constant(0.1, shape=[self._cnn_num_filters]), name="b")
-                conv = tf.nn.conv2d(
-                        input_embeddings,
-                        W,
-                        strides=[1,1,1,1],
-                        padding="VALID",
-                        name="conv")
-                h = tf.nn.relu(tf.nn.bias_add(conv, b), name="relu")
+                    pooled = tf.nn.max_pool(
+                            h,
+                            ksize=[1, self._max_document_length-filter_size+1, 1, 1],
+                            strides=[1,1,1,1],
+                            padding="VALID",
+                            name="pool")
+                    pooled_outputs.append(pooled)
 
-                pooled = tf.nn.max_pool(
-                        h,
-                        ksize=[1, self._max_document_length-filter_size+1, 1, 1],
-                        strides=[1,1,1,1],
-                        padding="VALID",
-                        name="pool")
-                pooled_outputs.append(pooled)
+            num_filters_total = self._cnn_num_filters * len(self._cnn_filter_sizes)
+            cnn_encoding = tf.concat(pooled_outputs, 3)
+            cnn_encoding = tf.reshape(cnn_encoding, [-1, num_filters_total])
 
-        num_filters_total = self._cnn_num_filters * len(self._cnn_filter_sizes)
-        cnn_encoding = tf.concat(pooled_outputs, 3)
-        cnn_encoding = tf.reshape(cnn_encoding, [-1, num_filters_total])
+            with tf.variable_scope("dropout"):
+                cnn_encoding = tf.nn.dropout(cnn_encoding, 1-self.dropout)
 
-        with tf.variable_scope("dropout"):
-            cnn_encoding = tf.nn.dropout(cnn_encoding, 1-self.dropout)
-
-        cnn_encoding = tf.layers.dense(cnn_encoding, self._encoding_size)
+            cnn_encoding = tf.layers.dense(cnn_encoding, self._encoding_size)
 
         return cnn_encoding
 
 
     def _LSTMLayers(self):
-        pass
+        _, fw_embeddings = self._LookupEmbeddings(embeddings, inputs)
+        fw_embeddings = tf.expand_dims(fw_embeddings, -1)
 
+        if self._lstm_bidirectional:
+            inputs_reversed = tf.reverse(inputs, axis=1)
+            bw_embeddings = self._LookupEmbeddings(embeddings, inputs_reversed)
+            bw_embeddings = tf.expand_dims(bw_embeddings, -1)
+        with tf.variable_scope("LSTM"):
+            pass
 
 
 def main():
     model = NNModel(
             mode=FLAGS.mode,
             is_classifier=False,
-            max_document_length=FLAGS.max_document_length,
             encoder=FLAGS.encoder,
+            num_tasks=3,
+            task_names=["Participants", "Intervention", "Outcome"],
+            max_document_length=FLAGS.max_document_length,
             cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
             cnn_num_filters=FLAGS.cnn_num_filters,
             lstm_bidirectionral=FLAGS.lstm_bidirectionral)
 
+    document_reader = nn_utils.DocumentReader(annotype="multitask")
     if FLAGS.mode == MODE_TRAIN:
-        nn_utils.train(model, FLAGS)
+        nn_utils.train(model, document_reader, FLAGS)
 
 
 if __name__ == "__main__":
