@@ -14,7 +14,7 @@ class NNModel:
 
     def __init__(self,
             mode=MODE_TRAIN,
-            running_dir="./test",
+            running_dir="./test/",
             encoder="CNN",
             num_tasks=1,
             task_names=["Task"],
@@ -23,7 +23,8 @@ class NNModel:
             l2_reg_lambda=0.1,
             cnn_filter_sizes=[3,4,5],
             cnn_num_filters=128,
-            lstm_bidirectionral=True):
+            lstm_num_layers=2,
+            lstm_bidirectionral=False):
 
         self._train = True if mode == MODE_TRAIN else False
 
@@ -42,6 +43,7 @@ class NNModel:
         self._cnn_num_filters = cnn_num_filters
 
         # LSTM params
+        self._lstm_num_layers = lstm_num_layers
         self._lstm_bidirectional = lstm_bidirectionral
 
         # Hyper-params
@@ -51,8 +53,8 @@ class NNModel:
         self.loss = None
         self.eval_metrics = {}
         self.saver = None
-        self.checkpoint_dir = os.path.join(running_dir, 'train')
-        self.eval_dir = os.path.join(running_dir, 'test')
+        self.checkpoint_dir = os.path.join(running_dir, "train")
+        self.eval_dir = os.path.join(running_dir, "test")
 
 
     def Graph(self):
@@ -65,7 +67,8 @@ class NNModel:
         if self._lstm_bidirectional:
             self.input_x_bw = tf.placeholder(tf.int32,
                     [None, self._max_document_length], name="input_x")
-            self.input_l_bw = tf.placeholder(tf.int32, [None], name="input_l_bw")
+        else:
+            self.input_x_bw = None
 
         if self._train:
             # Assuming input text is pre-tokenized and splited by space
@@ -76,8 +79,7 @@ class NNModel:
             self._vocab = learn.preprocessing.VocabularyProcessor(
                     self._max_document_length, tokenizer_fn=_tokenizer)
             self._vocab.fit(vocab)
-            self._vocab.save("./test/train/vocab")
-                    #os.path.join(self._checkpoint_dir, "vocab"))
+            self._vocab.save(os.path.join(self.checkpoint_dir, "vocab"))
 
             # Insert init embedding for <UNK>
             init_embedding = np.vstack([np.zeros(self._embedding_size)*0.1, init_embedding])
@@ -97,7 +99,9 @@ class NNModel:
 
 
         if self._encoder == "CNN":
-            input_encoded = self._CNNLayers(embeddings, self.input_x)
+            input_encoded = self._CNNLayers(embeddings)
+        elif self._encoder == "LSTM":
+            input_encoded = self._LSTMLayers(embeddings)
 
         if self._is_classifier:
             pred_scores, loss = self._classifier(input_encoded, self.input_y, self.input_w)
@@ -181,8 +185,8 @@ class NNModel:
         return lengths, inputs
 
 
-    def _CNNLayers(self, embeddings, inputs):
-        _, input_embeddings = self._LookupEmbeddings(embeddings, inputs)
+    def _CNNLayers(self, embeddings):
+        _, input_embeddings = self._LookupEmbeddings(embeddings, self.input_x)
 
         input_embeddings = tf.expand_dims(input_embeddings, -1)
         with tf.variable_scope("CNN"):
@@ -221,16 +225,41 @@ class NNModel:
         return cnn_encoding
 
 
-    def _LSTMLayers(self):
-        _, fw_embeddings = self._LookupEmbeddings(embeddings, inputs)
-        fw_embeddings = tf.expand_dims(fw_embeddings, -1)
+    def _LSTMLayers(self, embeddings):
+        _, fw_embeddings = self._LookupEmbeddings(embeddings, self.input_x)
+        #fw_embeddings = tf.expand_dims(fw_embeddings, -1)
 
         if self._lstm_bidirectional:
-            inputs_reversed = tf.reverse(inputs, axis=1)
-            bw_embeddings = self._LookupEmbeddings(embeddings, inputs_reversed)
-            bw_embeddings = tf.expand_dims(bw_embeddings, -1)
+            bw_embeddings = self._LookupEmbeddings(embeddings, self.input_x_bw)
+        #    bw_embeddings = tf.expand_dims(bw_embeddings, -1)
+
         with tf.variable_scope("LSTM"):
-            pass
+
+            fw_cell = lambda: tf.nn.rnn_cell.DropoutWrapper(
+                    tf.contrib.rnn.LSTMCell(
+                        num_units=self._embedding_size,
+                        num_proj=self._embedding_size,
+                        state_is_tuple=True),
+                    input_keep_prob=1 - self.dropout / 2.0,
+                    output_keep_prob=1 - self.dropout / 2.0,
+                    variational_recurrent=True,
+                    input_size=self._embedding_size,
+                    dtype=tf.float32)
+            fw_cells= tf.contrib.rnn.MultiRNNCell(
+                    [fw_cell() for x in range(self._lstm_num_layers)], state_is_tuple=True)
+            fw_proj, fw_state = tf.nn.dynamic_rnn(fw_cells, fw_embeddings,
+                    sequence_length=self.input_l, dtype=tf.float32)
+
+            fw_encoding = fw_state[-1][1]
+
+            if self._lstm_bidirectional:
+                pass
+            else:
+                lstm_encoding = fw_encoding
+
+            lstm_encoding = tf.layers.dense(lstm_encoding, self._encoding_size)
+
+        return lstm_encoding
 
 
 def main():
@@ -243,7 +272,8 @@ def main():
             max_document_length=FLAGS.max_document_length,
             cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
             cnn_num_filters=FLAGS.cnn_num_filters,
-            lstm_bidirectionral=FLAGS.lstm_bidirectionral)
+            lstm_bidirectionral=FLAGS.lstm_bidirectionral,
+            lstm_num_layers=FLAGS.lstm_num_layers)
 
     document_reader = nn_utils.DocumentReader(annotype="multitask")
     if FLAGS.mode == MODE_TRAIN:
@@ -255,14 +285,19 @@ if __name__ == "__main__":
     flags.DEFINE_string("mode", "train", "Model mode")
     flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
     flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 200)")
-    tf.flags.DEFINE_integer("evaluate_every", 10, "Evaluate model on dev set after this many steps (default: 100)")
-    tf.flags.DEFINE_integer("checkpoint_every", 1000, "Save model after this many steps (default: 1000)")
+    tf.flags.DEFINE_integer("evaluate_every", 10,
+        "Evaluate model on dev set after this many steps (default: 100)")
+    tf.flags.DEFINE_integer("checkpoint_every", 1000,
+        "Save model after this many steps (default: 1000)")
     flags.DEFINE_float("dropout", 0.4, "dropout")
     flags.DEFINE_integer("max_document_length", 300, "Max document length")
-    flags.DEFINE_bool("lstm_bidirectionral", True, "Whther lstm is undirectional or bidirectional")
-    flags.DEFINE_string("encoder", "CNN", "Type of encoder used to embed document")
+    flags.DEFINE_bool("lstm_bidirectionral", False,
+        "Whther lstm is undirectional or bidirectional")
+    flags.DEFINE_integer("lstm_num_layers", 2, "Number of layers of LSTM")
+    flags.DEFINE_string("encoder", "LSTM", "Type of encoder used to embed document")
     flags.DEFINE_string("cnn_filter_sizes", "3,4,5", "Filter sizes in CNN encoder")
-    flags.DEFINE_integer("cnn_num_filters", 32, "Number of filters per filter size in CNN encoder")
+    flags.DEFINE_integer("cnn_num_filters", 32,
+        "Number of filters per filter size in CNN encoder")
 
     FLAGS = tf.flags.FLAGS
     main()
