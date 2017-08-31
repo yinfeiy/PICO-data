@@ -1,4 +1,5 @@
 import nn_utils
+import nyt_reader
 import gensim
 import numpy as np
 import os
@@ -117,23 +118,41 @@ class NNModel:
 
 
     def _classifier(self, input_encoded, output, weights):
-        with tf.variable_scope("Classifier"):
-            l2_loss = tf.constant(0.0)
+        total_loss = tf.constant(0.0)
+        pooled_logits = []
 
-            W = tf.get_variable(
-                "W",
-                shape=[self._encoding_size, self._num_tasks],
-                initializer=tf.contrib.layers.xavier_initializer())
-            b = tf.Variable(tf.constant(0.1, shape=[self._num_tasks]), name="b")
-            scores = tf.nn.xw_plus_b(input_encoded, W, b, name="scores")
+        for idx in range(self._num_tasks):
+            gts = tf.expand_dims(output[:, idx], -1)
+            wts = tf.expand_dims(weights[:, idx], -1)
+            with tf.variable_scope("{0}_regressor".format(self._task_names[idx])):
+                l2_loss = tf.constant(0.0)
 
-            #predictions = tf.argmax(scores, 1, name="predictions")
-            l2_loss += tf.nn.l2_loss(W)
-            l2_loss += tf.nn.l2_loss(b)
-            losses = tf.nn.sigmoid_cross_entropy_with_logits(logits=scores, labels=output)
-            logits = tf.sigmoid(scores)
+                W = tf.get_variable(
+                    "W",
+                    shape=[self._encoding_size, self._num_tasks],
+                    initializer=tf.contrib.layers.xavier_initializer())
+                b = tf.Variable(tf.constant(0.1, shape=[self._num_tasks]), name="b")
+                logits = tf.nn.xw_plus_b(input_encoded, W, b, name="scores")
 
-            total_loss = tf.reduce_mean(losses) + self._l2_reg_lambda * l2_loss
+                #predictions = tf.argmax(scores, 1, name="predictions")
+
+                l2_loss += tf.nn.l2_loss(W)
+                l2_loss += tf.nn.l2_loss(b)
+                losses = tf.nn.sigmoid_cross_entropy_with_logits(logits=logits, labels=gts)
+
+                logits = tf.sigmoid(logits)
+                pooled_logits.append(logits)
+
+                predictions = tf.to_float(logits>0.5)
+
+                self.eval_metrics["{0}/Accuracy".format(self._task_names[idx])] = (
+                        tf.metrics.accuracy(gts, predictions))
+                self.eval_metrics["{0}/Precision".format(self._task_names[idx])] = (
+                        tf.metrics.precision(gts, predictions))
+                self.eval_metrics["{0}/Recall".format(self._task_names[idx])] = (
+                        tf.metrics.recall(gts, predictions))
+
+                total_loss = total_loss + tf.reduce_mean(losses) + self._l2_reg_lambda * l2_loss
 
         return logits, total_loss
 
@@ -148,11 +167,12 @@ class NNModel:
                 gts = tf.expand_dims(output[:, idx], -1)
                 wts = tf.expand_dims(weights[:, idx], -1)
 
-                pooled_logits.append(logits)
                 losses = tf.nn.sigmoid_cross_entropy_with_logits(logits=logits,
                         labels=gts)
                 total_loss += tf.reduce_mean(losses * wts)
                 total_loss = tf.Print(total_loss, [total_loss], "total_loss: ")
+
+                pooled_logits.append(tf.sigmoid(logits))
 
                 self.eval_metrics["{0}/Pearsonr".format(self._task_names[idx])] = (
                         tf.contrib.metrics.streaming_pearson_correlation(
@@ -227,11 +247,9 @@ class NNModel:
 
     def _LSTMLayers(self, embeddings):
         _, fw_embeddings = self._LookupEmbeddings(embeddings, self.input_x)
-        #fw_embeddings = tf.expand_dims(fw_embeddings, -1)
 
         if self._lstm_bidirectional:
             bw_embeddings = self._LookupEmbeddings(embeddings, self.input_x_bw)
-        #    bw_embeddings = tf.expand_dims(bw_embeddings, -1)
 
         with tf.variable_scope("LSTM"):
 
@@ -263,19 +281,35 @@ class NNModel:
 
 
 def main():
-    model = NNModel(
-            mode=FLAGS.mode,
-            is_classifier=False,
-            encoder=FLAGS.encoder,
-            num_tasks=3,
-            task_names=["Participants", "Intervention", "Outcome"],
-            max_document_length=FLAGS.max_document_length,
-            cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
-            cnn_num_filters=FLAGS.cnn_num_filters,
-            lstm_bidirectionral=FLAGS.lstm_bidirectionral,
-            lstm_num_layers=FLAGS.lstm_num_layers)
+    if False:
+        model = NNModel(
+                mode=FLAGS.mode,
+                is_classifier=False,
+                encoder=FLAGS.encoder,
+                num_tasks=3,
+                task_names=["Participants", "Intervention", "Outcome"],
+                max_document_length=FLAGS.max_document_length,
+                cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
+                cnn_num_filters=FLAGS.cnn_num_filters,
+                lstm_bidirectionral=FLAGS.lstm_bidirectionral,
+                lstm_num_layers=FLAGS.lstm_num_layers)
 
-    document_reader = nn_utils.DocumentReader(annotype="multitask")
+        document_reader = nn_utils.DocumentReader(annotype="multitask")
+    else:
+        model = NNModel(
+                mode=FLAGS.mode,
+                is_classifier=True,
+                encoder="CNN",
+                num_tasks=1,
+                task_names=["Sports"],
+                max_document_length=FLAGS.max_document_length,
+                cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
+                cnn_num_filters=FLAGS.cnn_num_filters,
+                lstm_bidirectionral=FLAGS.lstm_bidirectionral,
+                lstm_num_layers=FLAGS.lstm_num_layers)
+
+        document_reader = nyt_reader.NYTReader(genre="Sports")
+
     if FLAGS.mode == MODE_TRAIN:
         nn_utils.train(model, document_reader, FLAGS)
 

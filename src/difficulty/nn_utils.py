@@ -84,10 +84,13 @@ def train(model, document_reader, FLAGS):
             for batch in train_batches:
                 sess.run([reset_op, table_init_op])
 
-                if FLAGS.lstm_bidirectionral:
-                    x_batch, x_l_batch, y_batch, x_bw_batch= zip(*batch)
-                else:
-                    x_batch, x_l_batch, y_batch =  zip(*batch)
+                try:
+                    if FLAGS.lstm_bidirectionral:
+                        x_batch, x_l_batch, y_batch, x_bw_batch= zip(*batch)
+                    else:
+                        x_batch, x_l_batch, y_batch =  zip(*batch)
+                except ValueError:
+                    continue
 
                 feed_dict = {
                     model.input_x: x_batch,
