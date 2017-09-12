@@ -131,13 +131,18 @@ def extract_text(docs, gt=False, percentile=True):
     return text, ys
 
 
-def imputation(data):
+def imputation(data, default_score=None):
     data = np.array(data)
     if len(data.shape) == 1:
         data = np.expand_dims(data, 1)
 
     cols = data.shape[1]
-    default_score = np.nanmean(data, 0)
+    if not default_score:
+        default_score = np.nanmean(data, 0)
+    elif not isinstance(default_score, list):
+        default_score = [default_score] * cols
+    print default_score
+
     for col in range(cols):
         idxs = np.argwhere(np.isnan(data[:,col]))
         data[idxs, col] = default_score[col]
@@ -170,7 +175,6 @@ def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
 
             doc['text'] = text
             doc['pos'] = pos
-
 
             if annotype == 'multitask':
                 doc['score'] = []

@@ -8,7 +8,7 @@ except:
 
 from scipy import stats
 from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
-from sklearn.svm import SVR, LinearSVR
+from sklearn.svm import SVR, LinearSVR, SVC
 from tensorflow.contrib import learn
 
 import os
@@ -18,12 +18,6 @@ class DifficultyModel:
 
     def __init__(self, classifier='SVM', annotype='Participants'):
         self.docs, self.train_docids, self.dev_docids, self.test_docids = data_utils.load_docs(annotype=annotype)
-
-
-
-        #print "\n\n".join(self.train_text[:3])
-        #print "\n\n".join(self.train_pos[:3])
-        #exit()
 
         self.annotype = annotype
         self.classifier = classifier
@@ -43,8 +37,8 @@ class DifficultyModel:
         test_pos = data_utils.extract_pos(self.docs, self.test_docids)
 
         # NGram feature
-        ngram_vectorizer = TfidfVectorizer(max_features=1500,
-                                 ngram_range=(1, 3), stop_words=None, min_df=5,
+        ngram_vectorizer = TfidfVectorizer(max_features=10000,
+                                 ngram_range=(1, 3), stop_words=None, min_df=3,
                                  lowercase=True, analyzer='word')
 
         ngram_x_train = ngram_vectorizer.fit_transform(train_text).toarray()
@@ -76,19 +70,19 @@ class DifficultyModel:
         meta_x_test  = features.extractMetaFeature(self.docs, self.test_docids)
 
         self.x_train = np.hstack([meta_x_train
-            #,ngram_x_train
+            ,ngram_x_train
             #,pos_x_train
-            ,vocab_x_train
+            #,vocab_x_train
             ])
         self.x_dev = np.hstack([meta_x_dev
-            #,ngram_x_dev
+            ,ngram_x_dev
             #,pos_x_dev
-            ,vocab_x_dev
+            #,vocab_x_dev
             ])
         self.x_test = np.hstack([meta_x_test
-            #,ngram_x_test
+            ,ngram_x_test
             #,pos_x_test
-            ,vocab_x_test
+            #,vocab_x_test
             ])
 
         # Ground Truth
@@ -97,6 +91,7 @@ class DifficultyModel:
         self.y_test = y_test
 
         print ('Building features done.')
+        #self.model = SVR(kernel="linear")
         self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive')
 
 
@@ -162,5 +157,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='CNN', annotype='Outcome')
+    model = DifficultyModel(classifier='SVM', annotype='Outcome')
     model.train()
