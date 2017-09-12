@@ -44,16 +44,12 @@ class NYTReader:
             elif score <= self.THRESHOLD[self._genre][0]:
                 self.docs[fname] = {"label": 0}
 
-        cnt = 0
         for fname in self.docs.keys():
             fname_full = os.path.join(self.DATA_PATH, fname.replace("txt","sentence"))
             if os.path.exists(fname_full):
                 item = yaml.load(open(fname_full).read())
                 if item:
                     self.docs[fname].update(item)
-                    cnt += 1
-                    if cnt > 4000:
-                        break
                 #print " ".join(item["sentence_0"]["words"])
 
         fnames = [fn for fn in self.docs.keys() if "sentence_0" in self.docs[fn]]

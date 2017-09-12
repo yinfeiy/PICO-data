@@ -19,7 +19,6 @@ class DocumentReader:
         y = data_utils.imputation(y)
         return text, y
 
-
 def train(model, document_reader, FLAGS):
     x_train_text, y_train = document_reader.get_text_and_y("train")
     x_train_bw_text = [ " ".join(t.split()[::-1]) for t in x_train_text ]
@@ -41,7 +40,7 @@ def train(model, document_reader, FLAGS):
         total_loss = model.loss + reg_loss
 
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdamOptimizer(1e-3)
+        optimizer = tf.train.AdamOptimizer(FLAGS.learning_rate)
         grads_and_vars = optimizer.compute_gradients(total_loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
@@ -54,12 +53,12 @@ def train(model, document_reader, FLAGS):
         x_test = list(model._vocab.transform(x_test_text))
 
         vars = [x_train, x_train_l, y_train]
-        if FLAGS.lstm_bidirectionral:
+        if FLAGS.rnn_bidirectional:
             x_train_bw = list(model._vocab.transform(x_train_bw_text))
             x_test_bw = list(model._vocab.transform(x_test_bw_text))
             vars.append(x_train_bw)
 
-        train_batches = data_utils.batch_iter(list(zip(*vars)), FLAGS.batch_size, FLAGS.num_epochs)
+        train_batches = batch_iter(list(zip(*vars)), FLAGS.batch_size, FLAGS.num_epochs)
 
         with tf.Session() as sess:
             sw_train = tf.summary.FileWriter(model.checkpoint_dir, sess.graph)
@@ -73,6 +72,7 @@ def train(model, document_reader, FLAGS):
                 train_updates.append(update_op)
                 summaries.append(
                         tf.summary.scalar(name, value_op))
+                            # tf.Print(value_op, [value_op], name)))
 
             summaries.append(tf.summary.scalar("model_loss", model.loss))
             summaries.append(tf.summary.scalar("reg_loss", reg_loss))
@@ -85,7 +85,7 @@ def train(model, document_reader, FLAGS):
                 sess.run([reset_op, table_init_op])
 
                 try:
-                    if FLAGS.lstm_bidirectionral:
+                    if FLAGS.rnn_bidirectional:
                         x_batch, x_l_batch, y_batch, x_bw_batch= zip(*batch)
                     else:
                         x_batch, x_l_batch, y_batch =  zip(*batch)
@@ -99,14 +99,15 @@ def train(model, document_reader, FLAGS):
                     model.input_w: np.ones((len(y_batch), len(y_batch[0]))),
                     model.dropout: FLAGS.dropout
                     }
-                if FLAGS.lstm_bidirectionral:
+                if FLAGS.rnn_bidirectional:
                     feed_dict[model.input_x_bw] = x_bw_batch
 
                 sess.run(updates_op, feed_dict)
                 _, step, scores, loss, train_summaries = sess.run(
                         [train_op, global_step, pred_op, loss_op, summary_op],
                         feed_dict)
-                sw_train.add_summary(train_summaries, step)
+                if step % 10 == 0:
+                    sw_train.add_summary(train_summaries, step)
 
 
                 if step % FLAGS.checkpoint_every == 0:
@@ -123,7 +124,7 @@ def train(model, document_reader, FLAGS):
                             model.input_w: np.ones((len(y_test), len(y_test[0]))),
                             model.dropout: 0.0
                             }
-                    if FLAGS.lstm_bidirectionral:
+                    if FLAGS.rnn_bidirectional:
                         feed_dict[model.input_x_bw] = x_test_bw
 
                     sess.run(updates_op, feed_dict)
