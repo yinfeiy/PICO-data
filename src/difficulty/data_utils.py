@@ -1,10 +1,12 @@
-import random
+import json
 import numpy as np
+import os
+import random
+import re
 
 random.seed(10)
 
-CPATH = os.path.dirname(os.path.realpath(__file__))
-DATASET =  os.path.join(CPATH, 'difficulty_with_span_sents.json')
+CPATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'tmp_data')
 DATASET_PROB =  os.path.join(CPATH, 'difficulty_annotated.json')
 
 ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
@@ -148,7 +150,6 @@ def imputation(data, default_score=None):
     return data
 
 def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
-    max_sents=100
     docs = []
     docs_raw = []
     with open(DATASET_PROB) as fin:

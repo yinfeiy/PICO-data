@@ -1,5 +1,6 @@
 import nn_utils
 import nyt_reader
+import pico_reader
 import gensim
 import numpy as np
 import os
@@ -9,12 +10,10 @@ from tensorflow.contrib import learn
 from tensorflow.contrib.tensorboard.plugins import projector
 
 W2VModelFILE="/mnt/data/workspace/nlp/w2v_models/PubMed-w2v.bin"
-#W2VModelFILE="/mnt/data/workspace/nlp/w2v_models/GoogleNews-vectors-negative300.bin"
 EMBEDDING_DIM=200
 
 MODE_TRAIN = "train"
 MODE_INFER = "inference"
-GENRES = ["Business", "Science", "Sports", "USIntlRelations"]
 
 class NNModel:
 
@@ -293,14 +292,14 @@ def main():
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
-        document_reader = nn_utils.DocumentReader(annotype="multitask")
+        document_reader = pico_reader.PICOReader(annotype="multitask")
     else:
         model = NNModel(
                 mode=FLAGS.mode,
                 is_classifier=True,
                 encoder="CNN",
                 num_tasks=1,
-                task_names=["Sports"],
+                task_names=["Business"],
                 max_document_length=FLAGS.max_document_length,
                 cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
                 cnn_num_filters=FLAGS.cnn_num_filters,

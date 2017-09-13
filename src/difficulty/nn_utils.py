@@ -2,23 +2,6 @@ import data_utils
 import tensorflow as tf
 import numpy as np
 
-class DocumentReader:
-
-    def __init__(self, annotype):
-        self.docs, self.train_docids, self.dev_docids, self.test_docids = data_utils.load_docs(annotype=annotype)
-
-    def get_text_and_y(self, mode):
-        # Text and y
-        if mode == 'train':
-            text, y = data_utils.load_text_and_y(self.docs, self.train_docids)
-        elif mode == 'test':
-            text, y = data_utils.load_text_and_y(self.docs, self.test_docids)
-        else:
-            raise "Error, mode %s is not supported", mode
-
-        y = data_utils.imputation(y)
-        return text, y
-
 def train(model, document_reader, FLAGS):
     x_train_text, y_train = document_reader.get_text_and_y("train")
     x_train_bw_text = [ " ".join(t.split()[::-1]) for t in x_train_text ]

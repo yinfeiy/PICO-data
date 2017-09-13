@@ -46,12 +46,12 @@ class DifficultyModel:
         ngram_x_test = ngram_vectorizer.transform(test_text).toarray()
 
         # POS feature
-        pos_vectorizer = TfidfVectorizer(max_features=1500,
-                                 ngram_range=(1, 3), stop_words=None, min_df=5,
+        pos_vectorizer = TfidfVectorizer(max_features=10000,
+                                 ngram_range=(1, 3), stop_words=None, min_df=3,
                                  lowercase=True, analyzer='word')
         pos_x_train = pos_vectorizer.fit_transform(train_pos).toarray()
-        pos_x_dev = pos_vectorizer.fit_transform(dev_pos).toarray()
-        pos_x_test = pos_vectorizer.fit_transform(test_pos).toarray()
+        pos_x_dev = pos_vectorizer.transform(dev_pos).toarray()
+        pos_x_test = pos_vectorizer.transform(test_pos).toarray()
 
         # vocab feature (domain depande nt)
         fn_dict = os.path.join(*[os.path.dirname(__file__), 'anno_dict',
@@ -71,18 +71,18 @@ class DifficultyModel:
 
         self.x_train = np.hstack([meta_x_train
             ,ngram_x_train
-            #,pos_x_train
-            #,vocab_x_train
+            ,pos_x_train
+            ,vocab_x_train
             ])
         self.x_dev = np.hstack([meta_x_dev
             ,ngram_x_dev
-            #,pos_x_dev
-            #,vocab_x_dev
+            ,pos_x_dev
+            ,vocab_x_dev
             ])
         self.x_test = np.hstack([meta_x_test
             ,ngram_x_test
-            #,pos_x_test
-            #,vocab_x_test
+            ,pos_x_test
+            ,vocab_x_test
             ])
 
         # Ground Truth
@@ -91,8 +91,7 @@ class DifficultyModel:
         self.y_test = y_test
 
         print ('Building features done.')
-        #self.model = SVR(kernel="linear")
-        self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive')
+        self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive', random_state=10)
 
 
     def prepare_cnn_task(self):
@@ -127,6 +126,7 @@ class DifficultyModel:
         if self.classifier == 'SVM':
             if self.annotype == 'multitask':
                 print 'SVM does not support multitask'
+                exit()
             self.prepare_svm_task()
             self.model.fit(self.x_train, self.y_train)
 
