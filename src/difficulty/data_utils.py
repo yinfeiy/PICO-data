@@ -71,8 +71,22 @@ def calculate_percentiles(docs, field='score', new_field='percentile'):
 
     return docs
 
+def percentile_to_binary(xs, ys, lo_th=0.2, hi_th=0.8):
+    nxs = []
+    nys = []
+    for x, y in zip(xs, ys):
+        if y<lo_th:
+            nys.append(0)
+            nxs.append(x)
+        elif y>=hi_th:
+            nys.append(1)
+            nxs.append(x)
+        else:
+            continue
+    return nxs, nys
 
-def split_train_test(docs, development_set=0):
+
+def split_train_test(docs):
     gt_keys = []
     for annotype in ANNOTYPES:
         for scoretype in SCORETYPES:
@@ -87,16 +101,8 @@ def split_train_test(docs, development_set=0):
                 break
 
     train_docids = [ doc['docid'] for doc in docs if doc['docid'] not in test_docids ]
-    if development_set:
-        random.shuffle(train_docids)
-        th = int(len(train_docids)*(1-development_set))
-        dev_docids = set(train_docids[th:])
-        train_docids = set(train_docids[:th])
-    else:
-        train_docids = set(train_docids)
-        dev_docids = set()
 
-    return train_docids, dev_docids, test_docids
+    return train_docids, test_docids
 
 def extract_pos(docs, docids=None):
     pos = []
@@ -149,7 +155,7 @@ def imputation(data, default_score=None):
 
     return data
 
-def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
+def load_docs(development_set=0.1, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_SCORETYPE):
     docs = []
     docs_raw = []
     with open(DATASET_PROB) as fin:
@@ -195,8 +201,15 @@ def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
     docs = calculate_percentiles(docs)
     docs = dict(zip([d['docid'] for d in docs], docs))
 
-    train_docids, dev_docids, test_docids = split_train_test(
-            docs_raw, development_set=development_set)
+    train_docids, test_docids = split_train_test(docs_raw)
+
+    if development_set:
+        random.shuffle(train_docids)
+        th = int(len(train_docids)*(1-development_set))
+        dev_docids = set(train_docids[th:])
+        train_docids = set(train_docids[:th])
+    else:
+        dev_docids = set()
 
     train_docids = [i for i in train_docids if docs[i]['score']]
     dev_docids = [i for i in dev_docids if docs[i]['score']]
@@ -205,6 +218,7 @@ def load_docs(development_set=0.2, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
 
 
 def load_text_and_y(docs, docids, gt=False):
+
     docs_f = [docs[i] for i in docids]
 
     if gt:

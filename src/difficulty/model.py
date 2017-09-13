@@ -8,8 +8,9 @@ except:
 
 from scipy import stats
 from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
-from sklearn.svm import SVR, LinearSVR, SVC
+from sklearn.svm import LinearSVR, LinearSVC
 from tensorflow.contrib import learn
+import sklearn.metrics as metrics
 
 import os
 import numpy as np
@@ -30,17 +31,16 @@ class DifficultyModel:
         # Text and y
         train_text, y_train = data_utils.load_text_and_y(self.docs, self.train_docids)
         dev_text, y_dev = data_utils.load_text_and_y(self.docs, self.dev_docids)
-        test_text, y_test = data_utils.load_text_and_y(self.docs, self.test_docids)
+        test_text, y_test = data_utils.load_text_and_y(self.docs, self.test_docids, gt=True)
 
         train_pos = data_utils.extract_pos(self.docs, self.train_docids)
         dev_pos = data_utils.extract_pos(self.docs, self.dev_docids)
         test_pos = data_utils.extract_pos(self.docs, self.test_docids)
 
         # NGram feature
-        ngram_vectorizer = TfidfVectorizer(max_features=10000,
+        ngram_vectorizer = TfidfVectorizer(max_features=20000,
                                  ngram_range=(1, 3), stop_words=None, min_df=3,
                                  lowercase=True, analyzer='word')
-
         ngram_x_train = ngram_vectorizer.fit_transform(train_text).toarray()
         ngram_x_dev = ngram_vectorizer.transform(dev_text).toarray()
         ngram_x_test = ngram_vectorizer.transform(test_text).toarray()
@@ -71,19 +71,24 @@ class DifficultyModel:
 
         self.x_train = np.hstack([meta_x_train
             ,ngram_x_train
-            ,pos_x_train
-            ,vocab_x_train
+            #,pos_x_train
+            #,vocab_x_train
             ])
         self.x_dev = np.hstack([meta_x_dev
             ,ngram_x_dev
-            ,pos_x_dev
-            ,vocab_x_dev
+            #,pos_x_dev
+            #,vocab_x_dev
             ])
         self.x_test = np.hstack([meta_x_test
             ,ngram_x_test
-            ,pos_x_test
-            ,vocab_x_test
+            #,pos_x_test
+            #,vocab_x_test
             ])
+
+        # Filter by binary label
+        self.x_train, y_train = data_utils.percentile_to_binary(self.x_train, y_train)
+        self.x_dev, y_dev = data_utils.percentile_to_binary(self.x_dev, y_dev)
+        self.x_test, y_test = data_utils.percentile_to_binary(self.x_test, y_test, lo_th=0.5, hi_th=0.5)
 
         # Ground Truth
         self.y_train = y_train
@@ -91,7 +96,8 @@ class DifficultyModel:
         self.y_test = y_test
 
         print ('Building features done.')
-        self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive', random_state=10)
+        #self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive', random_state=42)
+        self.model = LinearSVC(C=10, loss='hinge', max_iter=10000, random_state=42)
 
 
     def prepare_cnn_task(self):
@@ -142,10 +148,16 @@ class DifficultyModel:
     def eval(self, x, y, msg=None):
         if self.classifier == 'SVM':
             y_pred = self.model.predict(x)
-            pearsonr, _ = stats.pearsonr(y, y_pred)
-            spearmanr, _ = stats.spearmanr(y, y_pred)
-            if msg: print msg
-            print round(pearsonr, 3), round(spearmanr, 3)
+
+            if False:
+                pearsonr, _ = stats.pearsonr(y, y_pred)
+                spearmanr, _ = stats.spearmanr(y, y_pred)
+                if msg: print msg
+                print round(pearsonr, 3), round(spearmanr, 3)
+            else:
+                acc = metrics.accuracy_score(y, y_pred)
+                if msg: print msg
+                print round(acc, 3)
 
 
     def save(self):
