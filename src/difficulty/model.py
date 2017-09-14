@@ -8,7 +8,7 @@ except:
 
 from scipy import stats
 from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
-from sklearn.svm import LinearSVR, LinearSVC
+from sklearn.svm import LinearSVR, LinearSVC, SVC
 from tensorflow.contrib import learn
 import sklearn.metrics as metrics
 
@@ -71,17 +71,17 @@ class DifficultyModel:
 
         self.x_train = np.hstack([meta_x_train
             ,ngram_x_train
-            #,pos_x_train
+            ,pos_x_train
             #,vocab_x_train
             ])
         self.x_dev = np.hstack([meta_x_dev
             ,ngram_x_dev
-            #,pos_x_dev
+            ,pos_x_dev
             #,vocab_x_dev
             ])
         self.x_test = np.hstack([meta_x_test
             ,ngram_x_test
-            #,pos_x_test
+            ,pos_x_test
             #,vocab_x_test
             ])
 
@@ -97,7 +97,8 @@ class DifficultyModel:
 
         print ('Building features done.')
         #self.model = LinearSVR(epsilon=0.1, C=0.1, loss='epsilon_insensitive', random_state=42)
-        self.model = LinearSVC(C=10, loss='hinge', max_iter=10000, random_state=42)
+        #self.model = LinearSVC(C=10, loss='hinge', max_iter=10000, random_state=42)
+        self.model = SVC(C=1.0, kernel='rbf')
 
 
     def prepare_cnn_task(self):
@@ -169,5 +170,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Outcome')
+    model = DifficultyModel(classifier='SVM', annotype='Intervention')
     model.train()

@@ -142,7 +142,7 @@ class NNModel:
 
                 total_loss = total_loss + tf.reduce_mean(losses)
 
-        return logits, total_loss
+        return predictions, total_loss
 
     def _regressor(self, input_encoded, output, weights):
         total_loss = tf.constant(0.0)
@@ -278,21 +278,21 @@ class NNModel:
 
 
 def main():
-    if False:
+    if True:
         model = NNModel(
                 mode=FLAGS.mode,
-                is_classifier=False,
+                is_classifier=True,
                 encoder=FLAGS.encoder,
-                num_tasks=3,
-                task_names=["Participants", "Intervention", "Outcome"],
+                num_tasks=1,
+                task_names=["Classification"],
                 max_document_length=FLAGS.max_document_length,
                 cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
                 cnn_num_filters=FLAGS.cnn_num_filters,
-                rnn_bidirectionral=FLAGS.rnn_bidirectionral,
+                rnn_bidirectional=FLAGS.rnn_bidirectional,
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
-        document_reader = pico_reader.PICOReader(annotype="multitask")
+        document_reader = pico_reader.PICOReader(annotype="Intervention")
     else:
         model = NNModel(
                 mode=FLAGS.mode,
@@ -303,7 +303,7 @@ def main():
                 max_document_length=FLAGS.max_document_length,
                 cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
                 cnn_num_filters=FLAGS.cnn_num_filters,
-                rnn_bidirectionral=FLAGS.rnn_bidirectionral,
+                rnn_bidirectional=FLAGS.rnn_bidirectional,
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
@@ -316,15 +316,16 @@ def main():
 if __name__ == "__main__":
     flags = tf.app.flags
     flags.DEFINE_string("mode", "train", "Model mode")
-    flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
+    flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 32)")
     flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 200)")
     tf.flags.DEFINE_integer("evaluate_every", 50,
         "Evaluate model on dev set after this many steps (default: 100)")
     tf.flags.DEFINE_integer("checkpoint_every", 1000,
         "Save model after this many steps (default: 1000)")
-    flags.DEFINE_float("dropout", 0.0, "dropout")
+    flags.DEFINE_float("dropout", 0.5, "dropout")
+    flags.DEFINE_float("learning_rate", 1e-3, "learning rate")
     flags.DEFINE_integer("max_document_length", 300, "Max document length")
-    flags.DEFINE_bool("rnn_bidirectionral", False,
+    flags.DEFINE_bool("rnn_bidirectional", True,
         "Whther rnn is undirectional or bidirectional")
     flags.DEFINE_string("rnn_cell_type", "GRU", "RNN cell type, GRU or LSTM")
     flags.DEFINE_integer("rnn_num_layers", 2, "Number of layers of RNN")

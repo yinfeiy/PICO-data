@@ -147,10 +147,11 @@ def imputation(data, default_score=None):
         default_score = np.nanmean(data, 0)
     elif not isinstance(default_score, list):
         default_score = [default_score] * cols
-    print default_score
 
     for col in range(cols):
         idxs = np.argwhere(np.isnan(data[:,col]))
+        print "Data imputation: "
+        print idxs, default_score[col]
         data[idxs, col] = default_score[col]
 
     return data
@@ -228,11 +229,8 @@ def load_text_and_y(docs, docids, gt=False):
     return text, y
 
 
-
 if __name__ == '__main__':
-    a = np.array([[1,2,3],[1,np.nan, np.nan], [3,4.1,np.nan]])
-    a = imputation(a)
-    print a
-    #items = load_dataset()
-    #for item in items:
-    #    print len(item)
+
+    # print sample docs at two extrem tails
+    docs, train_docids, dev_docids, test_docids = load_docs(development_set=0.0, annotype="Outcome")
+

@@ -1,6 +1,7 @@
 import data_utils
 import tensorflow as tf
 import numpy as np
+import sklearn.metrics as metrics
 
 def train(model, document_reader, FLAGS):
     x_train_text, y_train = document_reader.get_text_and_y("train")
@@ -41,7 +42,7 @@ def train(model, document_reader, FLAGS):
             x_test_bw = list(model._vocab.transform(x_test_bw_text))
             vars.append(x_train_bw)
 
-        train_batches = batch_iter(list(zip(*vars)), FLAGS.batch_size, FLAGS.num_epochs)
+        train_batches = data_utils.batch_iter(list(zip(*vars)), FLAGS.batch_size, FLAGS.num_epochs)
 
         with tf.Session() as sess:
             sw_train = tf.summary.FileWriter(model.checkpoint_dir, sess.graph)
@@ -90,6 +91,8 @@ def train(model, document_reader, FLAGS):
                         [train_op, global_step, pred_op, loss_op, summary_op],
                         feed_dict)
                 if step % 10 == 0:
+                    acc = metrics.accuracy_score(y_batch, scores)
+                    print "Step {0}: Training acc: {1}".format(step, acc)
                     sw_train.add_summary(train_summaries, step)
 
 
@@ -114,4 +117,6 @@ def train(model, document_reader, FLAGS):
                     scores, loss, test_summaries = sess.run(
                             [pred_op, loss_op, summary_op], feed_dict)
 
+                    acc = metrics.accuracy_score(y_test, scores)
+                    print "Step {0}: Eval acc: {1}".format(step, acc)
                     sw_test.add_summary(test_summaries, step)
