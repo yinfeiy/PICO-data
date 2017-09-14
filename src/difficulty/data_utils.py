@@ -230,7 +230,18 @@ def load_text_and_y(docs, docids, gt=False):
 
 
 if __name__ == '__main__':
-
     # print sample docs at two extrem tails
-    docs, train_docids, dev_docids, test_docids = load_docs(development_set=0.0, annotype="Outcome")
+    docs, train_docids, dev_docids, test_docids = load_docs(development_set=0.0, annotype="Participants")
 
+    import pprint
+    train_docids.sort(key=lambda x: docs[x]['percentile'])
+    for did in train_docids[:10]:
+        del docs[did]['pos']
+        pprint.pprint(docs[did])
+
+    print "========================="
+    print "========================="
+
+    for did in train_docids[:-10:-1]:
+        del docs[did]['pos']
+        pprint.pprint(docs[did])

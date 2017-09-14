@@ -18,7 +18,7 @@ class PICOReader:
         elif mode == 'test':
             text, y = data_utils.load_text_and_y(self.docs, self.test_docids)
             if binary:
-                text, y = data_utils.percentile_to_binary(text, y, lo_th=0.5, hi_th=0.5)
+                text, y = data_utils.percentile_to_binary(text, y, lo_th=0.2, hi_th=0.8)
         else:
             raise "Error, mode %s is not supported", mode
 
