@@ -292,7 +292,7 @@ def main():
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
-        document_reader = pico_reader.PICOReader(annotype="Intervention")
+        document_reader = pico_reader.PICOReader(annotype="Outcome")
     else:
         model = NNModel(
                 mode=FLAGS.mode,

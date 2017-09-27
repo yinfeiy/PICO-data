@@ -1,5 +1,6 @@
 from pico.corpus import Corpus, Doc
 from pico import utils
+from worker_model import worker_model
 from analysis.worker_analysis import worker_scores_doc_corr, worker_scores_doc_helper
 from analysis.worker_analysis import worker_scores_doc_corr_gt, worker_scores_doc_gt_helper
 from analysis.worker_analysis import worker_scores_sent_corr
@@ -11,18 +12,35 @@ import numpy as np
 import scipy.stats as stats
 import json
 
-def doc_scorer(corpus):
+def get_worker_weight(worker_id, worker_model):
+    if worker_model:
+        if worker_id in worker_model:
+            weight = worker_model[worker_id]
+        else:
+            print "[WARN] worker {0} is not in worker model.".format(worker_id)
+            weight = np.mean(worker_model.values())
+    else:
+        weight = 1
+
+    return weight
+
+def doc_scorer(corpus, use_worker_model=False):
     doc_scores = defaultdict(dict)
 
     for annotype in utils.ANNOTYPES:
         pruned_workers = utils.get_pruned_workers(corpus, annotype)
+
+        if use_worker_model:
+            wm = worker_model.load_worker_model(annotype)
+        else:
+            wm = None
 
         for docid in corpus.docs:
             doc = corpus.docs[docid]
 
             for scoretype in ['corr', 'prec', 'recl']:
                 if scoretype == 'corr':
-                    worker_scores = worker_scores_doc_corr(doc, annotype, pruned_workers)
+                    worker_scores = worker_scores_doc_corr(doc, annotype, pruned_workers, worker_model=wm)
                     worker_scores_gt = worker_scores_doc_corr_gt(doc, annotype, pruned_workers)
                 elif scoretype in ['prec', 'recl']:
                     worker_scores = worker_scores_doc_helper(doc, annotype, scoretype, pruned_workers)
@@ -30,13 +48,17 @@ def doc_scorer(corpus):
                 else:
                     worker_scores, worker_scores_gt = {}, {}
 
-                doc_score = np.mean(worker_scores.values())
+                weights = [get_worker_weight(wid, wm) for wid in worker_scores.keys()]
+                weights = weights if weights else None
+                doc_score = np.average(worker_scores.values(), weights=weights)
                 if not np.isnan(doc_score):
                     doc_scores[docid][annotype+'_'+scoretype] = doc_score
                 else:
                     doc_scores[docid][annotype+'_'+scoretype] = None
 
-                doc_score_gt = np.mean(worker_scores_gt.values())
+                weights = [get_worker_weight(wid, wm) for wid in worker_scores_gt.keys()]
+                weights = weights if weights else None
+                doc_score_gt = np.average(worker_scores_gt.values(), weights=weights)
                 if not np.isnan(doc_score_gt):
                     doc_scores[docid][annotype+'_'+scoretype+'_'+'gt'] = doc_score_gt
                 else:
@@ -124,12 +146,10 @@ def save_doc_scores(corpus, doc_scores, ofn=None):
             #annos = corpus.get_doc_annos(docid)
             annos = corpus.get_doc_aggregation(docid)
             gts = corpus.get_doc_groundtruth(docid)
-            print gts
 
             spacydoc = corpus.get_doc_spacydoc(docid)
             parsed_text = get_parsed_text(spacydoc)
 
-            print annos.keys()
             for annotype in annos.keys():
                 if isinstance(annos[annotype], list):
                     spans = annos[annotype]
@@ -258,7 +278,7 @@ if __name__ == '__main__':
     gt_fn = '../annotations/PICO-annos-professional.json'
     agg_ids = 'mv'
 
-    ofn = './difficulty/difficulty.json'
+    ofn = './difficulty/tmp_data/difficulty_weighted.json'
 
     # Loading corpus
     if True:
@@ -267,7 +287,7 @@ if __name__ == '__main__':
         corpus.load_groundtruth(gt_fn)
         corpus.load_aggregation(agg_fn, agg_ids)
 
-        doc_scores = doc_scorer(corpus)
+        doc_scores = doc_scorer(corpus, use_worker_model=True)
         save_doc_scores(corpus, doc_scores, ofn)
     else:
         doc_scores = load_doc_scores(ofn, is_dict=True)

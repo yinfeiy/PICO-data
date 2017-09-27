@@ -7,7 +7,7 @@ import re
 random.seed(10)
 
 CPATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'tmp_data')
-DATASET_PROB =  os.path.join(CPATH, 'difficulty_annotated.json')
+DATASET_PROB =  os.path.join(CPATH, 'difficulty_weighted.json')
 
 ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 SCORETYPES = ['corr', 'prec', 'recl']

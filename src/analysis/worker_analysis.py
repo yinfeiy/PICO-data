@@ -12,7 +12,19 @@ random.seed(10)
 DEFAULT_MAX_WORKERS = 1000
 SCORETYPES = ['corr', 'prec', 'recl']
 
-def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS):
+def worker_weight(worker_id, worker_model):
+    if worker_model:
+        if worker_id in worker_model:
+            weight = worker_model[worker_id]
+        else:
+            print "[WARN] worker {0} is not in worker model.".format(worker_id)
+            weight = np.mean(worker_model.values())
+    else:
+        weight = 1
+
+    return weight
+
+def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MAX_WORKERS, worker_model=None):
     # Leave One Out
     markups = doc.markups[annotype]
     workers = [w for w in markups.keys() if w not in pruned_workers]
@@ -27,15 +39,17 @@ def worker_scores_doc_corr(doc, annotype, pruned_workers, max_workers=DEFAULT_MA
     markup_mask = np.zeros(doc.ntokens)
     for i in range(nworkers):
         spans = markups[workers[i]]
+        weight = worker_weight(workers[i], worker_model)
         for span in spans:
-            markup_mask[span[0]:span[1]] = markup_mask[span[0]:span[1]] + [1] * (span[1]-span[0])
+            markup_mask[span[0]:span[1]] = markup_mask[span[0]:span[1]] + [weight] * (span[1]-span[0])
 
     worker_scores = {}
     for i in range(nworkers):
         worker_mask = np.zeros(doc.ntokens)
         spans = markups[workers[i]]
+        weight = worker_weight(workers[i], worker_model)
         for span in spans:
-            worker_mask[span[0]:span[1]] = [1] * (span[1]-span[0])
+            worker_mask[span[0]:span[1]] = [weight] * (span[1]-span[0])
 
         if nworkers == 1:
             print "[Warn] Only one worker for doc {0}, do not calculate worker score.".format(doc.docid)

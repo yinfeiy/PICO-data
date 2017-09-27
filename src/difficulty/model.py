@@ -170,5 +170,5 @@ class DifficultyModel:
 
 
 if __name__ == '__main__':
-    model = DifficultyModel(classifier='SVM', annotype='Intervention')
+    model = DifficultyModel(classifier='SVM', annotype='Participants')
     model.train()
