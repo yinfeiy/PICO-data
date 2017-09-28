@@ -4,11 +4,15 @@ import numpy as np
 import sklearn.metrics as metrics
 
 def train(model, document_reader, FLAGS):
-    x_train_text, y_train = document_reader.get_text_and_y("train")
+    x_train_text, y_train, x_train_w = document_reader.get_text_and_y("train")
     x_train_bw_text = [ " ".join(t.split()[::-1]) for t in x_train_text ]
     x_train_l = [ max(len(text.split()), FLAGS.max_document_length) for text in x_train_text ]
 
-    x_test_text, y_test =  document_reader.get_text_and_y("test")
+    x_dev_text, y_dev, x_dev_w =  document_reader.get_text_and_y("dev")
+    x_dev_bw_text = [ " ".join(t.split()[::-1]) for t in x_dev_text ]
+    x_dev_l = [ max(len(text.split()), FLAGS.max_document_length) for text in x_dev_text ]
+
+    x_test_text, y_test, x_test_w =  document_reader.get_text_and_y("test")
     x_test_bw_text = [ " ".join(t.split()[::-1]) for t in x_test_text ]
     x_test_l = [ max(len(text.split()), FLAGS.max_document_length) for text in x_test_text ]
 
@@ -34,11 +38,13 @@ def train(model, document_reader, FLAGS):
 
         # Data preparation
         x_train = list(model._vocab.transform(x_train_text))
+        x_dev = list(model._vocab.transform(x_dev_text))
         x_test = list(model._vocab.transform(x_test_text))
 
-        vars = [x_train, x_train_l, y_train]
+        vars = [x_train, x_train_l, x_train_w, y_train]
         if FLAGS.rnn_bidirectional:
             x_train_bw = list(model._vocab.transform(x_train_bw_text))
+            x_dev_bw = list(model._vocab.transform(x_dev_bw_text))
             x_test_bw = list(model._vocab.transform(x_test_bw_text))
             vars.append(x_train_bw)
 
@@ -70,9 +76,9 @@ def train(model, document_reader, FLAGS):
 
                 try:
                     if FLAGS.rnn_bidirectional:
-                        x_batch, x_l_batch, y_batch, x_bw_batch= zip(*batch)
+                        x_batch, x_l_batch, x_w_batch, y_batch, x_bw_batch= zip(*batch)
                     else:
-                        x_batch, x_l_batch, y_batch =  zip(*batch)
+                        x_batch, x_l_batch, x_w_batch, y_batch =  zip(*batch)
                 except ValueError:
                     continue
 
@@ -80,7 +86,7 @@ def train(model, document_reader, FLAGS):
                     model.input_x: x_batch,
                     model.input_l: x_l_batch,
                     model.input_y: y_batch,
-                    model.input_w: np.ones((len(y_batch), len(y_batch[0]))),
+                    model.input_w: x_w_batch,
                     model.dropout: FLAGS.dropout
                     }
                 if FLAGS.rnn_bidirectional:
@@ -92,22 +98,49 @@ def train(model, document_reader, FLAGS):
                         feed_dict)
                 if step % 10 == 0:
                     acc = metrics.accuracy_score(y_batch, scores)
-                    print "Step {0}: Training acc: {1}".format(step, acc)
+                    print "Step {0}: Loss: {1:.3f}, Training acc: {2}".format(step, loss, acc)
                     sw_train.add_summary(train_summaries, step)
 
+                if step == FLAGS.max_steps:
+                    path = model.saver.save(sess, model.checkpoint_dir, global_step=step)
+                    print("Saved model checkpoint to {}\n".format(path))
+                    print("Max training steps reached. Stop training.")
+                    return
 
                 if step % FLAGS.checkpoint_every == 0:
                     path = model.saver.save(sess, model.checkpoint_dir, global_step=step)
                     print("Saved model checkpoint to {}\n".format(path))
 
                 if step % FLAGS.evaluate_every == 0:
+                    # Dev set
+                    sess.run([reset_op, table_init_op])
+
+                    feed_dict = {
+                            model.input_x: x_dev,
+                            model.input_l: x_dev_l,
+                            model.input_y: y_dev,
+                            model.input_w: x_dev_w,
+                            model.dropout: 0.0
+                            }
+                    if FLAGS.rnn_bidirectional:
+                        feed_dict[model.input_x_bw] = x_dev_bw
+
+                    sess.run(updates_op, feed_dict)
+                    scores, loss, test_summaries = sess.run(
+                            [pred_op, loss_op, summary_op], feed_dict)
+
+                    acc = metrics.accuracy_score(y_dev, scores)
+                    print "Step {0}: Loss: {1:.3f} Dev acc: {2}".format(step, loss, acc)
+                    sw_test.add_summary(test_summaries, step)
+
+                    ## Eval set
                     sess.run([reset_op, table_init_op])
 
                     feed_dict = {
                             model.input_x: x_test,
                             model.input_l: x_test_l,
                             model.input_y: y_test,
-                            model.input_w: np.ones((len(y_test), len(y_test[0]))),
+                            model.input_w: x_test_w,
                             model.dropout: 0.0
                             }
                     if FLAGS.rnn_bidirectional:
@@ -118,5 +151,5 @@ def train(model, document_reader, FLAGS):
                             [pred_op, loss_op, summary_op], feed_dict)
 
                     acc = metrics.accuracy_score(y_test, scores)
-                    print "Step {0}: Eval acc: {1}".format(step, acc)
+                    print "Step {0}: Loss: {1:.3f} Eval acc: {2}".format(step, loss, acc)
                     sw_test.add_summary(test_summaries, step)

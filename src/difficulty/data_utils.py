@@ -71,19 +71,22 @@ def calculate_percentiles(docs, field='score', new_field='percentile'):
 
     return docs
 
-def percentile_to_binary(xs, ys, lo_th=0.2, hi_th=0.8):
+def percentile_to_binary(xs, ys, ws, lo_th=0.2, hi_th=0.8):
     nxs = []
     nys = []
-    for x, y in zip(xs, ys):
+    nws = []
+    for x, y, w in zip(xs, ys, ws):
         if y<lo_th:
             nys.append(0)
             nxs.append(x)
+            nws.append(w)
         elif y>=hi_th:
             nys.append(1)
             nxs.append(x)
+            nws.append(w)
         else:
             continue
-    return nxs, nys
+    return nxs, nys, nws
 
 
 def split_train_test(docs):
@@ -185,13 +188,16 @@ def load_docs(development_set=0.1, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
             if annotype == 'multitask':
                 doc['score'] = []
                 doc['gt'] = []
+                doc['weight'] = []
                 for annotype_iter in ANNOTYPES:
                     doc['score'].append(item[annotype_iter+'_'+scoretype])
                     doc['gt'].append(item[annotype_iter+'_'+scoretype+'_'+'gt'])
+                    doc['weight'].append(item[annotype+'_'+scoretype+'_'+'weight'])
 
             elif annotype in ANNOTYPES:
                 doc['score'] = item[annotype+'_'+scoretype]
                 doc['gt'] = item[annotype+'_'+scoretype+'_'+'gt']
+                doc['weight'] = item[annotype+'_'+scoretype+'_'+'weight']
 
             else:
                 raise 'To be implementated'
@@ -219,7 +225,6 @@ def load_docs(development_set=0.1, annotype=DEFAULT_ANNOTYPE, scoretype=DEFAULT_
 
 
 def load_text_and_y(docs, docids, gt=False):
-
     docs_f = [docs[i] for i in docids]
 
     if gt:
@@ -227,6 +232,21 @@ def load_text_and_y(docs, docids, gt=False):
 
     text, y = extract_text(docs_f, gt=gt)
     return text, y
+
+
+def load_weights(docs, docids, percentile=False, reverse=False):
+    weights = [docs[did]['weight']  for did in docids]
+
+    if percentile:
+        from scipy.stats import rankdata
+        weights = rankdata(weights, method="dense")
+        weights = weights / (max(weights)*1.0)
+
+    if reverse:
+        weights = 1 - weights
+    weights = np.clip(weights, 0.1, 1)
+
+    return weights
 
 
 if __name__ == '__main__':

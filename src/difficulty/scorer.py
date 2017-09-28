@@ -55,6 +55,7 @@ def doc_scorer(corpus, use_worker_model=False):
                     doc_scores[docid][annotype+'_'+scoretype] = doc_score
                 else:
                     doc_scores[docid][annotype+'_'+scoretype] = None
+                doc_scores[docid][annotype+'_'+scoretype+'_'+'weight'] = np.mean(weights) if weights else 0.0
 
                 weights = [get_worker_weight(wid, wm) for wid in worker_scores_gt.keys()]
                 weights = weights if weights else None
@@ -63,6 +64,7 @@ def doc_scorer(corpus, use_worker_model=False):
                     doc_scores[docid][annotype+'_'+scoretype+'_'+'gt'] = doc_score_gt
                 else:
                     doc_scores[docid][annotype+'_'+scoretype+'_'+'gt'] = None
+
 
     return doc_scores
 

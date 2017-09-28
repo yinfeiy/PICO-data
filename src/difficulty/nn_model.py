@@ -40,7 +40,7 @@ class NNModel:
         self._is_classifier = is_classifier
         self._embedding_size = EMBEDDING_DIM
         self._encoder = encoder
-        self._encoding_size = 300
+        self._encoding_size = 100
         self._vocab = None
         self._task_names = task_names
 
@@ -95,11 +95,13 @@ class NNModel:
             embeddings = tf.get_variable(name="W", shape=init_embedding.shape,
                     initializer=tf.constant_initializer(init_embedding), trainable=False)
 
-
         if self._encoder == "CNN":
             input_encoded = self._CNNLayers(embeddings)
         elif self._encoder == "RNN":
             input_encoded = self._RNNLayers(embeddings)
+
+        with tf.variable_scope("dropout"):
+            input_encoded = tf.nn.dropout(input_encoded, 1-self.dropout)
 
         if self._is_classifier:
             pred_scores, loss = self._classifier(input_encoded, self.input_y, self.input_w)
@@ -121,7 +123,7 @@ class NNModel:
         for idx in range(self._num_tasks):
             gts = tf.expand_dims(output[:, idx], -1)
             wts = tf.expand_dims(weights[:, idx], -1)
-            with tf.variable_scope("{0}_regressor".format(self._task_names[idx])):
+            with tf.variable_scope("{0}_classifier".format(self._task_names[idx])):
 
                 labels = tf.concat([1-gts, gts], 1)
                 logits = tf.layers.dense(input_encoded, 2,
@@ -134,13 +136,13 @@ class NNModel:
                 losses = tf.nn.softmax_cross_entropy_with_logits(logits=logits, labels=labels)
 
                 self.eval_metrics["{0}/Accuracy".format(self._task_names[idx])] = (
-                        tf.metrics.accuracy(gts, predictions))
+                        tf.metrics.accuracy(gts, predictions, weights=wts))
                 self.eval_metrics["{0}/Precision".format(self._task_names[idx])] = (
-                        tf.metrics.precision(gts, predictions))
+                        tf.metrics.precision(gts, predictions, weights=wts))
                 self.eval_metrics["{0}/Recall".format(self._task_names[idx])] = (
-                        tf.metrics.recall(gts, predictions))
+                        tf.metrics.recall(gts, predictions, weights=wts))
 
-                total_loss = total_loss + tf.reduce_mean(losses)
+                total_loss += tf.reduce_mean(losses * wts)
 
         return predictions, total_loss
 
@@ -164,7 +166,7 @@ class NNModel:
 
                 self.eval_metrics["{0}/Pearsonr".format(self._task_names[idx])] = (
                         tf.contrib.metrics.streaming_pearson_correlation(
-                            logits, gts, wts))
+                            logits, gts, weights=wts))
 
         return pooled_logits, total_loss
 
@@ -292,7 +294,7 @@ def main():
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
-        document_reader = pico_reader.PICOReader(annotype="Outcome")
+        document_reader = pico_reader.PICOReader(annotype="Intervention")
     else:
         model = NNModel(
                 mode=FLAGS.mode,
@@ -317,14 +319,15 @@ if __name__ == "__main__":
     flags = tf.app.flags
     flags.DEFINE_string("mode", "train", "Model mode")
     flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 32)")
-    flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 200)")
+    flags.DEFINE_integer("max_steps", 5000, "Max steps of training (default: 5000)")
+    flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 100)")
     tf.flags.DEFINE_integer("evaluate_every", 50,
         "Evaluate model on dev set after this many steps (default: 100)")
     tf.flags.DEFINE_integer("checkpoint_every", 1000,
         "Save model after this many steps (default: 1000)")
     flags.DEFINE_float("dropout", 0.5, "dropout")
     flags.DEFINE_float("learning_rate", 1e-3, "learning rate")
-    flags.DEFINE_integer("max_document_length", 300, "Max document length")
+    flags.DEFINE_integer("max_document_length", 500, "Max document length")
     flags.DEFINE_bool("rnn_bidirectional", True,
         "Whther rnn is undirectional or bidirectional")
     flags.DEFINE_string("rnn_cell_type", "GRU", "RNN cell type, GRU or LSTM")
