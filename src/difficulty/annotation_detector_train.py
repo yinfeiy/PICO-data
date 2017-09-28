@@ -32,7 +32,7 @@ FLAGS = tf.flags.FLAGS
 def load_dataset():
     ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
     SCORETYPES = ['corr', 'prec', 'recl']
-    ifn = "difficulty_annotated.json"
+    ifn = "tmp_data/difficulty.json"
 
     target_annotype = 'Intervention'
 

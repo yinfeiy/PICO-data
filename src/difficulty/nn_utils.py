@@ -98,7 +98,8 @@ def train(model, document_reader, FLAGS):
                         feed_dict)
                 if step % 10 == 0:
                     acc = metrics.accuracy_score(y_batch, scores)
-                    print "Step {0}: Loss: {1:.3f}, Training acc: {2}".format(step, loss, acc)
+                    f1 = metrics.f1_score(y_batch, scores)
+                    print "Step {0}: Loss: {1:.3f} Training acc: {2:.3f}, F1: {3:.3f}".format(step, loss, acc, f1)
                     sw_train.add_summary(train_summaries, step)
 
                 if step == FLAGS.max_steps:
@@ -151,5 +152,6 @@ def train(model, document_reader, FLAGS):
                             [pred_op, loss_op, summary_op], feed_dict)
 
                     acc = metrics.accuracy_score(y_test, scores)
-                    print "Step {0}: Loss: {1:.3f} Eval acc: {2}".format(step, loss, acc)
+                    f1 = metrics.f1_score(y_test, scores)
+                    print "Step {0}: Loss: {1:.3f} Eval acc: {2:.3f}, F1: {3:.3f}".format(step, loss, acc, f1)
                     sw_test.add_summary(test_summaries, step)

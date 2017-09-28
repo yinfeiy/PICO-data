@@ -1,6 +1,7 @@
 import nn_utils
 import nyt_reader
 import pico_reader
+import pico_sentence_reader
 import gensim
 import numpy as np
 import os
@@ -280,7 +281,11 @@ class NNModel:
 
 
 def main():
-    if True:
+    #target = "PICO"
+    target = "PICOSentence"
+    #target = "NYT"
+
+    if target == "PICO":
         model = NNModel(
                 mode=FLAGS.mode,
                 is_classifier=True,
@@ -295,7 +300,22 @@ def main():
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
         document_reader = pico_reader.PICOReader(annotype="Intervention")
-    else:
+    elif target == "PICOSentence":
+        model = NNModel(
+                mode=FLAGS.mode,
+                is_classifier=True,
+                encoder="CNN",
+                num_tasks=3,
+                task_names="Intervention",
+                max_document_length=FLAGS.max_document_length,
+                cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
+                cnn_num_filters=FLAGS.cnn_num_filters,
+                rnn_bidirectional=FLAGS.rnn_bidirectional,
+                rnn_cell_type=FLAGS.rnn_cell_type,
+                rnn_num_layers=FLAGS.rnn_num_layers)
+
+        document_reader = pico_sentence_reader.PICOSentenceReader(annotype="Intervention")
+    elif target == "NYT":
         model = NNModel(
                 mode=FLAGS.mode,
                 is_classifier=True,
@@ -310,6 +330,8 @@ def main():
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
         document_reader = nyt_reader.NYTReader(genre="Business")
+    else:
+        raise ValueError("Error")
 
     if FLAGS.mode == MODE_TRAIN:
         nn_utils.train(model, document_reader, FLAGS)
