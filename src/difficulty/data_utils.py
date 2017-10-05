@@ -239,7 +239,7 @@ def load_weights(docs, docids, percentile=False, reverse=False):
 
     if percentile:
         from scipy.stats import rankdata
-        weights = rankdata(weights, method="dense")
+        weights = rankdata(weights, method="average")
         weights = weights / (max(weights)*1.0)
 
     if reverse:

@@ -41,7 +41,7 @@ class NNModel:
         self._is_classifier = is_classifier
         self._embedding_size = EMBEDDING_DIM
         self._encoder = encoder
-        self._encoding_size = 100
+        self._encoding_size = 300
         self._vocab = None
         self._task_names = task_names
 
@@ -105,11 +105,13 @@ class NNModel:
             input_encoded = tf.nn.dropout(input_encoded, 1-self.dropout)
 
         if self._is_classifier:
-            pred_scores, loss = self._classifier(input_encoded, self.input_y, self.input_w)
+            preds, pred_scores, loss = self._classifier(input_encoded, self.input_y, self.input_w)
+            self.ops.extend([preds, pred_scores, loss])
         else:
+            # preds and pred_scores are the same for regression model
             pred_scores, loss = self._regressor(input_encoded, self.input_y, self.input_w)
+            self.ops.extend([pred_scores, pred_scores, loss])
 
-        self.ops.extend([pred_scores, loss])
         self.loss = loss
 
         self.saver = tf.train.Saver(tf.global_variables())
@@ -132,6 +134,7 @@ class NNModel:
                             self._l2_reg_lambda))
 
                 predictions = tf.argmax(logits, 1, name="predictions")
+                scores = tf.reduce_max(tf.nn.softmax(logits), 1)
                 pooled_logits.append(tf.nn.softmax(logits))
 
                 losses = tf.nn.softmax_cross_entropy_with_logits(logits=logits, labels=labels)
@@ -145,7 +148,7 @@ class NNModel:
 
                 total_loss += tf.reduce_mean(losses * wts)
 
-        return predictions, total_loss
+        return predictions, scores, total_loss
 
     def _regressor(self, input_encoded, output, weights):
         total_loss = tf.constant(0.0)
@@ -281,8 +284,8 @@ class NNModel:
 
 
 def main():
-    #target = "PICO"
-    target = "PICOSentence"
+    target = "PICO"
+    #target = "PICOSentence"
     #target = "NYT"
 
     if target == "PICO":
@@ -299,14 +302,14 @@ def main():
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
-        document_reader = pico_reader.PICOReader(annotype="Intervention")
+        document_reader = pico_reader.PICOReader(annotype="Outcome")
     elif target == "PICOSentence":
         model = NNModel(
                 mode=FLAGS.mode,
                 is_classifier=True,
                 encoder="CNN",
-                num_tasks=3,
-                task_names="Intervention",
+                num_tasks=1,
+                task_names=["Intervention"],
                 max_document_length=FLAGS.max_document_length,
                 cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
                 cnn_num_filters=FLAGS.cnn_num_filters,
@@ -349,7 +352,7 @@ if __name__ == "__main__":
         "Save model after this many steps (default: 1000)")
     flags.DEFINE_float("dropout", 0.5, "dropout")
     flags.DEFINE_float("learning_rate", 1e-3, "learning rate")
-    flags.DEFINE_integer("max_document_length", 500, "Max document length")
+    flags.DEFINE_integer("max_document_length", 300, "Max document length")
     flags.DEFINE_bool("rnn_bidirectional", True,
         "Whther rnn is undirectional or bidirectional")
     flags.DEFINE_string("rnn_cell_type", "GRU", "RNN cell type, GRU or LSTM")
