@@ -25,3 +25,5 @@ if __name__ == '__main__':
         print 'Annotatison of worker', wid
         for markup in markups:
             print ' -- offset range ', spacydoc[markup[0]].idx, spacydoc[markup[1]-1].idx + spacydoc[markup[1]-1].__len__(), ': ', spacydoc[markup[0]:markup[1]]
+
+    print corpus.get_doc_genres(docid)

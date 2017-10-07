@@ -8,7 +8,7 @@ sp = English()
 
 class Doc:
 
-    def __init__(self, docid, markups_offset, spacydoc=None):
+    def __init__(self, docid, markups_offset, spacydoc=None, genres=None):
         self.docid = docid
         self.spacydoc = spacydoc
         self.ntokens = len(spacydoc)
@@ -19,6 +19,8 @@ class Doc:
         self.groundtruth_markups = None
         self.groundtruth_offset = None
         self.groundtruth = None
+
+        self.genres = genres
 
 
     def offset2markups(self, markups_offset):
@@ -178,6 +180,32 @@ class Corpus:
 
     ANNOTYPES = ['Participants', 'Intervention', 'Outcome']
 
+    # Cardiovascular | Cancer | Autistic
+    TAG_GENRE_MAPPING = {
+            # Autistic
+            'Autistic_Disorder':'Autistic',
+            'Child_Development_Disorders_Pervasive':'Autistic',
+            'Psychiatric_Status_Rating_Scales':'Autistic',
+            'Neuropsychological_Tests':'Autistic',
+            'Behavior_Therapy':'Autistic',
+            # Cardiovascular
+            'Blood_Pressure':'Cardiovascular',
+            'Hypertension':'Cardiovascular',
+            'Heart_Rate':'Cardiovascular',
+            'Body_Mass_Index':'Cardiovascular',
+            'Myocardial_Infarction':'Cardiovascular',
+            'Heart_Failure':'Cardiovascular',
+            'Antihypertensive_Agents':'Cardiovascular',
+            # Cancer
+            'Antineoplastic_Combined_Chemotherapy_Protocols':'Cancer',
+            'Breast_Neoplasms':'Cancer',
+            'Antineoplastic_Agents':'Cancer',
+            'Neoplasm_Staging':'Cancer',
+            'Neoplasms':'Cancer',
+            'Lung_Neoplasms':'Cancer',
+            'Neoplasm_Recurrence_Local':'Cancer'
+            }
+
     def __init__(self, doc_path, verbose=True):
         self.docs = dict()
         self.doc_path = doc_path
@@ -222,6 +250,21 @@ class Corpus:
 
         return anno_new
 
+    def _get_doc_genres(self, docid):
+        genre_fn = self.doc_path + '/mesh_tags/' + docid + '.txt'
+        if not os.path.exists(genre_fn):
+            print "mesh_tag {} file is not found in dataset, skip loading genre.".format(genre_fn)
+            return set()
+
+        genres = set()
+        with open(genre_fn) as fin:
+            for line in fin:
+                tag = line.replace('*','').split('/')[0].strip().replace(' ', '_').replace(',','')
+                if tag in self.TAG_GENRE_MAPPING:
+                    genres.add(self.TAG_GENRE_MAPPING[tag])
+
+        return genres
+
     def load_annotations(self, annos_fn, docids=None, max_num_worker=None, pruned_workers={}):
         with open(annos_fn) as fin:
             idx = 0
@@ -247,9 +290,11 @@ class Corpus:
                 if not os.path.exists(doc_fn):
                     raise Exception('{0} not found'.format(doc_fn))
 
+                genres = self._get_doc_genres(docid)
+
                 rawdoc = open(doc_fn).read()
                 spacydoc = sp(rawdoc.decode("utf8"))
-                self.docs[docid] = Doc(docid, anno, spacydoc)
+                self.docs[docid] = Doc(docid, anno, spacydoc, genres=genres)
 
 
     def load_groundtruth(self, gt_fn, gt_wids=None):
@@ -338,3 +383,8 @@ class Corpus:
 
         return self.docs[docid].spacydoc
 
+    def get_doc_genres(self, docid):
+        if docid not in self.docs:
+            print 'docid {0} is not found'.format(docid)
+            return None
+        return self.docs[docid].genres
