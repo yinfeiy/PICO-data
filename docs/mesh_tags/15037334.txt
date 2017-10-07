@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Antipsychotic Agents/*therapeutic use
+Cognition Disorders/diagnosis/*epidemiology
+Diagnostic and Statistical Manual of Mental Disorders
+Double-Blind Method
+Female
+Haloperidol/*therapeutic use
+Humans
+Male
+Memory Disorders/diagnosis/epidemiology
+Middle Aged
+Neuropsychological Tests
+Risperidone/*therapeutic use
+Schizophrenia/diagnosis/*drug therapy/*epidemiology
+Severity of Illness Index

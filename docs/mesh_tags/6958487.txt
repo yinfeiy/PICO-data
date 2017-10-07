@@ -1,0 +1,11 @@
+Adolescent
+Adult
+Beclomethasone/*therapeutic use
+Budesonide
+Drug Evaluation
+Female
+Humans
+Male
+Middle Aged
+Pregnenediones/*therapeutic use
+Rhinitis, Allergic, Seasonal/*drug therapy

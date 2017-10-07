@@ -1,0 +1,12 @@
+Adult
+Breath Tests
+Double-Blind Method
+Female
+Fructose/*pharmacokinetics
+Humans
+Intestinal Absorption/*physiology
+Lactulose/pharmacokinetics
+Malabsorption Syndromes/physiopathology
+Male
+Sorbitol/*pharmacokinetics
+Xylitol/*pharmacokinetics

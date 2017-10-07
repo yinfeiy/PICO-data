@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use/toxicity
+Cause of Death
+Child
+Cytogenetic Analysis
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Hydroxyurea/*administration & dosage/toxicity
+Interferon-alpha/*administration & dosage
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive/*drug therapy/*mortality
+Male
+Middle Aged
+Remission Induction/methods
+Risk Assessment
+Survival Analysis
+Transplantation, Homologous

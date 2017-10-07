@@ -1,0 +1,24 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Biomarkers, Tumor/genetics/metabolism
+Breast Neoplasms/*drug therapy/genetics/metabolism
+Capecitabine
+Carcinoma, Ductal, Breast/*drug therapy/genetics/metabolism
+Carcinoma, Lobular/*drug therapy/genetics/metabolism
+Chemotherapy, Adjuvant
+Cyclophosphamide/administration & dosage
+Deoxycytidine/administration & dosage/analogs & derivatives
+Doxorubicin/administration & dosage
+Female
+Fluorouracil/administration & dosage/analogs & derivatives
+Humans
+Immunoenzyme Techniques
+Neoadjuvant Therapy
+Prognosis
+Prospective Studies
+RNA, Messenger/*genetics
+Receptor, ErbB-2/*genetics/*metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Survival Rate
+Taxoids/administration & dosage
+Vinblastine/administration & dosage/analogs & derivatives

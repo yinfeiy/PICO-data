@@ -1,0 +1,18 @@
+Aged
+Aged, 80 and over
+Analgesics, Opioid/therapeutic use
+Arthroplasty, Replacement, Hip/*adverse effects
+Arthroplasty, Replacement, Knee/*adverse effects
+Double-Blind Method
+Fatigue/prevention & control
+Female
+Humans
+Hypnotics and Sedatives/*therapeutic use
+Male
+Middle Aged
+Pain, Postoperative/drug therapy
+Polysomnography
+Postoperative Complications/*drug therapy/etiology
+Pyridines/*therapeutic use
+Sleep Wake Disorders/*drug therapy/etiology
+Sleep, REM/drug effects

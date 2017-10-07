@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/*therapeutic use
+Female
+Fever/drug therapy
+Humans
+Leukemia/*complications/*drug therapy
+Male
+Middle Aged
+Neutropenia/*drug therapy/etiology

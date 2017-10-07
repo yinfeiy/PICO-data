@@ -1,0 +1,19 @@
+Administration, Oral
+Aged
+Aged, 80 and over
+Anticoagulants/adverse effects/*therapeutic use
+Atrial Fibrillation/complications/*drug therapy
+Double-Blind Method
+Embolism/epidemiology/prevention & control
+Female
+Hemorrhage/chemically induced
+Humans
+Intention to Treat Analysis
+Male
+Middle Aged
+Morpholines/administration & dosage/adverse effects/*therapeutic use
+Rivaroxaban
+Stroke/epidemiology/prevention & control
+Thiophenes/administration & dosage/adverse effects/*therapeutic use
+Treatment Outcome
+Warfarin/administration & dosage/adverse effects/*therapeutic use

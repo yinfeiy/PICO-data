@@ -1,0 +1,11 @@
+Carcinoma, Squamous Cell/pathology/*virology
+Cervical Intraepithelial Neoplasia/pathology/*virology
+Female
+Genotype
+Human papillomavirus 16/genetics
+Human papillomavirus 18/genetics
+Humans
+Papillomaviridae/*genetics
+Papillomavirus Infections/pathology/*virology
+Risk Factors
+Uterine Cervical Neoplasms/pathology/*virology

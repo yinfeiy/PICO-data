@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage
+Breast Neoplasms/*drug therapy/genetics/pathology
+Capecitabine
+Deoxycytidine/administration & dosage/analogs & derivatives
+Disease-Free Survival
+Female
+Fluorouracil/administration & dosage/analogs & derivatives
+Gene Expression Regulation, Neoplastic/drug effects
+Humans
+Middle Aged
+Neoplasm Metastasis
+Quinazolines/*administration & dosage
+Receptor, ErbB-2/*biosynthesis/genetics
+Vinblastine/administration & dosage/*analogs & derivatives

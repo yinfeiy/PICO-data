@@ -1,0 +1,16 @@
+Adult
+Aged
+Drug Therapy, Combination
+Etretinate/*administration & dosage/therapeutic use
+Female
+Focal Infection/*complications
+Focal Infection, Dental/*complications
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+*PUVA Therapy
+Palatine Tonsil
+Pharyngeal Diseases/*complications
+Psoriasis/complications/*drug therapy
+Randomized Controlled Trials as Topic

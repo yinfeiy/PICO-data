@@ -1,0 +1,14 @@
+Acquired Immunodeficiency Syndrome/blood/*drug therapy
+Adult
+Anti-HIV Agents/administration & dosage/*pharmacokinetics
+Cross-Over Studies
+Delavirdine
+Didanosine/administration & dosage/*pharmacokinetics
+Drug Interactions
+Drug Therapy, Combination
+Female
+*HIV-1
+Humans
+Indoles/administration & dosage/*pharmacokinetics
+Male
+Piperazines/administration & dosage/*pharmacokinetics

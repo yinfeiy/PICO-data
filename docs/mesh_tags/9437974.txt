@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Age Factors
+Aged
+Algorithms
+False Negative Reactions
+False Positive Reactions
+Female
+Humans
+Incidence
+Lingual Nerve/physiopathology/surgery
+*Lingual Nerve Injuries
+Male
+Mandibular Nerve/physiopathology/surgery
+Middle Aged
+Neuralgia/diagnosis/physiopathology
+Predictive Value of Tests
+Prospective Studies
+Sensation/physiology
+Sensation Disorders/*diagnosis/physiopathology/surgery
+Single-Blind Method
+Time Factors
+*Trigeminal Nerve Injuries

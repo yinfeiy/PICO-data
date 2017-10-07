@@ -1,0 +1,12 @@
+Adult
+Anesthesia, Inhalation/*adverse effects
+Clinical Trials as Topic
+Female
+Humans
+Hysterectomy
+*Isoflurane/administration & dosage/adverse effects
+Middle Aged
+Nausea/*chemically induced
+Nitrous Oxide/*adverse effects
+Random Allocation
+Vomiting/*chemically induced

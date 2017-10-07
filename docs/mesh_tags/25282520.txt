@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Antibodies, Monoclonal/*administration & dosage/adverse effects
+Anticholesteremic Agents/*administration & dosage/adverse effects
+Cholesterol, LDL/drug effects/metabolism
+Double-Blind Method
+Female
+Homozygote
+Humans
+Hyperlipoproteinemia Type II/blood/*drug therapy/genetics
+Injections, Subcutaneous
+Male
+Middle Aged
+Proprotein Convertase 9
+Proprotein Convertases/*antagonists & inhibitors
+Serine Endopeptidases
+Treatment Outcome
+Young Adult

@@ -1,0 +1,9 @@
+Dental Scaling
+Female
+Humans
+Infant, Low Birth Weight
+Infant, Newborn
+Periodontitis/complications/*therapy
+Pregnancy
+Premature Birth/etiology/*prevention & control
+Treatment Failure

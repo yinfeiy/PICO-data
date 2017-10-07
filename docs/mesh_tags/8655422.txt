@@ -1,0 +1,13 @@
+Animal Feed/analysis/*standards
+Animals
+Body Composition/drug effects/*physiology
+Cattle/*physiology
+Dietary Proteins/administration & dosage/analysis/*pharmacology
+Food, Fortified
+Lysine/administration & dosage/analysis/*pharmacology
+Male
+Meat/*standards
+Methionine/administration & dosage/analysis/*pharmacology
+Soybean Proteins
+Urea/analysis/pharmacology
+Vegetable Proteins/analysis/pharmacology

@@ -1,0 +1,16 @@
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/therapy
+Clinical Trials as Topic
+Combined Modality Therapy
+Cyclophosphamide/administration & dosage
+Female
+Fluorouracil/administration & dosage
+Follow-Up Studies
+Humans
+Lymphatic Metastasis
+Mastectomy
+Melphalan/administration & dosage
+Menopause
+Methotrexate/administration & dosage
+Prednisone/administration & dosage
+Vincristine/administration & dosage

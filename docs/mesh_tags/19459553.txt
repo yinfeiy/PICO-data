@@ -1,0 +1,23 @@
+Amides/*administration & dosage/pharmacokinetics
+Analgesia, Patient-Controlled/methods
+Analgesics, Opioid/administration & dosage
+Anesthesia, Local/*methods
+Anesthetics, Local/*administration & dosage/pharmacokinetics
+Animals
+Bone Transplantation/*methods
+Bupivacaine/administration & dosage/pharmacokinetics/*pharmacology
+Delayed-Action Preparations/administration & dosage/pharmacokinetics
+Double-Blind Method
+Drug Delivery Systems
+Extremities/surgery
+Female
+Humans
+Ilium/*transplantation
+Male
+Microspheres
+Morphine/administration & dosage
+Pain Measurement/statistics & numerical data
+Pain, Postoperative/drug therapy
+Prospective Studies
+Sheep
+Sodium Chloride/administration & dosage

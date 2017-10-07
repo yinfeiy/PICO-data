@@ -1,0 +1,9 @@
+Animals
+Biological Availability
+DNA/blood/*metabolism
+Doxorubicin/blood/*metabolism
+Drug Combinations
+Humans
+Kinetics
+Leukemia L1210/*drug therapy
+Mice

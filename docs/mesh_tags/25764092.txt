@@ -1,0 +1,10 @@
+Adult
+Aged
+Double-Blind Method
+*Electrocardiography
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction/*diagnosis/pathology
+Myocardium/*pathology

@@ -1,0 +1,25 @@
+Actins/*metabolism
+Adenocarcinoma/drug therapy/*metabolism/mortality/pathology
+Adult
+Aged
+Aged, 80 and over
+Antimetabolites, Antineoplastic/therapeutic use
+Biomarkers, Tumor/metabolism
+Chemotherapy, Adjuvant
+Deoxycytidine/*analogs & derivatives/therapeutic use
+Female
+Follow-Up Studies
+Humans
+Immunoenzyme Techniques
+Male
+Middle Aged
+Neoplasm Grading
+Neoplasm Invasiveness
+Neoplasm Staging
+Pancreatic Neoplasms/drug therapy/*metabolism/mortality/pathology
+Prognosis
+Prospective Studies
+Stromal Cells/*metabolism/pathology
+Survival Rate
+Tissue Array Analysis
+*Tumor Microenvironment

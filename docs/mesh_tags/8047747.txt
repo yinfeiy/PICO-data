@@ -1,0 +1,18 @@
+Acquired Immunodeficiency Syndrome/mortality/prevention & control/*therapy
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Chemotherapy, Adjuvant
+Clinical Trials as Topic/*statistics & numerical data
+Colonic Neoplasms/drug therapy/mortality/pathology
+Combined Modality Therapy
+*Data Interpretation, Statistical
+Fluorouracil/administration & dosage
+Humans
+Levamisole/administration & dosage
+Likelihood Functions
+*Models, Statistical
+Neoplasm Staging
+Neoplasms/mortality/prevention & control/*therapy
+Randomized Controlled Trials as Topic/*statistics & numerical data
+Research
+Survival Analysis
+Treatment Outcome

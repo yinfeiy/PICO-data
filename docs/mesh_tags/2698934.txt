@@ -1,0 +1,13 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Chlorthalidone/*therapeutic use
+Double-Blind Method
+Drug Synergism
+Drug Therapy, Combination
+Humans
+Hypertension/*drug therapy/physiopathology
+Male
+Middle Aged
+Multicenter Studies as Topic
+Nifedipine/*therapeutic use

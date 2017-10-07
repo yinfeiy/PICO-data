@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects
+Disease-Free Survival
+Double-Blind Method
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Pain/*drug therapy/pathology
+Phenylthiohydantoin/administration & dosage/adverse effects/*analogs & derivatives
+Prostatic Neoplasms, Castration-Resistant/*drug therapy/pathology
+Quality of Life

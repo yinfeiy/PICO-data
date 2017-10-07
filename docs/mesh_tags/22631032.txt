@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Aspirin/adverse effects/*pharmacology
+Cross-Over Studies
+Drug Interactions
+Esomeprazole/*pharmacology
+Female
+Humans
+Male
+Middle Aged
+Platelet Aggregation/drug effects
+Platelet Aggregation Inhibitors/*pharmacology
+Proton Pump Inhibitors/*pharmacology
+Thromboxane B2/antagonists & inhibitors/blood
+Young Adult

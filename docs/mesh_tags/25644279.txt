@@ -1,0 +1,17 @@
+Adult
+Aged
+Anilides/*administration & dosage
+Antiviral Agents/*administration & dosage
+Carbamates/*administration & dosage
+Drug Therapy, Combination
+Female
+Hepatitis C, Chronic/*drug therapy
+Humans
+Interferons
+Liver Cirrhosis
+Macrocyclic Compounds/*administration & dosage
+Male
+Middle Aged
+Ribavirin
+Ritonavir/*administration & dosage
+Young Adult

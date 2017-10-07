@@ -1,0 +1,15 @@
+Appendectomy/*methods
+Appendicitis/diagnosis/surgery
+Female
+Follow-Up Studies
+Humans
+Laparoscopy/*methods
+Length of Stay
+Male
+Microsurgery/*instrumentation
+Needles
+Pain, Postoperative/physiopathology
+Probability
+Reference Values
+Risk Assessment
+Treatment Outcome

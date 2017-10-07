@@ -1,0 +1,17 @@
+Endoscopy/*methods
+Female
+Follow-Up Studies
+Glomerular Filtration Rate
+Humans
+Kidney Function Tests
+*Kidney Transplantation
+Laparoscopy/*methods
+Length of Stay/statistics & numerical data
+*Living Donors
+Male
+Middle Aged
+Nephrectomy/*methods
+Postoperative Complications
+Prognosis
+Prospective Studies
+Tissue and Organ Harvesting/*methods

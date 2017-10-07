@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Female
+Gastroesophageal Reflux/*etiology
+Humans
+Isoflurane
+Laryngeal Masks/*adverse effects
+Male
+Methylene Blue
+Middle Aged
+Pneumonia, Aspiration/etiology
+Respiration, Artificial
+Risk Factors

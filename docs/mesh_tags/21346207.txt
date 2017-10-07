@@ -1,0 +1,11 @@
+Adaptation, Ocular/physiology
+Adult
+Humans
+Magnetic Resonance Imaging/methods
+Middle Aged
+Orientation/*physiology
+Photic Stimulation/*methods
+Reaction Time/physiology
+Space Perception/*physiology
+Visual Cortex/*physiology
+Young Adult

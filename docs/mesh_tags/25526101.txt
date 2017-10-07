@@ -1,0 +1,14 @@
+Aged
+Conjunctiva/surgery
+Epiretinal Membrane/diagnosis/physiopathology/*surgery
+Female
+Humans
+Male
+Middle Aged
+Postoperative Complications
+Prospective Studies
+Recurrence
+Suture Techniques
+Visual Acuity/physiology
+*Vitrectomy
+Vitreous Body/*surgery

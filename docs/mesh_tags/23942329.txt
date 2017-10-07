@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal, Murine-Derived/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Biomarkers, Tumor
+Cyclophosphamide/administration & dosage
+Doxorubicin/administration & dosage
+Female
+Gene Expression Regulation, Neoplastic/*drug effects
+Humans
+*Lymphoma, Large B-Cell, Diffuse/drug therapy/metabolism/pathology
+Male
+Middle Aged
+Prednisone/administration & dosage
+Retrospective Studies
+Rituximab
+South Africa
+*Tissue Array Analysis
+Vincristine/administration & dosage

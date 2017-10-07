@@ -1,0 +1,17 @@
+Aged
+Aged, 80 and over
+Anesthesia, General
+Anesthesia, Spinal/*methods
+Conscious Sedation/*methods
+Deep Sedation/*methods
+Delirium/epidemiology/psychology
+Female
+Follow-Up Studies
+Hip Fractures/*surgery
+Humans
+Kaplan-Meier Estimate
+Male
+Orthopedic Procedures/*methods
+Postoperative Complications/epidemiology/psychology
+Survival Analysis
+Treatment Outcome

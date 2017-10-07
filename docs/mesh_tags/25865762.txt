@@ -1,0 +1,14 @@
+Adult
+Aortic Valve/*abnormalities/diagnostic imaging/surgery
+Cardiac Valve Annuloplasty/*methods
+Echocardiography
+Female
+Follow-Up Studies
+Heart Valve Diseases/diagnostic imaging/*surgery
+*Heart Valve Prosthesis
+Humans
+Male
+Middle Aged
+Prosthesis Design
+Time Factors
+Treatment Outcome

@@ -1,0 +1,15 @@
+Adult
+Cohort Studies
+Common Variable Immunodeficiency/complications/*therapy
+Cross-Over Studies
+Dose-Response Relationship, Immunologic
+Double-Blind Method
+Female
+Humans
+*Immunization, Passive
+Immunocompromised Host
+Immunoglobulins, Intravenous/*administration & dosage
+Incidence
+Infection/epidemiology/etiology
+*Infection Control
+Male

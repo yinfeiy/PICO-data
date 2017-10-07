@@ -1,0 +1,15 @@
+Adenocarcinoma/*drug therapy/pathology
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects
+Colonic Diseases/*chemically induced/epidemiology
+Colonic Neoplasms/*drug therapy/pathology
+Diarrhea/chemically induced
+Female
+Fluorouracil/administration & dosage/adverse effects
+Humans
+Leucovorin/administration & dosage/adverse effects
+Male
+Middle Aged
+Neoplasm Staging
+Organoplatinum Compounds/administration & dosage/adverse effects
+Sex Factors

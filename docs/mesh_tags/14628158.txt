@@ -1,0 +1,13 @@
+Adult
+Anal Canal/pathology/surgery
+Anus Diseases/pathology/*surgery
+Chronic Disease
+Female
+Fissure in Ano/complications/*surgery
+Humans
+Hypertrophy
+Intestinal Polyps/complications/*surgery
+Male
+*Patient Satisfaction
+Postoperative Complications
+Prospective Studies

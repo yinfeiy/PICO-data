@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/*adverse effects
+Cytarabine/administration & dosage/adverse effects
+Etoposide/administration & dosage/adverse effects
+Fibroblast Growth Factor 7/*administration & dosage
+Humans
+Idarubicin/administration & dosage/adverse effects
+Leukemia, Myeloid, Acute/*drug therapy/pathology
+Male
+Middle Aged
+Stomatitis/*chemically induced/pathology/*prevention & control

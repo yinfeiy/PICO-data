@@ -1,0 +1,11 @@
+Adult
+Blood Glucose/*analysis/metabolism
+Body Weight
+Diabetes Mellitus, Type 1/*blood/psychology
+Hemoglobin A, Glycosylated/*metabolism
+Humans
+Hyperglycemia/blood/diagnosis
+Hypoglycemia/blood/diagnosis/*epidemiology/prevention & control
+Monitoring, Ambulatory/*methods
+Motivation
+Time Factors

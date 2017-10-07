@@ -1,0 +1,15 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/therapeutic use
+Carcinoma, Small Cell/*drug therapy
+Cisplatin/*administration & dosage
+Cyclophosphamide/*administration & dosage
+Drug Evaluation
+Epirubicin/*administration & dosage/adverse effects
+Female
+Humans
+Lung Neoplasms/*drug therapy
+Male
+Middle Aged
+Neoplasm Metastasis
+Survival Analysis

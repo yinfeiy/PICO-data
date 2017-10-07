@@ -1,0 +1,21 @@
+*Cardiotocography
+Cardiovascular Diseases/*diagnosis
+Constriction, Pathologic/complications/diagnosis
+Double-Blind Method
+Female
+Fetal Distress/*etiology
+Heart Rate, Fetal
+Hemodynamics
+Hernia, Umbilical/complications/diagnosis
+Humans
+Infant, Newborn
+Infant, Newborn, Diseases/*diagnosis
+Male
+Neonatal Screening
+Observer Variation
+Pilot Projects
+Predictive Value of Tests
+Pregnancy
+Prenatal Diagnosis/*methods
+Sensitivity and Specificity
+Umbilical Cord/*blood supply

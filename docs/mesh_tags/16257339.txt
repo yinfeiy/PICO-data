@@ -1,0 +1,12 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy/mortality/pathology
+Female
+Humans
+Lung Neoplasms/*drug therapy/mortality/pathology
+Male
+Middle Aged
+Quinazolines/*therapeutic use
+Survival Rate

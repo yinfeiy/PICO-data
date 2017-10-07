@@ -1,0 +1,18 @@
+Adult
+Aged
+Alkaline Phosphatase/blood
+Bilirubin/blood
+Colchicine/*therapeutic use
+Disease Progression
+Double-Blind Method
+Female
+Humans
+Interleukin-1/*biosynthesis
+Leukocyte Count
+Leukocytes, Mononuclear/metabolism
+Liver/pathology
+Liver Cirrhosis, Biliary/drug therapy/*metabolism/pathology
+Male
+Methotrexate/*therapeutic use
+Middle Aged
+Staphylococcus epidermidis

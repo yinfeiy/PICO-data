@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Asthma/*drug therapy
+Clinical Trials as Topic
+Ethanolamines/administration & dosage/adverse effects/*therapeutic use
+Female
+Humans
+Isoproterenol/administration & dosage/adverse effects/*therapeutic use
+Male
+Middle Aged
+Nebulizers and Vaporizers

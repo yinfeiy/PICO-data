@@ -1,0 +1,14 @@
+Adult
+Aged
+Antioxidants/*metabolism
+Copper/blood
+Female
+Glutathione Peroxidase/blood
+Glutathione Reductase/blood
+Humans
+Lipid Peroxidation/drug effects/radiation effects
+Malondialdehyde/blood
+Middle Aged
+Selenium/*blood
+Uterine Cervical Neoplasms/*blood/*drug therapy/*radiotherapy
+Zinc/blood

@@ -1,0 +1,20 @@
+Adult
+Blood Glucose/drug effects/*metabolism
+Blood Pressure/drug effects
+Ear, Middle/*surgery
+Fatty Acids, Nonesterified/blood
+Female
+Hormones/*blood
+Humans
+*Hypotension, Controlled
+Isoflurane/pharmacology
+Lactates/blood
+Lactic Acid
+Male
+Middle Aged
+Nitroprusside/pharmacology
+Pyruvates/blood
+Pyruvic Acid
+Trimethaphan/pharmacology
+Uric Acid/blood
+Vasodilator Agents/pharmacology

@@ -1,0 +1,11 @@
+Acute Lung Injury/physiopathology/*therapy
+Central Venous Pressure/*physiology
+*Fluid Therapy
+Humans
+Lung/*blood supply
+Pulmonary Wedge Pressure/*physiology
+Radiography, Thoracic
+Reproducibility of Results
+Retrospective Studies
+Treatment Outcome
+Water-Electrolyte Balance/*physiology

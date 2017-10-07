@@ -1,0 +1,20 @@
+Administration, Sublingual
+Adolescent
+Adult
+Allergens/*administration & dosage/therapeutic use
+Asthma/therapy
+Child
+Child, Preschool
+Conjunctivitis, Allergic/therapy
+Desensitization, Immunologic/*methods
+Dose-Response Relationship, Immunologic
+Drug Administration Schedule
+Female
+Forced Expiratory Volume
+Humans
+Male
+Rhinitis, Allergic, Perennial/therapy
+Rhinitis, Allergic, Seasonal/therapy
+Safety
+Skin Tests
+Treatment Outcome

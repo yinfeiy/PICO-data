@@ -1,0 +1,9 @@
+Child
+Down Syndrome/*physiopathology/*therapy
+*Exercise Therapy
+Female
+*Gait
+Humans
+Infant
+Male
+*Walking

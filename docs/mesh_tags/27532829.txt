@@ -1,0 +1,15 @@
+Adult
+Aged
+Alkaline Phosphatase/blood
+Bile Acids and Salts/blood
+Bone Density/drug effects
+Chenodeoxycholic Acid/adverse effects/*analogs & derivatives/therapeutic use
+Double-Blind Method
+Female
+Fibroblast Growth Factors/blood
+Humans
+Liver Cirrhosis/etiology
+Liver Cirrhosis, Biliary/blood/complications/*drug therapy
+Male
+Middle Aged
+Pruritus/chemically induced

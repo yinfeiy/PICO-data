@@ -1,0 +1,18 @@
+Adult
+Aged
+Dental Implantation, Endosseous
+Dental Implants
+Dental Prosthesis Design
+*Dental Prosthesis, Implant-Supported
+Denture Retention
+*Denture, Complete, Lower
+*Denture, Overlay
+Female
+Follow-Up Studies
+Humans
+Male
+Mastication/*physiology
+Middle Aged
+Particle Size
+Patient Satisfaction
+Regression Analysis

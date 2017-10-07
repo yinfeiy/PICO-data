@@ -1,0 +1,12 @@
+Administration, Cutaneous
+Adult
+Analgesics/*administration & dosage
+Capsaicin/*administration & dosage
+Female
+Gels
+Humans
+Male
+Middle Aged
+Migraine Disorders/*drug therapy
+Single-Blind Method
+Young Adult

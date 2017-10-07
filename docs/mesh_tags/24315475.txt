@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Contrast Media/administration & dosage
+Coronary Angiography/*methods
+Coronary Artery Disease/*diagnostic imaging
+Dose-Response Relationship, Drug
+Dose-Response Relationship, Radiation
+Female
+Humans
+Iohexol/*administration & dosage
+Male
+Middle Aged
+*Radiation Dosage
+Radiation Protection/*methods
+Radiographic Image Enhancement/methods
+Reproducibility of Results
+Sensitivity and Specificity
+Tomography, X-Ray Computed/*methods

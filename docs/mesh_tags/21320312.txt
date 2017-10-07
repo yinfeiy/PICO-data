@@ -1,0 +1,16 @@
+Adult
+Dental Care/manpower/*methods
+Dental Hygienists
+Dentists
+Directive Counseling/*methods
+Female
+Finland
+Guideline Adherence
+Humans
+Male
+Middle Aged
+*Practice Guidelines as Topic
+Program Development
+Smoking Cessation/*methods
+Surveys and Questionnaires
+Tobacco Use Disorder/*prevention & control

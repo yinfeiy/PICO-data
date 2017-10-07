@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Behavior, Addictive/drug therapy
+Bupropion/*administration & dosage
+Delayed-Action Preparations
+Dopamine Uptake Inhibitors/*administration & dosage
+Female
+Humans
+Male
+Middle Aged
+Motivation
+Recurrence
+Regression Analysis
+Smoking/*prevention & control/psychology
+Smoking Cessation/*psychology
+Substance Withdrawal Syndrome/drug therapy
+Treatment Outcome

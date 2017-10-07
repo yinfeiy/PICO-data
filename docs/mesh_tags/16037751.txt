@@ -1,0 +1,20 @@
+Arteriosclerosis/blood/pathology/*prevention & control
+Biomarkers/blood
+Blood Glucose/analysis
+Carotid Arteries/*pathology
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Double-Blind Method
+Estradiol/*therapeutic use
+Estrogen Replacement Therapy
+Female
+Hemoglobin A, Glycosylated/analysis
+Humans
+Hypolipidemic Agents/therapeutic use
+Insulin/blood
+Insulin Resistance
+Middle Aged
+Multivariate Analysis
+Postmenopause
+Tunica Intima/*pathology
+Tunica Media/*pathology

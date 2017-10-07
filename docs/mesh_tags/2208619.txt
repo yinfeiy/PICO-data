@@ -1,0 +1,8 @@
+Animals
+Anthelmintics/*therapeutic use
+Ascariasis/*drug therapy
+*Ascaris
+Benzimidazoles/adverse effects/*therapeutic use
+Humans
+Trichuriasis/*drug therapy
+*Trichuris

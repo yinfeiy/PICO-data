@@ -1,0 +1,11 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Breast Neoplasms/*drug therapy/mortality/pathology
+Deoxycytidine/administration & dosage/analogs & derivatives
+Female
+Humans
+Middle Aged
+Neoplasm Metastasis
+Paclitaxel/administration & dosage
+Taxoids/administration & dosage

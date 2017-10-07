@@ -1,0 +1,21 @@
+Adult
+Analgesia, Patient-Controlled
+Analgesics, Opioid/administration & dosage/therapeutic use
+Analysis of Variance
+Anesthetics, Local/administration & dosage/therapeutic use
+Bupivacaine/administration & dosage/*therapeutic use
+Cholecystectomy/*adverse effects
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Injections, Intraperitoneal
+Laparoscopy/*adverse effects
+Male
+Middle Aged
+Morphine/administration & dosage/*therapeutic use
+Pain Measurement
+Pain, Postoperative/*drug therapy/etiology/prevention & control
+Prospective Studies
+Time Factors
+Treatment Outcome

@@ -1,0 +1,7 @@
+Adult
+Cocaine-Related Disorders/psychology/*therapy
+Female
+Humans
+Male
+*Motivation
+Opioid-Related Disorders/psychology/*therapy

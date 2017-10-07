@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anesthesia, Inhalation/*instrumentation
+Chi-Square Distribution
+Equipment Design
+Equipment Safety
+Female
+Humans
+Intubation, Intratracheal/*instrumentation/*methods
+*Laryngeal Masks
+Laryngoscopy
+Male
+Middle Aged
+Probability
+Reference Values
+Respiratory Function Tests
+Sensitivity and Specificity
+Tidal Volume

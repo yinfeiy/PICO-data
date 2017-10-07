@@ -1,0 +1,19 @@
+Adult
+Catheter Ablation/*methods
+Cross-Over Studies
+Female
+Follow-Up Studies
+Humans
+Laryngoscopy
+Laser Therapy/*methods
+Male
+Middle Aged
+Otorhinolaryngologic Surgical Procedures/methods
+Palate, Soft/*surgery
+Polysomnography
+Prospective Studies
+Sensitivity and Specificity
+Severity of Illness Index
+Sleep Apnea Syndromes/*diagnosis/*surgery
+Snoring/diagnosis/surgery
+Treatment Outcome

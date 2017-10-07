@@ -1,0 +1,16 @@
+Adult
+Blood Glucose/analysis
+Clinical Trials as Topic
+Cyclosporins/*adverse effects/therapeutic use
+Diabetes Mellitus, Type 1/*drug therapy/physiopathology
+Female
+Follow-Up Studies
+Glomerular Filtration Rate/*drug effects
+Hemoglobin A, Glycosylated/analysis
+Humans
+Kidney/drug effects/pathology/*physiopathology
+Male
+Placebos
+Random Allocation
+Renal Circulation/drug effects
+Sodium/metabolism/urine

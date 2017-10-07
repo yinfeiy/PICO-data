@@ -1,0 +1,14 @@
+Aged
+Aspirin/adverse effects/*therapeutic use
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Infarction/epidemiology/*prevention & control
+Perioperative Care
+Platelet Aggregation Inhibitors/adverse effects/*therapeutic use
+Postoperative Complications/*prevention & control
+Postoperative Hemorrhage/*chemically induced
+Surgical Procedures, Operative/*mortality
+Treatment Failure

@@ -1,0 +1,16 @@
+Aged
+Aged, 80 and over
+Blood Transfusion
+Colorectal Neoplasms/immunology/*surgery/*therapy
+Combined Modality Therapy
+Female
+Humans
+Immunophenotyping
+*Immunotherapy/adverse effects
+Interleukin-2/adverse effects/blood/*therapeutic use
+Killer Cells, Natural
+Male
+Middle Aged
+Postoperative Complications
+Recombinant Proteins/adverse effects/therapeutic use
+T-Lymphocyte Subsets

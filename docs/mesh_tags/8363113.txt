@@ -1,0 +1,16 @@
+Acetaminophen/blood/pharmacokinetics/*poisoning
+Acetylcysteine/*administration & dosage/blood/pharmacology/therapeutic use
+Administration, Oral
+Adsorption
+Adult
+Biological Availability
+Charcoal/*administration & dosage/pharmacology/therapeutic use
+Drug Interactions
+Drug Therapy, Combination
+Gastrointestinal Diseases/chemically induced
+Headache/chemically induced
+Humans
+Intestinal Absorption
+Poisoning/drug therapy
+Sleep Stages/drug effects
+Time Factors

@@ -1,0 +1,16 @@
+Adult
+Cesarean Section
+Diabetes, Gestational/*diet therapy/*prevention & control
+Energy Intake
+*Feeding Behavior
+Female
+Fetal Macrosomia/prevention & control
+Glucose Tolerance Test
+Humans
+Hypertension, Pregnancy-Induced/prevention & control
+Obstetric Labor, Premature/prevention & control
+Pre-Eclampsia/prevention & control
+Pregnancy
+*Pregnancy Outcome
+Prenatal Care/*methods
+Young Adult

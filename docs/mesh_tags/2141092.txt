@@ -1,0 +1,7 @@
+*Angioplasty, Balloon
+Coronary Artery Bypass
+Humans
+Myocardial Infarction/diagnosis/mortality/*therapy
+Randomized Controlled Trials as Topic
+Recurrence
+Thrombolytic Therapy

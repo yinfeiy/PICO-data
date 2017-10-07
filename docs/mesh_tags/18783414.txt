@@ -1,0 +1,27 @@
+Adolescent
+Adult
+Aged
+Alveolar Bone Loss/classification
+Alveolar Process/pathology
+Cementation/*methods
+*Crowns
+*Dental Abutments
+Dental Implantation, Endosseous/methods
+*Dental Implants, Single-Tooth
+*Dental Porcelain/chemistry
+Dental Prosthesis Design
+Dental Prosthesis, Implant-Supported
+Female
+Follow-Up Studies
+Humans
+Jaw, Edentulous, Partially/rehabilitation/surgery
+Longitudinal Studies
+Male
+Maxilla/surgery
+*Metal Ceramic Alloys/chemistry
+Middle Aged
+Osseointegration/physiology
+Retrospective Studies
+*Titanium/chemistry
+Tooth Cervix/pathology
+Young Adult

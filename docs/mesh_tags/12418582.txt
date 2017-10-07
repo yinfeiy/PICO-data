@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Albuterol/*analogs & derivatives/economics/*therapeutic use
+Androstadienes/economics/*therapeutic use
+Anti-Asthmatic Agents/economics/*therapeutic use
+Asthma/*drug therapy/physiopathology
+Budesonide/economics/*therapeutic use
+Double-Blind Method
+Drug Combinations
+Female
+Fluticasone Propionate, Salmeterol Xinafoate Drug Combination
+Forced Expiratory Volume/physiology
+Humans
+Male
+Middle Aged
+*Nebulizers and Vaporizers
+Peak Expiratory Flow Rate/physiology
+Sleep/physiology

@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Anticholesteremic Agents/*therapeutic use
+Atorvastatin Calcium
+Cholesterol, LDL/*blood
+Cross-Over Studies
+Drug Therapy, Combination
+Epichlorohydrin/*therapeutic use
+Female
+Heptanoic Acids/*therapeutic use
+Heterozygote Detection
+Humans
+Hyperlipoproteinemia Type I/*drug therapy
+Imidazoles/*therapeutic use
+Male
+Middle Aged
+Patient Dropouts
+Pyrroles/*therapeutic use
+Resins, Synthetic/*therapeutic use
+Triglycerides/*blood

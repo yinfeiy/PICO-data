@@ -1,0 +1,12 @@
+Aged
+Amiodarone/*therapeutic use
+Anti-Arrhythmia Agents/*therapeutic use
+Atrial Fibrillation/*physiopathology/*therapy
+Double-Blind Method
+*Electric Countershock
+*Exercise Tolerance
+Female
+Heart Rate
+Humans
+Male
+Sotalol/*therapeutic use

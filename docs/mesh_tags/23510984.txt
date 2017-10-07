@@ -1,0 +1,27 @@
+Adenocarcinoma/blood/*drug therapy/mortality/secondary
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Biomarkers, Tumor/blood
+Camptothecin/administration & dosage/analogs & derivatives
+Colorectal Neoplasms/blood/*drug therapy/mortality/pathology
+Disease-Free Survival
+Double-Blind Method
+Female
+Fluorouracil/administration & dosage
+Genotype
+Humans
+Insulin-Like Growth Factor Binding Proteins/blood
+Kaplan-Meier Estimate
+Leucovorin/administration & dosage
+Liver Neoplasms/blood/*drug therapy/mortality/secondary
+Male
+Middle Aged
+Proportional Hazards Models
+Proto-Oncogene Proteins/*genetics
+Proto-Oncogene Proteins p21(ras)
+Receptors, IgG/genetics
+Treatment Outcome
+ras Proteins/*genetics

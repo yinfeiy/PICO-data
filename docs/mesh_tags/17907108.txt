@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Alkanesulfonates/*therapeutic use
+Blood Glucose/metabolism
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Diabetes Mellitus, Type 2/*drug therapy/metabolism
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hypoglycemic Agents/*therapeutic use
+Male
+Middle Aged
+Phenylpropionates/*therapeutic use
+Thiazolidinediones/*therapeutic use
+Time Factors

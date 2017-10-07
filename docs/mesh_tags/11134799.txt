@@ -1,0 +1,13 @@
+Anastomosis, Surgical/methods
+Diabetes Mellitus, Type 1/*surgery
+Diabetic Nephropathies/*surgery
+Female
+Graft Survival
+Humans
+Kidney Failure, Chronic/etiology/surgery
+Kidney Transplantation/methods/mortality/*physiology
+Male
+Pancreas Transplantation/*methods/mortality/*physiology
+Portal Vein/surgery
+Survival Rate
+Transplantation, Homologous

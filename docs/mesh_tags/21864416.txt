@@ -1,0 +1,19 @@
+Anti-Inflammatory Agents/adverse effects/therapeutic use
+Antineoplastic Agents/*adverse effects/therapeutic use
+Breast Neoplasms/*drug therapy/*immunology/radiotherapy
+Carcinoma in Situ/drug therapy/immunology/radiotherapy
+Cohort Studies
+Double-Blind Method
+Drugs, Chinese Herbal/adverse effects/*therapeutic use
+Female
+Humans
+Immunity, Cellular/*drug effects/radiation effects
+Leukocyte Count
+Leukocytes/drug effects
+Leukopenia/chemically induced/*prevention & control
+Leukopoiesis/drug effects/radiation effects
+Medication Adherence
+Middle Aged
+Neoplasm Staging
+Neutrophils/drug effects
+Protective Agents/adverse effects/*therapeutic use

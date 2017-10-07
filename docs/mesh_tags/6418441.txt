@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aerosols
+Asthma/*drug therapy
+Child
+Clinical Trials as Topic
+Cromolyn Sodium/administration & dosage/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Respiratory Therapy

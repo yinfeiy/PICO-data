@@ -1,0 +1,18 @@
+Adult
+Angiotensin II Type 1 Receptor Blockers/administration & dosage/*therapeutic use
+Antihypertensive Agents/administration & dosage/therapeutic use
+Arterioles/*drug effects/physiopathology
+Biomarkers/blood/urine
+Blood Pressure/drug effects
+Drug Therapy, Combination
+Female
+Humans
+Hypertension/diagnosis/*drug therapy/physiopathology
+Imidazoles/administration & dosage/*therapeutic use
+Male
+Middle Aged
+Olmesartan Medoxomil
+Renin-Angiotensin System/drug effects/physiology
+Tetrazoles/administration & dosage/*therapeutic use
+Treatment Outcome
+Vascular Resistance/drug effects

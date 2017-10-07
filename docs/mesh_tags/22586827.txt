@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Analysis of Variance
+Female
+Headache/*therapy
+Humans
+Neck Muscles/*physiology
+Neck Pain/*therapy
+*Physical Endurance
+Physical Therapy Modalities/*instrumentation
+Posture
+Single-Blind Method
+Young Adult

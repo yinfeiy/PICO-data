@@ -1,0 +1,16 @@
+Adult
+Aged
+*Coronary Artery Bypass
+Coronary Disease/diet therapy/*rehabilitation/surgery
+*Diet, Fat-Restricted
+*Exercise Therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Patient Compliance
+*Patient Discharge
+Patient Education as Topic/*methods
+Treatment Outcome
+*Video Recording

@@ -1,0 +1,13 @@
+Asperger Syndrome/diagnosis/psychology/*therapy
+Autistic Disorder/diagnosis/psychology/*therapy
+Child
+Child, Preschool
+Family Therapy/*methods
+Female
+Humans
+Male
+*Parent-Child Relations
+*Parenting/psychology
+Parents/*psychology
+Psychiatric Status Rating Scales
+Surveys and Questionnaires

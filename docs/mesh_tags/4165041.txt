@@ -1,0 +1,8 @@
+Blood Glucose
+Drug Synergism
+Glucagon/*pharmacology
+Glucose/metabolism
+Humans
+Injections, Intravenous
+Insulin/*blood
+Tolbutamide/*pharmacology

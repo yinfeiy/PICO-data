@@ -1,0 +1,14 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Chlorthalidone/therapeutic use
+Clonidine/*administration & dosage/therapeutic use
+Double-Blind Method
+Female
+Humans
+Hypertension/*drug therapy
+Italy
+Male
+Middle Aged
+Multicenter Studies as Topic
+Time Factors

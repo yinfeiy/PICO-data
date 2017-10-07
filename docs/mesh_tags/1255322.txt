@@ -1,0 +1,9 @@
+Bilirubin/blood
+Erythrocytes/metabolism
+Hematocrit
+Humans
+Infant, Newborn
+Jaundice, Neonatal/*therapy
+Premedication
+Protein Binding
+Serum Albumin/*therapeutic use

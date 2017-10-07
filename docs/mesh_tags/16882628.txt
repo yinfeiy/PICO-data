@@ -1,0 +1,12 @@
+Adult
+Analysis of Variance
+Elbow/physiopathology
+*Electric Stimulation Therapy
+Female
+Humans
+Isometric Contraction/physiology
+Male
+Muscle Strength/physiology
+Muscle, Skeletal/*physiopathology
+Pain/physiopathology
+*Pain Management

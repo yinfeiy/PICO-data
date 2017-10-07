@@ -1,0 +1,8 @@
+Administration, Buccal
+Adult
+Delivery, Obstetric/*adverse effects
+Female
+Hemorrhage/etiology/*prevention & control
+Humans
+Misoprostol/*administration & dosage
+Oxytocics/*administration & dosage

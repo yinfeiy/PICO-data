@@ -1,0 +1,19 @@
+Adrenergic beta-Agonists/*therapeutic use
+Adult
+Albuterol/analogs & derivatives/*therapeutic use
+Bronchi/drug effects/*physiopathology
+Bronchodilator Agents/*therapeutic use
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Ethanolamines/therapeutic use
+Forced Expiratory Volume/drug effects
+Formoterol Fumarate
+Heart Rate/drug effects
+Humans
+Lung Diseases, Obstructive/*drug therapy/physiopathology
+Parasympatholytics/therapeutic use
+Salmeterol Xinafoate
+Scopolamine Derivatives/therapeutic use
+Spirometry
+Vital Capacity/drug effects

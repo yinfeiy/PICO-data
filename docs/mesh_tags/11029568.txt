@@ -1,0 +1,24 @@
+Adrenergic alpha-Agonists/administration & dosage/*therapeutic use
+Adult
+*Analgesia, Epidural
+*Analgesia, Obstetrical
+Analgesics, Opioid/administration & dosage/*therapeutic use
+Anesthetics, Local/administration & dosage/*therapeutic use
+Apgar Score
+Blood Pressure/drug effects
+Bupivacaine/administration & dosage/*therapeutic use
+Chi-Square Distribution
+Clonidine/administration & dosage/*therapeutic use
+Consciousness/drug effects
+Double-Blind Method
+Female
+Fentanyl/administration & dosage/*therapeutic use
+Heart Rate/drug effects
+Heart Rate, Fetal/drug effects
+Humans
+*Labor, Obstetric
+Pain Measurement
+Pregnancy
+Sensation/drug effects
+Statistics, Nonparametric
+Time Factors

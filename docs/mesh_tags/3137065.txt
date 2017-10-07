@@ -1,0 +1,13 @@
+*Coronary Artery Bypass
+Double-Blind Method
+Female
+Humans
+Hypertension/*drug therapy
+Intraoperative Complications/drug therapy
+Isosorbide Dinitrate/*therapeutic use
+Male
+Middle Aged
+Nitroglycerin/*therapeutic use
+Postoperative Complications/drug therapy
+Pulmonary Wedge Pressure/drug effects
+Random Allocation

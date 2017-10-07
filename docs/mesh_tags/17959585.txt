@@ -1,0 +1,14 @@
+Acetaminophen/*therapeutic use
+Adult
+Analgesics, Non-Narcotic/therapeutic use
+Anesthetics, Intravenous/*adverse effects
+Anesthetics, Local/therapeutic use
+Double-Blind Method
+Female
+Humans
+Injections, Intravenous/adverse effects
+Lidocaine/*therapeutic use
+Male
+Middle Aged
+Pain/etiology/*prevention & control
+Propofol/*adverse effects

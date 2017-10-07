@@ -1,0 +1,18 @@
+Adult
+Blood Flow Velocity
+Dermatomyositis/physiopathology/*therapy
+Female
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Muscle Strength
+Muscle, Skeletal/*blood supply/physiopathology
+Polymyositis/physiopathology/*therapy
+Prospective Studies
+Quadriceps Muscle/blood supply/physiopathology
+Quality of Life
+Resistance Training/*methods
+Surveys and Questionnaires
+Treatment Outcome
+Visual Analog Scale

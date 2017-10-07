@@ -1,0 +1,19 @@
+Adult
+Apolipoproteins/blood
+Bezafibrate
+Body Weight/drug effects
+Cholesterol/blood
+Cholesterol, LDL
+Clofibrate/*analogs & derivatives
+Clofibric Acid/*analogs & derivatives/therapeutic use
+Drug Therapy, Combination
+Female
+Galactans/adverse effects/*therapeutic use
+Humans
+Hyperlipoproteinemia Type II/*drug therapy
+Lipoproteins, LDL/blood
+Male
+Mannans/adverse effects/*therapeutic use
+Middle Aged
+Plant Gums
+Polysaccharides/*therapeutic use

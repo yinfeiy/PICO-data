@@ -1,0 +1,12 @@
+Aged
+Female
+Hospital Costs
+Humans
+Lung Neoplasms/economics/*surgery
+Male
+Middle Aged
+Pleura/*surgery
+Pneumonectomy/economics/*methods
+Postoperative Period
+Prospective Studies
+Treatment Outcome

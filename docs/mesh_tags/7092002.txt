@@ -1,0 +1,15 @@
+Acute Disease
+Aged
+Bronchitis/blood/*drug therapy/physiopathology
+Chronic Disease
+Double-Blind Method
+Drug Evaluation
+Female
+Forced Expiratory Volume
+Humans
+Male
+Middle Aged
+Oxygen/blood
+Random Allocation
+Tetracycline/*therapeutic use
+Vital Capacity

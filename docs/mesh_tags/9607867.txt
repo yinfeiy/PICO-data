@@ -1,0 +1,14 @@
+Adult
+Antibodies, Bacterial/*blood
+Antibody Formation
+Antimalarials/*administration & dosage
+Chloroquine/*administration & dosage
+Diphtheria Toxoid/*immunology
+Diphtheria-Tetanus Vaccine
+Humans
+Immunoglobulin G/blood
+Malaria/immunology/*prevention & control
+Male
+Primaquine/*administration & dosage
+Tetanus Toxoid/*immunology
+Vaccines, Combined/administration & dosage/immunology

@@ -1,0 +1,16 @@
+Adult
+Aged
+Anesthetics, Intravenous/*administration & dosage/adverse effects
+Anesthetics, Local/therapeutic use
+Female
+Hospitals, University
+Humans
+*Laryngeal Masks
+Lidocaine/therapeutic use
+Male
+Middle Aged
+Pain/chemically induced/*prevention & control
+Propofol/*administration & dosage/adverse effects
+Prospective Studies
+Single-Blind Method
+Young Adult

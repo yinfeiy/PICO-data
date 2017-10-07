@@ -1,0 +1,18 @@
+Adult
+Aged
+Antineoplastic Agents, Hormonal/administration & dosage/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Breast Neoplasms/*drug therapy/pathology
+Combined Modality Therapy
+Cyclophosphamide/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Female
+Fluorouracil/administration & dosage
+Fluoxymesterone/*administration & dosage
+Humans
+Middle Aged
+Neoplasm Metastasis
+Receptors, Estrogen/analysis
+Tamoxifen/*administration & dosage
+Treatment Outcome

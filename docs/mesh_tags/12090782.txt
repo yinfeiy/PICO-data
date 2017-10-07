@@ -1,0 +1,16 @@
+Adult
+Aged
+Albuterol/*therapeutic use
+Analysis of Variance
+Asthma/*drug therapy
+Bronchodilator Agents/*therapeutic use
+Cross-Over Studies
+Double-Blind Method
+Ethanolamines/*therapeutic use
+Female
+Forced Expiratory Volume/drug effects
+Formoterol Fumarate
+Humans
+Male
+Middle Aged
+Pulmonary Disease, Chronic Obstructive/*drug therapy

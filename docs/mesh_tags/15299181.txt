@@ -1,0 +1,13 @@
+Adult
+Aged
+Antineoplastic Agents/adverse effects/*therapeutic use
+Carboplatin/*therapeutic use
+Cisplatin/*therapeutic use
+Combined Modality Therapy
+Female
+Head and Neck Neoplasms/*drug therapy/*radiotherapy
+Humans
+Male
+Middle Aged
+Survival Analysis
+Treatment Outcome

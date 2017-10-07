@@ -1,0 +1,14 @@
+Adult
+Arousal/*drug effects
+Caffeine/*pharmacology/*therapeutic use
+Central Nervous System Stimulants/*pharmacology/*therapeutic use
+Circadian Rhythm/physiology
+Double-Blind Method
+Humans
+Middle Aged
+Polysomnography
+Psychomotor Disorders/*drug therapy/*etiology
+Reaction Time
+Sleep Wake Disorders/*complications
+Sleep, REM/physiology
+Wakefulness/drug effects

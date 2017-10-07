@@ -1,0 +1,17 @@
+Acoustic Stimulation/methods
+Adult
+Brain Mapping/methods
+Female
+Gyrus Cinguli/*physiology
+Humans
+Image Processing, Computer-Assisted/methods
+*Magnetic Resonance Imaging/methods
+Male
+Memory, Episodic
+Parietal Lobe/*physiology
+Photic Stimulation/methods
+*Semantics
+Temporal Lobe/physiology
+Verbal Learning/*physiology
+*Word Association Tests
+Young Adult

@@ -1,0 +1,15 @@
+Adult
+Antifungal Agents/*therapeutic use
+Aspergillosis/diagnosis/*drug therapy/*metabolism/pathology
+Aspergillus/*isolation & purification/pathogenicity
+Biomarkers/metabolism
+Female
+Follow-Up Studies
+Humans
+Leukemia, Lymphoid/drug therapy/*microbiology/surgery
+Male
+Mannans/*metabolism
+Middle Aged
+Polymerase Chain Reaction/*methods
+Stem Cell Transplantation
+Transplantation, Homologous

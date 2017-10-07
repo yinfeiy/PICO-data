@@ -1,0 +1,12 @@
+Acute Disease
+Aged
+Aged, 80 and over
+Dyspnea/*blood/etiology/physiopathology
+Female
+Glomerular Filtration Rate
+Heart Failure/blood/complications/diagnosis
+Humans
+Kidney Diseases/blood/complications/*diagnosis/physiopathology
+Male
+Middle Aged
+Natriuretic Peptide, Brain/*blood

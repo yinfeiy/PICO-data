@@ -1,0 +1,17 @@
+Adult
+Biopsy, Needle
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Ergolines/*therapeutic use
+Female
+Follow-Up Studies
+Gonadotropin-Releasing Hormone/*analogs & derivatives/*therapeutic use
+Humans
+Infusions, Intravenous
+Leiomyoma/*drug therapy/pathology
+Middle Aged
+Neoplasm Staging
+Prospective Studies
+Risk Assessment
+Treatment Outcome
+Uterine Neoplasms/*drug therapy/pathology

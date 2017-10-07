@@ -1,0 +1,19 @@
+Adjuvants, Immunologic/*administration & dosage
+Adolescent
+Adult
+Aged
+CD4-Positive T-Lymphocytes/immunology
+CD8-Positive T-Lymphocytes/immunology
+Enzyme-Linked Immunosorbent Assay
+Female
+Flow Cytometry
+Hepatitis B Antibodies/blood
+Hepatitis B Vaccines/*immunology
+Humans
+Immunoglobulin G/blood
+Interferon-alpha/*administration & dosage
+Interferon-gamma/biosynthesis
+Leukocytes, Mononuclear/immunology
+Lymphocyte Subsets/immunology
+Male
+Middle Aged

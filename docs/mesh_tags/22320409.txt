@@ -1,0 +1,19 @@
+Administration, Topical
+Aged
+Analgesics, Opioid/*administration & dosage
+Anesthesia, Local/*methods
+Anesthetics, Local/*administration & dosage
+Dexmedetomidine/administration & dosage
+Double-Blind Method
+Female
+Fentanyl/administration & dosage
+Humans
+Hypnotics and Sedatives/*administration & dosage
+Male
+Midazolam/administration & dosage
+Middle Aged
+Pain Measurement
+Pain, Postoperative/physiopathology
+Patient Satisfaction
+*Phacoemulsification/adverse effects
+Prospective Studies

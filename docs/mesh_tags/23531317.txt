@@ -1,0 +1,21 @@
+Adult
+Biomarkers/blood
+Blood Cell Count
+Cell Adhesion Molecules/*blood
+Cross-Over Studies
+Cytokines/*blood
+Double-Blind Method
+Endothelium, Vascular/*drug effects/immunology/metabolism
+Female
+Hematocrit
+Hemoglobins/metabolism
+Humans
+Inflammation Mediators/*blood
+Inhalation Exposure/*adverse effects
+Male
+Metabolic Syndrome X/*blood/immunology
+Thrombocytosis/blood/chemically induced
+Time Factors
+Vehicle Emissions/*toxicity
+Washington
+Young Adult

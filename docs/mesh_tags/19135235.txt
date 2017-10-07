@@ -1,0 +1,15 @@
+Adult
+Bifidobacterium/immunology
+Cesarean Section
+Child, Preschool
+Cohort Studies
+Double-Blind Method
+Female
+Humans
+Hypersensitivity, Immediate/immunology/microbiology/*prevention & control
+Immunoglobulin E/blood/*immunology
+Infant
+Lactobacillus/immunology
+Pregnancy
+Probiotics/*administration & dosage
+Propionibacterium/immunology

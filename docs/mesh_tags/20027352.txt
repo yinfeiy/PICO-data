@@ -1,0 +1,10 @@
+Antibodies/*therapeutic use
+Antiviral Agents/*therapeutic use
+Female
+Herpes Genitalis/*drug therapy/metabolism
+Humans
+Interferon Inducers/*therapeutic use
+Interferon-gamma/genetics/metabolism
+Leukocytes/drug effects/metabolism
+Male
+Treatment Outcome

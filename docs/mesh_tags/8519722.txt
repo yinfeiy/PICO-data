@@ -1,0 +1,24 @@
+Abdomen/*surgery
+Adjuvants, Anesthesia/*administration & dosage/adverse effects/blood
+*Analgesia, Epidural
+Analgesics, Opioid/*administration & dosage/adverse effects/blood
+*Anesthesia, Epidural
+Anesthetics, Local/*administration & dosage/adverse effects
+Blood Pressure/drug effects
+Bupivacaine/*administration & dosage/adverse effects
+Double-Blind Method
+Drug Combinations
+Female
+Fentanyl/*administration & dosage/adverse effects/blood
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Nausea/chemically induced
+Pain Measurement
+Pain, Postoperative/prevention & control
+Patient Satisfaction
+Prospective Studies
+Pruritus/chemically induced
+Respiration/drug effects
+Sleep Stages/drug effects

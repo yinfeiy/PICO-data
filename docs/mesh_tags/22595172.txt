@@ -1,0 +1,17 @@
+Adult
+Autonomic Nervous System/*physiopathology
+Blood Specimen Collection/psychology
+Cross-Over Studies
+Female
+Heart Rate/*physiology
+Humans
+Infant Behavior/*psychology
+Infant, Newborn
+Infant, Premature
+Intensive Care Units, Neonatal
+Kangaroo-Mother Care Method/*psychology
+Male
+Pain/physiopathology/*psychology
+Pain Management/*methods/psychology
+Pain Measurement/psychology
+Treatment Outcome

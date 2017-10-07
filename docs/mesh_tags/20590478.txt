@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Carbon Monoxide/metabolism
+Female
+Flowers
+Humans
+*Hypericum
+Intention to Treat Analysis
+Male
+Middle Aged
+Nicotine/adverse effects
+*Phytotherapy
+Plant Extracts/administration & dosage/pharmacology/*therapeutic use
+Single-Blind Method
+Smoking/*drug therapy/metabolism
+Smoking Cessation/*methods
+Substance Withdrawal Syndrome/drug therapy
+Tobacco Use Disorder/drug therapy
+Young Adult

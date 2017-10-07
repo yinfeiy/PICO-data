@@ -1,0 +1,12 @@
+Adult
+C-Peptide/blood
+Diabetes Mellitus, Type 1/blood/*drug therapy/physiopathology
+Female
+Glucagon/blood
+Humans
+Insulin/blood
+Insulin Infusion Systems/*standards
+Islets of Langerhans/drug effects/*physiopathology
+Male
+Pulsatile Flow
+Reference Values

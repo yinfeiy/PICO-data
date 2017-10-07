@@ -1,0 +1,11 @@
+Autistic Disorder/complications/*therapy
+Child
+Child Behavior Disorders/etiology/*therapy
+Double-Blind Method
+Electroacupuncture/*methods
+Female
+Humans
+Male
+Quality of Life
+*Severity of Illness Index
+Treatment Outcome

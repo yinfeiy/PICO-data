@@ -1,0 +1,15 @@
+Echocardiography
+Exercise Test
+Exercise Tolerance/physiology
+Female
+Humans
+Magnetic Resonance Angiography
+Male
+Middle Aged
+Monocytes/*transplantation
+Myocardial Infarction/physiopathology/*therapy
+Quality of Life
+Stem Cell Transplantation/*methods
+Stroke Volume
+Transplantation, Autologous
+Treatment Outcome

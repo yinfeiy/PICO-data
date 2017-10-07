@@ -1,0 +1,16 @@
+Adult
+Antihypertensive Agents/adverse effects
+Blood Pressure/drug effects
+Cholesterol/blood
+Clinical Trials as Topic
+Drug Therapy, Combination
+Female
+Humans
+Hydralazine/*administration & dosage/therapeutic use
+Hydrochlorothiazide/*administration & dosage/therapeutic use
+Hypertension/blood/*drug therapy
+Lipids/blood
+Male
+Metoprolol/*administration & dosage/therapeutic use
+Middle Aged
+Propanolamines/*administration & dosage

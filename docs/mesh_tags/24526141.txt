@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Algorithms
+Arteriovenous Fistula/*pathology
+Cardiac-Gated Imaging Techniques/*methods
+Contrast Media
+Feasibility Studies
+Female
+Humans
+Image Enhancement/methods
+Image Interpretation, Computer-Assisted/*methods
+Imaging, Three-Dimensional/*methods
+Intracranial Arteriovenous Malformations/*pathology
+Magnetic Resonance Angiography/*methods
+Male
+Middle Aged
+Reproducibility of Results
+Sample Size
+Sensitivity and Specificity
+Spin Labels
+Transverse Sinuses/*pathology

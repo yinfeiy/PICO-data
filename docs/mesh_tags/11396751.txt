@@ -1,0 +1,16 @@
+Anesthesia, Caudal
+Anesthetics, Intravenous/administration & dosage/adverse effects/*pharmacology
+Anesthetics, Local/administration & dosage/adverse effects/*pharmacology
+Bupivacaine/administration & dosage/adverse effects/*pharmacology
+Child
+Child, Preschool
+Drug Therapy, Combination
+Female
+Heart Rate/drug effects
+Humans
+Infant
+Male
+Midazolam/administration & dosage/adverse effects/*pharmacology
+Pain, Postoperative/*prevention & control
+Treatment Outcome
+Urogenital Surgical Procedures/*adverse effects

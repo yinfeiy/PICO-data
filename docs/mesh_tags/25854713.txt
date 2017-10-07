@@ -1,0 +1,9 @@
+Aged
+Amyloidosis/*diagnostic imaging/physiopathology
+Echocardiography/methods
+Female
+Heart Diseases/*diagnostic imaging/physiopathology
+Heart Ventricles/diagnostic imaging/physiopathology
+Humans
+Male
+Middle Aged

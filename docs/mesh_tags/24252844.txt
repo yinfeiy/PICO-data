@@ -1,0 +1,27 @@
+Adult
+Aged
+Anti-Inflammatory Agents/adverse effects/*therapeutic use
+Antirheumatic Agents/adverse effects/*therapeutic use
+Arthritis, Rheumatoid/blood/diagnosis/*drug therapy/metabolism/physiopathology
+Biomarkers/blood
+Blood Vessels/*drug effects/metabolism/physiopathology
+C-Reactive Protein/metabolism
+Cross-Over Studies
+Double-Blind Method
+Elasticity
+Female
+Humans
+Lipids/blood
+Male
+Michigan
+Middle Aged
+PPAR gamma/*agonists/metabolism
+Pulse Wave Analysis
+Quality of Life
+Severity of Illness Index
+Surveys and Questionnaires
+Thiazolidinediones/adverse effects/*therapeutic use
+Time Factors
+Treatment Outcome
+Vascular Stiffness/*drug effects
+Vasodilation/*drug effects

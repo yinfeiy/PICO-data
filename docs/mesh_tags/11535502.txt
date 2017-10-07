@@ -1,0 +1,17 @@
+Acute Disease
+Adolescent
+Age Factors
+Child
+Child, Preschool
+Cytogenetic Analysis
+Disease-Free Survival
+Female
+Humans
+Infant
+Infant, Newborn
+Leukemia, Myeloid/*diagnosis/*drug therapy/mortality
+Male
+Prognosis
+Recurrence
+Survival Rate
+Treatment Outcome

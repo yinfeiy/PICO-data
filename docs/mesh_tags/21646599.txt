@@ -1,0 +1,19 @@
+Adrenergic beta-Antagonists/pharmacology/*therapeutic use
+Ankle Brachial Index
+Antihypertensive Agents/pharmacology/*therapeutic use
+Arterial Occlusive Diseases/*drug therapy/physiopathology
+Benzopyrans/*therapeutic use
+Blood Pressure/drug effects
+Brachial Artery/physiopathology
+Double-Blind Method
+Ethanolamines/*therapeutic use
+Female
+Humans
+Hypertension/*drug therapy/physiopathology
+Intermittent Claudication/*drug therapy/physiopathology
+Male
+Metoprolol/*therapeutic use
+Nebivolol
+Quality of Life
+Surveys and Questionnaires
+Treatment Outcome

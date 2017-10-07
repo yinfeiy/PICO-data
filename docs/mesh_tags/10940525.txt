@@ -1,0 +1,15 @@
+Animals
+Anthelmintics/therapeutic use
+Antiparasitic Agents/administration & dosage/*therapeutic use
+Cat Diseases/*drug therapy
+Cats
+Dirofilariasis/*drug therapy
+Dog Diseases/*drug therapy
+Dogs
+Drug Administration Schedule
+Ectoparasitic Infestations/drug therapy/*veterinary
+Female
+Ivermectin/*analogs & derivatives/therapeutic use
+Male
+North America
+Siphonaptera/*drug effects

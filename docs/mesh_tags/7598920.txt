@@ -1,0 +1,19 @@
+*Anesthesia
+Blood Pressure/drug effects
+Cardiac Output/drug effects
+Double-Blind Method
+Electrocardiography/drug effects
+Female
+Heart Rate/drug effects
+Hemodynamics/*drug effects
+Humans
+Intubation, Intratracheal/*adverse effects
+*Laryngoscopy
+Male
+Middle Aged
+Preanesthetic Medication
+*Pregnanolone/adverse effects
+*Propofol/adverse effects
+Prospective Studies
+Temazepam
+Vascular Resistance/drug effects

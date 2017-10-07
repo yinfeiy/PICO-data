@@ -1,0 +1,16 @@
+Actuarial Analysis
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects/therapeutic use
+Bone Marrow Transplantation
+Combined Modality Therapy
+Costs and Cost Analysis
+Double-Blind Method
+Female
+Granulocyte-Macrophage Colony-Stimulating Factor/*therapeutic use
+Health Resources/economics/utilization
+Hodgkin Disease/*economics/*therapy
+Humans
+Male
+Neutropenia/chemically induced/*prevention & control
+Recurrence
+Survival Analysis

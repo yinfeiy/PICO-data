@@ -1,0 +1,14 @@
+Adult
+Aged
+Double-Blind Method
+*Electrocardiography
+Female
+Humans
+Injections, Intravenous
+Ischemic Preconditioning, Myocardial
+Male
+Middle Aged
+Myocardial Infarction/*drug therapy/physiopathology
+Myocardial Reperfusion Injury/*prevention & control
+Nicorandil/administration & dosage/*therapeutic use
+Potassium Channels/drug effects/physiology

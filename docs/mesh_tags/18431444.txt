@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Female
+Humans
+Injections, Intradermal
+Male
+Middle Aged
+Rabies/immunology/prevention & control
+Rabies Vaccines/administration & dosage/adverse effects/*therapeutic use
+Young Adult

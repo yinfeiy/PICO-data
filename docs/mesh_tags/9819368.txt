@@ -1,0 +1,14 @@
+Adult
+Clonidine/pharmacology
+Epinephrine/blood
+Female
+Hemodynamics/drug effects
+Humans
+Male
+Norepinephrine/blood
+Prospective Studies
+Random Allocation
+Sympathetic Nervous System/drug effects/physiopathology
+Syncope, Vasovagal/blood/*physiopathology/prevention & control
+Tilt-Table Test
+Yohimbine/*pharmacology

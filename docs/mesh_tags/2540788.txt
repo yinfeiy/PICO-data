@@ -1,0 +1,18 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/therapeutic use
+Carcinoma, Small Cell/*drug therapy/mortality
+Clinical Trials as Topic
+Cyclophosphamide/administration & dosage
+Doxorubicin/administration & dosage
+Drug Administration Schedule
+Etoposide/administration & dosage
+Female
+Humans
+Lung Neoplasms/*drug therapy/mortality
+Male
+Methotrexate/administration & dosage
+Middle Aged
+Multicenter Studies as Topic
+Random Allocation
+Vincristine/administration & dosage

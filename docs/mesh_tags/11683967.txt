@@ -1,0 +1,15 @@
+Adjuvants, Immunologic/*therapeutic use
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+BCG Vaccine/*therapeutic use
+Carcinoma in Situ/*drug therapy/mortality/pathology
+Carcinoma, Transitional Cell/*drug therapy/mortality/pathology
+Disease Progression
+Doxorubicin/*administration & dosage
+Female
+Humans
+Male
+Middle Aged
+Mitomycin/*administration & dosage
+Neoplasm Recurrence, Local
+Urinary Bladder Neoplasms/*drug therapy/mortality/pathology

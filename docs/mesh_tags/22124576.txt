@@ -1,0 +1,13 @@
+Absorptiometry, Photon
+Adolescent
+Adult
+Bone Density/*drug effects
+Female
+Growth Disorders/*diagnostic imaging
+Growth Hormone/*deficiency
+Human Growth Hormone/*pharmacology
+Humans
+Male
+*Metacarpal Bones/diagnostic imaging/drug effects
+Treatment Outcome
+Young Adult

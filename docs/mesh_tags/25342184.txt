@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Breast Neoplasms/*diagnostic imaging/pathology
+Buffers
+Female
+Humans
+Injections, Subcutaneous
+Lidocaine/*administration & dosage/chemistry/*pharmacology
+Lymph Nodes/*diagnostic imaging/pathology
+Lymphoscintigraphy/*adverse effects
+Middle Aged
+Neoplasm Staging
+Pain/*etiology/*prevention & control

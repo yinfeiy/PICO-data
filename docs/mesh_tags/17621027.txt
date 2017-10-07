@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Brain Injuries/*diagnosis/*epidemiology/therapy
+Female
+Humans
+Internationality
+Male
+Middle Aged
+Outcome Assessment (Health Care)/*methods/*statistics & numerical data
+Prognosis
+Reproducibility of Results
+Risk Assessment/*methods
+Risk Factors
+Sensitivity and Specificity
+Treatment Outcome

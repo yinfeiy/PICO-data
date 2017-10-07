@@ -1,0 +1,10 @@
+Acupuncture Therapy/*methods
+Adult
+Female
+Graves Disease/physiopathology/*therapy
+Humans
+Male
+Middle Aged
+Thyroid Gland/physiopathology
+Thyroid Hormones/blood
+Thyrotropin/blood

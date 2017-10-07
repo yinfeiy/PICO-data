@@ -1,0 +1,14 @@
+Bronchiolitis, Viral/*blood/complications/*therapy
+Cough/virology
+Double-Blind Method
+Female
+Hospitalization
+Humans
+Infant
+Length of Stay/statistics & numerical data
+Male
+Oximetry/methods
+Oxygen/*blood
+Oxygen Inhalation Therapy/adverse effects/*methods
+Partial Pressure
+Treatment Outcome

@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Agoraphobia/drug therapy/physiopathology/*therapy
+*Behavior Therapy
+Female
+Heart Rate/drug effects
+Humans
+Imipramine/*pharmacology
+*Implosive Therapy
+Male
+Middle Aged
+Phobic Disorders/*therapy

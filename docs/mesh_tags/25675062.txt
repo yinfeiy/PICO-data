@@ -1,0 +1,22 @@
+Adult
+Aged
+Anesthetics, Local/*therapeutic use
+Betamethasone/*administration & dosage/therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Glucocorticoids/*administration & dosage/therapeutic use
+Humans
+Injections, Epidural/methods
+Leg
+Lidocaine/*therapeutic use
+Low Back Pain/*drug therapy/etiology
+Lumbar Vertebrae
+Male
+Middle Aged
+Pain/drug therapy/etiology
+Pain Management
+Spinal Stenosis/complications/*drug therapy
+Treatment Outcome
+United States

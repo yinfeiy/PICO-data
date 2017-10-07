@@ -1,0 +1,10 @@
+Bacteroides/drug effects
+Clinical Trials as Topic
+Colon/microbiology/*surgery
+Erythromycin/therapeutic use
+Feces/microbiology
+Gram-Negative Anaerobic Bacteria/drug effects
+Humans
+Metronidazole/pharmacology/*therapeutic use
+Neomycin/therapeutic use
+Surgical Wound Infection/microbiology/*prevention & control

@@ -1,0 +1,11 @@
+Adult
+Equipment Design
+Female
+Humans
+Male
+*Mandible
+Polysomnography
+Sleep Apnea, Obstructive/*therapy
+Snoring/*etiology
+Splints/*adverse effects
+Treatment Outcome

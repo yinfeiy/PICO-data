@@ -1,0 +1,16 @@
+Adult
+*Analgesia
+Animals
+Drug Synergism
+Female
+Humans
+*Hypnotics and Sedatives
+Male
+Methotrimeprazine/*pharmacology
+Mice
+Morphine/*pharmacology
+Motor Activity/drug effects
+Pain/physiopathology
+Reaction Time/drug effects
+Respiration/*drug effects
+Sensory Thresholds/drug effects

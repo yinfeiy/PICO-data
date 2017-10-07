@@ -1,0 +1,9 @@
+Adult
+Female
+Hepatitis, Chronic/*drug therapy
+Humans
+Kidney/blood supply/drug effects/metabolism
+Male
+Middle Aged
+Ozone/*therapeutic use
+Renal Circulation/*drug effects

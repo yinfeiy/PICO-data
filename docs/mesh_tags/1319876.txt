@@ -1,0 +1,11 @@
+Adult
+Anti-Infective Agents/pharmacokinetics/*pharmacology
+Caffeine/blood/*pharmacokinetics
+Ciprofloxacin/pharmacokinetics/*pharmacology
+Double-Blind Method
+Drug Interactions
+Female
+*Fluoroquinolones
+Humans
+Male
+Quinolones/pharmacokinetics/*pharmacology

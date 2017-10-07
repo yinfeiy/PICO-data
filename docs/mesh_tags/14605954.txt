@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Analgesics/therapeutic use
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Flavonoids/*administration & dosage
+Follow-Up Studies
+Hemorrhoids/diagnosis/*surgery
+Humans
+Male
+Middle Aged
+Pain Measurement
+Pain, Postoperative/*drug therapy/prevention & control
+Probability
+Prospective Studies
+Reference Values
+Severity of Illness Index
+Statistics, Nonparametric
+Treatment Outcome

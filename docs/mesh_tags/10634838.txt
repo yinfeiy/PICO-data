@@ -1,0 +1,24 @@
+Animals
+Confidence Intervals
+Energy Intake
+Enteral Nutrition/*methods
+Female
+Hospitalization
+Humans
+Incidence
+Infant Nutritional Physiological Phenomena
+Infant, Low Birth Weight
+Infant, Newborn
+*Infant, Premature/growth & development
+*Infant, Premature, Diseases/etiology/physiopathology
+Length of Stay
+Liver/physiology
+Male
+Milk
+Milk, Human
+Parenteral Nutrition
+Prospective Studies
+Respiration, Artificial
+Sepsis/etiology
+Time Factors
+Treatment Outcome

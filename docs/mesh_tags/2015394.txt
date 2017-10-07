@@ -1,0 +1,15 @@
+Adult
+*Bone Marrow Transplantation
+Follow-Up Studies
+Humans
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive/blood/radiotherapy/*surgery
+Leukocyte Count/radiation effects
+Middle Aged
+Platelet Count/radiation effects
+Probability
+Radiotherapy Dosage
+Random Allocation
+Spleen/radiation effects
+Splenectomy
+Transplantation, Homologous
+Whole-Body Irradiation/*methods

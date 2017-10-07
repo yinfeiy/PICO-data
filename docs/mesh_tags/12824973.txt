@@ -1,0 +1,17 @@
+Adult
+Androgens/blood
+Anovulation/diagnostic imaging/*drug therapy
+Clomiphene/administration & dosage/*therapeutic use
+Contraceptives, Oral, Combined/administration & dosage/*therapeutic use
+Estradiol/blood
+Female
+Fertility Agents, Female/administration & dosage/*therapeutic use
+Follicle Stimulating Hormone/blood
+Humans
+Luteinizing Hormone/blood
+Ovulation Induction/*methods
+Pregnancy
+Pregnancy Rate
+Prospective Studies
+Treatment Failure
+Ultrasonography

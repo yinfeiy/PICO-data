@@ -1,0 +1,20 @@
+Adult
+Analysis of Variance
+Central Nervous System/*physiology
+Diabetes Mellitus, Type 1/*complications/diagnosis
+Diabetic Neuropathies/diagnosis/*therapy
+Double-Blind Method
+Duodenum/innervation
+Electric Stimulation/*methods
+Esophagus/innervation
+Female
+Follow-Up Studies
+Gastroparesis/etiology/physiopathology/*therapy
+Humans
+Male
+Middle Aged
+Probability
+Reference Values
+Risk Assessment
+Sensitivity and Specificity
+Treatment Outcome

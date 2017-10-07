@@ -1,0 +1,18 @@
+Adult
+Altretamine/administration & dosage/adverse effects
+Anemia/chemically induced
+Antineoplastic Agents/*administration & dosage/adverse effects
+Cisplatin/administration & dosage/adverse effects
+Clinical Trials as Topic
+Cyclophosphamide/administration & dosage/adverse effects
+Doxorubicin/administration & dosage/adverse effects
+Drug Therapy, Combination
+Female
+Humans
+Leukopenia/chemically induced
+Melphalan/administration & dosage/adverse effects
+Middle Aged
+Ovarian Neoplasms/*drug therapy
+Prospective Studies
+Random Allocation
+Thrombocytopenia/chemically induced

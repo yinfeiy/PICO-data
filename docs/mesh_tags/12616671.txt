@@ -1,0 +1,10 @@
+Adult
+Area Under Curve
+Biological Availability
+Cross-Over Studies
+Drug Interactions
+Humans
+Indans/adverse effects/cerebrospinal fluid/*pharmacokinetics
+Male
+Piperidines/adverse effects/cerebrospinal fluid/*pharmacokinetics
+Risperidone/adverse effects/blood/*pharmacokinetics

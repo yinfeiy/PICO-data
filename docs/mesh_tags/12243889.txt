@@ -1,0 +1,18 @@
+Animals
+Body Temperature/drug effects
+Body Weight/drug effects
+Dehydration/therapy/veterinary/virology
+Dog Diseases/*drug therapy/mortality/virology
+Dogs
+Double-Blind Method
+Enteritis/drug therapy/mortality/*veterinary/virology
+Erythrocyte Count/veterinary
+Feces/virology
+Female
+Hematocrit/veterinary
+Interferon Type I/*therapeutic use
+Leukocyte Count/veterinary
+Male
+Parvoviridae Infections/drug therapy/mortality/*veterinary/virology
+*Parvovirus, Canine
+Specific Pathogen-Free Organisms

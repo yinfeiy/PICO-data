@@ -1,0 +1,13 @@
+Analgesia, Patient-Controlled
+Analgesics/*administration & dosage
+Analgesics, Opioid/administration & dosage
+Double-Blind Method
+Female
+Humans
+Injections, Intravenous
+Ketamine/*administration & dosage
+*Mastectomy, Simple
+Middle Aged
+Morphine/administration & dosage
+Pain Measurement
+Pain, Postoperative/drug therapy/*prevention & control

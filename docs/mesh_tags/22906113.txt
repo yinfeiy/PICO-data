@@ -1,0 +1,16 @@
+Adolescent
+Adolescent Development/physiology
+Analysis of Variance
+Child
+Child Development/physiology
+Emotions/*physiology
+Female
+Humans
+Learning/*physiology
+Male
+Memory/*physiology
+Neuropsychological Tests
+Photic Stimulation
+Self Report
+Thinking/physiology
+Vocabulary

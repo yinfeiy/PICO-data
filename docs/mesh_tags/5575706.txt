@@ -1,0 +1,8 @@
+Adult
+Bursitis/*drug therapy
+Female
+Foot Diseases/*drug therapy
+Humans
+Male
+Middle Aged
+Triamcinolone Acetonide/*therapeutic use

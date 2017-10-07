@@ -1,0 +1,19 @@
+Adult
+Aged
+Antibodies, Monoclonal, Humanized/administration & dosage/adverse effects/*therapeutic use
+Antigens, CD274/*analysis
+Antineoplastic Agents/administration & dosage/adverse effects/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/chemistry/*drug therapy/pathology
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Gene Expression Regulation, Neoplastic
+Humans
+Kaplan-Meier Estimate
+Lung Neoplasms/chemistry/*drug therapy/pathology
+Male
+Middle Aged
+*Molecular Targeted Therapy
+Patient Selection
+Taxoids/administration & dosage/adverse effects/*therapeutic use
+Treatment Outcome

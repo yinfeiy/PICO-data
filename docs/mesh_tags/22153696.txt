@@ -1,0 +1,27 @@
+Adiponectin/blood
+Analysis of Variance
+Apolipoprotein A-I/blood
+Biomarkers/blood
+Blood Glucose/metabolism
+C-Reactive Protein/metabolism
+Cholesterol, HDL/blood
+*Dietary Supplements
+Fatty Acids, Omega-3/*therapeutic use
+Female
+Fenofibrate/*therapeutic use
+Fibrinogen/metabolism
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hypertriglyceridemia/blood/*drug therapy/physiopathology
+Hypolipidemic Agents/*therapeutic use
+Inflammation Mediators/blood
+Insulin/blood
+Insulin Resistance
+Male
+Middle Aged
+Republic of Korea
+Single-Blind Method
+Time Factors
+Treatment Outcome
+Triglycerides/blood
+Vasodilation/drug effects

@@ -1,0 +1,17 @@
+Administration, Inhalation
+Adolescent
+Adult
+Aged
+Anti-Inflammatory Agents/*administration & dosage/adverse effects
+Asthma/*drug therapy
+Child
+Female
+Humans
+Male
+*Medication Adherence
+Middle Aged
+Mometasone Furoate
+Powders/administration & dosage/adverse effects
+Pregnadienediols/*administration & dosage/adverse effects
+Treatment Outcome
+Young Adult

@@ -1,0 +1,15 @@
+Aged
+Carcinoma, Hepatocellular/pathology/*surgery
+Catheter Ablation/*methods
+Female
+Humans
+Lasers, Solid-State/*therapeutic use
+Liver Cirrhosis/complications
+Liver Neoplasms/pathology/*surgery
+Male
+Middle Aged
+Postoperative Complications
+Prospective Studies
+Radio Waves
+Treatment Outcome
+Tumor Necrosis Factor-alpha/blood

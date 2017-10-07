@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Air Pollutants/analysis/*toxicity
+Air Pollution, Indoor/*prevention & control
+Arrhythmias, Cardiac/chemically induced/*epidemiology/*prevention & control
+Cooking/*instrumentation
+*Electrocardiography, Ambulatory
+Female
+Guatemala/epidemiology
+Heart Rate
+Humans
+Inhalation Exposure/*prevention & control
+Middle Aged
+Particulate Matter/analysis/toxicity
+Smoke/adverse effects/prevention & control
+Wood/toxicity

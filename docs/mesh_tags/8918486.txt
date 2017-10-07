@@ -1,0 +1,15 @@
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage
+Carcinoma, Transitional Cell/mortality/radiotherapy/*therapy
+Cisplatin/*administration & dosage
+Combined Modality Therapy
+Disease-Free Survival
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+Radiotherapy Dosage
+Survival Rate
+Urinary Bladder Neoplasms/mortality/radiotherapy/*therapy

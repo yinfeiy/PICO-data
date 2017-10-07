@@ -1,0 +1,20 @@
+Adenocarcinoma/mortality/*secondary/surgery
+Adenocarcinoma, Mucinous/mortality/*secondary/surgery
+Adult
+Aged
+Aged, 80 and over
+Colorectal Neoplasms/mortality/*pathology/surgery
+Disease Progression
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neoplasm Grading
+Neoplasm Invasiveness
+Neoplasm Recurrence, Local/mortality/*pathology/surgery
+Neoplasm Staging
+Prognosis
+Retrospective Studies
+Risk Factors
+Survival Rate

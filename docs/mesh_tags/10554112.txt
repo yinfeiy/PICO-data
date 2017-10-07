@@ -1,0 +1,14 @@
+Adult
+*Aerosols
+Female
+Humans
+Lung/metabolism
+Male
+Middle Aged
+Mucociliary Clearance
+Nasal Cavity/diagnostic imaging/*metabolism
+*Nebulizers and Vaporizers
+Particle Size
+Radionuclide Imaging
+Technetium Compounds
+Xenon Radioisotopes

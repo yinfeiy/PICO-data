@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Antifungal Agents/*administration & dosage/adverse effects
+Capsules
+Female
+Fluconazole/*administration & dosage/adverse effects
+Humans
+Itraconazole/*administration & dosage/adverse effects
+Japan
+*Leukemia, Myeloid, Acute/complications/drug therapy
+Leukocyte Count
+Male
+Middle Aged
+Mycoses/etiology/*prevention & control
+*Myelodysplastic Syndromes/blood/drug therapy

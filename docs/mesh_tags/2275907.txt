@@ -1,0 +1,15 @@
+Adult
+*Ambulatory Surgical Procedures
+*Anesthesia, Epidural
+*Anesthetics, Local
+Female
+Humans
+*Length of Stay
+Lidocaine
+Lithotripsy
+Male
+Mepivacaine
+Middle Aged
+*Patient Readmission
+Procaine/analogs & derivatives
+Prospective Studies

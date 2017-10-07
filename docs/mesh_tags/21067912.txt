@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal/administration & dosage
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects
+Bevacizumab
+Calcium/*administration & dosage
+Capecitabine
+Colorectal Neoplasms/*drug therapy
+Deoxycytidine/administration & dosage/analogs & derivatives
+Female
+Fluorouracil/administration & dosage/analogs & derivatives
+Humans
+Infusions, Intravenous
+Magnesium/*administration & dosage
+Male
+Middle Aged
+Neuroprotective Agents/administration & dosage
+Neurotoxicity Syndromes/etiology/*prevention & control
+Organoplatinum Compounds/administration & dosage/*adverse effects
+Retrospective Studies
+Treatment Outcome

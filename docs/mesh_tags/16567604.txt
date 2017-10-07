@@ -1,0 +1,20 @@
+Accidental Falls
+Aged
+Angina, Unstable/epidemiology
+Australia/epidemiology
+Chronic Disease/*mortality/*therapy
+*Disease Management
+Female
+Follow-Up Studies
+Heart Failure/epidemiology
+*Home Care Services/economics
+Hospital Costs/statistics & numerical data
+Humans
+Length of Stay/statistics & numerical data
+Male
+Myocardial Infarction/epidemiology
+Patient Care Team
+Patient Readmission/statistics & numerical data
+Prospective Studies
+Pulmonary Disease, Chronic Obstructive/epidemiology
+Stroke/epidemiology

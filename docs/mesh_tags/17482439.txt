@@ -1,0 +1,15 @@
+*Adaptation, Physiological
+Adult
+Base Sequence
+Biopsy, Fine-Needle/*methods
+Cross-Over Studies
+DNA, Mitochondrial/*genetics/metabolism
+Gene Amplification
+Gene Expression Regulation/physiology
+Humans
+Male
+Mitochondria, Muscle/*genetics/metabolism
+Muscle, Skeletal/metabolism/*pathology
+Oxygen Consumption
+RNA, Messenger/genetics/metabolism
+Reverse Transcriptase Polymerase Chain Reaction/methods

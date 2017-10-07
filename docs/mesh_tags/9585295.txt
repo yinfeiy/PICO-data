@@ -1,0 +1,12 @@
+Administration, Oral
+Adult
+Aged
+*Analgesia, Patient-Controlled
+Analgesics, Opioid/*administration & dosage
+Female
+Humans
+Male
+Middle Aged
+Morphine/*administration & dosage
+Pain, Postoperative/*drug therapy
+Prospective Studies

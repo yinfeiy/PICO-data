@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Age Factors
+Child
+Clinical Trials as Topic
+Female
+Humans
+Liver Abscess, Amebic/*drug therapy
+Male
+Metronidazole/adverse effects/*therapeutic use
+Middle Aged
+Nitroimidazoles/*therapeutic use
+Tinidazole/adverse effects/*therapeutic use

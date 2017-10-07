@@ -1,0 +1,16 @@
+Adult
+Dose-Response Relationship, Drug
+Drug Resistance
+Embryo Transfer
+Female
+Follicle Stimulating Hormone/*administration & dosage
+Gonadotropin-Releasing Hormone/*administration & dosage
+Humans
+Infertility, Female/diagnostic imaging/*drug therapy
+Oocyte Retrieval/methods
+Ovulation Induction/*methods
+Pregnancy
+*Pregnancy Rate
+Prospective Studies
+Recombinant Proteins/*administration & dosage
+Ultrasonography

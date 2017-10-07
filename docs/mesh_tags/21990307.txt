@@ -1,0 +1,16 @@
+Adult
+Chromatography, Liquid
+Colon/*drug effects/*metabolism
+Colorectal Neoplasms/*etiology/metabolism
+Female
+Ginger/*chemistry
+Humans
+Hydroxyeicosatetraenoic Acids/*metabolism
+Male
+Middle Aged
+Plant Extracts/*pharmacology
+Plant Roots/*chemistry
+Prognosis
+Risk Factors
+Spectrometry, Mass, Electrospray Ionization
+Young Adult

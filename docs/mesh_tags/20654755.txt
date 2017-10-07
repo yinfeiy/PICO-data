@@ -1,0 +1,15 @@
+Administration, Oral
+Adolescent
+Adult
+Contraceptives, Oral, Combined/administration & dosage/*pharmacology
+Ethinyl Estradiol/administration & dosage/*pharmacology
+Female
+Humans
+Levonorgestrel/administration & dosage/*pharmacology
+Libido/drug effects/*physiology
+Prospective Studies
+Regression Analysis
+Sex Hormone-Binding Globulin/analysis
+Surveys and Questionnaires
+Testosterone/blood
+Young Adult

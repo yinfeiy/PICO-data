@@ -1,0 +1,17 @@
+Adult
+Arginine/pharmacology
+Diabetes Mellitus, Type 2/complications/*therapy
+Diabetic Ketoacidosis/physiopathology/*therapy
+Drug Administration Schedule
+Fat Emulsions, Intravenous/*administration & dosage/*adverse effects
+Female
+Humans
+Hypoglycemic Agents/administration & dosage
+Insulin/administration & dosage
+Insulin-Secreting Cells/*drug effects/pathology/physiology
+Male
+Middle Aged
+Obesity/complications/physiopathology
+Pancreatic Function Tests/methods
+Remission Induction
+Withholding Treatment

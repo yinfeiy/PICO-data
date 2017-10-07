@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Chromatography, Liquid/*methods
+Cross-Over Studies
+Drug Stability
+Healthy Volunteers
+Humans
+Liquid-Liquid Extraction/methods
+Middle Aged
+Reproducibility of Results
+Rilpivirine/*blood/pharmacokinetics
+Tandem Mass Spectrometry/*methods
+Therapeutic Equivalency
+Young Adult

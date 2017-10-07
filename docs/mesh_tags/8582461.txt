@@ -1,0 +1,15 @@
+Adult
+Angiotensin-Converting Enzyme Inhibitors/adverse effects/*pharmacokinetics/*therapeutic use
+Blood Pressure/drug effects
+Bradykinin/blood
+Cough/chemically induced
+Dinoprostone/blood
+Enalapril/adverse effects/*pharmacokinetics/*therapeutic use
+Enalaprilat/blood
+Female
+Half-Life
+Humans
+Hypertension/*drug therapy/*metabolism
+Male
+Middle Aged
+Substance P/blood

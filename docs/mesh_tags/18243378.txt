@@ -1,0 +1,16 @@
+Agriculture/economics
+Animal Feed
+Animal Husbandry/economics
+Animal Nutritional Physiological Phenomena
+Animals
+Anthelmintics/*pharmacology/therapeutic use
+Benzimidazoles/*pharmacology/therapeutic use
+Budgets
+Ethiopia
+Feces/parasitology
+Fenbendazole/*pharmacology/therapeutic use
+Genotype
+Helminthiasis, Animal/*economics/genetics/*prevention & control
+Parasite Egg Count/veterinary
+Sheep
+Sheep Diseases/*economics/genetics/*prevention & control

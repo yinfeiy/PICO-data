@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Dermoid Cyst/*surgery
+Female
+Humans
+*Laparoscopy/adverse effects/methods
+*Laparotomy/adverse effects/methods
+Length of Stay
+Ovarian Neoplasms/*surgery
+Prospective Studies
+Teratoma/*surgery
+Time Factors

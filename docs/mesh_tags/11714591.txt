@@ -1,0 +1,19 @@
+Adult
+Aged
+Analgesics, Opioid/therapeutic use
+Behavior Therapy
+Chi-Square Distribution
+Cocaine-Related Disorders/psychology/*therapy
+Female
+Follow-Up Studies
+Humans
+Logistic Models
+Male
+Methadone/therapeutic use
+Middle Aged
+Opioid-Related Disorders/psychology/*therapy
+Prospective Studies
+*Social Support
+Statistics, Nonparametric
+Substance Abuse Treatment Centers/statistics & numerical data
+Treatment Outcome

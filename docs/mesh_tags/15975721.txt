@@ -1,0 +1,9 @@
+Adult
+Burns/*therapy
+Cytokines/*blood
+Endotoxins/*blood
+Hemodiafiltration/*methods
+Humans
+Male
+Renal Replacement Therapy/*methods
+Sepsis/*therapy

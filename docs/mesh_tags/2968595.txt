@@ -1,0 +1,15 @@
+Adult
+Anticholesteremic Agents/*pharmacology
+Apoproteins/blood
+Cholestyramine Resin/pharmacology
+Clinical Trials as Topic
+Female
+Humans
+Hyperlipoproteinemia Type II/blood/*drug therapy
+Lipids/blood
+Lipoproteins/blood
+Lovastatin/*analogs & derivatives/pharmacology
+Male
+Middle Aged
+Random Allocation
+Simvastatin

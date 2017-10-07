@@ -1,0 +1,22 @@
+Adult
+Anesthetics, Local/administration & dosage/adverse effects/*therapeutic use
+Capsaicin/*adverse effects
+Cross-Over Studies
+Dizziness/chemically induced
+Double-Blind Method
+Hot Temperature/*adverse effects
+Humans
+Hyperalgesia/chemically induced/*drug therapy/etiology
+Infusions, Intravenous
+Injections, Intravenous
+Lidocaine/administration & dosage/adverse effects/*therapeutic use
+Male
+Nociceptors/drug effects
+Pain/chemically induced/*drug therapy/etiology
+Pain Measurement
+Pain Threshold
+Placebos
+Skin/innervation
+Sleep Stages/drug effects
+Vision Disorders/chemically induced
+Xerostomia/chemically induced

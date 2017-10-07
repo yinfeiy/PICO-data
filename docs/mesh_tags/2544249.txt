@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/adverse effects
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Infant, Newborn
+Kidney Neoplasms/mortality/*therapy
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Staging
+Radiotherapy/adverse effects
+Random Allocation
+Wilms Tumor/mortality/*therapy

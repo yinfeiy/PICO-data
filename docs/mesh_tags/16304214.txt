@@ -1,0 +1,21 @@
+Adult
+Aged
+Antihypertensive Agents/*therapeutic use
+Blood Pressure/drug effects
+Cardiac Output/drug effects
+*Coronary Artery Bypass
+Coronary Artery Disease/*drug therapy/physiopathology/*surgery
+Diltiazem/therapeutic use
+Female
+Heart Rate/drug effects
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Nitroglycerin/therapeutic use
+Nitroprusside/therapeutic use
+Oxygen/blood
+Oxygen Consumption/drug effects
+Treatment Outcome
+Vascular Resistance/drug effects
+Vasodilator Agents/therapeutic use

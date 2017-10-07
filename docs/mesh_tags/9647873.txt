@@ -1,0 +1,18 @@
+Adolescent
+Anemia, Sickle Cell/complications/diagnostic imaging/physiopathology/*therapy
+Blood Flow Velocity
+*Blood Transfusion
+Cerebral Hemorrhage/epidemiology/etiology
+Cerebral Infarction/epidemiology/etiology
+Cerebrovascular Circulation
+Cerebrovascular Disorders/etiology/*prevention & control
+Child
+Child, Preschool
+Disease-Free Survival
+Female
+Hemoglobin, Sickle/analysis
+Humans
+Incidence
+Male
+Risk
+Ultrasonography, Doppler, Transcranial

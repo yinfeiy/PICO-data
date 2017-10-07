@@ -1,0 +1,14 @@
+Adult
+Aged
+Antihypertensive Agents/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Clinical Trials as Topic
+Clonidine/adverse effects/*analogs & derivatives/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Hydrochlorothiazide/*therapeutic use
+Hypertension/*drug therapy
+Male
+Middle Aged

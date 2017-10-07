@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Bismuth/*administration & dosage/blood
+Clinical Trials as Topic
+Duodenal Ulcer/blood/*drug therapy
+Dyspepsia/drug therapy
+Female
+Humans
+Male
+Middle Aged
+*Organometallic Compounds
+Random Allocation
+Tablets

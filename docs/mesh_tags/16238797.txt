@@ -1,0 +1,18 @@
+Administration, Inhalation
+Allergens/*administration & dosage/adverse effects
+Anti-Inflammatory Agents/*therapeutic use
+Asthma/*drug therapy/etiology/immunology/pathology
+Biopsy
+Bronchi/*pathology
+Bronchoscopy
+Budesonide/therapeutic use
+Double-Blind Method
+Extracellular Matrix/metabolism
+Fibronectins/analysis
+Glucocorticoids/*therapeutic use
+Goblet Cells/pathology
+Humans
+Inhalation Exposure/adverse effects
+Mucous Membrane/immunology/metabolism
+Proteoglycans/analysis
+Respiratory Mucosa/immunology/pathology

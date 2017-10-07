@@ -1,0 +1,17 @@
+Adult
+Cementation/*methods
+Computer-Aided Design
+*Crowns
+*Dental Etching
+Dental Marginal Adaptation
+*Dental Porcelain
+Dental Prosthesis Design
+Dental Restoration Failure
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+*Resin Cements
+Tooth Discoloration
+Young Adult

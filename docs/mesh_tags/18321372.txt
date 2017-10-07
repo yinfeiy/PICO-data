@@ -1,0 +1,6 @@
+Colorectal Neoplasms/*pathology
+Hepatectomy/*methods
+Humans
+Liver Neoplasms/secondary/*surgery
+*Neoplastic Cells, Circulating
+Prospective Studies

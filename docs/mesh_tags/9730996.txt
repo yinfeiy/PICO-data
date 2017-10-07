@@ -1,0 +1,26 @@
+Administration, Inhalation
+Administration, Topical
+Adult
+Androstadienes/administration & dosage/*therapeutic use
+Anti-Inflammatory Agents/administration & dosage/*therapeutic use
+Bronchiectasis/*drug therapy/immunology/microbiology/pathology
+Double-Blind Method
+Female
+Fluticasone
+Forced Expiratory Volume/drug effects
+Glucocorticoids
+Humans
+Inflammation
+Interleukin-1/analysis
+Interleukin-8/analysis
+Leukocyte Count/drug effects
+Leukotriene B4/analysis
+Male
+Middle Aged
+Nebulizers and Vaporizers
+Peak Expiratory Flow Rate/drug effects
+Placebos
+Pseudomonas aeruginosa/isolation & purification
+Sputum/cytology/*drug effects/immunology/microbiology
+Tumor Necrosis Factor-alpha/analysis
+Vital Capacity/drug effects

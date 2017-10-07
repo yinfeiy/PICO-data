@@ -1,0 +1,15 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Coronary Disease/*drug therapy
+Diltiazem/*therapeutic use
+Double-Blind Method
+Electrocardiography, Ambulatory
+Exercise Test
+Female
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Placebos
+Single-Blind Method

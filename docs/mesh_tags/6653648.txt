@@ -1,0 +1,13 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Diazoxide/adverse effects/*therapeutic use
+Ethanolamines/*therapeutic use
+Female
+Humans
+Hypertension/*drug therapy/etiology
+Labetalol/adverse effects/*therapeutic use
+Male
+Middle Aged
+Pulse/drug effects
+Renal Dialysis/adverse effects

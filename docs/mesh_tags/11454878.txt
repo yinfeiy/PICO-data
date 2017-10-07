@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/administration & dosage/*therapeutic use
+Carcinoma/*drug therapy
+Doxorubicin/administration & dosage/*therapeutic use
+Female
+Humans
+Liposomes
+Middle Aged
+Neoplasm Recurrence, Local/*drug therapy
+Ovarian Neoplasms/*drug therapy
+Polyethylene Glycols
+Sickness Impact Profile
+Survival Analysis
+Topotecan/*therapeutic use

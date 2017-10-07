@@ -1,0 +1,15 @@
+Animals
+Blood Proteins/pharmacology
+Culture Media/analysis/*pharmacology
+Culture Techniques/methods
+Embryo Transfer/*methods
+Embryo, Mammalian/*drug effects/physiology
+Female
+Globulins/analysis/*pharmacology
+Humans
+Lipoproteins/analysis/pharmacology
+Mice
+Plasma Substitutes/pharmacology
+Serum Albumin/analysis/*pharmacology
+Serum Globulins
+Sodium Chloride/analysis/pharmacology

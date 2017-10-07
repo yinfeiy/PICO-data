@@ -1,0 +1,16 @@
+Adult
+Aged
+Anticholesteremic Agents/*therapeutic use
+Azetidines/*therapeutic use
+Cholesterol, LDL/blood
+Cosyntropin/blood
+Double-Blind Method
+Ezetimibe
+Female
+Humans
+Hypercholesterolemia/blood/*drug therapy
+Male
+Middle Aged
+Single-Blind Method
+Triglycerides/blood
+Vitamins/blood

@@ -1,0 +1,25 @@
+Aged
+Cardiac Output, Low/*drug therapy/*economics/epidemiology
+Cardiotonic Agents/*economics/*therapeutic use
+Cost-Benefit Analysis/economics
+Dobutamine/*economics/*therapeutic use
+Double-Blind Method
+Europe/epidemiology
+Female
+Follow-Up Studies
+Heart Failure/*drug therapy/*economics/epidemiology
+Humans
+Hydrazones/*economics/*therapeutic use
+Infusions, Intravenous
+Length of Stay/economics
+Life Expectancy
+Male
+Middle Aged
+Patient Admission/economics
+Pyridazines/*economics/*therapeutic use
+Randomized Controlled Trials as Topic
+Risk Factors
+Sensitivity and Specificity
+Severity of Illness Index
+Survival Analysis
+Treatment Outcome

@@ -1,0 +1,18 @@
+Adult
+Colon/immunology/pathology
+Cytokines/*metabolism
+Diarrhea/etiology/immunology/pathology/*therapy
+Double-Blind Method
+Female
+Humans
+Intestinal Mucosa/immunology/pathology
+Irritable Bowel Syndrome/complications/immunology/pathology/*therapy
+Male
+Middle Aged
+Pilot Projects
+Probiotics/adverse effects/*therapeutic use
+Psychometrics
+Quality of Life
+*Saccharomyces
+Treatment Outcome
+Young Adult

@@ -1,0 +1,21 @@
+Adult
+Aged
+Antineoplastic Agents/adverse effects
+Biomarkers/blood
+Bone Density/drug effects/*physiology
+Bone Density Conservation Agents/therapeutic use
+Bone Remodeling/drug effects/physiology
+Breast Neoplasms/drug therapy/*physiopathology
+Calcium/therapeutic use
+Drug Therapy, Combination
+Etidronic Acid/analogs & derivatives/therapeutic use
+Female
+Humans
+Middle Aged
+Muscle Strength/physiology
+Osteoporosis, Postmenopausal/*therapy
+Patient Compliance
+Postural Balance/physiology
+Resistance Training/*methods
+Risedronate Sodium
+Vitamin D/therapeutic use

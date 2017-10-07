@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Albuterol/analogs & derivatives/therapeutic use
+Anti-Asthmatic Agents/*therapeutic use
+Asthma/*drug therapy/physiopathology
+Beclomethasone/therapeutic use
+Bronchial Provocation Tests
+Bronchodilator Agents/therapeutic use
+Drug Therapy, Combination
+Female
+Glucocorticoids/therapeutic use
+Humans
+Male
+Middle Aged
+Nedocromil/therapeutic use
+Peak Expiratory Flow Rate
+Salmeterol Xinafoate
+Time Factors

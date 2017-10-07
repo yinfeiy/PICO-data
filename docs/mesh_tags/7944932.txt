@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Confounding Factors (Epidemiology)
+Double-Blind Method
+Female
+Humans
+Infection/etiology/*mortality/*therapy
+Injury Severity Score
+Interferon-gamma/adverse effects/*therapeutic use
+Male
+Middle Aged
+Recombinant Proteins/adverse effects/therapeutic use
+Survival Analysis
+Treatment Outcome
+Wounds and Injuries/*complications

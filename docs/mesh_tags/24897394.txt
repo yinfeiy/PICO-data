@@ -1,0 +1,11 @@
+Adult
+Female
+Hematocrit
+Humans
+*Labor Stage, Third
+Oxytocics/*administration & dosage
+Oxytocin/*administration & dosage
+Postpartum Hemorrhage/*prevention & control
+*Postpartum Period
+Pregnancy
+Young Adult

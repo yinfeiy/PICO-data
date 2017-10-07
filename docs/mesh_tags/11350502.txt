@@ -1,0 +1,22 @@
+Adult
+Bacteria/classification/drug effects
+Dental Plaque/microbiology/prevention & control
+Dental Plaque Index
+Disease Progression
+Double-Blind Method
+Female
+Gingival Hemorrhage/prevention & control
+Gingivitis/*prevention & control
+Glycoproteins/administration & dosage/*therapeutic use
+Histidine/administration & dosage/*therapeutic use
+Humans
+Male
+Middle Aged
+Mouthwashes/*therapeutic use
+Periodontal Index
+Periodontium/microbiology
+Placebos
+Prevotella intermedia/drug effects
+Proteins/administration & dosage/*therapeutic use
+Safety
+Statistics as Topic

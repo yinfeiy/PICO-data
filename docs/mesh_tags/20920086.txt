@@ -1,0 +1,10 @@
+Aged
+Female
+Fractures, Bone/*surgery
+Hong Kong
+Humans
+Male
+Middle Aged
+Pain, Postoperative/*therapy
+*Patient Education as Topic
+Program Evaluation

@@ -1,0 +1,22 @@
+Adult
+Aged
+Arthritis, Rheumatoid/*therapy
+DNA, Complementary/genetics
+Dependovirus/*genetics
+Double-Blind Method
+Etanercept
+Feasibility Studies
+Female
+Gene Transfer Techniques
+Genetic Therapy/adverse effects/*methods
+Genetic Vectors/*administration & dosage/adverse effects
+Humans
+Immunoglobulin G/*genetics
+Injections, Intra-Articular
+Male
+Middle Aged
+Receptors, Tumor Necrosis Factor/*genetics
+Recombinant Fusion Proteins/genetics
+Severity of Illness Index
+Treatment Outcome
+Tumor Necrosis Factor-alpha/genetics

@@ -1,0 +1,14 @@
+Autistic Disorder/diagnosis/physiopathology/*therapy
+Child
+Child, Preschool
+Cross-Over Studies
+*Electric Stimulation Therapy
+Electroencephalography/methods
+Humans
+Male
+Neuropsychological Tests
+Prefrontal Cortex/physiology
+Time Factors
+*Transcranial Direct Current Stimulation
+*Transcranial Magnetic Stimulation/methods
+Treatment Outcome

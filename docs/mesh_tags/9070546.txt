@@ -1,0 +1,14 @@
+Adult
+Aged
+*Cardiotonic Agents/adverse effects
+*Catecholamines/adverse effects
+Coronary Angiography
+Echocardiography/drug effects/*methods/statistics & numerical data
+Exercise Test/drug effects/*methods/statistics & numerical data
+Female
+Hemodynamics/drug effects
+Humans
+Male
+Middle Aged
+Myocardial Ischemia/*diagnosis/physiopathology
+Sensitivity and Specificity

@@ -1,0 +1,19 @@
+*Abortion, Induced
+Adolescent
+Adult
+Anesthesia Recovery Period
+*Anesthesia, Intravenous
+*Anesthesia, Obstetrical
+Anesthetics, Intravenous/*administration & dosage/adverse effects
+Eye Movements/drug effects
+Female
+Humans
+Middle Aged
+Muscle, Skeletal/drug effects
+Orientation
+Patient Discharge
+Posture
+Pregnancy
+Pregnanolone/*administration & dosage/adverse effects
+Psychomotor Performance/drug effects
+Thiopental/*administration & dosage/adverse effects

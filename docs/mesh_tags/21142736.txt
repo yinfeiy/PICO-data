@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Axilla
+Dermoscopy
+Erythema/pathology
+Female
+Hair/*radiation effects
+Humans
+Hydrogen-Ion Concentration
+*Lasers
+Melanins/metabolism
+Middle Aged
+Sebum/secretion
+Skin/*radiation effects
+Skin Physiological Phenomena
+Water Loss, Insensible

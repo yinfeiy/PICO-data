@@ -1,0 +1,15 @@
+Aged
+Anastomosis, Surgical/adverse effects/methods
+Colectomy/*methods
+Colon/*pathology
+Colon, Sigmoid/*surgery
+Female
+Humans
+Ligation/*methods
+Male
+Middle Aged
+Neoplasm Recurrence, Local/prevention & control
+*Neoplasm Seeding
+Prospective Studies
+Sigmoid Neoplasms/*pathology/*surgery
+Sutures/adverse effects

@@ -1,0 +1,10 @@
+Adult
+Forced Expiratory Volume
+Humans
+Iopamidol/*adverse effects
+Iothalamic Acid/*adverse effects
+Middle Aged
+Respiration/*drug effects
+Spirometry
+*Urography
+Vital Capacity

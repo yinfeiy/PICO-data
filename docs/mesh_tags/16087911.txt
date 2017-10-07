@@ -1,0 +1,22 @@
+Acute Disease/therapy
+Adult
+Aged
+Aged, 80 and over
+Amines/*administration & dosage/therapeutic use
+Analgesics/administration & dosage/therapeutic use
+Anticonvulsants/administration & dosage/therapeutic use
+Cross-Over Studies
+Cyclohexanecarboxylic Acids/*administration & dosage/therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Herpes Zoster/*complications/physiopathology
+Humans
+Hyperalgesia/*drug therapy/etiology/physiopathology
+Male
+Middle Aged
+Pain Measurement
+Pain Threshold/*drug effects/physiology
+Treatment Outcome
+gamma-Aminobutyric Acid/*administration & dosage/therapeutic use

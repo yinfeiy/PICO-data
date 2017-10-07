@@ -1,0 +1,11 @@
+Aged
+Carcinoma, Non-Small-Cell Lung/*mortality/pathology/*surgery
+Humans
+Logistic Models
+Lung Neoplasms/*mortality/pathology/*surgery
+Multivariate Analysis
+*Nomograms
+Prognosis
+Radiosurgery/*methods/*mortality
+Radiotherapy Dosage
+Time Factors

@@ -1,0 +1,16 @@
+Adult
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Chronic Disease
+Female
+Glomerulonephritis/blood/*drug therapy/*urine
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+Hypercholesterolemia/blood/complications
+Male
+Middle Aged
+Proteinuria/*urine
+Pyridines/*therapeutic use
+Sialoglycoproteins/metabolism
+Triglycerides/blood
+Urine/cytology

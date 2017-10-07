@@ -1,0 +1,12 @@
+Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+Animals
+Benzazepines/adverse effects/therapeutic use
+Dog Diseases/*drug therapy/pathology
+Dogs
+Female
+Heart Failure/drug therapy/pathology/*veterinary
+Imidazolidines/adverse effects/*therapeutic use
+Male
+Safety
+Severity of Illness Index
+Treatment Outcome

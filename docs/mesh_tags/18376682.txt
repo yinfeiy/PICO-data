@@ -1,0 +1,17 @@
+Adult
+Aged
+Analysis of Variance
+Anesthetics, Local/*administration & dosage
+Bupivacaine/*administration & dosage
+*Cholecystectomy, Laparoscopic
+Double-Blind Method
+Female
+Humans
+Injections, Intraperitoneal
+Lidocaine/*administration & dosage
+Longitudinal Studies
+Male
+Middle Aged
+Pain Measurement
+Pain, Postoperative/*prevention & control
+Treatment Outcome

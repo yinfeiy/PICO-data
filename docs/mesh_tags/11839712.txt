@@ -1,0 +1,14 @@
+Adult
+Blood Glucose/drug effects/metabolism
+Gastric Emptying/*drug effects
+Gastric Fundus/drug effects/physiology
+Gastrointestinal Hormones/blood
+Glucagon
+Glucagon-Like Peptide 1
+Glucagon-Like Peptides
+Humans
+Male
+Muscle Relaxation/drug effects
+Peptide Fragments/*pharmacology
+Pressure
+Satiety Response/*drug effects

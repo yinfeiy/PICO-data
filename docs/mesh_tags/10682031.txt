@@ -1,0 +1,22 @@
+Adult
+Aerosols
+Aged
+Anti-Bacterial Agents/*administration & dosage/adverse effects
+Creatinine/blood
+Cross Infection/*drug therapy
+Data Interpretation, Statistical
+Double-Blind Method
+Drug Tolerance
+Female
+Humans
+Intubation, Intratracheal
+Kidney/drug effects
+Male
+Middle Aged
+Placebos
+Pneumonia, Bacterial/*drug therapy
+Respiration/drug effects
+Respiration, Artificial
+Time Factors
+Tobramycin/*administration & dosage/adverse effects
+Treatment Outcome

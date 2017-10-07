@@ -1,0 +1,12 @@
+Adult
+Colitis, Ulcerative/*drug therapy/physiopathology
+Double-Blind Method
+Female
+Hemorrhage
+Humans
+Male
+Mesalamine/administration & dosage/adverse effects/*therapeutic use
+Middle Aged
+Mucous Membrane/pathology
+Rectum/pathology
+Recurrence

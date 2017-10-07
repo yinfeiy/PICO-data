@@ -1,0 +1,9 @@
+Aged
+Anemia, Iron-Deficiency/*drug therapy/etiology/*therapy
+Arthroplasty, Replacement, Knee/*adverse effects
+*Blood Transfusion
+Erythropoietin/administration & dosage/*therapeutic use
+Humans
+Iron/administration & dosage/*therapeutic use
+Postoperative Hemorrhage
+Recombinant Proteins

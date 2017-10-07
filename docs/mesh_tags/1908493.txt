@@ -1,0 +1,11 @@
+Adult
+Female
+Growth Hormone/*blood
+Growth Hormone-Releasing Hormone/administration & dosage/adverse effects/*pharmacology
+Humans
+Injections, Intravenous
+Kidney Failure, Chronic/*blood
+Male
+Prolactin/blood
+Thyrotropin-Releasing Hormone/pharmacology
+Uremia/blood

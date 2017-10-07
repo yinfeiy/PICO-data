@@ -1,0 +1,17 @@
+Adult
+Aged
+Anticholesteremic Agents/blood/pharmacology
+Cholesterol/*blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Dietary Supplements
+Double-Blind Method
+Female
+Humans
+Hypercholesterolemia/*diet therapy
+Isoflavones/blood/*pharmacology
+Lipids/*blood
+Male
+Middle Aged
+Soybean Proteins/*chemistry
+Triglycerides/blood

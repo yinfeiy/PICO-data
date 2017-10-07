@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Chronic Disease
+Endoscopy
+Female
+Humans
+Leg/blood supply
+Male
+Middle Aged
+Postoperative Complications
+Prospective Studies
+Retrospective Studies
+Varicose Ulcer/complications/pathology
+Vascular Surgical Procedures
+Venous Insufficiency/complications/diagnosis/physiopathology/*surgery
+Venous Pressure

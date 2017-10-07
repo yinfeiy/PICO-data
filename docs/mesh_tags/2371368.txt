@@ -1,0 +1,9 @@
+Adult
+Female
+Haloperidol/*blood/therapeutic use
+Humans
+Male
+Psychiatric Status Rating Scales
+Psychotic Disorders/blood/*drug therapy/psychology
+Schizophrenia/blood/*drug therapy
+Schizophrenic Psychology

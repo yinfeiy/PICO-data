@@ -1,0 +1,18 @@
+Adult
+Aged
+*Beverages
+Diet
+Dietary Supplements
+*Egg Yolk/chemistry
+*Eggs
+Female
+Follow-Up Studies
+Humans
+Lutein/*blood
+Macular Degeneration/blood/diet therapy
+*Macular Pigment
+Male
+Middle Aged
+*Retinal Pigments
+Treatment Outcome
+Zeaxanthins/*blood

@@ -1,0 +1,11 @@
+Adult
+Biomarkers/*blood
+Breast Neoplasms/*blood/epidemiology/ethnology
+Case-Control Studies
+China
+*Diet
+Female
+Fibroadenoma/*blood/epidemiology/ethnology
+Humans
+Middle Aged
+Risk Factors

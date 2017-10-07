@@ -1,0 +1,16 @@
+Acepromazine/administration & dosage/adverse effects/pharmacology
+Anesthesia/veterinary
+Anesthetics, Intravenous/administration & dosage/adverse effects/*pharmacology
+Animals
+Blood Pressure/*drug effects
+Cardiac Output/*drug effects
+Cross-Over Studies
+Diazepam/administration & dosage/adverse effects/pharmacology
+Dogs/*physiology
+Heart Rate/*drug effects
+Isoflurane/administration & dosage
+Ketamine/administration & dosage/adverse effects/pharmacology
+Oxymorphone/administration & dosage/adverse effects/pharmacology
+Propofol/administration & dosage/adverse effects/pharmacology
+Stroke Volume/drug effects
+Vascular Resistance/drug effects

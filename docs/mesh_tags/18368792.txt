@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+DNA, Bacterial/analysis
+Disease Progression
+Duodenal Ulcer/complications/microbiology/*pathology
+Duodenum/microbiology/*pathology
+Endoscopy, Gastrointestinal
+Female
+Follow-Up Studies
+Gastric Mucosa/microbiology/*pathology
+Helicobacter Infections/complications/microbiology/*pathology
+Helicobacter pylori/genetics/*isolation & purification
+Humans
+Male
+Metaplasia
+Middle Aged
+Prognosis
+Prospective Studies
+Risk Factors

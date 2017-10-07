@@ -1,0 +1,18 @@
+Aged
+Angioplasty, Balloon, Coronary/*methods
+Antibodies, Monoclonal/*therapeutic use
+Combined Modality Therapy
+Coronary Angiography/methods
+Coronary Stenosis/diagnostic imaging/therapy
+Electrocardiography/methods
+Female
+Humans
+Immunoglobulin Fab Fragments/*therapeutic use
+Length of Stay
+Male
+Middle Aged
+Myocardial Infarction/*therapy
+Myocardial Reperfusion/*methods
+Platelet Aggregation Inhibitors/*therapeutic use
+Stents
+Vascular Patency

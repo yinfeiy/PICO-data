@@ -1,0 +1,25 @@
+Aged
+Analysis of Variance
+Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+Biomarkers/blood
+Boston
+Brachial Artery/diagnostic imaging/*drug effects/immunology/physiopathology
+Coronary Artery Disease/blood/*drug therapy/immunology/physiopathology
+Cross-Over Studies
+Double-Blind Method
+Endothelium, Vascular/diagnostic imaging/*drug effects/immunology/physiopathology
+Female
+Fingers/*blood supply
+Humans
+Inflammation Mediators/blood
+Leukocytes/drug effects/immunology
+Male
+Manometry
+Middle Aged
+NF-kappa B/antagonists & inhibitors/metabolism
+Predictive Value of Tests
+Sulfasalazine/adverse effects/*therapeutic use
+Time Factors
+Treatment Outcome
+Ultrasonography, Doppler
+Vasodilation/*drug effects

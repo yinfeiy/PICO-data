@@ -1,0 +1,16 @@
+Adult
+Aged
+Alanine/*administration & dosage
+Dipeptides/*administration & dosage
+Esophageal Diseases/immunology/surgery
+Female
+Glutamine/*administration & dosage
+Humans
+Immune Tolerance/drug effects
+Male
+Middle Aged
+*Parenteral Nutrition, Total
+Postoperative Complications/*immunology/prevention & control
+Prospective Studies
+Stomach Diseases/immunology/surgery
+Surgical Wound Infection/immunology/prevention & control

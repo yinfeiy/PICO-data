@@ -1,0 +1,17 @@
+Adult
+Affect/drug effects
+Aged
+Double-Blind Method
+Female
+Humans
+Hunger/drug effects
+Male
+Middle Aged
+Nicotine/*therapeutic use
+Nicotinic Agonists/therapeutic use
+Polysomnography
+*Sex Characteristics
+Sleep/drug effects
+Sleep Stages/drug effects
+Smoking/*drug therapy
+Substance Withdrawal Syndrome/*drug therapy

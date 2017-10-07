@@ -1,0 +1,16 @@
+Antiretroviral Therapy, Highly Active
+Biomarkers/blood
+Drug Administration Schedule
+Female
+Fibrin Fibrinogen Degradation Products/*metabolism
+HIV Infections/blood/*drug therapy/virology
+HIV Integrase Inhibitors/*administration & dosage
+HIV Long Terminal Repeat/*genetics
+HIV-1/drug effects/*genetics
+Humans
+Male
+Middle Aged
+Pyrrolidinones/*administration & dosage
+Raltegravir Potassium
+Treatment Outcome
+Virus Replication/drug effects

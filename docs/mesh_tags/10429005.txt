@@ -1,0 +1,10 @@
+Arousal/physiology
+Deglutition/physiology
+Humans
+Infant, Newborn
+Larynx/*physiology
+*Prone Position
+*Reflex
+Respiration
+Risk Factors
+Sudden Infant Death/*epidemiology

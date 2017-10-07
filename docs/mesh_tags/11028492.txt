@@ -1,0 +1,20 @@
+Adult
+Anticoagulants/administration & dosage
+Blood Flow Velocity/drug effects
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Heparin/*administration & dosage
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Phlebography
+Plasminogen Activators/administration & dosage
+Safety
+Streptokinase/*administration & dosage
+*Thrombolytic Therapy
+Tissue Plasminogen Activator/*administration & dosage
+Ultrasonography, Doppler, Color
+Urokinase-Type Plasminogen Activator/*administration & dosage
+Venous Thrombosis/diagnosis/*drug therapy/physiopathology

@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Demography
+Female
+Health Resources/economics/utilization
+Heart Failure/economics/psychology/*rehabilitation
+Hospital Costs/statistics & numerical data
+Humans
+Male
+Mentors
+Middle Aged
+*Peer Group
+Self Care/psychology/statistics & numerical data
+Social Support

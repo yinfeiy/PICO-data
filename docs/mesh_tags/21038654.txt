@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Diagnosis, Differential
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Glomerulonephritis, IGA/*drug therapy
+Hematuria/urine
+Humans
+Losartan/therapeutic use
+Male
+Medicine, Chinese Traditional
+Middle Aged
+*Phytotherapy
+Proteinuria/urine
+Young Adult

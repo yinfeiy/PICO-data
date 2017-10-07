@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents/*therapeutic use
+Chemotherapy, Adjuvant
+Female
+Humans
+Interferon-alpha/*therapeutic use
+Male
+Matrix Metalloproteinase 8/*blood
+Melanoma/*blood/*drug therapy/mortality/pathology
+Middle Aged
+Neoplasm Staging
+Prognosis
+Recombinant Proteins/therapeutic use
+Treatment Outcome
+Young Adult

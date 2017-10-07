@@ -1,0 +1,19 @@
+Adult
+Aged
+Analysis of Variance
+Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+Apolipoproteins/blood
+Arteriosclerosis/blood/drug therapy
+Atenolol/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Female
+Heart Rate/drug effects
+Humans
+Hypertension/*drug therapy/physiopathology
+Lipids/*blood
+Lipoproteins/blood
+Male
+Middle Aged
+Organophosphorus Compounds/adverse effects/*therapeutic use
+Phosphatidylcholine-Sterol O-Acyltransferase/blood
+Proline/adverse effects/*analogs & derivatives/therapeutic use

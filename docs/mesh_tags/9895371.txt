@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Colorectal Neoplasms/*surgery
+Female
+Glutamine/*therapeutic use
+Humans
+Male
+Middle Aged
+Parenteral Nutrition, Total/*methods
+Postoperative Care/*methods
+Randomized Controlled Trials as Topic
+Treatment Outcome

@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Antipsychotic Agents/therapeutic use
+Benzodiazepines/therapeutic use
+Cognition Disorders/*etiology
+Female
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Neuropsychological Tests
+Psychiatric Status Rating Scales
+Psychotic Disorders/*complications/drug therapy/*psychology
+Retrospective Studies
+Risperidone/therapeutic use
+Statistics, Nonparametric
+Young Adult

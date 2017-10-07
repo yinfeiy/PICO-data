@@ -1,0 +1,21 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/adverse effects/*therapeutic use
+Capecitabine
+Carcinoma, Squamous Cell/*drug therapy/pathology/radiotherapy
+Chemoradiotherapy, Adjuvant
+Cisplatin/administration & dosage/adverse effects/therapeutic use
+Deoxycytidine/administration & dosage/adverse effects/analogs & derivatives/therapeutic use
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Fluorouracil/administration & dosage/adverse effects/analogs & derivatives/therapeutic use
+Head and Neck Neoplasms/*drug therapy/pathology/radiotherapy
+Humans
+Male
+Middle Aged
+Neoadjuvant Therapy
+Neoplasm Grading
+Neoplasm Invasiveness
+Neoplasm Staging
+Quality of Life

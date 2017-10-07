@@ -1,0 +1,12 @@
+Aged
+Alleles
+Clone Cells/pathology
+Disease Progression
+Humans
+Lymph Node Excision
+Male
+Microsatellite Repeats
+Middle Aged
+Prostatectomy
+Prostatic Neoplasms/*genetics/pathology/surgery
+Retrospective Studies

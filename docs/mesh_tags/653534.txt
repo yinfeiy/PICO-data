@@ -1,0 +1,9 @@
+Chlorpromazine
+Female
+Galactorrhea/drug therapy
+Humans
+Lactation/*drug effects
+Metabolic Diseases/*blood/chemically induced
+Pregnancy
+Prolactin/*blood
+Pyridoxine/*pharmacology/therapeutic use

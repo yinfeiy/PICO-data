@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Female
+Fetal Monitoring/methods
+Humans
+*Labor, Obstetric
+*Locomotion
+Pregnancy
+Prenatal Care/*methods
+Prospective Studies
+Random Allocation
+Telemetry/methods

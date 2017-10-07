@@ -1,0 +1,16 @@
+Antibodies, Bacterial/biosynthesis/blood
+Antibodies, Viral/biosynthesis/blood
+Diphtheria-Tetanus-Pertussis Vaccine/administration & dosage/*adverse effects/*immunology
+Drug Interactions
+Female
+Haemophilus Vaccines/administration & dosage/*adverse effects/*immunology
+Hepatitis B Vaccines/administration & dosage/*adverse effects/*immunology
+Humans
+Immunization Schedule
+Infant
+Infant, Newborn
+Male
+Poliovirus Vaccine, Inactivated/administration & dosage/*adverse effects/*immunology
+Safety
+Vaccines, Combined/*adverse effects/*immunology
+Vaccines, Conjugate/adverse effects/immunology

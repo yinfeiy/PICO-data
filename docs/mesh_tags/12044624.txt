@@ -1,0 +1,15 @@
+Aged
+Analgesics/*administration & dosage/adverse effects
+Analgesics, Opioid/administration & dosage
+Anxiety/drug therapy
+Depression/drug therapy
+Double-Blind Method
+Extremities
+Female
+Humans
+Infusions, Intravenous
+Ischemia/*complications
+Ketamine/*administration & dosage/adverse effects
+Male
+Pain/*drug therapy/etiology
+Treatment Outcome

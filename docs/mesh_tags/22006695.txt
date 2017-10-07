@@ -1,0 +1,16 @@
+Adult
+Aged
+Arm/*physiology
+Electromyography/methods
+Female
+Humans
+Male
+Middle Aged
+Movement/*physiology
+Orientation/*physiology
+Photic Stimulation/methods
+Psychomotor Performance/physiology
+Range of Motion, Articular/physiology
+Stroke/*physiopathology
+*Torque
+Young Adult

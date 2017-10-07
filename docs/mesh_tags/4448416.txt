@@ -1,0 +1,18 @@
+Acute Disease
+Adult
+Bilirubin/blood
+Blood Cell Count
+Blood Coagulation Factors/*therapeutic use
+Blood Coagulation Tests
+Blood Platelets
+Factor IX/analysis
+Factor X/analysis
+Factor XIII/analysis
+Fibrinogen/analysis
+Hemorrhagic Disorders/*drug therapy/*etiology
+Heparin/*therapeutic use
+Humans
+Infusions, Parenteral
+Liver Diseases/*blood/complications
+Middle Aged
+Prothrombin/analysis/*therapeutic use

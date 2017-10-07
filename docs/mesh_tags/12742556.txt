@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Androgens/blood
+Contraceptives, Oral, Combined/*therapeutic use
+Desogestrel/administration & dosage
+Double-Blind Method
+Ethinyl Estradiol/administration & dosage
+Female
+Hirsutism/*drug therapy/pathology
+Humans
+Levonorgestrel/administration & dosage
+Middle Aged
+Severity of Illness Index
+Sex Hormone-Binding Globulin/metabolism
+Treatment Outcome

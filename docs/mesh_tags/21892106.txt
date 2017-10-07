@@ -1,0 +1,26 @@
+Adult
+Aged
+Aged, 80 and over
+Anorexia/etiology
+Antimetabolites, Antineoplastic/therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*pathology/*therapy
+*Chemoradiotherapy/adverse effects
+Cisplatin/administration & dosage
+Deoxycytidine/analogs & derivatives/therapeutic use
+Disease-Free Survival
+Dose Fractionation
+Dyspnea/etiology
+Fatigue/etiology
+Feasibility Studies
+Female
+Humans
+Lung Neoplasms/*pathology/*therapy
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Staging
+Proportional Hazards Models
+Quality of Life
+Treatment Outcome
+Vinblastine/administration & dosage/analogs & derivatives

@@ -1,0 +1,15 @@
+Adult
+Analgesia
+Blood Loss, Surgical
+Female
+Humans
+Hysterectomy/*methods
+Hysterectomy, Vaginal/methods
+Leiomyoma/*surgery
+Length of Stay
+Middle Aged
+Morbidity
+Postoperative Hemorrhage
+Prospective Studies
+Treatment Outcome
+Uterine Neoplasms/*surgery

@@ -1,0 +1,21 @@
+Adenoma/*epidemiology/pathology/surgery
+Adenoma, Villous/*epidemiology/pathology/surgery
+Adult
+Age Distribution
+Aged
+Aged, 80 and over
+Colonic Neoplasms/*epidemiology/pathology/surgery
+Colonoscopy
+Female
+Follow-Up Studies
+Humans
+Incidence
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*epidemiology/pathology/surgery
+*Population Surveillance
+Proportional Hazards Models
+Risk Factors
+Sex Distribution
+Survival Rate
+Time Factors

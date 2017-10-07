@@ -1,0 +1,16 @@
+Adolescent
+Anesthesia, Local
+Anxiety/etiology/*therapy
+Child
+Emergency Service, Hospital
+Female
+Humans
+Lacerations/*surgery
+Male
+Pain/etiology
+*Pain Management
+Pain Measurement
+*Play and Playthings
+*Relaxation
+Surveys and Questionnaires
+Sutures

@@ -1,0 +1,14 @@
+Adolescent
+Anxiety Disorders/complications/psychology/*therapy
+Asperger Syndrome/complications/psychology/therapy
+Autistic Disorder/complications/psychology/therapy
+Child
+Child Development Disorders, Pervasive/complications/psychology/*therapy
+Cognitive Therapy/*methods
+Female
+Humans
+Male
+Patient Compliance
+Pilot Projects
+Psychiatric Status Rating Scales
+Treatment Outcome

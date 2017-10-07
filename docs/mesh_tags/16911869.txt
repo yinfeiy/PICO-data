@@ -1,0 +1,21 @@
+Administration, Inhalation
+Aged
+Bronchodilator Agents/administration & dosage/*adverse effects
+Double-Blind Method
+Drug Administration Schedule
+Electrocardiography, Ambulatory
+Ethanolamines/administration & dosage/*adverse effects
+Female
+Formoterol Fumarate
+Humans
+Hypotension/chemically induced
+Infection/chemically induced
+Male
+Middle Aged
+Nebulizers and Vaporizers
+Prospective Studies
+Pulmonary Disease, Chronic Obstructive/*drug therapy
+Spirometry
+Syncope/chemically induced
+Tachycardia, Ventricular/chemically induced
+Ventricular Fibrillation/chemically induced

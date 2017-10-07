@@ -1,0 +1,15 @@
+Aortic Valve/diagnostic imaging/physiology/surgery
+Echocardiography, Doppler
+Female
+Fluoroscopy/*methods
+Heart/physiology
+Heart Valve Diseases/diagnostic imaging/*physiopathology/*surgery
+*Heart Valve Prosthesis
+Hemodynamics
+Humans
+Intraoperative Period
+Male
+Middle Aged
+Mitral Valve/diagnostic imaging/physiology/surgery
+Prospective Studies
+Tricuspid Valve/diagnostic imaging/physiology/surgery

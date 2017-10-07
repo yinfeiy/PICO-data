@@ -1,0 +1,22 @@
+Aged
+Dental Arch/surgery
+*Dental Implants
+*Dental Implants, Single-Tooth
+*Dental Prosthesis, Implant-Supported
+Dental Restoration Failure
+Denture Rebasing
+Denture Repair
+Denture Retention
+Denture, Complete, Lower
+*Denture, Overlay
+Female
+Follow-Up Studies
+Humans
+Jaw, Edentulous/rehabilitation/surgery
+Male
+Mandible/surgery
+Patient Satisfaction
+Self-Assessment
+Survival Analysis
+Treatment Outcome
+Visual Analog Scale

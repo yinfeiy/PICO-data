@@ -1,0 +1,18 @@
+Antibodies, Monoclonal/*administration & dosage/adverse effects
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Bevacizumab
+Camptothecin/administration & dosage/adverse effects/analogs & derivatives
+Colorectal Neoplasms/*drug therapy/pathology
+Disease-Free Survival
+Drug Approval
+Female
+Fluorouracil/administration & dosage/adverse effects
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Organoplatinum Compounds/administration & dosage/adverse effects
+Treatment Outcome
+United States
+United States Food and Drug Administration

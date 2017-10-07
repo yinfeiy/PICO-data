@@ -1,0 +1,18 @@
+Adult
+Amino Acids/blood
+Antipsychotic Agents/*therapeutic use
+Cycloserine/blood/*therapeutic use
+Double-Blind Method
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Glycine/blood/physiology
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Placebos
+Psychiatric Status Rating Scales
+Receptors, N-Methyl-D-Aspartate/drug effects/physiology
+Schizophrenia/diagnosis/*drug therapy/physiopathology
+Treatment Outcome

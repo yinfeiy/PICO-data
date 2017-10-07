@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/mortality/therapy
+Cisplatin/*administration & dosage
+Humans
+Lung Neoplasms/mortality/therapy
+Middle Aged
+Neoplasm Recurrence, Local/*drug therapy/mortality
+Taxoids/*therapeutic use

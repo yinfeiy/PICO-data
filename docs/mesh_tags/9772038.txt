@@ -1,0 +1,16 @@
+Adult
+Deglutition/physiology
+Double-Blind Method
+Esophagogastric Junction/drug effects/*physiology
+Female
+Gastroesophageal Reflux/physiopathology
+Hormone Antagonists/pharmacology
+Humans
+Male
+Manometry
+Peristalsis/physiology
+Proglumide/analogs & derivatives/pharmacology
+Receptor, Cholecystokinin A
+Receptors, Cholecystokinin/antagonists & inhibitors/*physiology
+Reflex/physiology
+Stomach/*physiology

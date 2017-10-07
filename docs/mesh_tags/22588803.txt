@@ -1,0 +1,14 @@
+Aged
+Biomarkers/metabolism
+Boston
+C-Reactive Protein/*metabolism
+Case-Control Studies
+Female
+Heart Failure/*blood
+Humans
+Male
+Middle Aged
+Natriuretic Peptide, Brain/*blood
+Tai Ji
+*Temperature
+Tumor Necrosis Factor-alpha/*blood

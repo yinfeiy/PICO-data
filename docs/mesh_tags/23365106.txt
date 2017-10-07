@@ -1,0 +1,24 @@
+Adiponectin/blood
+Adolescent
+Adult
+Aged
+Blood Pressure/drug effects
+Caloric Restriction
+Cholesterol, HDL/blood
+*Diet, Reducing
+Dietary Supplements
+Fatty Acids, Omega-3/*administration & dosage
+Female
+Heart Rate/drug effects
+Humans
+Insulin Resistance
+Male
+Middle Aged
+Obesity/*diet therapy/*physiopathology
+Radial Artery
+Single-Blind Method
+Stroke Volume/drug effects
+Triglycerides/blood
+Vascular Stiffness/*drug effects
+Waist Circumference/drug effects
+Weight Loss/drug effects/physiology

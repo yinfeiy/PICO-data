@@ -1,0 +1,10 @@
+Adult
+*Balloon Occlusion
+Cardiac Catheterization/instrumentation/*methods
+Catheterization/instrumentation/*methods
+Female
+Follow-Up Studies
+Heart Valve Diseases/*therapy
+Humans
+Male
+*Mitral Valve

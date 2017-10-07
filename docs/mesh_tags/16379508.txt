@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Age Factors
+Antipsychotic Agents/*adverse effects/therapeutic use
+Child
+Child Development Disorders, Pervasive/blood/*drug therapy/psychology
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Humans
+Hyperprolactinemia/blood/*chemically induced
+Intellectual Disability/blood/*drug therapy/psychology
+Long-Term Care
+Prolactin/blood
+Prospective Studies
+Risperidone/*adverse effects/therapeutic use
+Sex Factors
+Treatment Outcome

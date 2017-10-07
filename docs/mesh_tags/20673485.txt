@@ -1,0 +1,24 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/therapeutic use
+Cisplatin/administration & dosage/adverse effects
+Combined Modality Therapy
+Drug Administration Schedule
+Etoposide/administration & dosage/adverse effects
+Female
+Follow-Up Studies
+Humans
+Lung Injury/etiology
+Lung Neoplasms/*drug therapy/pathology/*radiotherapy
+Male
+Middle Aged
+Neoplasm Staging
+Prospective Studies
+Radiotherapy/adverse effects/methods
+Radiotherapy Dosage
+Small Cell Lung Carcinoma/*drug therapy/pathology/*radiotherapy
+Survival Analysis
+Thrombocytopenia/etiology
+Time Factors
+Treatment Outcome
+Tumor Burden/drug effects/radiation effects

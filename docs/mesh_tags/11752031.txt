@@ -1,0 +1,18 @@
+Adult
+Azathioprine/administration & dosage/*therapeutic use
+Cyclophosphamide/administration & dosage/*therapeutic use
+Disease Progression
+Dose-Response Relationship, Drug
+Erythrocytes/pathology
+Female
+Glomerulonephritis, IGA/*drug therapy/physiopathology/urine
+Glucocorticoids/*therapeutic use
+Humans
+Immunosuppressive Agents/administration & dosage/*therapeutic use
+Kidney/drug effects/pathology/physiopathology
+Male
+Prednisolone/*therapeutic use
+Prospective Studies
+Proteinuria/etiology/urine
+Survival Analysis
+Urine/chemistry

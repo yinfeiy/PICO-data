@@ -1,0 +1,20 @@
+Adult
+Aged
+Antibodies, Monoclonal/adverse effects/*therapeutic use
+Antineoplastic Agents/adverse effects/therapeutic use
+Combined Modality Therapy
+Female
+Fever/etiology
+Headache/etiology
+Humans
+Iodine Radioisotopes/adverse effects/therapeutic use
+Kaplan-Meier Estimate
+Lymphoma, Follicular/pathology/*therapy
+Male
+Middle Aged
+Nausea/etiology
+Neoplasm Recurrence, Local
+Radioimmunotherapy/methods
+Rituximab/adverse effects/*therapeutic use
+Thrombocytopenia/etiology
+Treatment Outcome

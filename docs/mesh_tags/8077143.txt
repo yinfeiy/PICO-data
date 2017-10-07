@@ -1,0 +1,12 @@
+Animals
+Cattle
+Endotoxins
+Escherichia coli
+Female
+Fluid Therapy/*veterinary
+Infusions, Intravenous/veterinary
+*Lactation
+Mastitis, Bovine/physiopathology/*therapy
+Saline Solution, Hypertonic/administration & dosage/*therapeutic use
+Sodium Chloride/administration & dosage/therapeutic use
+Solutions

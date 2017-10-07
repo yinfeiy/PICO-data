@@ -1,0 +1,17 @@
+Adult
+Aged
+Carcinoma, Hepatocellular/*surgery
+Cellulose, Oxidized/*therapeutic use
+Female
+Hemangioma/*surgery
+Hemostatics/*therapeutic use
+Hepatectomy/*methods
+Humans
+Liver/*surgery
+Liver Neoplasms/secondary/*surgery
+Male
+Middle Aged
+Pleural Effusion/prevention & control
+Postoperative Complications/prevention & control
+Postoperative Hemorrhage/*prevention & control
+Treatment Outcome

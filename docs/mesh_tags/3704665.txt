@@ -1,0 +1,21 @@
+Acute Disease
+Age Factors
+Bloodletting/trends
+Chlorambucil/adverse effects/therapeutic use
+Combined Modality Therapy
+False Positive Reactions
+Follow-Up Studies
+Gastrointestinal Neoplasms/complications
+Gout/complications/drug therapy
+Hematocrit
+Humans
+Hydroxyurea/adverse effects/therapeutic use
+Leukemia/chemically induced
+Phosphorus Radioisotopes/adverse effects/therapeutic use
+Platelet Aggregation/drug effects
+Platelet Count
+Polycythemia Vera/complications/diagnosis/drug therapy/mortality/radiotherapy/*therapy
+Prospective Studies
+Pruritus/complications/drug therapy
+Skin Neoplasms/complications
+Thrombosis/etiology

@@ -1,0 +1,24 @@
+Administration, Oral
+Adolescent
+Adult
+Algorithms
+Analysis of Variance
+Anti-Inflammatory Agents, Non-Steroidal/administration & dosage/adverse effects/*pharmacokinetics
+Area Under Curve
+Arginine/blood/chemistry/*pharmacokinetics
+Biological Availability
+Chromatography, High Pressure Liquid
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Drug Combinations
+Epistaxis/chemically induced
+Female
+Half-Life
+Headache/chemically induced
+Humans
+Ibuprofen/blood/chemistry/*pharmacokinetics
+Male
+Metabolic Clearance Rate
+Stereoisomerism
+Therapeutic Equivalency
+Time Factors

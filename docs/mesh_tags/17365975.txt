@@ -1,0 +1,24 @@
+Adult
+Aged
+Angioplasty, Balloon, Coronary
+Anticoagulants/therapeutic use
+Emergency Medical Services
+Female
+Fibrinolytic Agents/*therapeutic use
+Follow-Up Studies
+*Health Services Accessibility
+Heart Conduction System/physiopathology
+Humans
+Male
+Middle Aged
+Myocardial Infarction/*drug therapy/mortality/physiopathology/therapy
+Norway/epidemiology
+Patient Transfer
+Platelet Aggregation Inhibitors/therapeutic use
+Prospective Studies
+*Research Design
+*Rural Health Services
+*Thrombolytic Therapy
+Time Factors
+Tissue Plasminogen Activator/*therapeutic use
+Treatment Outcome

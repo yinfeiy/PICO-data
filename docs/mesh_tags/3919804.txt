@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Blood Glucose/*analysis
+Diabetes Mellitus, Type 1/blood/complications/*drug therapy
+Diabetic Retinopathy/*etiology
+Female
+Hemoglobin A/analysis
+Humans
+Infusions, Parenteral
+Insulin/*administration & dosage/therapeutic use
+Male
+Time Factors

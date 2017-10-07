@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Analysis of Variance
+Androstanols/*administration & dosage
+Electromyography/drug effects/methods
+Female
+Humans
+Laryngeal Muscles/*drug effects/physiology
+Male
+Middle Aged
+Monitoring, Intraoperative/*methods
+Muscle, Skeletal/drug effects
+*Neuromuscular Blockade
+Neuromuscular Depolarizing Agents/*administration & dosage
+Neuromuscular Nondepolarizing Agents/*administration & dosage
+Succinylcholine/*administration & dosage

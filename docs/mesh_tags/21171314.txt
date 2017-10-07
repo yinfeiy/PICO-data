@@ -1,0 +1,18 @@
+Antineoplastic Agents/therapeutic use
+Carcinoma, Squamous Cell/*diagnostic imaging/drug therapy/*pathology/surgery
+Combined Modality Therapy
+Disease-Free Survival
+Dose-Response Relationship, Radiation
+Female
+Follow-Up Studies
+Humans
+Laryngeal Neoplasms/drug therapy/*pathology/*radiotherapy/surgery
+Male
+Neoplasm Staging
+Poland
+Postoperative Care/*methods
+Radiography
+Radiotherapy Dosage
+Radiotherapy, Adjuvant/utilization
+Risk Assessment
+Survival Analysis

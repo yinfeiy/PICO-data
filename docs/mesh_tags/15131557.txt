@@ -1,0 +1,13 @@
+Angioplasty, Balloon, Coronary/*methods
+Chronic Disease
+Coronary Angiography
+Coronary Disease/drug therapy/surgery/*therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Prospective Studies
+Recurrence
+Statistics as Topic
+*Stents

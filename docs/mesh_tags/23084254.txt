@@ -1,0 +1,19 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects/therapeutic use
+Exercise Therapy/*methods
+Fatigue/etiology/*physiopathology/*rehabilitation
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neoplasms/complications/*drug therapy/pathology
+Patient Satisfaction/statistics & numerical data
+Prospective Studies
+*Quality of Life
+Risk Factors
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+Young Adult

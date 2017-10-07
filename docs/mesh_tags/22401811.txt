@@ -1,0 +1,17 @@
+Adult
+Cell Survival
+Cryopreservation/*methods
+Cumulus Cells/*pathology
+Female
+Humans
+Infertility/physiopathology/*therapy
+Italy
+*Meiosis
+Microscopy, Electron
+*Nitrogen
+Oocytes/*pathology
+Pregnancy
+*Reproductive Techniques, Assisted
+Spindle Apparatus/*pathology
+Time Factors
+*Vitrification

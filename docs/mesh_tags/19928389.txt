@@ -1,0 +1,15 @@
+Aged
+Cardiography, Impedance
+Cheyne-Stokes Respiration/*etiology/physiopathology/*therapy
+Female
+Heart Failure/*complications/*physiopathology
+Humans
+Male
+Middle Aged
+Polysomnography
+Posture/*physiology
+Respiratory System/physiopathology
+Single-Blind Method
+Sleep/*physiology
+Stroke Volume
+Treatment Outcome

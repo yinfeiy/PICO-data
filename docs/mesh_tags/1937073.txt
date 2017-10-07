@@ -1,0 +1,18 @@
+Adult
+Aged
+*Electroretinography
+Evaluation Studies as Topic
+*Evoked Potentials, Visual
+Female
+Follow-Up Studies
+Glaucoma, Open-Angle/*surgery
+Humans
+Intraocular Pressure
+*Laser Therapy
+Male
+Middle Aged
+Pattern Recognition, Automated
+Postoperative Care
+Prospective Studies
+Random Allocation
+*Trabeculectomy

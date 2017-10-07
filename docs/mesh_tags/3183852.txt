@@ -1,0 +1,16 @@
+Adolescent
+Anuria/chemically induced
+Child
+Child, Preschool
+Dipyridamole/adverse effects/*therapeutic use
+Drug Therapy, Combination
+Female
+Hemolytic-Uremic Syndrome/complications/*drug therapy
+Heparin/adverse effects/*therapeutic use
+Humans
+Hypertension/etiology
+Infant
+Male
+Prospective Studies
+Random Allocation
+Time Factors

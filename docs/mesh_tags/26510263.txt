@@ -1,0 +1,24 @@
+Adult
+Anesthetics, Inhalation
+Anesthetics, Intravenous/*therapeutic use
+Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+Antigens, CD18/blood
+Biomarkers/blood
+C-Reactive Protein/metabolism
+*Cardiopulmonary Bypass
+Female
+Heme Oxygenase-1/blood/genetics
+Humans
+Hypoxia-Inducible Factor 1, alpha Subunit/blood
+Interleukin-6/blood
+Interleukin-8/blood
+Isoflurane
+Leukocytes, Mononuclear/drug effects/immunology/metabolism
+Male
+Middle Aged
+Polymorphism, Genetic
+Promoter Regions, Genetic
+Propofol/*therapeutic use
+Receptors, Complement 3d/blood
+Systemic Inflammatory Response Syndrome/blood/genetics/immunology/*prevention & control
+Treatment Outcome

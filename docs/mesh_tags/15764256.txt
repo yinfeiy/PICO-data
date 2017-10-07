@@ -1,0 +1,22 @@
+Adult
+Analysis of Variance
+Angiotensin II Type 1 Receptor Blockers/*therapeutic use
+Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+Chronic Disease
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Therapy, Combination
+Enalapril/*therapeutic use
+Female
+Follow-Up Studies
+Glomerulonephritis/diagnosis/*drug therapy
+Humans
+Kidney Function Tests
+Losartan/*therapeutic use
+Male
+Middle Aged
+Prospective Studies
+Reference Values
+Severity of Illness Index
+Statistics, Nonparametric
+Treatment Outcome

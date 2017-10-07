@@ -1,0 +1,13 @@
+*Cryotherapy
+Ecchymosis/diagnosis/etiology/therapy
+Edema/diagnosis/etiology/therapy
+Episiotomy/adverse effects/classification/*nursing
+Erythema/diagnosis/etiology/therapy
+Female
+Hot Temperature/*therapeutic use
+Humans
+Nursing Assessment
+Perineum/*injuries/surgery
+Pregnancy
+*Wound Healing
+Wounds and Injuries/classification/complications/*nursing

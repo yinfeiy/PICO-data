@@ -1,0 +1,15 @@
+Blood Coagulation/drug effects
+Blood Coagulation Tests/methods
+Enoxaparin/*therapeutic use
+Female
+Fibrin Fibrinogen Degradation Products/*metabolism
+Fibrinolysis/drug effects
+Fibrinolytic Agents/*therapeutic use
+Humans
+Male
+Plasminogen Activator Inhibitor 1/therapeutic use
+Predictive Value of Tests
+Serine Proteinase Inhibitors/therapeutic use
+Subarachnoid Hemorrhage/blood/*drug therapy
+Time Factors
+*Treatment Outcome

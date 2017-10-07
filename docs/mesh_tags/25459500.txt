@@ -1,0 +1,15 @@
+Adolescent
+Child
+Child, Preschool
+Echocardiography, Stress/*methods
+Exercise Test
+Female
+Humans
+Image Interpretation, Computer-Assisted/*methods
+Male
+Reproducibility of Results
+Sensitivity and Specificity
+Stroke Volume
+Tetralogy of Fallot/complications/*diagnostic imaging/*surgery
+Treatment Outcome
+Ventricular Dysfunction/*diagnostic imaging/*etiology

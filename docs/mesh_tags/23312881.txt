@@ -1,0 +1,20 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/pharmacokinetics/*therapeutic use
+Camptothecin/administration & dosage/analogs & derivatives
+Cohort Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Fluorouracil/administration & dosage
+Humans
+Leucovorin/administration & dosage
+Magnetic Resonance Imaging
+Male
+Maximum Tolerated Dose
+Middle Aged
+Neoplasms/*drug therapy
+Prognosis
+Receptors, Vascular Endothelial Growth Factor/administration & dosage
+Recombinant Fusion Proteins/administration & dosage
+Tissue Distribution

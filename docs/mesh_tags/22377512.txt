@@ -1,0 +1,18 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Antipsychotic Agents/*therapeutic use
+Benzodiazepines/therapeutic use
+Bipolar Disorder/*drug therapy/prevention & control
+Delayed-Action Preparations
+Double-Blind Method
+Female
+Humans
+Isoxazoles/*therapeutic use
+Male
+Middle Aged
+Paliperidone Palmitate
+Pyrimidines/*therapeutic use
+Secondary Prevention
+Young Adult

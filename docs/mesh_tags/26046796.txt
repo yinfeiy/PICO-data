@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/adverse effects/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+DNA Mutational Analysis
+Deoxycytidine/adverse effects/*analogs & derivatives/therapeutic use
+Disease-Free Survival
+Erlotinib Hydrochloride/adverse effects/*therapeutic use
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+*Mutation
+Pancreatic Neoplasms/*drug therapy/enzymology/genetics/mortality/pathology
+Prospective Studies
+Protein Kinase Inhibitors/adverse effects/*therapeutic use
+Proto-Oncogene Proteins p21(ras)/genetics
+Receptor, Epidermal Growth Factor/*antagonists & inhibitors/*genetics/metabolism
+Taiwan
+Time Factors
+Treatment Outcome

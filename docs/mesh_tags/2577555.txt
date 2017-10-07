@@ -1,0 +1,10 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Colorectal Neoplasms/*drug therapy/surgery
+Combined Modality Therapy
+Floxuridine/administration & dosage
+Fluorouracil/administration & dosage
+Humans
+*Infusion Pumps
+Infusions, Intra-Arterial/*instrumentation
+Liver Neoplasms/*drug therapy/*secondary/surgery
+Mitomycin/administration & dosage

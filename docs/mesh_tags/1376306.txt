@@ -1,0 +1,14 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bleomycin/administration & dosage
+Carcinoma, Squamous Cell/*drug therapy/mortality/radiotherapy/surgery
+Cisplatin/administration & dosage
+Combined Modality Therapy
+Female
+Fluorouracil/administration & dosage
+Humans
+Male
+Methotrexate/administration & dosage
+Middle Aged
+Mouth Neoplasms/*drug therapy
+Oropharyngeal Neoplasms/*drug therapy/mortality/radiotherapy/surgery
+Survival Rate

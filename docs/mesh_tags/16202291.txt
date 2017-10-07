@@ -1,0 +1,9 @@
+Adult
+Antifungal Agents/pharmacology/*therapeutic use
+Candida albicans/*drug effects/isolation & purification
+Candidiasis, Vulvovaginal/*drug therapy/microbiology
+Female
+Humans
+Miconazole/pharmacology/*therapeutic use
+Middle Aged
+Vagina/microbiology

@@ -1,0 +1,21 @@
+Administration, Rectal
+Adult
+Aged
+Ambulatory Care
+Arthritis, Rheumatoid/complications/*drug therapy/physiopathology
+Central Nervous System Diseases/chemically induced
+Delayed-Action Preparations
+Double-Blind Method
+Female
+Gastrointestinal Diseases/chemically induced
+Humans
+Indomethacin/administration & dosage/adverse effects/*therapeutic use
+Ketoprofen/administration & dosage/adverse effects/*therapeutic use
+Male
+Medical Records
+Middle Aged
+Pain/diagnosis/etiology
+Pain Measurement
+Severity of Illness Index
+Suppositories
+Time Factors

@@ -1,0 +1,16 @@
+Administration, Inhalation
+Adolescent
+Adult
+Allergens/*administration & dosage
+Animals
+Asthma/etiology/physiopathology/*therapy
+Bronchial Provocation Tests
+Desensitization, Immunologic/*methods
+Double-Blind Method
+Female
+Humans
+Injections, Subcutaneous
+Male
+Middle Aged
+Mites/*immunology
+Time Factors

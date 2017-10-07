@@ -1,0 +1,15 @@
+Adult
+Anesthesia, Spinal/methods
+Anesthetics, Local/administration & dosage/adverse effects/*therapeutic use
+Bupivacaine/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Cesarean Section/*methods
+Double-Blind Method
+Female
+Fentanyl/therapeutic use
+Humans
+Hypotension/chemically induced/*epidemiology
+Nausea/chemically induced
+Pain/etiology/prevention & control
+Pregnancy
+Prospective Studies
+Vomiting/chemically induced

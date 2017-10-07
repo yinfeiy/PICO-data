@@ -1,0 +1,18 @@
+Adult
+Africa, Eastern/epidemiology
+Africa, Southern/epidemiology
+CD4 Lymphocyte Count
+Cervix Uteri/virology
+*Contraceptives, Oral, Hormonal
+Female
+HIV Seropositivity/*epidemiology/immunology/*transmission
+*HIV-1
+Humans
+Incidence
+Male
+Proportional Hazards Models
+Prospective Studies
+Risk Assessment
+Risk Factors
+Sexual Behavior
+Young Adult

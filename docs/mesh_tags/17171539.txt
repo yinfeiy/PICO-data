@@ -1,0 +1,15 @@
+Adolescent
+Anxiety Disorders/diagnosis/psychology/*therapy
+*Aptitude
+Autistic Disorder/diagnosis/psychology/*therapy
+Child
+*Cognitive Therapy
+Comorbidity
+Female
+Humans
+Internal-External Control
+Male
+Manifest Anxiety Scale
+Personality Assessment
+*Psychotherapy, Group
+Treatment Outcome

@@ -1,0 +1,22 @@
+Adult
+Aged
+Echocardiography, Transesophageal
+Female
+Fibrinolytic Agents/administration & dosage/*therapeutic use
+Follow-Up Studies
+Heart Valve Diseases/diagnostic imaging/drug therapy/etiology/surgery
+*Heart Valve Prosthesis
+Heart Valve Prosthesis Implantation/adverse effects
+Heparin/administration & dosage/*therapeutic use
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+*Mitral Valve/diagnostic imaging/surgery
+Prosthesis Failure
+Retrospective Studies
+Safety
+Streptokinase/administration & dosage/therapeutic use
+*Thrombolytic Therapy/methods
+Thrombosis/diagnostic imaging/*drug therapy/etiology
+Treatment Outcome

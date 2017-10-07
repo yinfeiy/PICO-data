@@ -1,0 +1,22 @@
+Acetaminophen/therapeutic use
+Adolescent
+Adult
+Aged
+Analgesics/*therapeutic use
+Cholecystectomy, Laparoscopic/adverse effects
+Clinical Trials, Phase III as Topic/*standards
+Cyclooxygenase 2
+Cyclooxygenase 2 Inhibitors
+Cyclooxygenase Inhibitors/therapeutic use
+Drug Combinations
+Humans
+Hydrocodone/therapeutic use
+Informed Consent/standards
+Isoenzymes/antagonists & inhibitors
+Membrane Proteins
+Middle Aged
+Multicenter Studies as Topic/*standards
+Pain, Postoperative/*drug therapy/etiology
+Patient Selection
+Prostaglandin-Endoperoxide Synthases
+Randomized Controlled Trials as Topic/*standards

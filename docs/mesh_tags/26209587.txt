@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Antihypertensive Agents/adverse effects/*therapeutic use
+Benzoates/adverse effects/*therapeutic use
+Corneal Pachymetry
+Double-Blind Method
+Drug Combinations
+Female
+Glaucoma, Open-Angle/*drug therapy
+Humans
+Intraocular Pressure/drug effects
+Male
+Middle Aged
+Norepinephrine Plasma Membrane Transport Proteins/*antagonists & inhibitors
+Ocular Hypertension/drug therapy
+Ophthalmic Solutions
+Prostaglandins F, Synthetic/adverse effects/*therapeutic use
+Tonometry, Ocular
+beta-Alanine/adverse effects/*analogs & derivatives/therapeutic use
+rho-Associated Kinases/*antagonists & inhibitors

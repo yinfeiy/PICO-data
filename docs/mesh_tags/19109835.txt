@@ -1,0 +1,16 @@
+Adult
+C-Reactive Protein/metabolism
+Cautery/*instrumentation/methods
+Electrocoagulation/*instrumentation/methods
+Female
+Hepatectomy/*instrumentation/methods
+Humans
+Liver/*diagnostic imaging/*surgery
+Liver Transplantation/*methods
+Living Donors
+Male
+Postoperative Period
+Radio Waves
+Treatment Outcome
+Ultrasonic Therapy/*instrumentation/methods
+Ultrasonography

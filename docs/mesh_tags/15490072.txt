@@ -1,0 +1,21 @@
+Absorptiometry, Photon
+Adenoma/complications
+Adult
+Age Factors
+Bone Density/*drug effects
+Bone and Bones/*drug effects/*metabolism
+Craniopharyngioma/complications
+Cushing Syndrome/complications
+Double-Blind Method
+Female
+Follow-Up Studies
+Human Growth Hormone/*administration & dosage/adverse effects/*deficiency/pharmacology
+Humans
+Male
+Middle Aged
+Osteogenesis
+Pituitary Neoplasms/complications
+Placebos
+Prolactinoma/complications
+Sex Factors
+Time Factors

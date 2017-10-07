@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Asymptomatic Diseases
+Child
+Dental Caries/*therapy
+Dental Cavity Preparation/*methods
+Dental Pulp/physiology
+Dental Restoration, Permanent/*methods
+Dentin/pathology
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Molar/pathology
+Regression Analysis
+Single-Blind Method
+Survival Analysis
+Young Adult

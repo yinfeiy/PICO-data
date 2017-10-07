@@ -1,0 +1,20 @@
+Adult
+*Ambulatory Surgical Procedures
+*Anesthesia Recovery Period
+*Anesthesia, Inhalation
+*Anesthesia, Intravenous
+Awareness/drug effects
+Blood Pressure/drug effects
+*Enflurane/adverse effects
+Female
+Heart Rate/drug effects
+Humans
+Laparoscopy
+Monitoring, Intraoperative
+Nausea/etiology
+Nitrous Oxide
+Patient Discharge
+*Propofol
+Single-Blind Method
+Thiopental
+Vomiting/etiology

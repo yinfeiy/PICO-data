@@ -1,0 +1,11 @@
+Aged
+Female
+Humans
+Lung Neoplasms/*surgery
+Male
+Middle Aged
+Minimally Invasive Surgical Procedures
+Retrospective Studies
+*Thoracoscopy
+*Thoracotomy
+Treatment Outcome

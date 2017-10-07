@@ -1,0 +1,26 @@
+Aged
+Anesthesia, General
+Atrial Fibrillation/*surgery
+*Barium Sulfate
+Catheter Ablation/*adverse effects
+Conscious Sedation
+*Contrast Media
+Endosonography
+Esophageal Diseases/*etiology/pathology/prevention & control
+Esophageal Fistula/etiology/prevention & control
+Esophagoscopy
+Esophagus/diagnostic imaging/*injuries
+Female
+Heart Atria
+Heart Diseases/etiology/prevention & control
+Humans
+Intubation, Gastrointestinal/adverse effects
+Male
+Middle Aged
+Prospective Studies
+*Radiography, Interventional
+Risk Assessment
+Risk Factors
+Time Factors
+Treatment Outcome
+Ulcer/*etiology/pathology/prevention & control

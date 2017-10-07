@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Agents/adverse effects/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/pathology
+Cyclophosphamide/administration & dosage
+Double-Blind Method
+Doxorubicin/administration & dosage/pharmacokinetics
+Drug Resistance, Multiple
+Drug Resistance, Neoplasm
+Female
+Fluorouracil/administration & dosage
+Humans
+Middle Aged
+Quinolines/adverse effects/*therapeutic use
+Treatment Outcome

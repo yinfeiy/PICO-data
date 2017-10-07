@@ -1,0 +1,8 @@
+Chemotaxis, Leukocyte/*drug effects
+Dermatitis/*chemically induced
+Dose-Response Relationship, Drug
+Humans
+Injections, Intradermal
+Neutrophils/*physiology
+Osmolar Concentration
+Platelet Activating Factor/*analogs & derivatives/pharmacology

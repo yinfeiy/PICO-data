@@ -1,0 +1,10 @@
+Aged
+Breast/pathology
+Breast Neoplasms/*diagnostic imaging/*epidemiology
+Female
+Humans
+Mammography/*psychology
+Middle Aged
+Patient Education as Topic
+Risk Factors
+*Women's Health

@@ -1,0 +1,24 @@
+Adolescent
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Child
+Child, Preschool
+Cyclophosphamide/administration & dosage
+Cytarabine/administration & dosage
+Dexamethasone/administration & dosage
+Dose-Response Relationship, Drug
+Doxorubicin/administration & dosage
+Etoposide/administration & dosage
+Female
+Granulocyte Colony-Stimulating Factor/pharmacology/*therapeutic use
+Humans
+Infant
+Infant, Newborn
+Male
+Methotrexate/administration & dosage
+Neutropenia/*chemically induced/prevention & control
+Precursor Cell Lymphoblastic Leukemia-Lymphoma/*drug therapy
+Prednisone/administration & dosage
+Recombinant Proteins
+Thrombocytopenia/*chemically induced/prevention & control
+Treatment Outcome
+Vincristine/administration & dosage

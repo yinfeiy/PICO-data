@@ -1,0 +1,12 @@
+Adult
+Aged
+*Anesthesia, General
+Antihypertensive Agents/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Hypertension/*etiology/prevention & control
+Intubation, Intratracheal/*adverse effects
+Male
+Middle Aged
+Piperazines/*therapeutic use

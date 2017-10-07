@@ -1,0 +1,15 @@
+Adolescent
+Attention/physiology
+Brain Mapping/methods
+Child
+Child Development Disorders, Pervasive/*diagnosis/*metabolism
+*Face
+Female
+Humans
+Magnetic Resonance Imaging/methods
+Male
+Pattern Recognition, Visual/*physiology
+Photic Stimulation/methods
+Prefrontal Cortex/*metabolism
+Reaction Time/physiology
+Recognition (Psychology)/*physiology

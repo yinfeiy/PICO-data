@@ -1,0 +1,20 @@
+Adrenergic beta-Antagonists/*pharmacology
+Adult
+Aged
+*Anesthesia Recovery Period
+Arteriovenous Fistula/surgery
+Blood Flow Velocity/*drug effects
+Blood Pressure/drug effects
+Brain Neoplasms/surgery
+Cardiac Output/drug effects
+Cerebrovascular Circulation/*drug effects
+Double-Blind Method
+Female
+Heart Rate/drug effects
+Humans
+Intracranial Aneurysm/surgery
+Male
+Middle Aged
+Middle Cerebral Artery/drug effects/physiology
+*Neurosurgical Procedures
+Propanolamines/*pharmacology

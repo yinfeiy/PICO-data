@@ -1,0 +1,14 @@
+Adult
+Biomarkers/blood
+Endotoxins/*administration & dosage/adverse effects
+Gene Expression Regulation/*drug effects
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/administration & dosage/pharmacology
+Inflammation/chemically induced/drug therapy
+Male
+Monocytes/metabolism/pathology
+Platelet Activation/drug effects
+Premedication
+Simvastatin/*administration & dosage/pharmacology
+Thrombophilia/chemically induced/drug therapy
+Thromboplastin/antagonists & inhibitors/*genetics

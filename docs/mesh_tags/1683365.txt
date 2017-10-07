@@ -1,0 +1,13 @@
+Acute Disease
+Aged
+Evaluation Studies as Topic
+Female
+Hemodynamics
+Humans
+Male
+Positive-Pressure Respiration/*methods
+Prospective Studies
+Pulmonary Edema/physiopathology/*therapy
+Pulmonary Heart Disease/physiopathology/*therapy
+Respiratory Function Tests
+Sampling Studies

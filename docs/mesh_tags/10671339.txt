@@ -1,0 +1,18 @@
+Adjuvants, Immunologic/administration & dosage
+Adolescent
+Adult
+Antibodies, Monoclonal/analysis
+Antibodies, Viral/analysis
+Enzyme-Linked Immunosorbent Assay
+Female
+Granulocyte-Macrophage Colony-Stimulating Factor/*administration & dosage
+Hemagglutination Inhibition Tests
+*Hematopoietic Stem Cell Transplantation
+Humans
+Immunoglobulin G/analysis
+Influenza Vaccines/*administration & dosage
+Male
+Middle Aged
+Statistics, Nonparametric
+Transplantation Conditioning/*methods
+*Transplantation Immunology

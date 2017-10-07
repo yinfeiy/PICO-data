@@ -1,0 +1,13 @@
+Adult
+*Aerosol Propellants/adverse effects
+Albuterol/*administration & dosage/adverse effects/therapeutic use
+Asthma/*drug therapy/physiopathology
+*Chlorofluorocarbons/adverse effects
+*Chlorofluorocarbons, Methane/adverse effects
+Female
+Forced Expiratory Volume/physiology
+Humans
+*Hydrocarbons, Fluorinated/adverse effects
+Male
+Middle Aged
+Nebulizers and Vaporizers

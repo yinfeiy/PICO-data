@@ -1,0 +1,18 @@
+Adult
+Aged
+Behavior Therapy/*methods
+Body Mass Index
+Confidence Intervals
+Diabetes Mellitus, Type 2/complications/*therapy
+Energy Intake
+Female
+Humans
+*Life Style
+Male
+Middle Aged
+Obesity/complications/*therapy
+Odds Ratio
+Patient Education as Topic/methods
+Treatment Outcome
+*Weight Loss
+Weight Reduction Programs/*methods

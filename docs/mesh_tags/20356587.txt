@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Androgen Antagonists/administration & dosage/adverse effects
+Antineoplastic Agents/administration & dosage/adverse effects
+Contraceptives, Oral/*administration & dosage/adverse effects
+Drug Therapy, Combination
+Female
+Glucocorticoids/administration & dosage/adverse effects
+Humans
+Hyperinsulinism/blood/complications/*drug therapy
+Hypoglycemic Agents/administration & dosage/adverse effects
+Metformin/*administration & dosage/adverse effects
+Naltrexone/*administration & dosage/adverse effects
+Neoadjuvant Therapy
+Polycystic Ovary Syndrome/blood/complications/*drug therapy
+Prednisolone/*administration & dosage/adverse effects
+Young Adult

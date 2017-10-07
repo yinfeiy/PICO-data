@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Arousal/*drug effects/*physiology
+Attention/*drug effects/*physiology
+Autonomic Nervous System/*drug effects/*physiopathology
+Caffeine/*pharmacology
+Chewing Gum
+Electrocardiography/drug effects
+Female
+Heart Rate/*drug effects/*physiology
+Humans
+Male
+Mastication/*physiology
+Myocardial Contraction/drug effects/physiology
+Neuropsychological Tests
+Problem Solving/*drug effects/*physiology
+Psychomotor Performance/*drug effects/*physiology
+Reaction Time/*drug effects/*physiology
+Signal Processing, Computer-Assisted
+Sleep Deprivation/*physiopathology

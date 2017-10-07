@@ -1,0 +1,19 @@
+Adult
+Aged
+Amiloride/administration & dosage/therapeutic use
+Blood Pressure
+Body Weight
+Diuretics/*therapeutic use
+Drug Therapy, Combination
+Female
+Humans
+Hydrochlorothiazide/administration & dosage/*adverse effects
+Hypertension/*drug therapy
+Hypokalemia/*chemically induced/prevention & control
+Male
+Middle Aged
+Pyrazines/*therapeutic use
+Sodium/blood
+Spironolactone/administration & dosage/*therapeutic use
+Time Factors
+Urea/blood

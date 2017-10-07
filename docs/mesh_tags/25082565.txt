@@ -1,0 +1,15 @@
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy/mortality/pathology
+Erlotinib Hydrochloride
+Female
+Humans
+Lung Neoplasms/*drug therapy/mortality/pathology
+Male
+Middle Aged
+Quinazolines/administration & dosage
+Retreatment
+Risk Factors
+Taxoids/administration & dosage
+Treatment Failure
+Treatment Outcome

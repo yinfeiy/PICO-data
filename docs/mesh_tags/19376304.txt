@@ -1,0 +1,22 @@
+Administration, Oral
+Aged
+Anti-Arrhythmia Agents/therapeutic use
+Anticoagulants/administration & dosage/pharmacokinetics/*therapeutic use
+Atrial Fibrillation/diagnostic imaging/*drug therapy/therapy
+Benzimidazoles/administration & dosage/pharmacokinetics/*therapeutic use
+Dabigatran
+Dose-Response Relationship, Drug
+Double-Blind Method
+Echocardiography, Transesophageal
+Electric Countershock/methods
+Follow-Up Studies
+Humans
+Intracranial Thrombosis/blood/complications/*drug therapy
+Prospective Studies
+Pyridines/administration & dosage/pharmacokinetics/*therapeutic use
+Research Design
+Risk Factors
+Stroke/blood/etiology/*prevention & control
+Time Factors
+Treatment Outcome
+Warfarin/administration & dosage/pharmacokinetics/*therapeutic use

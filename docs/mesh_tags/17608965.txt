@@ -1,0 +1,13 @@
+Adult
+Ambulatory Surgical Procedures
+Anesthesia, General/*instrumentation
+Elective Surgical Procedures
+Female
+Fiber Optic Technology
+Humans
+Intubation, Intratracheal/instrumentation/*methods
+*Laryngeal Masks
+Male
+Middle Aged
+Postoperative Complications/epidemiology
+Respiration, Artificial/*methods

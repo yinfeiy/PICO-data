@@ -1,0 +1,17 @@
+Adult
+Arteriosclerosis/diagnostic imaging/epidemiology/*etiology
+California/epidemiology
+Carotid Arteries/diagnostic imaging
+Female
+Humans
+Logistic Models
+Male
+Middle Aged
+Occupational Exposure
+Occupational Health
+Prevalence
+Risk Factors
+Stress, Psychological/*complications
+Surveys and Questionnaires
+Tunica Intima/diagnostic imaging
+Ultrasonography

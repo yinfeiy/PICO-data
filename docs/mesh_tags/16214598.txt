@@ -1,0 +1,14 @@
+Adult
+Aged
+Coronary Disease/etiology/*prevention & control
+Diabetes Mellitus, Type 2/complications/*drug therapy
+Female
+Humans
+Hypoglycemic Agents/*therapeutic use
+Male
+Middle Aged
+Myocardial Infarction/etiology/*prevention & control
+PPAR gamma/*agonists
+Risk Factors
+Stroke/etiology/*prevention & control
+Thiazolidinediones/*therapeutic use

@@ -1,0 +1,16 @@
+Acupuncture Therapy/*methods
+Adult
+Aged
+Antiemetics/therapeutic use
+Antineoplastic Agents/*adverse effects/therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects/therapeutic use
+Breast Neoplasms/drug therapy
+Combined Modality Therapy/methods
+Cyclophosphamide/administration & dosage
+Doxorubicin/administration & dosage
+Female
+Humans
+Middle Aged
+Nausea/*chemically induced/drug therapy/*prevention & control
+Transcutaneous Electric Nerve Stimulation/*methods
+Wrist/innervation/physiopathology

@@ -1,0 +1,22 @@
+Adult
+Analgesia, Epidural
+Analgesia, Obstetrical/*methods
+*Analgesia, Patient-Controlled
+Analgesics, Opioid/adverse effects/*therapeutic use
+Anesthesia, Spinal
+Anesthetics, Local/adverse effects/*therapeutic use
+Bupivacaine/adverse effects/*therapeutic use
+Female
+Humans
+Hypotension/chemically induced
+Labor Presentation
+*Labor, Obstetric
+Nausea/chemically induced
+Pain Measurement
+Pregnancy
+Prospective Studies
+Pruritus/chemically induced
+Single-Blind Method
+Sleep Stages/drug effects
+Sufentanil/adverse effects/*therapeutic use
+Time Factors

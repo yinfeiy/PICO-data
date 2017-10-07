@@ -1,0 +1,20 @@
+Adult
+Aged
+Dental Devices, Home Care/*standards
+Dental Plaque Index
+Equipment Design
+Exercise Therapy/methods/standards
+Female
+Gingiva/pathology
+*Gingivitis/etiology/pathology/physiopathology/therapy
+Humans
+Male
+Middle Aged
+Mouth Rehabilitation/instrumentation/methods
+*Myofunctional Therapy
+Oral Health/standards
+Patient Education as Topic
+Scleroderma, Systemic/*complications/physiopathology
+Tooth/pathology
+Toothbrushing/*instrumentation/methods
+Treatment Outcome

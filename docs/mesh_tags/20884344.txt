@@ -1,0 +1,24 @@
+Adult
+Aging/physiology
+Antigens, CD3/metabolism
+CD4 Lymphocyte Count
+CD8-Positive T-Lymphocytes/physiology
+Catecholamines/blood
+Exercise/*physiology
+Exercise Test
+Humans
+Hypoxia/*pathology
+Interferon-gamma/metabolism
+Interleukin-4/blood
+Interleukin-6/blood
+Lymphocyte Count
+Male
+Membrane Glycoproteins/biosynthesis
+Memory/physiology
+Peroxidase/blood
+Phenotype
+Physical Fitness/physiology
+T-Lymphocyte Subsets/*physiology
+Th1 Cells/physiology
+Th2 Cells/physiology
+Young Adult

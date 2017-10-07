@@ -1,0 +1,9 @@
+Adult
+Cholinesterase Inhibitors/*therapeutic use
+Female
+Humans
+Male
+Myasthenia Gravis/*drug therapy
+Neuromuscular Nondepolarizing Agents/*administration & dosage
+Pyridostigmine Bromide/*therapeutic use
+Vecuronium Bromide/*administration & dosage

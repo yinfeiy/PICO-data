@@ -1,0 +1,14 @@
+Abdomen/surgery
+Abdominal Muscles/surgery
+*Bandages
+Cicatrix
+Clinical Competence
+Equipment Design
+Female
+Humans
+Mammaplasty
+Materials Testing
+*Sutures
+Time Factors
+Tissue Adhesives/*therapeutic use
+Wound Healing

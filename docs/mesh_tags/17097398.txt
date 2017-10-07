@@ -1,0 +1,29 @@
+Administration, Cutaneous
+Administration, Oral
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/administration & dosage/*therapeutic use
+Bridged Bicyclo Compounds, Heterocyclic/administration & dosage/*therapeutic use
+Cephalexin/administration & dosage/*therapeutic use
+Child
+Child, Preschool
+Dermatitis/*complications
+Dermatitis, Atopic/complications
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Infant
+Infant, Newborn
+Male
+Methicillin Resistance
+Middle Aged
+Ointments
+Skin Diseases, Infectious/*drug therapy/etiology
+Staphylococcal Skin Infections/*drug therapy/etiology
+Staphylococcus aureus/drug effects/isolation & purification
+Streptococcal Infections/*drug therapy/etiology
+Streptococcus pyogenes/drug effects/*isolation & purification
+Treatment Outcome

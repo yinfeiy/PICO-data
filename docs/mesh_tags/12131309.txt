@@ -1,0 +1,17 @@
+Aged
+*Anesthesia, Local
+Antibiotic Prophylaxis
+Bacteriuria/*etiology
+*Biopsy, Needle
+*Endosonography
+Fever of Unknown Origin/etiology
+Gastrointestinal Hemorrhage/*etiology
+Hematuria/*etiology
+Humans
+*Lidocaine
+Male
+Middle Aged
+Patient Readmission
+Prostate/*pathology
+Risk Factors
+Trimethoprim, Sulfamethoxazole Drug Combination/administration & dosage

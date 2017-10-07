@@ -1,0 +1,11 @@
+Actuarial Analysis
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Child
+Clinical Trials as Topic/*statistics & numerical data
+Confidence Intervals
+Follow-Up Studies
+Humans
+Lymphoma, B-Cell/*drug therapy/mortality
+Proportional Hazards Models
+Survival Analysis
+Survival Rate

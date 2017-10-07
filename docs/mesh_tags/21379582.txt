@@ -1,0 +1,15 @@
+Adult
+Awareness/*physiology
+Decision Making/*physiology
+Discrimination (Psychology)/physiology
+Female
+Fixation, Ocular/physiology
+Humans
+Male
+Perception/*physiology
+Photic Stimulation
+Reaction Time/physiology
+Saccades/physiology
+Time Factors
+Verbal Behavior/physiology
+Young Adult

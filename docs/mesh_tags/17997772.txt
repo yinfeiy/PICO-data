@@ -1,0 +1,15 @@
+Chalazion/drug therapy/surgery/*therapy
+Curettage/*methods
+Female
+Glucocorticoids/*therapeutic use
+Humans
+Hyperthermia, Induced/*methods
+Male
+Massage
+Ophthalmologic Surgical Procedures/*methods
+Pain Measurement
+Patient Satisfaction
+Prospective Studies
+Surveys and Questionnaires
+Treatment Outcome
+Triamcinolone Acetonide/*therapeutic use

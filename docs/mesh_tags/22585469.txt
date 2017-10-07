@@ -1,0 +1,12 @@
+Adult
+Anesthesia, General/*methods
+Cross-Over Studies
+Female
+Glottis/metabolism
+Humans
+Intubation, Intratracheal/*methods
+*Laryngoscopes/adverse effects
+Laryngoscopy/adverse effects/*methods
+Male
+Middle Aged
+Time Factors

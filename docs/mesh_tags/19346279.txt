@@ -1,0 +1,19 @@
+Adult
+Alcohol Withdrawal Delirium/drug therapy
+Alcohol-Related Disorders/*drug therapy
+Anticonvulsants/adverse effects/*therapeutic use
+Anxiety/drug therapy
+Calcium Channel Blockers/therapeutic use
+Double-Blind Method
+Female
+Hostility
+Humans
+Male
+Middle Aged
+Naltrexone/adverse effects/*therapeutic use
+Narcotic Antagonists/adverse effects/*therapeutic use
+Obsessive-Compulsive Disorder/*drug therapy
+Pregabalin
+Severity of Illness Index
+Substance Withdrawal Syndrome/drug therapy
+gamma-Aminobutyric Acid/adverse effects/*analogs & derivatives/therapeutic use

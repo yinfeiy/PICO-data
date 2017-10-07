@@ -1,0 +1,13 @@
+Administration, Oral
+Adolescent
+Adrenergic alpha-Agonists/administration & dosage/blood/*pharmacology
+Adult
+Anesthetics, Intravenous/*pharmacokinetics
+Clonidine/administration & dosage/blood/*pharmacology
+Drug Interactions
+Humans
+Male
+Middle Aged
+*Preanesthetic Medication
+Propofol/*pharmacokinetics
+*Unconsciousness

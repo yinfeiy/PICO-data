@@ -1,0 +1,14 @@
+Adult
+Affect/drug effects/*physiology
+Aged
+Autoantibodies/blood
+Cohort Studies
+Female
+Hormone Replacement Therapy/*psychology
+Humans
+Hypothyroidism/*blood/drug therapy/*psychology
+Middle Aged
+Regression Analysis
+Thyrotropin/blood
+Thyroxine/administration & dosage/*blood
+Triiodothyronine/administration & dosage/*blood

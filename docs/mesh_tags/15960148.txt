@@ -1,0 +1,14 @@
+Adult
+Aged
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Kidney Failure, Chronic/blood/*therapy
+Lanthanum/*therapeutic use
+Male
+Middle Aged
+Phosphates/*blood
+Renal Dialysis
+Treatment Outcome

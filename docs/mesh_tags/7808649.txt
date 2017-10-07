@@ -1,0 +1,15 @@
+Adult
+Aged
+Cholecystectomy/*adverse effects
+Double-Blind Method
+Drug Combinations
+Female
+Humans
+Ketorolac Tromethamine
+Male
+Middle Aged
+Pain Measurement
+Pain, Postoperative/*drug therapy
+Suppositories
+Tolmetin/administration & dosage/*analogs & derivatives/therapeutic use
+Tromethamine/administration & dosage/*therapeutic use

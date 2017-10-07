@@ -1,0 +1,14 @@
+Cognition Disorders/diagnosis/psychology/*therapy
+Cognitive Therapy/*methods
+Combined Modality Therapy/methods
+Female
+Humans
+Implosive Therapy/*methods
+Life Change Events
+Personality Inventory
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Stress Disorders, Post-Traumatic/diagnosis/psychology/*therapy
+Survivors/psychology/statistics & numerical data
+Treatment Outcome
+Violence/psychology

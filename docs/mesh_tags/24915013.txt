@@ -1,0 +1,11 @@
+Adult
+Circadian Rhythm
+Conjunctiva/*physiology
+Cornea/*physiology
+Diagnostic Techniques, Ophthalmological/instrumentation
+Female
+Humans
+Male
+Middle Aged
+Sensory Thresholds/*physiology
+Young Adult

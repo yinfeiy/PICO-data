@@ -1,0 +1,16 @@
+Adult
+Aged
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Injections, Intravenous
+Lidocaine/administration & dosage/*analogs & derivatives/metabolism/pharmacokinetics
+Liver/metabolism
+Liver Cirrhosis/*diagnosis/metabolism
+Liver Failure/*diagnosis/metabolism
+Liver Function Tests/adverse effects/*methods
+Male
+Middle Aged
+Predictive Value of Tests
+Reference Values

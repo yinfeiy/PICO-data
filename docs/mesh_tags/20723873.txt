@@ -1,0 +1,14 @@
+Adult
+Aged
+Electrocoagulation/adverse effects/*methods
+Endometrial Neoplasms/*surgery
+Female
+Humans
+Laparoscopy/adverse effects/*methods
+Lymph Node Excision/adverse effects/*methods
+Lymphocele/etiology/*prevention & control/surgery
+Middle Aged
+Pilot Projects
+Prospective Studies
+Treatment Outcome
+Uterine Cervical Neoplasms/*surgery

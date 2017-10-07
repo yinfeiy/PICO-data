@@ -1,0 +1,18 @@
+Adrenergic beta-Antagonists/*therapeutic use
+Adult
+Anesthesia, General
+Anesthesia, Inhalation
+Anesthetics, Intravenous/*therapeutic use
+Anesthetics, Local/*therapeutic use
+Blood Pressure/drug effects
+Female
+Heart Rate/drug effects
+Hemodynamics/*drug effects
+Humans
+Intubation, Intratracheal/*adverse effects
+Laryngoscopy/*adverse effects
+Lidocaine/*therapeutic use
+Male
+Middle Aged
+Piperidines/*therapeutic use
+Propanolamines/*therapeutic use

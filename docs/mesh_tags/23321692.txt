@@ -1,0 +1,14 @@
+Animals
+CD4 Lymphocyte Count
+CD8-Positive T-Lymphocytes
+Cat Diseases/*drug therapy
+Cats
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Interferon-alpha/administration & dosage/*therapeutic use
+Leukemia Virus, Feline
+Leukemia, Feline/*drug therapy/virology
+Male
+Reverse Transcriptase Inhibitors/therapeutic use
+Zidovudine/administration & dosage/*therapeutic use

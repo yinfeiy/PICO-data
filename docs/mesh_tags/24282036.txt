@@ -1,0 +1,13 @@
+Adult
+Blood Glucose/*analysis
+Diabetes, Gestational/blood/*diagnosis
+Fasting/*blood
+Female
+Glucose Tolerance Test
+Humans
+Mass Screening/methods
+Pregnancy
+Pregnancy Trimester, First
+Prospective Studies
+Sensitivity and Specificity
+Young Adult

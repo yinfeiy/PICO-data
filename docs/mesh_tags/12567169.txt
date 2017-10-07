@@ -1,0 +1,13 @@
+Administration, Topical
+Adolescent
+Adult
+Aminoquinolines/*administration & dosage/therapeutic use
+Condylomata Acuminata/*drug therapy
+Double-Blind Method
+Female
+Genital Diseases, Female/*drug therapy
+Genital Diseases, Male/*drug therapy
+Humans
+Interferon Inducers/*administration & dosage/therapeutic use
+Male
+Treatment Outcome

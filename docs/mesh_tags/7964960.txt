@@ -1,0 +1,15 @@
+Administration, Oral
+Adult
+Biological Availability
+Double-Blind Method
+Female
+Half-Life
+Humans
+Infusions, Intravenous
+Male
+Metabolic Clearance Rate
+Middle Aged
+Nausea/etiology/*prevention & control
+Ondansetron/pharmacokinetics/*therapeutic use
+Vomiting/etiology/*prevention & control
+Whole-Body Irradiation/*adverse effects

@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Biomarkers/blood
+C-Reactive Protein/metabolism
+Female
+Follow-Up Studies
+Humans
+Inflammation/complications/*physiopathology/therapy
+Inflammation Mediators/blood
+Interleukin 1 Receptor Antagonist Protein/blood
+Interleukin-6/blood
+Life Style
+Male
+Middle Aged
+Overweight/physiopathology
+Sleep Apnea, Obstructive/complications/*physiopathology/therapy
+Tumor Necrosis Factor-alpha/blood
+*Weight Loss
+Young Adult

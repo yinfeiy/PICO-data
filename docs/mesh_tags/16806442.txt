@@ -1,0 +1,12 @@
+Female
+Humans
+Hysterectomy/methods
+Laparoscopy/*methods
+Length of Stay
+Lymph Node Excision/*methods
+Middle Aged
+Neoplasm Staging
+Peritoneal Cavity/*pathology/surgery
+Postoperative Complications
+Treatment Outcome
+Uterine Cervical Neoplasms/pathology/*surgery

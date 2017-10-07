@@ -1,0 +1,18 @@
+Adenocarcinoma/*drug therapy/secondary
+Catheterization/adverse effects
+Clinical Trials as Topic
+Colonic Neoplasms/*pathology
+Female
+Fluorouracil/*administration & dosage/adverse effects/therapeutic use
+Hepatic Artery
+Humans
+Infusions, Intra-Arterial
+Infusions, Parenteral
+Liver Neoplasms/*drug therapy/mortality/secondary
+Male
+Middle Aged
+Prospective Studies
+Random Allocation
+Rectal Neoplasms/*pathology
+Thrombosis/etiology
+Time Factors

@@ -1,0 +1,15 @@
+Adult
+Humans
+Hypothalamo-Hypophyseal System/drug effects/physiopathology
+Male
+Naloxone/*pharmacology
+Narcotic Antagonists/administration & dosage
+Parasympathomimetics/administration & dosage
+Pyridostigmine Bromide/*pharmacology
+Somatostatin/physiology
+Starvation/*physiopathology
+Thyroid Gland/drug effects/physiopathology
+Thyrotropin/*secretion
+*Thyrotropin-Releasing Hormone
+Thyroxine/blood
+Triiodothyronine/blood

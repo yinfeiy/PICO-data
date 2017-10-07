@@ -1,0 +1,12 @@
+Aged
+Female
+Follow-Up Studies
+Glaucoma, Open-Angle/physiopathology/*surgery
+Humans
+Intraocular Pressure
+Laser Therapy/*methods
+Male
+Middle Aged
+Prospective Studies
+Trabeculectomy/*methods
+Visual Acuity

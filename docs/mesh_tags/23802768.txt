@@ -1,0 +1,24 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Animals
+Disease-Free Survival
+Female
+Humans
+Immunohistochemistry
+Indoles/therapeutic use
+Kaplan-Meier Estimate
+Male
+Melanoma/*metabolism/*pathology/therapy
+Middle Aged
+Mutant Proteins/antagonists & inhibitors/genetics/metabolism
+Prognosis
+Proto-Oncogene Proteins B-raf/antagonists & inhibitors/*genetics/*metabolism
+Proto-Oncogene Proteins c-met/*metabolism
+Rabbits
+Retrospective Studies
+Signal Transduction
+Skin Neoplasms/*metabolism/*pathology/therapy
+Sulfonamides/therapeutic use
+Young Adult

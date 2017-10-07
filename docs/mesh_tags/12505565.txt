@@ -1,0 +1,15 @@
+Aged
+*Angioplasty, Balloon, Coronary
+Chi-Square Distribution
+Coronary Disease/complications/*drug therapy/therapy
+Creatinine/metabolism
+Double-Blind Method
+Female
+Humans
+Kidney Failure, Chronic/*complications
+Male
+Middle Aged
+Peptides/*therapeutic use
+Platelet Aggregation Inhibitors/*therapeutic use
+*Stents
+Treatment Outcome

@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Bone Density Conservation Agents/*administration & dosage
+Bony Callus/*drug effects
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Fracture Healing/*drug effects
+Humans
+Middle Aged
+Radius Fractures/*therapy
+Teriparatide/*administration & dosage

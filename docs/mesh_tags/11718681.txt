@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Aging/metabolism
+Carrier Proteins/*blood
+China
+Cholesterol Ester Transfer Proteins
+Estradiol/blood
+Estrogens/*blood
+Female
+Follicle Stimulating Hormone/metabolism
+*Glycoproteins
+Gonadal Steroid Hormones/blood
+Humans
+Lipids/blood
+Menopause/metabolism
+Middle Aged
+Reference Values

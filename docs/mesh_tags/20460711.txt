@@ -1,0 +1,17 @@
+AMP-Activated Protein Kinases/metabolism
+Acetic Acid/*metabolism/*pharmacology
+Biological Transport
+Cell Line
+Endothelial Cells/drug effects/metabolism
+Enzyme Activation/drug effects
+Female
+Humans
+Middle Aged
+Nitric Oxide Synthase Type III/*metabolism
+Phosphorylation/drug effects
+Plethysmography
+Protein Kinase Inhibitors/pharmacology
+*Regional Blood Flow
+Signal Transduction/drug effects
+Up-Regulation/*drug effects
+Vasodilation/*drug effects

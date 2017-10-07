@@ -1,0 +1,16 @@
+Age Factors
+Child
+Child, Preschool
+Clinical Trials as Topic
+Diphtheria Toxoid/administration & dosage/adverse effects/immunology
+Fever/etiology
+Haemophilus influenzae/*immunology
+Humans
+Infant
+Influenza Vaccines/*immunology
+Injections, Intramuscular
+Injections, Subcutaneous
+Pertussis Vaccine/administration & dosage/adverse effects/immunology
+Polysaccharides, Bacterial/*immunology
+Tetanus Toxoid/administration & dosage/adverse effects/immunology
+Vaccination

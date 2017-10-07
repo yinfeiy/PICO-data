@@ -1,0 +1,13 @@
+Aged
+Anti-Arrhythmia Agents/*therapeutic use
+Anticoagulants/therapeutic use
+Atrial Fibrillation/mortality/*therapy
+Chronic Disease
+Combined Modality Therapy
+Disease-Free Survival
+Electric Countershock/*methods
+Female
+Humans
+Male
+Prognosis
+Quality of Life

@@ -1,0 +1,11 @@
+Adolescent
+Adult
+*Blood
+Equipment Design
+Female
+Humans
+Intubation, Intratracheal/*instrumentation
+Male
+Middle Aged
+Nose/*surgery
+*Trachea

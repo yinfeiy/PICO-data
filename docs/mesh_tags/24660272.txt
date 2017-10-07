@@ -1,0 +1,16 @@
+Adult
+Aged
+Analysis of Variance
+Anti-Infective Agents, Local/*administration & dosage
+Chemotherapy, Adjuvant/*instrumentation
+Chronic Periodontitis/*drug therapy
+*Dental Scaling
+Drug Delivery Systems/instrumentation
+Female
+Humans
+Hydrogen Peroxide/*administration & dosage
+Male
+Middle Aged
+Patient Compliance
+Periodontal Index
+Single-Blind Method

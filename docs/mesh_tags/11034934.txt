@@ -1,0 +1,21 @@
+Apolipoprotein C-III
+Apolipoproteins B/*blood
+Apolipoproteins C/*blood
+Apolipoproteins E/*blood
+Body Constitution
+Body Mass Index
+Case-Control Studies
+Cholesterol, VLDL/*blood
+Female
+Follow-Up Studies
+Humans
+Logistic Models
+Male
+Middle Aged
+Myocardial Infarction/*blood/drug therapy
+Pravastatin/therapeutic use
+Prospective Studies
+Recurrence
+Risk Assessment
+Risk Factors
+Triglycerides/blood

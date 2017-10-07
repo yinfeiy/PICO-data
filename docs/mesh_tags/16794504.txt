@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Antineoplastic Agents/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Bleomycin/administration & dosage
+Child
+Child, Preschool
+Combined Modality Therapy
+Disease-Free Survival
+Female
+Hodgkin Disease/*drug therapy/mortality/pathology/*radiotherapy
+Humans
+Male
+Mechlorethamine/administration & dosage
+Neoplasm Staging
+Prednisone/administration & dosage
+Procarbazine/administration & dosage
+Remission Induction
+Vinblastine/administration & dosage
+Vincristine/administration & dosage

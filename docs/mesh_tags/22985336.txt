@@ -1,0 +1,17 @@
+Adult
+Aged
+*Bandages
+Diabetes Mellitus, Type 2/*complications
+Diabetic Foot/etiology/*therapy
+Double-Blind Method
+European Continental Ancestry Group
+Female
+Greece
+*Honey
+Humans
+Male
+Middle Aged
+Prospective Studies
+Tertiary Care Centers
+Treatment Outcome
+*Wound Healing

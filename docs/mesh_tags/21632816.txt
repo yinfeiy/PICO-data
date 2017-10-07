@@ -1,0 +1,23 @@
+Adolescent
+C-Peptide/blood
+Case-Control Studies
+Child
+Child, Preschool
+Critical Illness/*therapy
+Female
+Glucagon/blood
+Human Growth Hormone/*blood
+Humans
+Hydrocortisone/blood
+Hypoglycemia/chemically induced/*metabolism
+Hypoglycemic Agents/*administration & dosage/adverse effects/blood
+Infant
+Infant, Newborn
+Insulin/*administration & dosage/adverse effects/blood
+Insulin-Like Growth Factor Binding Protein 1/blood
+Insulin-Like Growth Factor Binding Protein 3
+Insulin-Like Growth Factor Binding Proteins/metabolism
+Insulin-Like Growth Factor I/*metabolism
+Intensive Care Units, Pediatric
+Male
+Prospective Studies

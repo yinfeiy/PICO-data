@@ -1,0 +1,13 @@
+Adult
+Female
+Humans
+Kidney/*surgery
+Laparoscopy/*methods
+Male
+Peritoneum/*surgery
+Prospective Studies
+Reconstructive Surgical Procedures/*methods
+Ureter/*surgery
+Ureteral Obstruction/*surgery
+Urologic Surgical Procedures/*methods
+Young Adult

@@ -1,0 +1,20 @@
+Adolescent
+Anticonvulsants/*therapeutic use
+Barbiturates/therapeutic use
+Bayes Theorem
+Benzodiazepines/therapeutic use
+Child
+Child, Preschool
+Double-Blind Method
+Female
+Glasgow Coma Scale
+Head Injuries, Closed/complications/*drug therapy
+Hospitals, Urban
+Humans
+Infant
+Male
+Parental Consent
+Phenytoin/*therapeutic use
+Sample Size
+Seizures/*prevention & control
+Treatment Outcome

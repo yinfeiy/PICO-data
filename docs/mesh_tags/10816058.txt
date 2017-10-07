@@ -1,0 +1,21 @@
+*Anticoagulants/pharmacology
+Antithrombin III/metabolism
+Biomarkers/blood
+C-Reactive Protein/metabolism
+Cardiopulmonary Bypass/*instrumentation
+*Coated Materials, Biocompatible
+Complement C3/antagonists & inhibitors/*metabolism
+Complement Membrane Attack Complex/antagonists & inhibitors/metabolism
+Enzyme-Linked Immunosorbent Assay
+Heart Defects, Congenital/blood/*surgery
+*Heparin/pharmacology
+Humans
+Infant
+Interleukin-10/blood
+Interleukin-6/antagonists & inhibitors/*blood
+Interleukin-8/blood
+Lactoferrin/blood
+Peptide Hydrolases/metabolism
+Peroxidase/blood
+Prospective Studies
+Treatment Outcome

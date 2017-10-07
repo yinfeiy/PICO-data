@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Alanine Transaminase/blood
+Antiviral Agents/pharmacology/*therapeutic use
+DNA, Viral/blood
+Double-Blind Method
+Hepatitis B virus/drug effects/*genetics
+Hepatitis B, Chronic/*drug therapy/pathology/virology
+Humans
+Lamivudine/pharmacology/*therapeutic use
+Middle Aged
+Mutation
+Protein Precursors/genetics
+Treatment Outcome
+Viral Core Proteins/*genetics

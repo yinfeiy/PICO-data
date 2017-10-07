@@ -1,0 +1,13 @@
+Adolescent
+Adult
+*Anesthesia, Intravenous
+Awareness
+Blood Pressure/drug effects
+Depression, Chemical
+Dose-Response Relationship, Drug
+Drug Synergism
+Female
+Humans
+*Midazolam
+*Propofol
+Random Allocation

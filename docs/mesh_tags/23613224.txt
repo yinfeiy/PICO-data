@@ -1,0 +1,15 @@
+Coronary Artery Disease/metabolism/physiopathology/*rehabilitation
+Exercise Therapy/*methods
+Exercise Tolerance/*physiology
+Feasibility Studies
+Female
+Follow-Up Studies
+Heart Rate/physiology
+*Home Care Services
+*Hospitals
+Humans
+Male
+Middle Aged
+Oxygen Consumption
+Retrospective Studies
+Treatment Outcome

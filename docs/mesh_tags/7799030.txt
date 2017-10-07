@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Arm
+Chemotherapy, Cancer, Regional Perfusion
+Cytokines/*blood
+Female
+Histiocytoma, Benign Fibrous/blood/*therapy
+Humans
+Interferon-gamma/*administration & dosage
+Interleukin-6/blood
+Interleukin-8/blood
+Leg
+Leiomyosarcoma/blood/*therapy
+Male
+Melanoma/blood/*therapy
+Melphalan/*administration & dosage
+Middle Aged
+Receptors, Tumor Necrosis Factor/metabolism
+Sarcoma, Ewing/blood/*therapy
+Skin Neoplasms/blood/*therapy
+Tumor Necrosis Factor-alpha/*administration & dosage/metabolism

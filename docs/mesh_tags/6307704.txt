@@ -1,0 +1,11 @@
+Aged
+Bronchoscopy
+Carcinoma, Bronchogenic/diagnostic imaging/drug therapy/*pathology
+Carcinoma, Small Cell/diagnostic imaging/drug therapy/*pathology
+Female
+Humans
+Lung Neoplasms/diagnostic imaging/drug therapy/*pathology
+Male
+Middle Aged
+Prognosis
+Radiography

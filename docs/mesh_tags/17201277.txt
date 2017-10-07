@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Angina, Unstable/drug therapy
+Blood Platelets/*metabolism
+Blood Viscosity/*drug effects
+Chronic Disease
+Coronary Artery Disease/*drug therapy/*physiopathology
+Female
+Heart Failure/drug therapy
+Humans
+Male
+Middle Aged
+Myocardial Infarction/drug therapy
+Platelet Aggregation Inhibitors/*pharmacology/*therapeutic use
+Pyridines/pharmacology/*therapeutic use

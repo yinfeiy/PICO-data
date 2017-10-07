@@ -1,0 +1,20 @@
+Adult
+Chorionic Gonadotropin/*administration & dosage/pharmacology
+Estradiol/blood
+Female
+Fertility Agents, Female/*administration & dosage/pharmacology
+Humans
+Infertility/blood/therapy
+Infertility, Female/blood/*therapy
+*Insemination, Artificial
+Male
+Menotropins/pharmacology
+Oogenesis/*drug effects
+Organ Size/drug effects
+Ovarian Follicle/anatomy & histology/diagnostic imaging/*drug effects
+*Ovulation Induction
+Pregnancy
+Pregnancy Rate
+Therapeutic Equivalency
+Ultrasonography
+Young Adult

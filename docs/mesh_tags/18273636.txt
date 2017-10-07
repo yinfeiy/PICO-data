@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Analgesia, Epidural
+Aortic Aneurysm, Abdominal/mortality/*surgery
+*Blood Vessel Prosthesis Implantation
+Early Ambulation
+Enteral Nutrition
+Female
+Humans
+Intensive Care Units
+*Length of Stay
+Male
+Middle Aged
+*Minimally Invasive Surgical Procedures
+Perioperative Care
+Postoperative Complications/etiology/*prevention & control
+Prospective Studies
+Respiration, Artificial
+Survival Rate

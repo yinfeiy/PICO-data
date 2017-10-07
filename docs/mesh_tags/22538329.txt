@@ -1,0 +1,14 @@
+Calcinosis/*diagnostic imaging
+Coronary Artery Disease/*diagnostic imaging
+Coronary Vessels/*diagnostic imaging
+Disease Progression
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Plaque, Atherosclerotic/*diagnostic imaging
+Prospective Studies
+Reproducibility of Results
+Risk Factors
+Ultrasonography, Interventional/*methods

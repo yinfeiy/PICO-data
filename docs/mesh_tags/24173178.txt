@@ -1,0 +1,15 @@
+Administration, Cutaneous
+Aged
+Aged, 80 and over
+Chi-Square Distribution
+Dermatologic Agents/*administration & dosage/adverse effects
+Diclofenac/*administration & dosage/adverse effects
+Female
+Fluorouracil/*administration & dosage/adverse effects
+Humans
+Keratosis, Actinic/*drug therapy
+Male
+Middle Aged
+Patient Satisfaction
+Time Factors
+Treatment Outcome

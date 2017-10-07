@@ -1,0 +1,15 @@
+Angina, Unstable/epidemiology/mortality/*prevention & control
+Blood Pressure/drug effects
+Death, Sudden, Cardiac/epidemiology/prevention & control
+Enalapril/pharmacology/*therapeutic use
+Female
+Heart Failure/drug therapy/physiopathology
+Humans
+Incidence
+Male
+Myocardial Infarction/epidemiology/mortality/*prevention & control
+Prognosis
+Prospective Studies
+Risk Factors
+*Stroke Volume
+Time Factors

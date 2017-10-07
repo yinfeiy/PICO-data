@@ -1,0 +1,15 @@
+Adenocarcinoma/*drug therapy/surgery
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Combined Modality Therapy
+Doxorubicin/administration & dosage
+Female
+Fluorouracil/administration & dosage
+Humans
+Male
+Methotrexate/administration & dosage
+Middle Aged
+Preoperative Care
+Stomach Neoplasms/*drug therapy/surgery
+Treatment Outcome

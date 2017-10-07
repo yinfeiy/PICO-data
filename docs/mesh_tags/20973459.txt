@@ -1,0 +1,18 @@
+Animals
+Anthropometry
+Beverages/analysis
+Body Mass Index
+Calcium, Dietary/*administration & dosage
+Diet
+Double-Blind Method
+Female
+Food, Fortified/*analysis
+Hip/anatomy & histology
+Humans
+Middle Aged
+Milk/*chemistry
+Obesity/*prevention & control
+Overweight/*prevention & control
+Philippines
+*Postmenopause
+Waist Circumference

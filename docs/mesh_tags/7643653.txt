@@ -1,0 +1,8 @@
+Catheterization, Peripheral/*instrumentation
+Double-Blind Method
+Humans
+Infant, Newborn/*blood
+Monitoring, Physiologic/*instrumentation
+Oxygen/*blood
+Partial Pressure
+Umbilical Arteries

@@ -1,0 +1,16 @@
+Adult
+Aged
+Chronic Disease
+*Electromyography
+Exercise Therapy/*methods
+Female
+Humans
+Low Back Pain/*therapy
+Male
+Manipulation, Chiropractic/*methods
+Middle Aged
+*Muscle Contraction
+Muscle, Skeletal
+Pain Measurement
+Range of Motion, Articular
+Treatment Outcome

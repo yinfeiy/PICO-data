@@ -1,0 +1,15 @@
+Adult
+Aged
+Esophageal Neoplasms/*surgery
+Esophagectomy/*adverse effects
+Female
+Glycoproteins/*therapeutic use
+Humans
+Interleukin-6/blood
+Interleukin-8/blood
+Male
+Middle Aged
+Pneumonia/blood/*prevention & control
+Postoperative Complications/blood/prevention & control
+Treatment Outcome
+Trypsin Inhibitors/therapeutic use

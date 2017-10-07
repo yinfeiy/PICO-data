@@ -1,0 +1,11 @@
+Adult
+Aged
+Arthritis, Gouty/*diet therapy/drug therapy/*therapy
+*Bloodletting
+Combined Modality Therapy
+*Electroacupuncture
+Humans
+Male
+Middle Aged
+Probenecid/therapeutic use
+Uricosuric Agents/therapeutic use

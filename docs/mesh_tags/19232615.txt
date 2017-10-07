@@ -1,0 +1,10 @@
+Adult
+Brain Injuries/physiopathology/*therapy
+Female
+*Hospital Mortality
+Humans
+Insulin/*administration & dosage
+*Intensive Care Units
+Male
+Middle Aged
+Treatment Outcome

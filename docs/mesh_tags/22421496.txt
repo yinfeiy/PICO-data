@@ -1,0 +1,16 @@
+Adult
+Aged
+Barrett Esophagus/diagnosis/*pathology
+Biopsy
+Cross-Over Studies
+Esophagoscopy/adverse effects/*methods
+Female
+Humans
+Male
+Metaplasia/diagnosis/*pathology
+Middle Aged
+Patient Preference
+Sensitivity and Specificity
+Surveys and Questionnaires
+Test Anxiety Scale
+Young Adult

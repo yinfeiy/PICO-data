@@ -1,0 +1,18 @@
+Activating Transcription Factor 6/genetics/metabolism
+Adult
+Cholesterol, HDL/genetics/metabolism
+Dietary Proteins/*metabolism
+Fatty Acid-Binding Proteins/genetics/metabolism
+Female
+Gene Expression Regulation/drug effects/physiology
+Glycemic Index/*physiology
+Humans
+Lipid Metabolism/genetics/*physiology
+Lipids/*blood
+Lipoprotein Lipase/genetics/metabolism
+Male
+Nuclear Proteins/genetics/metabolism
+Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha
+Phosphatidate Phosphatase/genetics/metabolism
+*Polymorphism, Single Nucleotide
+Transcription Factors/genetics/metabolism

@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Ambulatory Surgical Procedures
+*Anesthesia, General
+*Colonoscopy
+*Conscious Sedation
+Female
+Fentanyl/pharmacology
+Humans
+Hypnotics and Sedatives/administration & dosage/*pharmacology
+Male
+Midazolam/pharmacology
+Middle Aged
+Pain Measurement
+Piperidines/*pharmacology
+Propofol/administration & dosage/*pharmacology

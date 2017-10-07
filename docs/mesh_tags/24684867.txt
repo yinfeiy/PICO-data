@@ -1,0 +1,14 @@
+Acute Disease
+Adult
+Appendectomy/*methods
+Appendicitis/*surgery
+Equipment Design
+Female
+Follow-Up Studies
+Humans
+*Laparoscopes
+Laparoscopy/*methods
+Male
+Prospective Studies
+Time Factors
+Treatment Outcome

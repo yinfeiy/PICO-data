@@ -1,0 +1,11 @@
+*Acupuncture Points
+*Acupuncture Therapy
+Adult
+Female
+Humans
+Male
+Middle Aged
+Muscles/physiopathology
+Tendons/physiopathology
+Tension-Type Headache/physiopathology/*therapy
+Treatment Outcome

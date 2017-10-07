@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Arthroscopy
+Catheter Ablation/*adverse effects
+Female
+Follow-Up Studies
+Humans
+Joint Capsule/*surgery
+Joint Instability/*surgery
+Male
+Shoulder Joint/*surgery
+Treatment Outcome
+Young Adult

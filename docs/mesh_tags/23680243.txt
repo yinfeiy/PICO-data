@@ -1,0 +1,16 @@
+Adult
+Blood Glucose/metabolism
+Diabetes Mellitus, Type 1/blood/*drug therapy/*epidemiology
+Drug Administration Schedule
+Female
+Glycemic Index/*physiology
+Humans
+Infant, Newborn
+Infusions, Subcutaneous
+Injections, Subcutaneous
+Insulin/*administration & dosage
+Pregnancy
+Pregnancy Outcome/epidemiology
+Pregnancy in Diabetics/blood/*drug therapy/*epidemiology
+Retrospective Studies
+Treatment Outcome

@@ -1,0 +1,16 @@
+Adult
+Body Mass Index
+Chromosome Mapping
+Fasting/*physiology
+Genetic Loci/*genetics
+Genetics, Population
+Genome-Wide Association Study
+Humans
+Lipid Metabolism
+Lipoproteins/*analysis/*genetics
+Magnetic Resonance Spectroscopy
+Male
+Phenotype
+Polymorphism, Single Nucleotide/*genetics
+Risk Factors
+Young Adult

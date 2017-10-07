@@ -1,0 +1,13 @@
+Adult
+*Blood Bactericidal Activity
+Cilastatin/adverse effects/blood/pharmacokinetics
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Combinations
+Drug Therapy, Combination/adverse effects/blood/*pharmacokinetics
+Humans
+Imipenem/adverse effects/blood/pharmacokinetics
+Male
+Microbial Sensitivity Tests
+Thienamycins/adverse effects/*blood/*pharmacokinetics

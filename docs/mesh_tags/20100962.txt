@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Bone Neoplasms/*drug therapy/secondary
+Carcinoma, Renal Cell/*drug therapy/secondary
+Double-Blind Method
+Female
+Humans
+International Agencies
+Kidney Neoplasms/*drug therapy/pathology
+Liver Neoplasms/*drug therapy/secondary
+Lung Neoplasms/*drug therapy/secondary
+Male
+Middle Aged
+Neoplasm Staging
+Placebos
+Prognosis
+Pyrimidines/*therapeutic use
+Sulfonamides/*therapeutic use
+Survival Rate
+Treatment Outcome
+Young Adult

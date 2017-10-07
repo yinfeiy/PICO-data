@@ -1,0 +1,24 @@
+Antimetabolites, Antineoplastic/*administration & dosage/adverse effects
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects
+Attention/drug effects
+Child
+Child, Preschool
+Cognition/*drug effects
+Cross-Sectional Studies
+Cytarabine/administration & dosage
+Female
+Humans
+Hydrocortisone/administration & dosage
+Infant
+Injections, Spinal
+Intelligence Tests
+Linear Models
+Male
+Memory/drug effects
+Methotrexate/*administration & dosage/adverse effects
+Neuropsychological Tests
+Precursor Cell Lymphoblastic Leukemia-Lymphoma/*drug therapy
+Psychomotor Performance/drug effects
+Time Factors
+Treatment Outcome
+United States

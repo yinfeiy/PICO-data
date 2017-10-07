@@ -1,0 +1,9 @@
+Adult
+Area Under Curve
+Cefuroxime/blood/*pharmacokinetics
+Cephalosporins/blood/*pharmacokinetics
+Chromatography, High Pressure Liquid
+Cross-Over Studies
+Double-Blind Method
+Humans
+Male

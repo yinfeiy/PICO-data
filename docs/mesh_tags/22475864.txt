@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Animals
+Antibodies, Neutralizing/blood
+Antibodies, Viral/blood
+Cercopithecus aethiops
+Cross Reactions
+Female
+Hemagglutination Inhibition Tests
+Humans
+Influenza A Virus, H1N1 Subtype/*immunology
+Influenza Vaccines/biosynthesis/*immunology
+Influenza, Human/immunology/*prevention & control
+Male
+Middle Aged
+Vero Cells
+Young Adult

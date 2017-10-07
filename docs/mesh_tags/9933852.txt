@@ -1,0 +1,16 @@
+Adenocarcinoma/drug therapy/*surgery
+Aged
+Anemia/*drug therapy
+Colorectal Neoplasms/drug therapy/*surgery
+Dose-Response Relationship, Drug
+Erythropoiesis/*drug effects
+Erythropoietin/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Pancreatic Neoplasms/drug therapy/*surgery
+Preoperative Care
+Prospective Studies
+Recombinant Proteins
+Stomach Neoplasms/drug therapy/*surgery

@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Anesthesia Recovery Period
+*Anesthesia, General
+*Enflurane/blood
+Eye Diseases/*surgery
+*Halothane/blood
+Humans
+*Hypotension, Controlled
+Middle Aged
+Time Factors

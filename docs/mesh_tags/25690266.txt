@@ -1,0 +1,28 @@
+Adolescent
+Adult
+Aged
+*Appointments and Schedules
+*Attitude of Health Personnel
+Child
+Child, Preschool
+Cost-Benefit Analysis
+Decision Support Systems, Clinical
+Female
+General Practitioners/standards/statistics & numerical data
+Humans
+Infant
+Infant, Newborn
+Male
+Middle Aged
+Nurses/standards/statistics & numerical data
+*Outcome and Process Assessment (Health Care)
+*Patient Satisfaction
+Primary Health Care/economics/*methods/organization & administration
+Referral and Consultation/economics/statistics & numerical data
+State Medicine/economics/standards
+Telephone
+Time Factors
+Triage/economics/manpower/*methods
+United Kingdom
+Workload
+Young Adult

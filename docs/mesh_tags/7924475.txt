@@ -1,0 +1,16 @@
+Acute Disease
+Administration, Inhalation
+Adult
+Albuterol/*administration & dosage/therapeutic use
+Aminophylline/*administration & dosage/*adverse effects/therapeutic use
+Asthma/*drug therapy
+Double-Blind Method
+Drug Therapy, Combination
+Emergencies
+Female
+Humans
+Hydrocortisone/administration & dosage/therapeutic use
+Infusions, Intravenous
+Injections, Intravenous
+Male
+Nebulizers and Vaporizers

@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Anti-Arrhythmia Agents/administration & dosage/*pharmacology
+Female
+Fructosediphosphates/administration & dosage/*pharmacology
+Hospitals, Teaching
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Myocardial Contraction/*drug effects
+Prospective Studies
+Radionuclide Ventriculography
+Single-Blind Method
+Stroke Volume/drug effects
+Ventricular Dysfunction, Left/diagnostic imaging/*physiopathology

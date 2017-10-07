@@ -1,0 +1,23 @@
+Aged
+Breast Neoplasms/*drug therapy/prevention & control/*radiotherapy
+Chemotherapy, Adjuvant/adverse effects
+Combined Modality Therapy/methods
+Data Interpretation, Statistical
+Female
+Follow-Up Studies
+Humans
+Lung Neoplasms/drug therapy/radiotherapy/*secondary
+Middle Aged
+Neoplasm Staging
+Postmenopause
+Postoperative Period
+Premenopause
+Radiotherapy, Adjuvant/adverse effects
+Recurrence
+Reproducibility of Results
+Risk Factors
+Survival Analysis
+Survival Rate
+Sweden
+Tamoxifen/therapeutic use
+Treatment Outcome

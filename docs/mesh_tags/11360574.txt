@@ -1,0 +1,17 @@
+Adult
+Animals
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Humans
+Hypothalamo-Hypophyseal System/*drug effects
+Immunosuppression
+Lupus Erythematosus, Systemic/drug therapy
+Lymphocyte Activation/drug effects
+Male
+Middle Aged
+Nephrotic Syndrome/*drug therapy
+Neurosecretory Systems/drug effects
+Pituitary-Adrenal System/*drug effects
+Prednisone/*adverse effects/therapeutic use
+Rats
+Rats, Sprague-Dawley

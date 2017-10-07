@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Aged
+Cholecystectomy, Laparoscopic/*methods
+Cholelithiasis/*surgery
+Female
+Humans
+Male
+Middle Aged
+Pneumoperitoneum, Artificial

@@ -1,0 +1,20 @@
+Adult
+Alcohol Drinking/blood/*metabolism
+Analgesics, Opioid/administration & dosage/blood/chemistry/*pharmacokinetics
+Analysis of Variance
+Area Under Curve
+Capsules
+Cross-Over Studies
+Delayed-Action Preparations
+Drug Combinations
+Drug Interactions
+Ethanol/*administration & dosage/blood
+Female
+Humans
+Male
+Metabolic Clearance Rate
+Models, Biological
+Morphine/administration & dosage/blood/chemistry/*pharmacokinetics
+Naltrexone/administration & dosage/blood/chemistry/*pharmacokinetics
+Narcotic Antagonists/administration & dosage/blood/chemistry/*pharmacokinetics
+Young Adult

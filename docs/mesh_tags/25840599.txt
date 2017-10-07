@@ -1,0 +1,18 @@
+Acute Disease
+Antimetabolites, Antineoplastic/therapeutic use
+Chronic Disease
+Graft vs Host Disease/immunology/mortality/pathology/*prevention & control
+Hematologic Neoplasms/drug therapy/immunology/mortality/pathology
+*Hematopoietic Stem Cell Transplantation
+Humans
+Immunosuppressive Agents/*therapeutic use
+Methotrexate/*therapeutic use
+Severity of Illness Index
+Siblings
+Sirolimus/*therapeutic use
+Survival Analysis
+Tacrolimus/therapeutic use
+Transplantation Conditioning/*methods
+Transplantation, Homologous
+Treatment Outcome
+Unrelated Donors

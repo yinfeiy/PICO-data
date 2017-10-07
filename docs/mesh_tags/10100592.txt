@@ -1,0 +1,14 @@
+Antiemetics/*administration & dosage/therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects/therapeutic use
+Cisplatin/therapeutic use
+Female
+Granisetron/*administration & dosage/therapeutic use
+Hematologic Neoplasms/*drug therapy
+Humans
+Infusions, Intravenous
+Injections, Intravenous
+Male
+Middle Aged
+Nausea/chemically induced/*drug therapy
+Treatment Outcome
+Vomiting/chemically induced/*drug therapy

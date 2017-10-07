@@ -1,0 +1,17 @@
+Adult
+Aged
+Anti-HIV Agents/administration & dosage/*therapeutic use
+Benzoxazines
+Dideoxynucleosides/administration & dosage/*therapeutic use
+Double-Blind Method
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+HIV Infections/*drug therapy
+Humans
+Lamivudine/administration & dosage/*therapeutic use
+Male
+Oxazines/administration & dosage/*therapeutic use
+RNA, Viral/blood/isolation & purification
+Treatment Outcome
+Viral Load

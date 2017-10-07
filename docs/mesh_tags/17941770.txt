@@ -1,0 +1,16 @@
+Adult
+Aged
+Analgesia
+Diclofenac/therapeutic use
+Female
+Humans
+Kidney Calculi/*therapy
+Length of Stay
+Male
+Middle Aged
+Nephrology/methods
+Nephrostomy, Percutaneous/*instrumentation/*methods
+Safety
+*Stents
+Time Factors
+Treatment Outcome

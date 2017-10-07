@@ -1,0 +1,19 @@
+Administration, Oral
+Administration, Topical
+Adolescent
+Adult
+Amoxicillin/*administration & dosage/economics
+Anti-Bacterial Agents/*administration & dosage/economics
+Anti-Infective Agents, Local/administration & dosage
+Child
+Child, Preschool
+Drug Therapy, Combination
+Erythromycin/*administration & dosage/economics
+Female
+Humans
+Infant
+Male
+Mali
+Povidone-Iodine/administration & dosage
+Pyoderma/*drug therapy/pathology
+Treatment Outcome

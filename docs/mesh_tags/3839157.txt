@@ -1,0 +1,16 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bone Neoplasms/secondary
+Breast Neoplasms/*drug therapy/pathology
+Cyclophosphamide/administration & dosage
+Doxorubicin/administration & dosage
+Female
+Fluorouracil/administration & dosage
+Hematologic Diseases/chemically induced
+Humans
+Menopause
+Neoplasm Metastasis
+Neoplasm Recurrence, Local/drug therapy
+Prognosis
+Skin Neoplasms/secondary
+Time Factors
+Vomiting/chemically induced

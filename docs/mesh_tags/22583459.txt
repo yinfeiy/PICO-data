@@ -1,0 +1,13 @@
+Adult
+*Algorithms
+Female
+*Health Status
+Humans
+Male
+Middle Aged
+Migraine Disorders/*psychology
+*Quality of Life
+Regression Analysis
+Surveys and Questionnaires
+United States
+Young Adult

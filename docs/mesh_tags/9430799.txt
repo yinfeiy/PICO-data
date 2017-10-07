@@ -1,0 +1,16 @@
+Adult
+Blood Pressure/physiology
+Cardiac Output/physiology
+Dietary Carbohydrates/*pharmacology
+Female
+Forearm/*blood supply
+Heart Rate/physiology
+Hemodynamics/physiology
+Humans
+*Lower Body Negative Pressure
+Male
+Posture/*physiology
+Reference Values
+Regional Blood Flow
+Vascular Resistance/physiology
+Vasoconstriction/*physiology

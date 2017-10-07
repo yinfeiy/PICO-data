@@ -1,0 +1,13 @@
+Adult
+Affective Symptoms/drug therapy/etiology
+Aged
+Aged, 80 and over
+Cerebrovascular Disorders/*complications/psychology
+Citalopram/*therapeutic use
+*Crying
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Treatment Outcome

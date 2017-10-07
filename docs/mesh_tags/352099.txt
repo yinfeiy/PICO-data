@@ -1,0 +1,17 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Clinical Trials as Topic
+Drug Evaluation
+Female
+Heparin/administration & dosage/adverse effects/*therapeutic use
+Humans
+Infusions, Parenteral
+Injections, Subcutaneous
+Leg/*blood supply
+Male
+Middle Aged
+Phlebography
+Streptokinase/administration & dosage/adverse effects/*therapeutic use
+Thrombophlebitis/*drug therapy

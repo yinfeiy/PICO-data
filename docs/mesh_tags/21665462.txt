@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Alopecia/chemically induced
+Antineoplastic Agents, Phytogenic/therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/*therapeutic use
+Camptothecin/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Chemotherapy, Adjuvant
+Colorectal Neoplasms/*drug therapy/*pathology
+Diarrhea/chemically induced
+Drug Administration Schedule
+Female
+Fluorouracil/administration & dosage
+Humans
+Infusions, Intravenous
+Injections, Intravenous
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Neoplasm Staging
+Research Design
+Treatment Outcome

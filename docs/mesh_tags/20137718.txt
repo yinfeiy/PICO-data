@@ -1,0 +1,12 @@
+Adult
+Aged
+Female
+Humans
+Male
+Middle Aged
+Neoplasm Staging
+Preoperative Care
+Prospective Studies
+Rectal Neoplasms/*diagnosis/surgery
+Serum Amyloid A Protein/*analysis
+Tomography, Spiral Computed/*methods

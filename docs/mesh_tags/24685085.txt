@@ -1,0 +1,9 @@
+Anticoagulants/therapeutic use
+Female
+Genital Neoplasms, Female/*surgery
+Heparin, Low-Molecular-Weight/*therapeutic use
+Humans
+Postoperative Complications/prevention & control
+Postoperative Period
+*Stockings, Compression
+Venous Thromboembolism/etiology/*prevention & control

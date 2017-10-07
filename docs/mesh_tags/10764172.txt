@@ -1,0 +1,16 @@
+Adult
+Analgesics, Opioid/*administration & dosage/*adverse effects/therapeutic use
+Chromium Radioisotopes
+Epinephrine/blood
+Female
+Humans
+Hydrocortisone/blood
+*Hysterectomy
+Injections, Intravenous
+Injections, Spinal
+Killer Cells, Natural/*drug effects
+Middle Aged
+Morphine/*administration & dosage/*adverse effects/therapeutic use
+Norepinephrine/blood
+Pain Measurement/drug effects
+Pain, Postoperative/*drug therapy

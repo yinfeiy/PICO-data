@@ -1,0 +1,15 @@
+Adult
+Aged
+Amlodipine/administration & dosage/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Calcium Channel Blockers/administration & dosage/adverse effects/*therapeutic use
+Drug Administration Schedule
+Female
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Myocardial Ischemia/*drug therapy/physiopathology
+Nitroglycerin/administration & dosage/therapeutic use
+Treatment Outcome
+Vasodilator Agents/administration & dosage/therapeutic use

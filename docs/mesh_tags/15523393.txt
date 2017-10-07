@@ -1,0 +1,13 @@
+Adult
+Aged
+Biopsy
+Humans
+Japan
+Lymphatic Metastasis
+Middle Aged
+Neoplasm Invasiveness
+Pancreatic Neoplasms/mortality/pathology/*radiotherapy/*surgery
+Quality of Life
+Sex Characteristics
+Survival Analysis
+Time Factors

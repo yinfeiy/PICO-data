@@ -1,0 +1,14 @@
+Adult
+Aged
+Angina Pectoris/*drug therapy
+Angina, Unstable/*drug therapy
+Benzazepines/*therapeutic use
+Clinical Trials as Topic
+Coronary Angiography
+Diltiazem/*therapeutic use
+Electrocardiography
+Female
+Humans
+Male
+Middle Aged
+Propranolol/*therapeutic use

@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+*Body Mass Index
+Female
+Follow-Up Studies
+Gait/*physiology
+Gait Disorders, Neurologic/*etiology/physiopathology/rehabilitation
+Humans
+Male
+Middle Aged
+Paresis/complications/physiopathology/*rehabilitation
+*Physical Therapy Modalities
+Prognosis
+Stroke/complications/physiopathology
+Stroke Rehabilitation
+Walking/*physiology
+Young Adult

@@ -1,0 +1,9 @@
+Astrocytoma/drug therapy/radiotherapy/*therapy
+Brain Neoplasms/drug therapy/radiotherapy/*therapy
+Drug Evaluation
+Female
+Humans
+Lomustine/*therapeutic use
+Male
+Nitrosourea Compounds/*therapeutic use
+Radiotherapy/*methods

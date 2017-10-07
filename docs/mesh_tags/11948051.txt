@@ -1,0 +1,14 @@
+Adult
+Aged
+*Cardiopulmonary Bypass
+*Coronary Artery Bypass
+Coronary Disease/*surgery
+Female
+Hemodynamics/*physiology
+Humans
+*Ischemic Preconditioning, Myocardial
+Male
+Middle Aged
+Myocardial Contraction/*physiology
+Outcome and Process Assessment (Health Care)
+Postoperative Complications/*physiopathology

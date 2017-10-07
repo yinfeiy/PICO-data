@@ -1,0 +1,9 @@
+Adult
+*Bed Rest
+Drugs, Chinese Herbal/*administration & dosage
+Femoral Artery/drug effects/*physiology
+Humans
+Male
+Prone Position/*physiology
+Rest/*physiology
+Vasodilation/drug effects/*physiology

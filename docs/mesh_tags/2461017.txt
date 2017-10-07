@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Clinical Trials as Topic
+Dextrans/adverse effects/pharmacology/*therapeutic use
+Factor Xa
+Female
+Hemorrhage/chemically induced
+Heparin, Low-Molecular-Weight/adverse effects/pharmacology/*therapeutic use
+*Hip Prosthesis
+Humans
+Male
+Middle Aged
+Pilot Projects
+Postoperative Complications/*prevention & control
+Prothrombin/antagonists & inhibitors/metabolism
+Random Allocation
+Serine Endopeptidases/metabolism
+Serine Proteinase Inhibitors
+Thrombophlebitis/etiology/*prevention & control

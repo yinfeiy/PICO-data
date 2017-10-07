@@ -1,0 +1,14 @@
+Adult
+Aged
+Breast Neoplasms/*drug therapy
+Carcinoma/*drug therapy
+Double-Blind Method
+Fadrozole/adverse effects/*therapeutic use
+Female
+Humans
+Megestrol/adverse effects/*therapeutic use
+Menopause
+Middle Aged
+Prognosis
+Prospective Studies
+Survival Analysis

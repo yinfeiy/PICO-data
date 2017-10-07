@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Analysis of Variance
+Cerebral Cortex/*drug effects/metabolism
+Cerebrovascular Circulation/*drug effects
+Choice Behavior/drug effects
+Cognition/*drug effects
+Dietary Supplements
+Docosahexaenoic Acids/*administration & dosage
+Double-Blind Method
+Executive Function/drug effects
+Female
+Fish Oils/*administration & dosage
+Hemodynamics/*drug effects
+Hemoglobins/metabolism
+Humans
+Inhibition (Psychology)
+Male
+Memory, Short-Term/drug effects
+Neuropsychological Tests
+Oxyhemoglobins/metabolism
+Reaction Time/drug effects
+Space Perception/drug effects
+Spectroscopy, Near-Infrared
+Young Adult

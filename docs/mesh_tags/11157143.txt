@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Arthritis, Rheumatoid/*complications/diagnostic imaging/metabolism/pathology
+Cell Adhesion Molecules/biosynthesis
+Female
+Humans
+Interleukin 1 Receptor Antagonist Protein
+Leukocytes, Mononuclear/physiology
+Male
+Middle Aged
+Outcome Assessment (Health Care)
+Radiography
+Receptors, Interleukin-1/*antagonists & inhibitors
+Recombinant Proteins/therapeutic use
+Sialoglycoproteins/*therapeutic use
+Synovitis/diagnostic imaging/*drug therapy/etiology/metabolism/pathology

@@ -1,0 +1,15 @@
+Adult
+Body Composition/physiology
+Brain Injuries/physiopathology/*rehabilitation
+Ergometry/methods
+Exercise Test
+Exercise Therapy/*methods
+Hand Strength/physiology
+Humans
+Male
+Middle Aged
+Muscle, Skeletal/physiopathology
+Neuronal Plasticity
+Physical Endurance/physiology
+Physical Fitness/*physiology
+Water

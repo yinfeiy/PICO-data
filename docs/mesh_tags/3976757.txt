@@ -1,0 +1,13 @@
+17-alpha-Hydroxyprogesterone
+Adult
+Birth Weight
+Double-Blind Method
+Female
+Humans
+Hydroxyprogesterones/*therapeutic use
+Infant Mortality
+Infant, Newborn
+Infant, Premature
+Obstetric Labor, Premature/*prevention & control
+Pregnancy
+Random Allocation

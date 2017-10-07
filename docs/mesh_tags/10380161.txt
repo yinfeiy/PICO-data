@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aerosols
+Air Pollution, Indoor/*adverse effects
+Bronchoalveolar Lavage Fluid/cytology
+Double-Blind Method
+Humans
+L-Lactate Dehydrogenase/metabolism
+Lipid Metabolism
+Lung/*pathology
+Macrophages/drug effects/immunology
+Male
+Nitrogen Dioxide/*toxicity
+Oxidants, Photochemical/*toxicity
+Pneumonia/chemically induced/*pathology
+Proteins/metabolism

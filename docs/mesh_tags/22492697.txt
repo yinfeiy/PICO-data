@@ -1,0 +1,10 @@
+Adult
+Aged
+Carcinoma, Squamous Cell/*drug therapy/pathology
+Female
+Humans
+Hypopharyngeal Neoplasms/*drug therapy/pathology
+Larynx/*pathology/physiopathology
+Male
+Middle Aged
+Survival Rate

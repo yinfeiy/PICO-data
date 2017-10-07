@@ -1,0 +1,14 @@
+Arm
+Catheterization, Peripheral/*methods
+Cross-Over Studies
+Female
+Hand
+Hot Temperature/*therapeutic use
+Humans
+Infusions, Intravenous
+Leukemia/drug therapy
+Male
+Middle Aged
+Neurosurgical Procedures
+Prospective Studies
+Single-Blind Method

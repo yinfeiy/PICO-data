@@ -1,0 +1,15 @@
+APACHE
+Adolescent
+Adult
+Aged
+Blood Loss, Surgical/physiopathology
+*Critical Care
+Equipment Design
+Female
+Humans
+Male
+Middle Aged
+Postoperative Complications/etiology
+Prospective Studies
+Tracheostomy/*instrumentation
+Treatment Outcome

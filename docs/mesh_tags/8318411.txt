@@ -1,0 +1,20 @@
+Adult
+Aged
+Antigens, Tumor-Associated, Carbohydrate/blood
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Biomarkers, Tumor/*blood
+Blood Sedimentation/drug effects
+Breast Neoplasms/blood/*drug therapy
+Carcinoembryonic Antigen/blood
+Cyclophosphamide/administration & dosage
+Drug Administration Schedule
+Drug Monitoring/methods
+Female
+Fluorouracil/administration & dosage
+Follow-Up Studies
+Humans
+Methotrexate/administration & dosage
+Middle Aged
+Reagent Kits, Diagnostic
+Receptors, Estrogen/analysis
+Time Factors

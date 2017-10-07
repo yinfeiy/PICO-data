@@ -1,0 +1,22 @@
+Acute Disease
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Hematopoietic Stem Cell Transplantation
+Humans
+Infant
+Infant, Newborn
+Leukemia, Myeloid/*therapy
+Male
+Middle Aged
+Remission Induction
+Risk Factors
+Survival Rate
+Transplantation Conditioning
+Transplantation, Homologous
+Treatment Outcome

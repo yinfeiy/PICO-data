@@ -1,0 +1,17 @@
+Adult
+Blood Glucose/metabolism
+Blood Pressure/*physiology
+Catecholamines/blood
+*Coronary Artery Bypass
+Coronary Disease/physiopathology/*surgery
+Energy Metabolism/*physiology
+*Exercise Test
+Follow-Up Studies
+Heart Rate/*physiology
+Humans
+Lactates/blood
+Lactic Acid
+Male
+Middle Aged
+Physical Education and Training/*methods
+Postoperative Complications/*physiopathology

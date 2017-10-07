@@ -1,0 +1,20 @@
+Adult
+Anti-Infective Agents, Local/*administration & dosage
+Chlorhexidine/administration & dosage/*analogs & derivatives
+Cross-Over Studies
+DMF Index
+Dental Calculus/prevention & control
+Dental Care for Disabled/*methods
+*Dental Devices, Home Care
+Dental Plaque/prevention & control
+Dental Plaque Index
+Female
+Gingivitis/prevention & control
+Humans
+Male
+Mouthwashes/*therapeutic use
+Oral Hygiene/instrumentation/*methods
+Periodontal Index
+Single-Blind Method
+Sodium Fluoride/therapeutic use
+Statistics, Nonparametric

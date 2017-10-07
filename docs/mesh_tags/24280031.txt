@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Asperger Syndrome/physiopathology/psychology/*therapy
+Autistic Disorder/physiopathology/psychology/*therapy
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Prefrontal Cortex/*physiopathology
+Prospective Studies
+*Social Adjustment
+Transcranial Magnetic Stimulation/*methods
+Treatment Outcome
+Young Adult

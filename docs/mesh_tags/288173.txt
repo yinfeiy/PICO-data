@@ -1,0 +1,13 @@
+Adult
+Aged
+Bronchial Neoplasms/drug therapy/*mortality/radiotherapy
+Cyclophosphamide/therapeutic use
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Placebos
+Prognosis
+Prospective Studies
+*Quality of Life

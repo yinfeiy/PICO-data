@@ -1,0 +1,18 @@
+Aged
+Anti-Infective Agents, Local/*therapeutic use
+Antisepsis/*methods
+Catheter-Related Infections/*prevention & control
+Catheterization, Central Venous/methods
+Catheterization, Peripheral/methods
+Catheters, Indwelling
+Chlorhexidine/*therapeutic use
+Drug Therapy, Combination
+Ethanol/*therapeutic use
+Female
+Humans
+Intensive Care Units
+Male
+Middle Aged
+Povidone-Iodine/*therapeutic use
+Treatment Outcome
+*Vascular Access Devices

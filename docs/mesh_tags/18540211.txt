@@ -1,0 +1,10 @@
+Animals
+Animals, Laboratory
+Anthelmintics/administration & dosage/therapeutic use
+Ivermectin/administration & dosage/*analogs & derivatives/therapeutic use
+Nematode Infections/drug therapy/*veterinary
+*Oxyuroidea
+Parasite Egg Count/veterinary
+Rats
+Rats, Sprague-Dawley
+Rodent Diseases/drug therapy/*parasitology

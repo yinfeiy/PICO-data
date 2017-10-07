@@ -1,0 +1,12 @@
+Aged
+Anxiety/nursing/psychology
+Coronary Artery Bypass/*nursing/*psychology
+Coronary Artery Disease/*nursing/psychology/surgery
+Female
+Humans
+Male
+Middle Aged
+Patient Discharge
+Patient Education as Topic/*methods
+Perioperative Nursing/*methods
+Self Care

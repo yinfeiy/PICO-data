@@ -1,0 +1,14 @@
+Adult
+Antioxidants/therapeutic use
+Arteriosclerosis/*blood/diagnostic imaging/*drug therapy
+Ascorbic Acid/*therapeutic use
+Carotid Arteries/diagnostic imaging/*drug effects
+Cholesterol/*blood
+Disease Progression
+Humans
+Male
+Middle Aged
+Tunica Intima/diagnostic imaging/drug effects
+Tunica Media/diagnostic imaging/drug effects
+Ultrasonography
+Vitamin E/*therapeutic use

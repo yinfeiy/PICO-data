@@ -1,0 +1,20 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Glycine/administration & dosage/*analogs & derivatives/therapeutic use
+Humans
+Interleukin-8/blood
+Leukocyte Elastase/antagonists & inhibitors/blood
+Leukocytes/*drug effects
+Middle Aged
+Oxygen/blood
+Pulmonary Circulation/*drug effects
+Pulmonary Surfactant-Associated Protein D/blood
+Respiration, Artificial/statistics & numerical data
+Serine Proteinase Inhibitors/administration & dosage/*therapeutic use
+Sulfonamides/administration & dosage/*therapeutic use
+Survival Analysis
+Systemic Inflammatory Response Syndrome/*drug therapy/immunology
+Treatment Outcome
+Tumor Necrosis Factor-alpha/blood

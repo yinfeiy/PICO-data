@@ -1,0 +1,22 @@
+Adenine/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Adult
+*Anti-HIV Agents/adverse effects/therapeutic use
+*Carbamates/administration & dosage/adverse effects/therapeutic use
+Creatinine/blood
+Deoxycytidine/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Double-Blind Method
+Drug Combinations
+Efavirenz, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination
+Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination
+Female
+HIV Infections/*drug therapy/virology
+HIV-1/drug effects/physiology
+Humans
+Male
+*Organophosphonates/administration & dosage/adverse effects/therapeutic use
+*Oxazines/adverse effects/therapeutic use
+*Quinolones/administration & dosage/adverse effects/therapeutic use
+RNA, Viral/blood
+*Thiazoles/administration & dosage/adverse effects/therapeutic use
+Treatment Outcome
+Young Adult

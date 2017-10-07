@@ -1,0 +1,13 @@
+Adult
+*Bandages, Hydrocolloid
+Female
+Humans
+Male
+*Models, Biological
+*Occlusive Dressings
+Pilot Projects
+Polyurethanes
+Reference Standards
+Research Design
+*Wound Healing
+Wounds and Injuries/pathology/*therapy

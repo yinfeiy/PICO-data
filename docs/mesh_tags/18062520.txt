@@ -1,0 +1,14 @@
+Adult
+Aged
+Analgesics, Opioid/pharmacology/*therapeutic use
+Anesthesia, Conduction/*methods
+*Drug Therapy, Combination
+Female
+Humans
+Hypnotics and Sedatives/pharmacology/*therapeutic use
+Male
+Meperidine/pharmacology/*therapeutic use
+Midazolam/pharmacology/*therapeutic use
+Middle Aged
+Prospective Studies
+Tramadol/pharmacology/*therapeutic use

@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Ambulatory Care/*organization & administration
+Clinical Protocols
+Female
+Humans
+Male
+Mental Disorders/*therapy
+Mental Health Services/*organization & administration
+Middle Aged
+*Outpatients
+*Patient Discharge
+Research Design
+Standard of Care/*organization & administration

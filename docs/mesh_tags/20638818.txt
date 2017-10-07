@@ -1,0 +1,23 @@
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Biopsy, Needle
+Chi-Square Distribution
+Cisplatin/administration & dosage
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Fluorouracil/administration & dosage
+Follow-Up Studies
+Gastrectomy/methods
+Humans
+Immunohistochemistry
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Neoadjuvant Therapy/*methods
+Neoplasm Staging
+Prospective Studies
+Reference Values
+Stomach Neoplasms/*drug therapy/mortality/*pathology/surgery
+Survival Rate
+Treatment Outcome

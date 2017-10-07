@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Diphtheria/immunology/*prevention & control
+Diphtheria Antitoxin/*blood
+Diphtheria Toxoid/administration & dosage/*immunology
+Female
+Humans
+Immunization Schedule
+*Immunization, Secondary
+Male
+Middle Aged
+Prospective Studies

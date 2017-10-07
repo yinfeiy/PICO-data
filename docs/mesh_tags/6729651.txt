@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Carcinoma, Squamous Cell/mortality/*radiotherapy
+Child
+Evaluation Studies as Topic
+Female
+Humans
+Middle Aged
+Morbidity
+Prospective Studies
+Radiotherapy Dosage
+Random Allocation
+Technology, Radiologic
+Uterine Cervical Neoplasms/mortality/*radiotherapy

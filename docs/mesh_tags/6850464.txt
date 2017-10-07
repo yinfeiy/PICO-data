@@ -1,0 +1,11 @@
+Aged
+BCG Vaccine/administration & dosage/*therapeutic use
+Breast Neoplasms/mortality/*therapy
+Female
+Gastrointestinal Neoplasms/mortality/*therapy
+Humans
+Male
+Melanoma/mortality/*therapy
+Middle Aged
+Prospective Studies
+Random Allocation

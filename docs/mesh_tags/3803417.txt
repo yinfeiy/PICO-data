@@ -1,0 +1,11 @@
+Adult
+Double-Blind Method
+Female
+Humans
+Hyperlipidemias/blood/*drug therapy
+Hypolipidemic Agents/*therapeutic use
+Male
+Middle Aged
+Pyrazines/*therapeutic use
+Random Allocation
+Triglycerides/blood

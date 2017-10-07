@@ -1,0 +1,12 @@
+Abdomen/*surgery
+Analgesics, Non-Narcotic/administration & dosage/adverse effects/*therapeutic use
+Conscious Sedation/methods
+Dexmedetomidine/administration & dosage/adverse effects/*therapeutic use
+Hemodynamics/drug effects
+Humans
+Hypnotics and Sedatives/administration & dosage/adverse effects/*therapeutic use
+Pain, Postoperative/metabolism/*prevention & control
+Parasympathetic Nervous System/drug effects
+Promedol/administration & dosage/adverse effects/therapeutic use
+Receptors, Adrenergic, alpha-2/*metabolism
+Treatment Outcome

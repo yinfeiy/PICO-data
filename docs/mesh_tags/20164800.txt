@@ -1,0 +1,20 @@
+Acute Disease
+Aged
+Antihypertensive Agents/therapeutic use
+Botulinum Toxins, Type A/adverse effects/*therapeutic use
+Eye Pain/diagnosis/*drug therapy/etiology
+Female
+Glaucoma, Angle-Closure/*complications/therapy
+Gonioscopy
+Humans
+Intraocular Pressure
+Iridectomy
+Male
+Middle Aged
+Neuromuscular Agents/adverse effects/*therapeutic use
+Orbital Diseases/diagnosis/*drug therapy/etiology
+Pain Measurement
+Pain, Intractable/diagnosis/*drug therapy/etiology
+*Palliative Care
+Prospective Studies
+Tonometry, Ocular

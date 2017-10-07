@@ -1,0 +1,18 @@
+Adult
+Angioplasty, Balloon, Coronary
+Anticholesteremic Agents/adverse effects/*therapeutic use
+Cholesterol/*blood
+Cholesterol, LDL/blood
+Coronary Artery Bypass
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Lipids/blood
+Male
+Middle Aged
+Myocardial Infarction/blood/*drug therapy/mortality
+Postmenopause
+Pravastatin/adverse effects/*therapeutic use
+Recurrence
+Survival Rate

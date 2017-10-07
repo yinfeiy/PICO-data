@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Amoxicillin/therapeutic use
+Anti-Ulcer Agents/*therapeutic use
+Clarithromycin/therapeutic use
+Drug Therapy, Combination/*therapeutic use
+Female
+Helicobacter Infections/*drug therapy
+*Helicobacter pylori/drug effects
+Humans
+Male
+Metronidazole/therapeutic use
+Middle Aged
+Omeprazole/*therapeutic use
+Pilot Projects
+Prospective Studies

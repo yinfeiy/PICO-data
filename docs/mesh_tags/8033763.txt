@@ -1,0 +1,17 @@
+Adult
+Affect/drug effects
+Alcohol Drinking/*psychology
+Alcoholic Intoxication/psychology
+Arousal/*drug effects
+*Choice Behavior
+*Diazepam
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Euphoria/drug effects
+Female
+Humans
+Individuality
+Male
+Personality Inventory
+Substance-Related Disorders/*psychology

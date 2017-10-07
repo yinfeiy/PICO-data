@@ -1,0 +1,13 @@
+Adult
+Cardiac Output
+Echocardiography
+Female
+Heart/*physiopathology
+Heart Ventricles/physiopathology
+*Hemodynamics
+Humans
+Hypertension/drug therapy/*physiopathology
+Methyldopa/therapeutic use
+Oxprenolol/therapeutic use
+Pregnancy
+Pregnancy Complications, Cardiovascular/drug therapy/*physiopathology

@@ -1,0 +1,27 @@
+Adjuvants, Anesthesia/*administration & dosage
+Adolescent
+Age Factors
+Anesthetics, Dissociative/*administration & dosage
+Blood Pressure/drug effects
+Body Weight
+Cardiac Catheterization/*methods
+Child
+Child, Preschool
+Conscious Sedation/*methods
+Drug Monitoring/*methods
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Heart Defects, Congenital/*diagnosis/physiopathology
+Heart Rate/drug effects
+Humans
+Infant
+Infant, Newborn
+Infusions, Intravenous
+Ketamine/*administration & dosage
+Male
+Midazolam/*administration & dosage
+Prospective Studies
+ROC Curve
+Respiration/drug effects
+Risk Factors

@@ -1,0 +1,14 @@
+Adult
+Aged
+Amides/*administration & dosage
+Anesthetics, Local/*administration & dosage
+Double-Blind Method
+Female
+Finger Injuries/*surgery
+Humans
+Lidocaine/*administration & dosage
+Male
+Middle Aged
+*Nerve Block
+Prospective Studies
+Reconstructive Surgical Procedures

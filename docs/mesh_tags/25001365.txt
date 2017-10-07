@@ -1,0 +1,17 @@
+Adolescent
+Adult
+*Asian Continental Ancestry Group/ethnology
+Atherosclerosis/*diagnosis/ethnology
+Cardiovascular Diseases/*diagnosis/ethnology
+Cross-Sectional Studies
+Early Diagnosis
+Female
+Health Surveys/methods
+Humans
+Male
+Metabolic Diseases/*diagnosis/ethnology
+Middle Aged
+Neck/*pathology
+*Residence Characteristics
+Risk Factors
+Young Adult

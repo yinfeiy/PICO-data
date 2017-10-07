@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Austria
+Bleomycin/administration & dosage
+Cyclophosphamide/administration & dosage
+Czech Republic
+Dacarbazine/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Etoposide/administration & dosage
+Female
+Germany
+Hodgkin Disease/*drug therapy/radiotherapy
+Humans
+Male
+Middle Aged
+Prednisone/administration & dosage
+Procarbazine/administration & dosage
+Radiotherapy, Adjuvant
+Switzerland
+Treatment Outcome
+Vinblastine/administration & dosage
+Vincristine/administration & dosage

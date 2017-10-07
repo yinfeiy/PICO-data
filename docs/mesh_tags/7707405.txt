@@ -1,0 +1,15 @@
+Aged
+Brain Neoplasms/*prevention & control/secondary
+Carcinoma, Small Cell/*prevention & control/secondary
+*Cranial Irradiation/adverse effects
+Disease-Free Survival
+Female
+Humans
+Lung Neoplasms/*pathology
+Male
+Middle Aged
+Prospective Studies
+Radiotherapy Dosage
+Remission Induction
+Survival Analysis
+Treatment Outcome

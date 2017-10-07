@@ -1,0 +1,18 @@
+Androgen Antagonists/therapeutic use
+Antineoplastic Agents, Hormonal/therapeutic use
+Biomarkers, Tumor/*analysis
+Combined Modality Therapy
+Gene Expression
+Humans
+Image Interpretation, Computer-Assisted
+Immunohistochemistry
+Kaplan-Meier Estimate
+Ki-67 Antigen/*metabolism
+Male
+Neoplasm Invasiveness/genetics/pathology
+Prognosis
+Prostatic Neoplasms/mortality/*pathology/therapy
+Proto-Oncogene Proteins c-mdm2/*metabolism
+Radiotherapy
+Treatment Outcome
+Tumor Suppressor Protein p53/genetics/metabolism

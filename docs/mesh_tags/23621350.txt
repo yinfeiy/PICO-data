@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Allergens/*administration & dosage/therapeutic use
+Analysis of Variance
+Antigens, Plant/*administration & dosage/therapeutic use
+Atmosphere Exposure Chambers
+Desensitization, Immunologic/instrumentation/*methods
+Dose-Response Relationship, Immunologic
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Least-Squares Analysis
+Male
+Middle Aged
+Recombinant Proteins/administration & dosage/therapeutic use
+Rhinitis, Allergic, Seasonal/immunology/*therapy
+Treatment Outcome
+Young Adult

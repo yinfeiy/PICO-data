@@ -1,0 +1,22 @@
+Adult
+Blood Flow Velocity/drug effects
+Blood Pressure/drug effects
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Electrocardiography
+Female
+Fundus Oculi
+Hemodynamics/*drug effects
+Humans
+Interferometry
+Isoproterenol/administration & dosage/*pharmacology
+Lasers
+Male
+Nitroprusside/administration & dosage/*pharmacology
+Phenylephrine/administration & dosage/*pharmacology
+Pulse/drug effects
+Radial Artery/diagnostic imaging/drug effects
+Reproducibility of Results
+*Sex Characteristics
+Ultrasonography

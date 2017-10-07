@@ -1,0 +1,10 @@
+Antibodies, Bacterial/blood
+Antibodies, Viral/blood
+Diphtheria-Tetanus-Pertussis Vaccine/*administration & dosage/adverse effects/immunology
+Female
+Haemophilus Vaccines/*administration & dosage/adverse effects/immunology
+Humans
+Infant
+Male
+Poliovirus Vaccine, Inactivated/*administration & dosage/adverse effects/immunology
+Tetanus Toxoid/*administration & dosage/adverse effects/immunology

@@ -1,0 +1,13 @@
+Antigens, Neoplasm
+Carcinoembryonic Antigen/analysis
+Drug Therapy, Combination
+Female
+Humans
+Immune Sera
+Male
+Melphalan/therapeutic use
+Neoplasm Staging
+Ovarian Neoplasms/*diagnosis/mortality/*therapy
+Peritoneal Neoplasms/secondary
+Phosphorus Radioisotopes/therapeutic use
+Radiotherapy Dosage

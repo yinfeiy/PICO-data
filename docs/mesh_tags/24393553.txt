@@ -1,0 +1,16 @@
+Adult
+Aged
+Asian Continental Ancestry Group
+Diabetes Mellitus, Type 2/*metabolism
+Dipeptidyl Peptidase 4/metabolism
+Dipeptidyl-Peptidase IV Inhibitors/blood/*pharmacokinetics/pharmacology
+Double-Blind Method
+Female
+Humans
+Hypoglycemic Agents/blood/*pharmacokinetics/pharmacology
+Linagliptin
+Male
+Middle Aged
+*Models, Biological
+Purines/blood/*pharmacokinetics/pharmacology
+Quinazolines/blood/*pharmacokinetics/pharmacology

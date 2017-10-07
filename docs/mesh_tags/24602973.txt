@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Bronchoscopy/*methods
+Conscious Sedation/*methods
+*Consciousness Monitors
+Female
+Humans
+Hypnotics and Sedatives/therapeutic use
+Intraoperative Awareness/*prevention & control
+Male
+Middle Aged
+Monitoring, Intraoperative/*methods
+Operative Time
+Oximetry
+Propofol/therapeutic use
+Prospective Studies
+Young Adult

@@ -1,0 +1,14 @@
+Aged
+Anesthesia, General
+Aortic Valve Insufficiency/*surgery
+Aortic Valve Stenosis/*surgery
+Atracurium/pharmacology
+Fentanyl
+*Hemodynamics/*drug effects
+Humans
+Male
+Middle Aged
+Neuromuscular Nondepolarizing Agents/*pharmacology
+Pancuronium/pharmacology
+Random Allocation
+Vecuronium Bromide/pharmacology

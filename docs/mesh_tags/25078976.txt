@@ -1,0 +1,18 @@
+Adult
+Analgesics/administration & dosage/adverse effects/*pharmacokinetics
+Area Under Curve
+Biological Availability
+Cross-Over Studies
+Delayed-Action Preparations
+Dietary Fats/*administration & dosage
+Energy Intake/physiology
+Female
+*Food-Drug Interactions
+Humans
+Male
+Middle Aged
+Pregabalin
+Therapeutic Equivalency
+Time Factors
+Young Adult
+gamma-Aminobutyric Acid/administration & dosage/adverse effects/*analogs & derivatives/pharmacokinetics

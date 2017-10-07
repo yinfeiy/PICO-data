@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Disease Progression
+Epistaxis/diagnosis/*drug therapy/*physiopathology
+Female
+Gelatin Sponge, Absorbable/*therapeutic use
+Hemostatic Techniques
+Hemostatics/*therapeutic use
+Humans
+Male
+Middle Aged
+Prospective Studies
+Severity of Illness Index
+Young Adult

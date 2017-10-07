@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Amygdala/drug effects/*physiology
+Avoidance Learning/drug effects/physiology
+*Brain Mapping
+Cerebral Cortex/drug effects/*physiology
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Perception/physiology
+Placebo Effect
+Placebos/pharmacology
+Reference Values
+*Set (Psychology)
+Taste/drug effects/*physiology

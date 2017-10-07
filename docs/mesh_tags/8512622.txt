@@ -1,0 +1,9 @@
+Adult
+Brain/*drug effects
+Dose-Response Relationship, Drug
+Electroencephalography/drug effects
+Ethanol/blood/*pharmacology
+Humans
+Male
+Random Allocation
+Signal Processing, Computer-Assisted

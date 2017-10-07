@@ -1,0 +1,18 @@
+Acute Disease
+Anemia/complications
+Antivenins/*therapeutic use
+Blood Coagulation
+Cerebral Hemorrhage/complications
+Codeine/therapeutic use
+Epinephrine/therapeutic use
+Fibrin/analysis
+Fibrinogen/analysis
+Hematocrit
+Histamine H1 Antagonists/therapeutic use
+Humans
+Hydrocortisone/therapeutic use
+Nigeria
+Prednisone/therapeutic use
+Shock/complications
+Snake Bites/*therapy
+Snake Venoms/antagonists & inhibitors

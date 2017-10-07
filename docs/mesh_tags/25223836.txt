@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Area Under Curve
+Biological Availability
+Carbazoles/administration & dosage/*adverse effects/blood/*pharmacokinetics
+Dose-Response Relationship, Drug
+Double-Blind Method
+Electrocardiography/*drug effects
+Female
+Healthy Volunteers
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Sirtuin 1/*antagonists & inhibitors
+Transcriptome/*drug effects
+Young Adult

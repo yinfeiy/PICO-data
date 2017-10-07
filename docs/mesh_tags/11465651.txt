@@ -1,0 +1,20 @@
+Adult
+African Continental Ancestry Group
+Angiotensin-Converting Enzyme Inhibitors/administration & dosage
+Antihypertensive Agents/*administration & dosage/adverse effects
+Benzazepines/*administration & dosage
+Diuretics
+Drug Therapy, Combination
+Female
+Humans
+Hydrochlorothiazide/*administration & dosage
+Hypertension/*drug therapy/ethnology
+Male
+Middle Aged
+Pilot Projects
+Prospective Studies
+Sodium Chloride Symporter Inhibitors/administration & dosage
+Sodium, Dietary/*administration & dosage
+Tetrazoles/*administration & dosage/adverse effects
+Valine/*administration & dosage/adverse effects/*analogs & derivatives
+Valsartan

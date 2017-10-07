@@ -1,0 +1,11 @@
+Adult
+Child
+Child Development Disorders, Pervasive/*physiopathology/psychology
+Female
+Humans
+Imitative Behavior/*physiology
+Male
+Middle Aged
+Mirror Neurons/*physiology
+Reaction Time/physiology
+*Social Behavior

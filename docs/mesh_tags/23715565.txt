@@ -1,0 +1,20 @@
+Adenoma/diagnosis/*epidemiology/etiology
+Aged
+*Body Mass Index
+Colorectal Neoplasms/diagnosis/*epidemiology/etiology/*prevention & control
+*Early Detection of Cancer
+Female
+Humans
+Incidence
+Lung Neoplasms/epidemiology/prevention & control
+Male
+*Mass Screening/methods
+Middle Aged
+Neoplasm Recurrence, Local/diagnosis/*epidemiology/etiology
+Obesity/*complications
+Odds Ratio
+Ovarian Neoplasms/epidemiology/prevention & control
+Prospective Studies
+Prostatic Neoplasms/epidemiology/prevention & control
+*Sigmoidoscopy
+United States/epidemiology

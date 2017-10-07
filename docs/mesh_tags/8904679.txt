@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Cardiac Surgical Procedures/*mortality
+Cardiopulmonary Bypass/*adverse effects
+Double-Blind Method
+Female
+Hemodynamics/drug effects
+Humans
+Male
+Middle Aged
+Myocardial Revascularization/mortality
+Prospective Studies
+Risk Factors
+Survival Rate
+Triiodothyronine/*therapeutic use

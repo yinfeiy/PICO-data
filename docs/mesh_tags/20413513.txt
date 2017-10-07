@@ -1,0 +1,18 @@
+11-beta-Hydroxysteroid Dehydrogenase Type 1/*antagonists & inhibitors
+Administration, Oral
+Adolescent
+Adult
+Aged
+Diabetes Mellitus, Type 2/*drug therapy
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Enzyme Inhibitors/*administration & dosage/adverse effects
+Humans
+Hyperglycemia/*drug therapy
+Hypoglycemic Agents/administration & dosage
+Metformin/*administration & dosage
+Middle Aged
+Placebos
+Sulfonamides/*administration & dosage/adverse effects
+Treatment Outcome
+Young Adult

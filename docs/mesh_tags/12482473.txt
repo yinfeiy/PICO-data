@@ -1,0 +1,18 @@
+Adult
+Aged
+Amitriptyline/*therapeutic use
+Analysis of Variance
+Antidepressive Agents, Second-Generation/*therapeutic use
+Antidepressive Agents, Tricyclic/*therapeutic use
+Case-Control Studies
+Depression/*drug therapy/*metabolism
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Combinations
+Female
+Humans
+Male
+Middle Aged
+Paroxetine/*therapeutic use
+Saliva
+Transcortin/drug effects/*metabolism

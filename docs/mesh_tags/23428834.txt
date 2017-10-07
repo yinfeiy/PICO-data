@@ -1,0 +1,17 @@
+Aged
+*Body Mass Index
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Cohort Studies
+Cross-Sectional Studies
+Dyslipidemias/*blood
+Female
+Fibroblast Growth Factors/*blood
+Humans
+Kidney Failure, Chronic/blood/*mortality
+Linear Models
+Male
+Middle Aged
+Proportional Hazards Models
+*Renal Dialysis
+Triglycerides/blood

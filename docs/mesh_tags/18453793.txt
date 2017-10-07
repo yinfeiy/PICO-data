@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Ambulatory Care/*methods
+Antihypertensive Agents/*therapeutic use
+Female
+Follow-Up Studies
+Humans
+Hypertension/*drug therapy
+Male
+Middle Aged
+*Patient Compliance
+Patient Education as Topic
+Physician-Patient Relations
+Psychometrics
+Surveys and Questionnaires
+Treatment Outcome

@@ -1,0 +1,19 @@
+Adult
+Amoxicillin/therapeutic use
+Anti-Bacterial Agents/administration & dosage/adverse effects/*therapeutic use
+Anti-Ulcer Agents/therapeutic use
+Breath Tests
+Drug Combinations
+Erythromycin/administration & dosage/adverse effects/analogs & derivatives/therapeutic use
+Female
+Helicobacter Infections/*drug therapy/microbiology
+*Helicobacter pylori
+Humans
+Macrolides
+Male
+Metronidazole/therapeutic use
+Middle Aged
+Omeprazole/therapeutic use
+Pilot Projects
+Prospective Studies
+Urea/metabolism

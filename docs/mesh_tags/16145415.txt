@@ -1,0 +1,10 @@
+Electrocoagulation/methods
+Humans
+Laser Therapy/*methods
+Length of Stay
+Male
+Middle Aged
+Prospective Studies
+Prostatic Hyperplasia/*surgery
+Transurethral Resection of Prostate/adverse effects/*methods
+Urethral Stricture/etiology

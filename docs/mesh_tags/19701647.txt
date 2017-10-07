@@ -1,0 +1,14 @@
+Cardiotonic Agents/pharmacology
+Cross-Over Studies
+Digoxin/*pharmacology
+Double-Blind Method
+Exercise/physiology
+Hand Strength/physiology
+Humans
+Male
+Muscle Contraction/drug effects
+Muscle, Skeletal/*drug effects/physiology
+Oxygen Consumption/drug effects/physiology
+Placebos
+Reflex, Stretch/*drug effects/physiology
+Young Adult

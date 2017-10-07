@@ -1,0 +1,26 @@
+Adolescent
+Adult
+Aged
+Anti-Inflammatory Agents/*therapeutic use
+Antirheumatic Agents/*therapeutic use
+Antiviral Agents/therapeutic use
+Cause of Death
+Churg-Strauss Syndrome/physiopathology/*therapy
+Combined Modality Therapy
+Cyclophosphamide/*therapeutic use
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+Hepatitis B/complications/therapy
+Humans
+Interferon-alpha/therapeutic use
+Liver Function Tests
+Male
+Middle Aged
+*Plasma Exchange
+Polyarteritis Nodosa/complications/physiopathology/*therapy
+Prednisone/*therapeutic use
+Prospective Studies
+Recombinant Proteins
+Treatment Outcome
+Vidarabine/therapeutic use

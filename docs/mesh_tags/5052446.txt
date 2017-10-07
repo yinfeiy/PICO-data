@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents/*therapeutic use
+Benzoates/*therapeutic use
+Child
+Drug Combinations
+Female
+Follow-Up Studies
+Hodgkin Disease/drug therapy/mortality/radiotherapy/*therapy
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Nitrogen Mustard Compounds/administration & dosage/adverse effects/*therapeutic use
+Prednisone/administration & dosage/*therapeutic use
+Procarbazine/administration & dosage
+Recurrence
+Remission, Spontaneous
+Vincristine/administration & dosage/adverse effects/*therapeutic use

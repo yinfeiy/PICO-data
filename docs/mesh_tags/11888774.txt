@@ -1,0 +1,13 @@
+Carcinoma, Non-Small-Cell Lung/mortality/pathology/*surgery
+Female
+Humans
+Immunohistochemistry
+Lung Neoplasms/mortality/pathology/*surgery
+*Lymph Node Excision
+Lymph Nodes/pathology
+Lymphatic Metastasis
+Male
+Mediastinum
+Middle Aged
+Prospective Studies
+Survival Rate

@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Depressive Disorder, Major/*drug therapy
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Piperazines/administration & dosage/adverse effects/*pharmacology
+Placebos
+Serotonin Uptake Inhibitors/administration & dosage/adverse effects/*pharmacology
+Sulfides/administration & dosage/adverse effects/*pharmacology
+Treatment Failure
+Young Adult

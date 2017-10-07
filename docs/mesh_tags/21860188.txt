@@ -1,0 +1,12 @@
+Adult
+Amiodarone/*therapeutic use
+Anti-Arrhythmia Agents/*therapeutic use
+Atrial Fibrillation/physiopathology/*prevention & control
+Cardiopulmonary Bypass
+Electric Countershock
+Female
+Heart Valve Prosthesis Implantation/*methods
+Humans
+Male
+Middle Aged
+Rheumatic Heart Disease/*surgery

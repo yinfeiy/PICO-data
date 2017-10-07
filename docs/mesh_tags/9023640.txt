@@ -1,0 +1,27 @@
+Adult
+Aged
+Aged, 80 and over
+Amoxicillin/*pharmacology
+Anti-Ulcer Agents/*pharmacology
+Biopsy
+Dental Plaque/microbiology
+Double-Blind Method
+Drug Therapy, Combination
+Feces
+Female
+Gastric Mucosa/drug effects/microbiology
+Helicobacter Infections/*drug therapy/*microbiology
+*Helicobacter pylori
+Humans
+Intestines/*drug effects/*microbiology
+Male
+Microbial Sensitivity Tests
+Middle Aged
+Mouth/*drug effects/*microbiology
+Omeprazole/*pharmacology
+Penicillins/*pharmacology
+Placebos
+Polymerase Chain Reaction
+Saliva/drug effects/microbiology
+Stomach/*drug effects/*microbiology
+beta-Lactamases/metabolism

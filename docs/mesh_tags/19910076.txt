@@ -1,0 +1,18 @@
+Adult
+Aged
+Anemia/etiology
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy/mortality/pathology/physiopathology
+Cisplatin/administration & dosage/adverse effects
+Clinical Protocols
+Disease Progression
+Female
+Humans
+Lung Neoplasms/*drug therapy/mortality/pathology/physiopathology
+Male
+Middle Aged
+Neutropenia/etiology
+Quality of Life
+Survival Analysis
+Taxoids/administration & dosage/adverse effects
+Vinblastine/administration & dosage/adverse effects/analogs & derivatives

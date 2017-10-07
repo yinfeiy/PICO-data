@@ -1,0 +1,18 @@
+Aged
+Angiotensin-Converting Enzyme Inhibitors/administration & dosage
+Antihypertensive Agents/*administration & dosage
+Calcium Channel Blockers/administration & dosage
+Cell Adhesion Molecules/*blood
+Diabetes Complications/*blood/*drug therapy
+Diabetes Mellitus, Type 2/*blood/complications/*drug therapy
+Drug Combinations
+E-Selectin/blood
+Female
+Humans
+Hypertension/*blood/complications/*drug therapy
+Indoles/*administration & dosage
+Intercellular Adhesion Molecule-1/blood
+Male
+Middle Aged
+Vascular Cell Adhesion Molecule-1/blood
+Verapamil/*administration & dosage

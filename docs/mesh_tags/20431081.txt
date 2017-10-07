@@ -1,0 +1,12 @@
+Aged
+Arizona
+Cerebral Hemorrhage/diagnosis/therapy
+Female
+Hospitals, Rural
+Humans
+Male
+Middle Aged
+Stroke/diagnosis/*therapy
+Telemedicine/*methods/organization & administration
+*Telephone
+*Thrombolytic Therapy

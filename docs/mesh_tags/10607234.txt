@@ -1,0 +1,18 @@
+Adult
+Antiviral Agents/*therapeutic use
+CD4-CD8 Ratio
+DNA, Viral/blood
+Drug Therapy, Combination
+Female
+Fluorescent Antibody Technique, Indirect
+Glucocorticoids/*therapeutic use
+Hepatitis B virus/genetics/isolation & purification/physiology
+Hepatitis B, Chronic/*drug therapy/immunology/virology
+Humans
+Interferon-alpha/*therapeutic use
+Male
+Middle Aged
+Prednisolone/*therapeutic use
+T-Lymphocyte Subsets/immunology
+Treatment Outcome
+Viral Load

@@ -1,0 +1,11 @@
+Adult
+Animals
+Antibodies, Bacterial/*biosynthesis
+Antibodies, Protozoan/*biosynthesis
+BCG Vaccine/*immunology
+Humans
+Immunoglobulin G/biosynthesis
+Leishmania/growth & development/*immunology
+Mycobacterium leprae/*immunology
+Reference Values
+Vaccination

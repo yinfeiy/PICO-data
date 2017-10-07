@@ -1,0 +1,14 @@
+Adult
+Aged
+Endoscopy, Gastrointestinal
+*Esophageal pH Monitoring
+Female
+*Fundoplication
+Gastroesophageal Reflux/*drug therapy/*surgery
+Heartburn/*drug therapy/*surgery
+Humans
+Male
+Middle Aged
+Proton Pump Inhibitors/*therapeutic use
+Treatment Outcome
+Young Adult

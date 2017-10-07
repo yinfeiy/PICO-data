@@ -1,0 +1,20 @@
+Aged
+Body Mass Index
+Bone Density/drug effects
+Bone Density Conservation Agents/adverse effects/*therapeutic use
+Calcium/metabolism
+Chronic Disease
+*Disabled Persons
+Disease Progression
+Double-Blind Method
+Etidronic Acid/adverse effects/*therapeutic use
+Female
+Hip Fractures/epidemiology/prevention & control
+Hospitalization
+Humans
+Male
+Osteoporosis/complications/*prevention & control
+Parathyroid Hormone/blood
+Stroke/*complications
+Sunlight
+Vitamin D/metabolism

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Anemia/chemically induced
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects
+Breast Neoplasms/*drug therapy/mortality/pathology
+Cyclophosphamide/administration & dosage/adverse effects
+Doxorubicin/administration & dosage/adverse effects
+Female
+Fluorouracil/administration & dosage/adverse effects
+Granulocyte-Macrophage Colony-Stimulating Factor/*administration & dosage/adverse effects
+Humans
+Leukopenia/chemically induced
+Middle Aged
+Neoplasm Staging
+Thrombocytopenia/chemically induced

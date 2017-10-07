@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Analgesia, Epidural/*methods
+Analgesia, Obstetrical/*methods
+*Anesthetics, Local
+*Bupivacaine
+Delivery, Obstetric/methods
+Double-Blind Method
+Female
+Hemodynamics/drug effects
+Humans
+Movement/drug effects
+Pain Measurement
+Pregnancy
+Sensation/drug effects
+Stereoisomerism

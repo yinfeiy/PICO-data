@@ -1,0 +1,18 @@
+Administration, Oral
+Adult
+Anemia, Iron-Deficiency/*drug therapy
+Calcium/blood
+Female
+Ferric Compounds/*administration & dosage/adverse effects
+Ferrous Compounds/administration & dosage/adverse effects
+Hematinics/administration & dosage/adverse effects
+Hemoglobins/metabolism
+Humans
+Injections, Intravenous
+Maltose/administration & dosage/adverse effects/*analogs & derivatives
+Middle Aged
+Phosphates/blood
+Potassium/blood
+Quality of Life
+Treatment Outcome
+Uterine Hemorrhage/*drug therapy

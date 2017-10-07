@@ -1,0 +1,13 @@
+Adult
+Antacids/*therapeutic use
+Dose-Response Relationship, Drug
+Drug Synergism
+Duodenal Ulcer/*drug therapy/physiopathology
+Female
+Humans
+Hydrogen-Ion Concentration
+Male
+Middle Aged
+Parasympatholytics/therapeutic use
+Reference Values
+Stomach/*physiopathology

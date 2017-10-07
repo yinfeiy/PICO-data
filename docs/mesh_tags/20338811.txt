@@ -1,0 +1,27 @@
+Adolescent
+Adult
+Alanine Transaminase/blood
+Autoantibodies/blood/immunology
+Autoimmunity/immunology
+Cell Count
+Condylomata Acuminata/immunology/*prevention & control/*surgery/virology
+Creatinine/blood
+Cyclophosphamide/administration & dosage/pharmacology/*therapeutic use
+Cytokines/genetics/metabolism
+Forkhead Transcription Factors/genetics/*metabolism
+Gene Expression/drug effects/immunology
+Human papillomavirus 6/immunology/isolation & purification
+Humans
+Immunity, Cellular/drug effects/immunology
+Kidney/drug effects/metabolism
+Killer Cells, Natural/cytology/immunology/metabolism
+*Laser Therapy
+Liver/drug effects/metabolism
+Lymphocyte Depletion/*methods
+Middle Aged
+Rheumatoid Factor/blood/immunology
+Secondary Prevention
+T-Lymphocyte Subsets/cytology/drug effects/immunology/metabolism
+T-Lymphocytes, Regulatory/cytology/*drug effects/immunology/metabolism
+Treatment Outcome
+Young Adult

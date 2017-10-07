@@ -1,0 +1,17 @@
+Administration, Oral
+Adult
+Aged
+Analysis of Variance
+Angina Pectoris/*drug therapy
+Chronic Disease
+Delayed-Action Preparations
+Dipyridamole/administration & dosage/*therapeutic use
+Double-Blind Method
+Female
+Hemodynamics
+Humans
+Male
+Middle Aged
+Phosphodiesterase Inhibitors/administration & dosage/*therapeutic use
+Proportional Hazards Models
+Treatment Outcome

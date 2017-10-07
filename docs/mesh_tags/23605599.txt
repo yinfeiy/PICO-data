@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Cohort Studies
+Double-Blind Method
+Female
+Head and Neck Neoplasms/*drug therapy/pathology
+Humans
+*Low-Level Light Therapy
+Male
+Middle Aged
+Pain/chemically induced/*prevention & control
+Stomatitis/*chemically induced/*prevention & control
+Treatment Outcome
+Xerostomia/chemically induced/*prevention & control
+Young Adult

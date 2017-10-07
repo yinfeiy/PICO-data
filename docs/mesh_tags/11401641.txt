@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Antihypertensive Agents/adverse effects/*therapeutic use
+Double-Blind Method
+Drug Synergism
+Drug Therapy, Combination
+Female
+Glaucoma, Open-Angle/*drug therapy
+Humans
+Intraocular Pressure/*drug effects
+Male
+Middle Aged
+Ocular Hypertension/drug therapy
+Ophthalmic Solutions
+Prostaglandins F, Synthetic/adverse effects/*therapeutic use
+Timolol/adverse effects/*therapeutic use

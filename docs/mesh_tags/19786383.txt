@@ -1,0 +1,18 @@
+*Adipose Tissue
+Adolescent
+Adult
+Aged
+Body Mass Index
+Diet Records
+Dietary Fats, Unsaturated/analysis/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Hypertriglyceridemia/*diet therapy
+Lipids/*blood
+Lipoproteins/*blood
+Male
+Middle Aged
+*Sex Characteristics
+Triglycerides/blood/chemistry
+Young Adult

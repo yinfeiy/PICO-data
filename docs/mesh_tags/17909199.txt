@@ -1,0 +1,27 @@
+Adenocarcinoma/drug therapy/pathology
+Adenocarcinoma, Bronchiolo-Alveolar/drug therapy/pathology
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal/administration & dosage
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bevacizumab
+Carcinoma, Large Cell/drug therapy/pathology
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology
+Disease-Free Survival
+Erlotinib Hydrochloride
+Female
+Glutamates/administration & dosage
+Guanine/administration & dosage/analogs & derivatives
+Humans
+Lung Neoplasms/*drug therapy/pathology
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*drug therapy/pathology
+Neoplasm Staging
+Pemetrexed
+Quinazolines/administration & dosage
+Survival Rate
+Taxoids/administration & dosage
+Treatment Outcome

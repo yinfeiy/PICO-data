@@ -1,0 +1,28 @@
+Accidental Falls/mortality/*prevention & control/*statistics & numerical data
+Aged, 80 and over
+Australia/epidemiology
+Cluster Analysis
+Cognition/classification
+Comorbidity
+Education, Continuing/organization & administration/statistics & numerical data
+Female
+Health Education/*organization & administration/*statistics & numerical data
+Heart Diseases/epidemiology
+Hip Fractures/epidemiology
+Hospital Units/*statistics & numerical data
+Humans
+Incidence
+Length of Stay/statistics & numerical data
+Male
+Musculoskeletal Diseases/epidemiology
+Nervous System Diseases/epidemiology
+Patient Education as Topic/organization & administration/statistics & numerical data
+Patient Outcome Assessment
+Patient Readmission/statistics & numerical data
+Program Evaluation
+Rehabilitation/education
+Rehabilitation Centers/*statistics & numerical data
+Respiratory Tract Diseases/epidemiology
+Stroke/epidemiology
+Survival Rate
+Treatment Outcome

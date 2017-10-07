@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Contraception/*methods
+Contraceptive Agents, Female/*administration & dosage
+Female
+Humans
+Intrauterine Device Expulsion
+Intrauterine Devices, Medicated/*adverse effects
+Levonorgestrel/*administration & dosage
+Middle Aged
+Parity
+Pelvic Infection/epidemiology/etiology
+Pregnancy
+Pregnancy Rate
+Time Factors
+Uterine Hemorrhage/epidemiology/etiology
+Young Adult

@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Anti-Infective Agents, Local/adverse effects/*therapeutic use
+Blepharitis/*drug therapy
+Catechols/adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Ointments
+Treatment Outcome
+Young Adult

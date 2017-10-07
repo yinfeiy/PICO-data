@@ -1,0 +1,18 @@
+Adult
+Aged
+*Aminolevulinic Acid/blood/urine
+Antibody Formation/drug effects
+Area Under Curve
+Chromatography, Liquid
+Dose-Response Relationship, Drug
+Double-Blind Method
+Enzyme-Linked Immunosorbent Assay
+Female
+*Heterozygote
+Humans
+Hydroxymethylbilane Synthase/administration & dosage/adverse effects/pharmacokinetics/*pharmacology
+Male
+Mass Spectrometry
+Middle Aged
+*Porphobilinogen/blood/urine
+Porphyria, Acute Intermittent/*genetics

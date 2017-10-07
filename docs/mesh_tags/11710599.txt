@@ -1,0 +1,17 @@
+Adult
+Aged
+Antineoplastic Agents/pharmacology
+Carcinoma, Squamous Cell/*drug therapy/*radiotherapy
+Cisplatin/pharmacology
+Combined Modality Therapy
+*Dose Fractionation
+Dose-Response Relationship, Radiation
+Female
+Head and Neck Neoplasms/*drug therapy/*radiotherapy
+Humans
+Male
+Middle Aged
+Myelitis/*etiology/*prevention & control
+Prospective Studies
+Radiotherapy/*adverse effects/*methods
+Spinal Cord/radiation effects

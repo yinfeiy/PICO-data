@@ -1,0 +1,11 @@
+Adult
+Athletic Performance/*physiology
+Caffeine/*pharmacology
+Central Nervous System Stimulants/*pharmacology
+Double-Blind Method
+Female
+Humans
+Linear Models
+Male
+Swimming/*physiology
+Young Adult

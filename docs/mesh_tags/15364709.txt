@@ -1,0 +1,18 @@
+Administration, Oral
+Adolescent
+Adult
+Docosahexaenoic Acids/metabolism/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Electroretinography
+Erythrocyte Membrane/metabolism
+Female
+Humans
+Male
+Middle Aged
+Phosphatidylethanolamines/metabolism
+Retina/physiopathology
+Retinitis Pigmentosa/*drug therapy/physiopathology
+Vision Disorders/drug therapy/physiopathology
+Visual Fields/physiology
+Vitamin E/*therapeutic use

@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Biopsy, Needle/*methods
+Bronchoalveolar Lavage
+*Bronchoscopy
+*Endosonography
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging/*pathology
+Male
+Middle Aged
+Reproducibility of Results
+Sensitivity and Specificity
+*Surgery, Computer-Assisted
+Young Adult

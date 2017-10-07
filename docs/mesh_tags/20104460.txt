@@ -1,0 +1,22 @@
+Aged
+Cardiotonic Agents/*administration & dosage
+*Coronary Artery Bypass
+Creatine Kinase/blood
+Creatine Kinase, MB Form/blood
+Drug Administration Schedule
+Echocardiography
+Female
+Humans
+Incidence
+Infusions, Intravenous
+Injections, Intravenous
+Male
+Middle Aged
+Milrinone/*administration & dosage
+Myocardial Infarction/epidemiology/etiology
+Myocardial Ischemia/epidemiology/etiology
+Perioperative Care
+Stroke Volume
+Time Factors
+Treatment Outcome
+Ventricular Dysfunction, Left/diagnostic imaging/*drug therapy/physiopathology/*surgery

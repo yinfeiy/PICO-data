@@ -1,0 +1,12 @@
+Adult
+Anti-Infective Agents/administration & dosage/*pharmacokinetics/therapeutic use
+Aza Compounds/administration & dosage/*pharmacokinetics/therapeutic use
+Female
+Fluoroquinolones
+Humans
+Infusions, Intravenous
+Middle Aged
+Pelvic Inflammatory Disease/drug therapy
+Prospective Studies
+Quinolines/administration & dosage/*pharmacokinetics/therapeutic use
+Uterus/drug effects/*metabolism

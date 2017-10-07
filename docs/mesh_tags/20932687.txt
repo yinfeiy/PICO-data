@@ -1,0 +1,30 @@
+Adenocarcinoma/pathology/therapy
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/therapeutic use
+Chemoradiotherapy/*adverse effects
+Diagnostic Self Evaluation
+Fecal Incontinence/epidemiology
+Female
+Fluorouracil/therapeutic use
+Follow-Up Studies
+Humans
+Intestinal Obstruction/epidemiology
+Leucovorin/therapeutic use
+Male
+Middle Aged
+Neoplasm Recurrence, Local/pathology/*therapy
+Penile Erection/drug effects/radiation effects
+Preoperative Care
+Quality of Life
+Radiotherapy/adverse effects
+Rectal Neoplasms/pathology/*therapy
+Sex Factors
+Sexuality
+Surgical Stomas/statistics & numerical data
+Surveys and Questionnaires
+Time Factors
+Tumor Burden
+Urinary Incontinence/epidemiology
+Vagina/drug effects/radiation effects

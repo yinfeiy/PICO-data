@@ -1,0 +1,12 @@
+Adult
+Anthropometry
+Female
+Humans
+Male
+Oxygen Consumption/physiology
+Physical Education and Training/*methods
+Physical Endurance/physiology
+Physical Fitness/*physiology
+Prospective Studies
+Running/physiology
+Sports/*physiology

@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Antigens, CD34/*metabolism
+Cell Count
+Disease Progression
+Drug-Related Side Effects and Adverse Reactions
+Female
+Filgrastim
+Granulocyte Colony-Stimulating Factor/*administration & dosage/adverse effects/*pharmacology
+*Hematopoietic Stem Cell Mobilization
+*Hematopoietic Stem Cell Transplantation
+Hematopoietic Stem Cells/*drug effects/*metabolism
+Humans
+Male
+Middle Aged
+Neoplasms/diagnosis/*therapy
+Recombinant Proteins
+Treatment Outcome
+Young Adult

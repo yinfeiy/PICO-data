@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Analysis of Variance
+Cyclosporine/blood/*pharmacokinetics
+Cytochrome P-450 CYP3A
+Cytochrome P-450 Enzyme System/*metabolism
+Double-Blind Method
+Drug Interactions
+*Heart Transplantation/physiology
+Humans
+Hydrocortisone/analogs & derivatives/urine
+Immunosuppressive Agents/blood/*pharmacokinetics
+Male
+Middle Aged
+Mixed Function Oxygenases/*metabolism
+Platelet Aggregation Inhibitors/blood/*pharmacology
+Prospective Studies
+Ticlopidine/blood/*pharmacology

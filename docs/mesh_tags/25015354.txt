@@ -1,0 +1,18 @@
+Administration, Oral
+Adolescent
+Adult
+Child
+Chromatography, High Pressure Liquid
+Dietary Supplements
+Docosahexaenoic Acids/*administration & dosage/pharmacokinetics
+Dose-Response Relationship, Drug
+Electroretinography
+Follow-Up Studies
+Genetic Diseases, X-Linked/*drug therapy/genetics/metabolism
+Humans
+Male
+Oxidative Stress/*drug effects
+Retinitis Pigmentosa/*drug therapy/genetics/metabolism
+Time Factors
+Treatment Outcome
+Young Adult

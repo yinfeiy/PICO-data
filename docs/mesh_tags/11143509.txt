@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+*Anastomosis, Roux-en-Y
+Female
+Humans
+Male
+Middle Aged
+Neoplasm Staging
+Postgastrectomy Syndromes/*etiology
+Prospective Studies
+Stomach/*surgery
+Stomach Neoplasms/pathology/*surgery
+Treatment Outcome

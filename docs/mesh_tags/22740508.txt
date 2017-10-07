@@ -1,0 +1,19 @@
+Aged
+C-Reactive Protein/drug effects/*metabolism
+Chronic Disease
+Double-Blind Method
+Female
+Fluorobenzenes/*therapeutic use
+Heart Failure/*blood/*drug therapy/mortality
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+Inflammation/metabolism
+Male
+Middle Aged
+Prognosis
+Proportional Hazards Models
+Pyrimidines/*therapeutic use
+Risk Assessment
+Rosuvastatin Calcium
+Serum Amyloid P-Component/drug effects/*metabolism
+Sulfonamides/*therapeutic use

@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Cachexia/*drug therapy
+Cross-Over Studies
+Female
+Flow Cytometry
+HIV Seropositivity/*drug therapy/*immunology
+Humans
+Immunity, Cellular/*drug effects
+Killer Cells, Lymphokine-Activated/drug effects
+Killer Cells, Natural/drug effects
+Male
+Middle Aged
+Monocytes/drug effects
+Pentoxifylline/administration & dosage/adverse effects/*pharmacology/therapeutic use
+Tumor Necrosis Factor-alpha/*biosynthesis

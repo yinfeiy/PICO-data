@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cisplatin/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage/*therapeutic use
+Endometrial Neoplasms/*drug therapy/*pathology
+Female
+Humans
+Middle Aged
+Neoplasm Recurrence, Local/*drug therapy/*pathology
+Neoplasm Staging
+Paclitaxel/administration & dosage
+Treatment Outcome

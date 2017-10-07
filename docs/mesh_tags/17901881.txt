@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Amblyopia/*diagnosis/physiopathology
+Child
+Child, Preschool
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+Sensitivity and Specificity
+Vision Tests/*methods/standards
+Visual Acuity/*physiology
+Young Adult

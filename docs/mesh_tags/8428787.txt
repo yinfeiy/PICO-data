@@ -1,0 +1,9 @@
+Adult
+*Alcohol Drinking
+*Blood Pressure
+Humans
+Hypertension/physiopathology/*therapy
+Male
+Middle Aged
+Systole
+Treatment Outcome

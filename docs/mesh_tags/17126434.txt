@@ -1,0 +1,19 @@
+Adult
+Age Factors
+Antineoplastic Combined Chemotherapy Protocols
+Breast Neoplasms/drug therapy/*radiotherapy/surgery
+Combined Modality Therapy
+Cyclophosphamide
+Dose-Response Relationship, Radiation
+Female
+Fluorouracil
+Humans
+*Mastectomy, Segmental
+Methotrexate
+Middle Aged
+Multivariate Analysis
+Neoplasm Recurrence, Local/*prevention & control
+Proportional Hazards Models
+Radiotherapy/methods
+Radiotherapy Dosage
+Risk

@@ -1,0 +1,13 @@
+Adult
+Chronic Disease
+Disease Resistance/drug effects/*immunology
+Female
+Histamine/administration & dosage/adverse effects
+Histamine Antagonists/*administration & dosage/therapeutic use
+Humans
+Injections, Intradermal/adverse effects
+Male
+Middle Aged
+*Serum/immunology
+Skin Tests/methods
+Urticaria/etiology/*immunology/*pathology

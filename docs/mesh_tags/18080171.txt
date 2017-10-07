@@ -1,0 +1,16 @@
+Adolescent
+Alanine Transaminase/blood
+Antipsychotic Agents/adverse effects/*therapeutic use
+Autistic Disorder/diagnosis/*drug therapy/psychology
+Child
+Child Behavior Disorders/diagnosis/drug therapy
+Dose-Response Relationship, Drug
+Double-Blind Method
+Dyskinesia, Drug-Induced/etiology
+Female
+Humans
+Male
+Outcome Assessment (Health Care)
+Personality Assessment
+Prolactin/blood
+Risperidone/adverse effects/*therapeutic use

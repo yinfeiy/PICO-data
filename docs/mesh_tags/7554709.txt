@@ -1,0 +1,12 @@
+Administration, Oral
+Adult
+Allyl Compounds/adverse effects/pharmacokinetics/*pharmacology
+Antiparkinson Agents/adverse effects/pharmacokinetics/*pharmacology
+Butylamines/adverse effects/pharmacokinetics/*pharmacology
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Humans
+Male
+Monoamine Oxidase/metabolism
+Monoamine Oxidase Inhibitors/adverse effects/pharmacokinetics/*pharmacology
+Single-Blind Method

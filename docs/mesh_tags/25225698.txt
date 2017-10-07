@@ -1,0 +1,14 @@
+Analgesics, Opioid/*therapeutic use
+Drug Therapy, Combination
+Female
+Humans
+Male
+Methylprednisolone/*therapeutic use
+Neoplasm Invasiveness
+Neoplasms/*complications/pathology/therapy
+Pain Measurement/*drug effects
+Pain, Intractable/*drug therapy/etiology
+Quality of Life
+Reference Values
+Risk Assessment
+Treatment Outcome

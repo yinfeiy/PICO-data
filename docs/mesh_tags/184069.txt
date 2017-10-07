@@ -1,0 +1,15 @@
+Antibodies, Viral/analysis
+Breast Neoplasms/blood/immunology/*radiotherapy
+Cobalt Radioisotopes/therapeutic use
+Cytomegalovirus/immunology
+Electrons
+Female
+Gamma Rays
+Humans
+Immune Adherence Reaction
+Leukocyte Count
+Lymphocyte Activation/radiation effects
+Lymphocytes/*radiation effects
+Measles virus/immunology
+Radiotherapy, High-Energy
+Simplexvirus/immunology

@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Blood Glucose/*metabolism
+Catecholamines/blood
+Diabetes Mellitus, Type 1/*blood/physiopathology
+Exercise/*physiology
+Female
+Hormones/blood
+Humans
+Insulin/blood
+*Insulin Infusion Systems
+Male
+Penbutolol/*pharmacology
+Placebos

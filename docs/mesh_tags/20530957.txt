@@ -1,0 +1,19 @@
+Chi-Square Distribution
+Egypt
+Female
+Humans
+Infertility, Male/etiology/pathology/surgery/*therapy
+Male
+Pregnancy
+Pregnancy Rate
+Prospective Studies
+Sclerotherapy/adverse effects/*methods
+Sperm Count
+Sperm Motility
+Spermatozoa/*pathology
+Testicular Hydrocele/etiology
+Time Factors
+Treatment Outcome
+Ultrasonography
+*Urologic Surgical Procedures, Male/adverse effects
+Varicocele/complications/diagnostic imaging/pathology/surgery/*therapy

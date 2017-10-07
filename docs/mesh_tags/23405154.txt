@@ -1,0 +1,12 @@
+Abdominal Pain/diagnosis/etiology/*physiopathology
+Adult
+Case-Control Studies
+Double-Blind Method
+Electric Stimulation/methods
+Female
+Humans
+Male
+Middle Aged
+Pain Measurement/methods
+Pain Threshold/physiology
+Pancreatitis, Chronic/complications/diagnosis/*physiopathology

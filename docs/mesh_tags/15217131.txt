@@ -1,0 +1,12 @@
+Aged
+Anesthesia, Local/*methods
+Anesthetics, Local/*administration & dosage
+*Biopsy, Needle/adverse effects/methods
+Humans
+Lidocaine/*administration & dosage
+Male
+Middle Aged
+Pain/etiology/*prevention & control
+Prostatic Neoplasms/*diagnostic imaging/*pathology
+Rectum
+Ultrasonography

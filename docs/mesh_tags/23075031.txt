@@ -1,0 +1,14 @@
+Adult
+Cross-Over Studies
+Exercise/*physiology
+Exercise Test
+Female
+Humans
+Male
+Oxygen Consumption
+Physical Exertion/*physiology
+Polysomnography
+*Sedentary Lifestyle
+Sleep/*physiology
+Sleep, REM/*physiology
+Young Adult

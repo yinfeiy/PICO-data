@@ -1,0 +1,13 @@
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+BCG Vaccine/*administration & dosage/adverse effects
+Clinical Trials as Topic
+Cyclophosphamide/administration & dosage/adverse effects
+Doxorubicin/administration & dosage/adverse effects
+Humans
+Levamisole/*administration & dosage/adverse effects
+Lymphoma/*drug therapy/mortality/pathology
+Neoplasm Staging
+Prednisone/administration & dosage/adverse effects
+Prospective Studies
+Random Allocation
+Vincristine/administration & dosage/adverse effects

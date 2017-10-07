@@ -1,0 +1,12 @@
+Adult
+Aged
+Breast Neoplasms/*drug therapy
+*Chemotherapy, Adjuvant
+*Dexamethasone/administration & dosage/adverse effects
+Double-Blind Method
+Drug-Related Side Effects and Adverse Reactions/chemically induced/pathology
+Female
+Granisetron/administration & dosage/adverse effects
+Humans
+Middle Aged
+*Quality of Life

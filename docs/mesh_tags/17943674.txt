@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Diabetic Foot/physiopathology/*rehabilitation
+Equipment Design
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Negative-Pressure Wound Therapy/*instrumentation
+Treatment Outcome
+Vacuum
+Wound Healing/*physiology

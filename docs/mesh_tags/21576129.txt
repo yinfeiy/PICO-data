@@ -1,0 +1,14 @@
+Aged
+Amiodarone/*analogs & derivatives/therapeutic use
+Anti-Arrhythmia Agents/*therapeutic use
+Atrial Fibrillation/*drug therapy/*mortality
+Critical Care/statistics & numerical data
+Female
+Follow-Up Studies
+Hospitalization/*statistics & numerical data
+Humans
+Incidence
+Kaplan-Meier Estimate
+Length of Stay/statistics & numerical data
+Male
+Secondary Prevention

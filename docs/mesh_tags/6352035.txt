@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Bacterial Infections/*drug therapy
+Bacteroides Infections/drug therapy
+Cefoxitin/*administration & dosage
+Clinical Trials as Topic
+Double-Blind Method
+Drug Therapy, Combination
+Enterobacteriaceae Infections/drug therapy
+Female
+Gentamicins/*administration & dosage
+Hearing/drug effects
+Humans
+Male
+Middle Aged
+Netilmicin/*administration & dosage
+Random Allocation
+Surgical Wound Infection/*drug therapy
+Vestibular Function Tests

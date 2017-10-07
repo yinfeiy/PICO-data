@@ -1,0 +1,16 @@
+Amides/pharmacology
+Cardiovascular Diseases/*drug therapy/etiology/physiopathology
+Diabetes Mellitus, Type 1/complications/*drug therapy/physiopathology
+Diabetes Mellitus, Type 2/complications/*drug therapy/physiopathology
+Double-Blind Method
+Female
+Follow-Up Studies
+Fumarates/pharmacology
+Humans
+Interleukin-6/metabolism
+Male
+Middle Aged
+Parasympathetic Nervous System/*drug effects
+Parasympatholytics/*pharmacology
+Renin/*antagonists & inhibitors/pharmacology
+Renin-Angiotensin System/*drug effects

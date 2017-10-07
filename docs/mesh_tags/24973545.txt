@@ -1,0 +1,19 @@
+Child
+*Child Behavior
+Child Development Disorders, Pervasive/*psychology
+Child, Preschool
+Community Mental Health Services/economics/*methods
+Cost-Benefit Analysis
+Disabled Children/*psychology
+Education, Nonprofessional/economics/*methods
+Female
+Humans
+Intellectual Disability/*psychology
+Male
+Parent-Child Relations
+*Parenting
+Parents/education/*psychology
+Personal Satisfaction
+Self Efficacy
+Social Support
+Treatment Outcome

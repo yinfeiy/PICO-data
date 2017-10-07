@@ -1,0 +1,16 @@
+Aged
+Aged, 80 and over
+Breast/pathology/surgery
+Breast Neoplasms/mortality/pathology/*therapy
+Cause of Death
+Combined Modality Therapy
+Female
+Humans
+Lymph Node Excision
+*Mastectomy
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Prospective Studies
+Random Allocation
+Risk Factors
+Tamoxifen/*therapeutic use

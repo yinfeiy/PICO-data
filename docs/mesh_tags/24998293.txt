@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Bone Neoplasms/complications/pathology/psychology/*therapy
+Case-Control Studies
+Combined Modality Therapy
+Exercise Therapy/*adverse effects
+Fatigue/*diagnosis/etiology
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neoplasm Staging
+Pain/diagnosis/etiology
+Prognosis
+*Quality of Life
+Radiotherapy Dosage
+Radiotherapy Planning, Computer-Assisted/*adverse effects
+Resistance Training/*adverse effects
+Spinal Neoplasms/complications/pathology/psychology/*therapy
+Stress, Psychological/diagnosis/etiology
+Surveys and Questionnaires
+Young Adult

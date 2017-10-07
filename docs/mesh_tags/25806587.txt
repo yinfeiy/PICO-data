@@ -1,0 +1,13 @@
+Adult
+Biomarkers/blood
+Exercise/*physiology
+Glutathione/blood
+Humans
+Male
+Oxidative Stress/*physiology
+Protein Carbonylation/physiology
+Reactive Oxygen Species/*metabolism
+*Resistance Training
+Rest/physiology
+Xanthine Oxidase/blood
+Young Adult

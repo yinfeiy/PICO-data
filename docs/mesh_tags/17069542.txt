@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Autistic Disorder/drug therapy/psychology
+Child Behavior Disorders/*drug therapy/psychology
+Cognition Disorders/*drug therapy/psychology
+Dioxoles/adverse effects/*therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Eruptions/etiology
+Female
+Fragile X Syndrome/*drug therapy/psychology
+Humans
+Long-Term Potentiation/drug effects
+Male
+Neuronal Plasticity/drug effects
+Neuropsychological Tests
+Personality Assessment
+Piperidines/adverse effects/*therapeutic use
+Receptors, AMPA/*drug effects
+Synaptic Transmission/drug effects
+Treatment Outcome

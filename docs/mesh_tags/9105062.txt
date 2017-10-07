@@ -1,0 +1,15 @@
+Administration, Inhalation
+Adult
+Asthma/*physiopathology
+Bronchial Provocation Tests
+Bronchoconstrictor Agents/*administration & dosage
+Cell Count
+Cross-Over Studies
+Eosinophils/cytology
+Female
+Humans
+Leukotriene D4/*administration & dosage/pharmacology
+Male
+Methacholine Chloride/*administration & dosage
+Pulmonary Eosinophilia/*physiopathology
+Sputum/*cytology

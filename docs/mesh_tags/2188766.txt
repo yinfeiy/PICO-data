@@ -1,0 +1,13 @@
+Adult
+Aged
+Double-Blind Method
+Exercise Test
+Female
+Heart Failure/classification/*drug therapy/physiopathology
+Hemodynamics/drug effects
+Humans
+Male
+Middle Aged
+Quinolines/administration & dosage/pharmacology/*therapeutic use
+Randomized Controlled Trials as Topic
+Vasodilator Agents/administration & dosage/pharmacology/*therapeutic use

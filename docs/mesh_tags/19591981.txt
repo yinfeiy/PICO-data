@@ -1,0 +1,19 @@
+Adult
+Androstenes/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Brachial Artery/diagnostic imaging/physiopathology
+Cardiovascular Diseases/*etiology
+Cardiovascular Physiological Phenomena/drug effects
+Contraception/methods
+*Contraceptive Devices, Female/adverse effects
+Ethinyl Estradiol/adverse effects/*therapeutic use
+Female
+Humans
+Insulin/blood
+Ovary/blood supply/diagnostic imaging
+Pilot Projects
+Polycystic Ovary Syndrome/complications/diagnostic imaging/*drug therapy/physiopathology
+Regional Blood Flow/drug effects
+Risk Factors
+Ultrasonography
+Young Adult

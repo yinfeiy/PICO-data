@@ -1,0 +1,18 @@
+Acute Disease
+Aged
+Alanine/therapeutic use
+Angina Pectoris/diagnosis/mortality
+Angina, Unstable/diagnosis/mortality
+C-Reactive Protein/*analysis
+Coronary Disease/*diagnosis/mortality
+Female
+Follow-Up Studies
+Heart Failure/diagnosis/epidemiology
+Humans
+Male
+Myocardial Infarction/diagnosis/mortality
+Platelet Glycoprotein GPIIb-IIIa Complex/antagonists & inhibitors
+Pyrrolidines/therapeutic use
+Recurrence
+Risk
+Syndrome

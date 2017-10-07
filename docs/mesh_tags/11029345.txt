@@ -1,0 +1,17 @@
+Acid-Base Equilibrium/drug effects/physiology
+Adult
+Aged
+Buffers
+Carbon Dioxide/blood
+Critical Care
+Echocardiography/drug effects
+Female
+Hemodynamics/drug effects/physiology
+Humans
+Hypercapnia/*drug therapy/physiopathology
+Male
+Middle Aged
+Myocardial Contraction/*drug effects/physiology
+Respiration, Artificial
+Respiratory Distress Syndrome, Adult/*drug therapy/physiopathology
+Tromethamine/*administration & dosage

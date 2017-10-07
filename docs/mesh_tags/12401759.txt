@@ -1,0 +1,19 @@
+Adult
+Blood Glucose/drug effects/*metabolism
+Blood Glucose Self-Monitoring
+Body Weight
+Diabetes Mellitus, Type 1/blood/*drug therapy
+Drug Administration Schedule
+Female
+Health Status
+Hemoglobin A, Glycosylated/analysis
+Humans
+Hypoglycemia/epidemiology
+Injections, Subcutaneous
+Insulin/*administration & dosage/adverse effects/therapeutic use
+*Insulin Infusion Systems/adverse effects
+Male
+Netherlands
+Random Allocation
+Time Factors
+Treatment Outcome

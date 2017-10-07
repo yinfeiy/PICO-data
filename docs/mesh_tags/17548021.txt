@@ -1,0 +1,17 @@
+Aged
+Algorithms
+Blood Glucose/analysis
+*Critical Illness
+Female
+Humans
+Hyperglycemia/diagnosis/*drug therapy/physiopathology
+Hypoglycemic Agents/*therapeutic use
+Infusions, Intravenous
+Insulin/*therapeutic use
+Intensive Care Units
+Male
+Pilot Projects
+Process Assessment (Health Care)
+Prospective Studies
+*Research Design
+Stress, Physiological/physiopathology

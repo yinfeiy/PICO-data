@@ -1,0 +1,10 @@
+Adolescent
+Adult
+*Biofeedback, Psychology
+Female
+Humans
+Male
+*Muscle Contraction
+*Muscle Relaxation
+Set (Psychology)
+*Skin Temperature

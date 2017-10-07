@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/therapeutic use
+Carcinoma, Small Cell/drug therapy
+Cyclophosphamide/adverse effects/therapeutic use
+Doxorubicin/adverse effects/therapeutic use
+Etoposide/adverse effects/therapeutic use
+Female
+Filgrastim
+Granulocyte Colony-Stimulating Factor/*therapeutic use
+Humans
+Lung Neoplasms/drug therapy
+Male
+Middle Aged
+Mouth Mucosa/drug effects/pathology
+Necrosis
+Neutropenia/chemically induced
+Proportional Hazards Models
+Prospective Studies
+Recombinant Proteins
+Stomatitis/chemically induced/*drug therapy/pathology
+Survival Analysis

@@ -1,0 +1,15 @@
+Adult
+Aged
+Aspirin/therapeutic use
+*Coronary Artery Bypass
+Dipyridamole/therapeutic use
+Female
+Graft Occlusion, Vascular/prevention & control
+Humans
+Isoindoles
+Male
+Middle Aged
+Phenylbutyrates/*therapeutic use
+Platelet Aggregation Inhibitors/*therapeutic use
+Time Factors
+Vascular Patency/*drug effects

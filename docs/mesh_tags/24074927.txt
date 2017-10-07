@@ -1,0 +1,19 @@
+Adult
+Aged
+Antineoplastic Agents/administration & dosage
+Brachytherapy/methods
+Carcinoma, Squamous Cell/drug therapy/pathology/*radiotherapy
+Chemoradiotherapy/methods
+Cisplatin/administration & dosage
+Dose Fractionation
+Female
+Gastrointestinal Tract/radiation effects
+Humans
+Middle Aged
+Pelvis
+Prospective Studies
+Radiotherapy Planning, Computer-Assisted
+Radiotherapy, Intensity-Modulated/adverse effects/*methods
+Treatment Outcome
+Urogenital System/radiation effects
+Uterine Cervical Neoplasms/drug therapy/pathology/*radiotherapy

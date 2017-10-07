@@ -1,0 +1,17 @@
+Adolescent
+Adolescent Behavior/drug effects/psychology
+Antipsychotic Agents/adverse effects/*therapeutic use
+Autistic Disorder/*drug therapy
+Child
+Child Behavior/drug effects/psychology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Haloperidol/adverse effects/*therapeutic use
+Humans
+Male
+Prospective Studies
+Risperidone/adverse effects/*therapeutic use
+Time
+Treatment Outcome
+Weight Gain/drug effects

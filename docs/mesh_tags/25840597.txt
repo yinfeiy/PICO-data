@@ -1,0 +1,23 @@
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage/adverse effects
+*Antineoplastic Combined Chemotherapy Protocols
+Bortezomib/*administration & dosage/adverse effects
+Cyclophosphamide/administration & dosage
+Dexamethasone/administration & dosage
+Doxorubicin/administration & dosage
+Drug Administration Schedule
+Female
+Humans
+Induction Chemotherapy/*methods
+Injections, Intravenous
+Injections, Subcutaneous
+Kidney/drug effects/pathology
+Male
+Middle Aged
+Multiple Myeloma/diagnosis/*drug therapy/mortality/pathology
+Neoplasm Staging
+Peripheral Nervous System Diseases/chemically induced/pathology
+Prospective Studies
+Remission Induction
+Survival Analysis

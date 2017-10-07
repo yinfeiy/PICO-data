@@ -1,0 +1,12 @@
+Adult
+Analgesia
+*Anesthesia
+Biopsy
+*Cervix Uteri
+Endometrium/pathology
+Female
+Humans
+*Hysteroscopy
+Middle Aged
+Pain
+Uterine Hemorrhage/*pathology

@@ -1,0 +1,17 @@
+Adolescent
+Autistic Disorder/complications/diagnosis/*drug therapy
+Child
+Child Behavior Disorders/complications/diagnosis/*drug therapy
+Child, Preschool
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Humans
+Male
+Probability
+Reference Values
+Risperidone/*therapeutic use
+Severity of Illness Index
+Treatment Outcome

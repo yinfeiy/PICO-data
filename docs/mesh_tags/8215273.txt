@@ -1,0 +1,15 @@
+Cephalosporins/*therapeutic use
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Male
+Penicillin V/*therapeutic use
+Pharyngitis/complications/*drug therapy/microbiology
+Staphylococcal Infections
+Staphylococcus aureus/enzymology
+*Streptococcal Infections
+Streptococcus
+Tonsillitis/complications/*drug therapy/microbiology
+beta-Lactamases/biosynthesis

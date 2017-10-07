@@ -1,0 +1,18 @@
+Acetaminophen/*administration & dosage
+Adult
+Analgesics, Non-Narcotic/*administration & dosage
+Analysis of Variance
+Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage
+Area Under Curve
+Chi-Square Distribution
+Diclofenac/*administration & dosage
+Double-Blind Method
+Facial Pain/*drug therapy/etiology
+Female
+Humans
+Male
+Molar, Third/surgery
+Odds Ratio
+Pain, Postoperative/*drug therapy/etiology
+Tooth Extraction/adverse effects
+Tooth, Impacted/surgery

@@ -1,0 +1,11 @@
+Adult
+Apolipoproteins A/blood
+Body Mass Index
+Cardiovascular Diseases/*etiology
+Contraceptives, Oral, Hormonal/*adverse effects
+Female
+Heart Rate/physiology
+Humans
+Nicotine/adverse effects
+Smoking/*adverse effects
+Triglycerides/blood

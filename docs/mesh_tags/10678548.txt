@@ -1,0 +1,20 @@
+Aged
+Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+Antihypertensive Agents/adverse effects/*therapeutic use
+Benzazepines/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Creatinine/blood
+Drug Combinations
+Female
+Humans
+Hypertension/complications
+Kidney Failure, Chronic/blood/complications/*drug therapy/physiopathology
+Male
+Middle Aged
+Pilot Projects
+Potassium/blood
+Proteinuria/urine
+Safety
+Tetrazoles/adverse effects/*therapeutic use
+Valine/adverse effects/*analogs & derivatives/therapeutic use
+Valsartan

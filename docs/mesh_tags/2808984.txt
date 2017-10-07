@@ -1,0 +1,14 @@
+Aged
+Cardiac Pacing, Artificial/*methods
+*Cardiography, Impedance/drug effects
+Exercise Test
+Female
+Heart Block/physiopathology/*therapy
+Humans
+Isoproterenol/pharmacology
+Male
+Middle Aged
+Oxygen Consumption
+*Plethysmography, Impedance
+Prospective Studies
+*Pulmonary Gas Exchange

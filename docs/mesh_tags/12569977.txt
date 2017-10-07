@@ -1,0 +1,27 @@
+Adult
+Antigens, Dermatophagoides/*administration & dosage/therapeutic use
+Arthropod Proteins
+Asthma/immunology/*therapy
+Blood Proteins/analysis
+Bronchi/immunology
+Bronchial Hyperreactivity
+Bronchial Provocation Tests
+Bronchoconstrictor Agents
+Cysteine Endopeptidases
+Dermatophagoides pteronyssinus/*immunology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Eosinophil Granule Proteins
+Eosinophils
+Female
+Humans
+Immunologic Tests
+Immunotherapy/*methods
+Intercellular Adhesion Molecule-1/blood
+Leukocyte Count
+Liposomes
+Male
+Methacholine Chloride
+*Ribonucleases
+Sputum/immunology
+Statistics, Nonparametric

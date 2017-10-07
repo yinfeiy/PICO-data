@@ -1,0 +1,12 @@
+Adult
+Aged
+Anti-HIV Agents/*therapeutic use
+Biopterin/*analogs & derivatives/cerebrospinal fluid
+Didanosine/*therapeutic use
+HIV Infections/cerebrospinal fluid/*drug therapy
+*HIV-1
+Humans
+Immunoglobulin G/cerebrospinal fluid
+Middle Aged
+Neopterin
+Zidovudine/*therapeutic use

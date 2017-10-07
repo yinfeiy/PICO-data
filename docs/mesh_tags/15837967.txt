@@ -1,0 +1,18 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carboplatin/administration & dosage
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology/*radiotherapy
+Combined Modality Therapy
+Dose Fractionation
+Female
+Humans
+Lung Neoplasms/*drug therapy/pathology/*radiotherapy
+Male
+Middle Aged
+Neoplasm Staging
+Paclitaxel/administration & dosage
+*Radiotherapy Dosage
+Remission Induction
+Survival Rate
+Treatment Outcome

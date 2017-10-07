@@ -1,0 +1,12 @@
+Adult
+Aged
+Clinical Trials as Topic
+Colonic Neoplasms/*surgery
+Female
+Humans
+Male
+Middle Aged
+*Parenteral Nutrition, Total
+Postoperative Complications/*prevention & control
+Random Allocation
+Rectal Neoplasms/*surgery

@@ -1,0 +1,24 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Carboplatin/administration & dosage/adverse effects
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology/surgery
+Cisplatin/administration & dosage/adverse effects
+Combined Modality Therapy
+Deoxycytidine/administration & dosage/adverse effects/analogs & derivatives
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Humans
+Lung Neoplasms/*drug therapy/pathology/surgery
+Male
+Middle Aged
+Nausea/chemically induced
+Neoplasm Staging
+Neutropenia/chemically induced
+Paclitaxel/administration & dosage/adverse effects
+Perioperative Care
+Preoperative Care
+Quality of Life
+Treatment Outcome
+Vomiting/chemically induced

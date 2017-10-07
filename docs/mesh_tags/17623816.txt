@@ -1,0 +1,19 @@
+Adiponectin/blood
+Blood Glucose/*metabolism
+Body Mass Index
+C-Reactive Protein/metabolism
+Coronary Disease/drug therapy/*physiopathology
+Double-Blind Method
+Endothelium, Vascular/*pathology
+Female
+Glucose Tolerance Test
+Humans
+Hypoglycemic Agents/*therapeutic use
+Male
+Middle Aged
+PPAR gamma/agonists
+Placebos
+Prospective Studies
+Reference Values
+Stem Cells/drug effects/*pathology
+Thiazolidinediones/*therapeutic use

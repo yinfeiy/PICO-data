@@ -1,0 +1,18 @@
+Adult
+Aged
+Antimetabolites, Antineoplastic/administration & dosage
+Antineoplastic Agents, Alkylating/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Colorectal Neoplasms/*drug therapy
+Disease-Free Survival
+Female
+Fluorouracil/administration & dosage
+Hematologic Diseases/chemically induced
+Humans
+Ifosfamide/administration & dosage
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Neoplasm Staging
+Survival Analysis
+Treatment Outcome

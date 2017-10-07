@@ -1,0 +1,17 @@
+Adult
+Female
+Fibrin Tissue Adhesive/*therapeutic use
+Gels
+Humans
+Laparoscopy/methods
+Leiomyoma/*surgery
+Middle Aged
+Myometrium/surgery
+Postoperative Complications/epidemiology/*prevention & control
+Prospective Studies
+Second-Look Surgery/methods
+Tissue Adhesions/epidemiology/prevention & control
+Tissue Adhesives/*therapeutic use
+Treatment Outcome
+Uterine Diseases/epidemiology/*prevention & control
+Uterine Neoplasms/*surgery

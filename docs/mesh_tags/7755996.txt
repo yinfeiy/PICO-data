@@ -1,0 +1,10 @@
+Echocardiography/*instrumentation/standards
+Echocardiography, Doppler/*instrumentation/standards
+Echocardiography, Transesophageal/*instrumentation/standards
+Female
+Heart Diseases/diagnostic imaging
+Heart Valve Diseases/diagnostic imaging
+Humans
+Male
+Middle Aged
+Prospective Studies

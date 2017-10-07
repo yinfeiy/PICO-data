@@ -1,0 +1,12 @@
+Adult
+Aged
+Delayed-Action Preparations
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Hypertension/*drug therapy
+Male
+Middle Aged
+Nifedipine/*administration & dosage/adverse effects/therapeutic use

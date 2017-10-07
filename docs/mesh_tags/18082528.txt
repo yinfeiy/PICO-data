@@ -1,0 +1,10 @@
+Aortic Aneurysm, Abdominal/*diagnostic imaging
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+ROC Curve
+Sensitivity and Specificity
+Tomography, X-Ray Computed
+Ultrasonography/*instrumentation

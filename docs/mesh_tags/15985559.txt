@@ -1,0 +1,19 @@
+Acute Disease
+Adult
+Aged
+Anti-Bacterial Agents
+Antioxidants/therapeutic use
+Chronic Disease
+Disease Progression
+Drug Therapy, Combination/therapeutic use
+Female
+Follow-Up Studies
+Gastritis/microbiology/pathology
+Helicobacter Infections/complications/*drug therapy
+*Helicobacter pylori
+Humans
+Male
+Middle Aged
+Precancerous Conditions/*microbiology/pathology
+Recurrence
+Stomach Neoplasms/*microbiology/pathology/prevention & control

@@ -1,0 +1,9 @@
+Carcinoma, Renal Cell/pathology/*secondary
+Female
+Humans
+Kidney Glomerulus/*pathology
+Kidney Neoplasms/*pathology
+Middle Aged
+Neoplasm Invasiveness
+Nephrectomy
+Prognosis

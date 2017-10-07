@@ -1,0 +1,15 @@
+Administration, Oral
+Adult
+Ambulatory Care/*methods
+Antipsychotic Agents/*administration & dosage
+Benzodiazepines/*administration & dosage
+Delayed-Action Preparations/administration & dosage
+Female
+Humans
+Injections, Intramuscular
+Male
+Middle Aged
+Patient Satisfaction
+Schizophrenia/*diagnosis/*drug therapy
+Time Factors
+Treatment Outcome

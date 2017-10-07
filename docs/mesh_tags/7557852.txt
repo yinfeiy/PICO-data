@@ -1,0 +1,16 @@
+Adult
+Aged
+Alanine Transaminase/blood
+*Antipyrine/pharmacokinetics
+Antiviral Agents/*therapeutic use
+Female
+Hepatitis C/physiopathology/*therapy
+Hepatitis, Chronic/physiopathology/*therapy
+Humans
+Interferon-alpha/*therapeutic use
+Liver/physiopathology
+Male
+Metabolic Clearance Rate
+Middle Aged
+Recombinant Proteins
+Smoking/metabolism

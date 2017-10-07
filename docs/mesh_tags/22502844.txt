@@ -1,0 +1,13 @@
+Adolescent
+Child
+Child Development Disorders, Pervasive/complications/physiopathology/*rehabilitation
+Child, Preschool
+Complementary Therapies/*methods
+Exercise Therapy/methods
+Female
+Humans
+Male
+*Martial Arts
+*Stereotyped Behavior
+Stereotypic Movement Disorder/etiology/physiopathology/*rehabilitation
+Treatment Outcome

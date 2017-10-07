@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Age Factors
+Body Mass Index
+Diabetes Mellitus, Type 1/*complications
+*Diet, Diabetic/trends
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Lipids/blood
+Male
+Sex Factors
+Smoking/blood/*physiopathology

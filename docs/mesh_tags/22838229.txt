@@ -1,0 +1,27 @@
+Aluminum Compounds/pharmacology
+Animals
+Apicoectomy/methods
+Biocompatible Materials/*pharmacology
+Calcium Compounds/pharmacology
+Cell Adhesion/drug effects
+Cell Count
+Cell Culture Techniques
+Cell Line
+Cell Shape/drug effects
+Ceramics/*pharmacology
+Collagen/*pharmacology
+Cricetinae
+Drug Combinations
+Fibroblasts/*drug effects
+Glass
+Glass Ionomer Cements/*pharmacology
+Humans
+Incisor/pathology
+Materials Testing
+Mesocricetus
+Microscopy, Electron, Scanning
+Microscopy, Phase-Contrast
+Oxides/pharmacology
+Retrograde Obturation/methods
+Root Canal Filling Materials/pharmacology
+Silicates/pharmacology

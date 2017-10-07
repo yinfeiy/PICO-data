@@ -1,0 +1,14 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bleomycin/administration & dosage
+Carcinoma, Squamous Cell/*drug therapy/surgery
+Combined Modality Therapy
+Cyclophosphamide/administration & dosage
+Esophageal Neoplasms/*drug therapy/surgery
+Female
+Fluorouracil/administration & dosage
+Humans
+Intraoperative Period
+Male
+Middle Aged
+Vincristine/administration & dosage

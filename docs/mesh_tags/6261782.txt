@@ -1,0 +1,17 @@
+Adult
+Albuterol/*pharmacology
+Blood Glucose/analysis
+C-Peptide/blood
+Cyclic AMP/blood
+Diabetes Mellitus, Type 1/blood/physiopathology
+Fatty Acids, Nonesterified/blood
+Female
+Glycerol/blood
+Hemodynamics/*drug effects
+Humans
+Hydroxybutyrates/blood
+Insulin/blood
+Lactates/blood
+Pregnancy
+Pregnancy Trimester, Third/drug effects
+Pregnancy in Diabetics/*blood/physiopathology

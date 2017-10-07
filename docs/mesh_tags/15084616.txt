@@ -1,0 +1,15 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Deoxycytidine/adverse effects/*analogs & derivatives/*therapeutic use
+Disease-Free Survival
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Neutropenia/chemically induced
+Pancreatic Neoplasms/*drug therapy
+Placebos
+Prognosis
+Quinolones/adverse effects/pharmacokinetics/*therapeutic use

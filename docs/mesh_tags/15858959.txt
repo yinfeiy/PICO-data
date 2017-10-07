@@ -1,0 +1,16 @@
+Acute Disease
+Child
+Child, Preschool
+Dehydration/etiology/therapy
+Diarrhea/complications/*therapy
+Double-Blind Method
+Female
+Fluid Therapy
+Humans
+Infant
+Length of Stay
+Male
+Probiotics/*therapeutic use
+*Saccharomyces
+Time Factors
+Treatment Outcome

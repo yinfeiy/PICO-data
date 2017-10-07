@@ -1,0 +1,13 @@
+Adult
+Age Factors
+Aged
+Colonic Neoplasms/*drug therapy/mortality/*surgery
+Female
+Fluorouracil/administration & dosage/adverse effects/*therapeutic use
+Follow-Up Studies
+Humans
+Injections, Intravenous
+Male
+Middle Aged
+Palliative Care
+Postoperative Complications

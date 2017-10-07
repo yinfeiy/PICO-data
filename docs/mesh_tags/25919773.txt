@@ -1,0 +1,26 @@
+Adult
+Amoxicillin/administration & dosage
+Anti-Bacterial Agents/*therapeutic use
+Anti-Ulcer Agents/administration & dosage
+Breath Tests
+Clarithromycin/administration & dosage
+Dental Amalgam/*adverse effects
+Dental Restoration, Permanent/*adverse effects
+Disease Eradication
+Drug Therapy, Combination
+Female
+Helicobacter Infections/*drug therapy/epidemiology/microbiology
+Helicobacter pylori/*drug effects/pathogenicity
+Humans
+Incidence
+Levofloxacin/*administration & dosage
+Male
+Metronidazole/administration & dosage
+Middle Aged
+Outpatients
+Prospective Studies
+Rabeprazole/administration & dosage
+Tetracycline/administration & dosage
+Treatment Outcome
+Turkey/epidemiology
+Urea/*metabolism

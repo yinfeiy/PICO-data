@@ -1,0 +1,18 @@
+Adult
+Double-Blind Method
+Eye Diseases/*drug therapy/physiopathology
+Female
+Fibrinolysin/*therapeutic use
+Fibrinolytic Agents/*therapeutic use
+Humans
+Intravitreal Injections
+Male
+Middle Aged
+Peptide Fragments/*therapeutic use
+Retinal Diseases/*drug therapy/physiopathology
+Sickness Impact Profile
+Surveys and Questionnaires
+Tissue Adhesions/drug therapy
+Tomography, Optical Coherence
+Visual Acuity/*physiology
+Vitreous Body/*drug effects

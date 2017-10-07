@@ -1,0 +1,5 @@
+Humans
+Plethysmography/instrumentation/*methods
+Prospective Studies
+Single-Blind Method
+Venous Insufficiency/*drug therapy/physiopathology

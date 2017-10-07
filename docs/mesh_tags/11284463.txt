@@ -1,0 +1,14 @@
+Administration, Oral
+Adolescent
+Adult
+Aged
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Migraine Disorders/*drug therapy
+Serotonin Receptor Agonists/*administration & dosage
+Sumatriptan/*administration & dosage
+Triazoles/*administration & dosage
+Tryptamines

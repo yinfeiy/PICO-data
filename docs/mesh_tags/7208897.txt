@@ -1,0 +1,10 @@
+Adult
+Aged
+Breast Neoplasms/*epidemiology
+Female
+Humans
+Mammography
+*Mass Screening
+Middle Aged
+Random Allocation
+Sweden

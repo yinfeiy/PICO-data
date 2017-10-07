@@ -1,0 +1,11 @@
+Antibody Affinity
+Carcinoma, Small Cell/*blood/drug therapy/pathology
+Cell Count/methods
+Flow Cytometry/*methods
+Humans
+Immunomagnetic Separation/methods
+Longitudinal Studies
+Lung/cytology
+Lung Neoplasms/*blood/drug therapy/pathology
+Monitoring, Immunologic/methods
+Treatment Outcome

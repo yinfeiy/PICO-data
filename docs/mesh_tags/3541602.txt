@@ -1,0 +1,12 @@
+Adult
+Aged
+Captopril/adverse effects/*therapeutic use
+Drug Therapy, Combination
+Humans
+Hypertension/blood/*drug therapy
+Lipids/*blood
+Middle Aged
+Polythiazide/administration & dosage
+Posture
+Prazosin/adverse effects/*therapeutic use
+Random Allocation

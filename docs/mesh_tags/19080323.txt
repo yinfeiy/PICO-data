@@ -1,0 +1,14 @@
+Angiogenesis Inhibitors/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy/genetics/metabolism
+Endostatins/therapeutic use
+Endothelial Cells/*drug effects/metabolism
+Female
+Flow Cytometry
+Gene Expression Regulation, Neoplastic/drug effects
+Humans
+Immunohistochemistry
+Inhibitor of Apoptosis Proteins
+Lung Neoplasms/*drug therapy/genetics/metabolism
+Male
+Microtubule-Associated Proteins/*genetics/metabolism
+Reverse Transcriptase Polymerase Chain Reaction

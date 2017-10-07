@@ -1,0 +1,11 @@
+Adult
+Albuterol/*administration & dosage/therapeutic use
+Asthma/*drug therapy/physiopathology
+Female
+Humans
+Male
+*Nebulizers and Vaporizers
+Powders
+Respiration
+Solutions
+Spirometry

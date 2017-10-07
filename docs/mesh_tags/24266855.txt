@@ -1,0 +1,20 @@
+Adrenal Cortex Hormones/*administration & dosage
+Adult
+Aged
+Biopsy
+Creatinine/blood
+Cyclosporine/*administration & dosage
+Europe
+Female
+Graft Rejection
+Graft Survival
+Humans
+Immunosuppressive Agents/*administration & dosage
+Kidney Function Tests
+Kidney Transplantation/*methods/mortality
+Male
+Middle Aged
+Renal Insufficiency/mortality/*therapy
+Sirolimus/*administration & dosage
+Time Factors
+Treatment Outcome

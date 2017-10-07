@@ -1,0 +1,8 @@
+Adult
+Asthma/physiopathology/*rehabilitation
+*Exercise Therapy
+Female
+Humans
+Male
+Respiratory Function Tests
+Spirometry

@@ -1,0 +1,25 @@
+ATP Binding Cassette Transporter 1/genetics/metabolism
+Adult
+Aged
+Cholesterol/*blood
+*Diet, Carbohydrate-Restricted
+Dietary Carbohydrates/administration & dosage
+Dietary Fats/administration & dosage
+Dietary Proteins/administration & dosage
+*Eggs
+Female
+Homeostasis/*physiology
+Humans
+Hydroxymethylglutaryl CoA Reductases/genetics/metabolism
+Inflammation
+Interleukin-1beta/secretion
+Leukocytes, Mononuclear/*metabolism
+Lipopolysaccharides/adverse effects
+Male
+Metabolic Syndrome X/blood/*metabolism
+Middle Aged
+NF-kappa B/metabolism
+RNA, Messenger/genetics/metabolism
+Single-Blind Method
+Toll-Like Receptor 4/genetics/metabolism
+Tumor Necrosis Factor-alpha/secretion

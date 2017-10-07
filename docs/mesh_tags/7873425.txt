@@ -1,0 +1,11 @@
+Adult
+Blood Pressure/drug effects
+Enflurane/*pharmacology
+Halothane/*pharmacology
+Heart Rate/*drug effects
+Humans
+Isoflurane/*pharmacology
+Male
+Pressoreceptors/*drug effects/physiology
+Prospective Studies
+Reflex/*drug effects

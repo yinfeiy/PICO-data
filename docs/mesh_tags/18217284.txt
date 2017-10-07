@@ -1,0 +1,16 @@
+Adolescent
+Analgesics/administration & dosage/*therapeutic use
+Child
+Child, Preschool
+Chronic Disease
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Humans
+Male
+Pain Measurement
+Pain, Postoperative/*drug therapy
+Postoperative Care/*trends
+Tonsillectomy/*methods
+Tonsillitis/*surgery
+Treatment Outcome

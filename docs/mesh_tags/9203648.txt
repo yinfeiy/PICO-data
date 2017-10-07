@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Female
+HIV Antibodies/analysis
+HIV Core Protein p24/analysis/blood
+HIV Infections/blood/*prevention & control/*therapy
+HIV-1/genetics
+Humans
+Immunoglobulins, Intravenous/administration & dosage/adverse effects/*pharmacokinetics
+Infant, Newborn
+Infectious Disease Transmission, Vertical
+Pregnancy
+RNA, Viral/analysis/blood

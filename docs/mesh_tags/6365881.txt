@@ -1,0 +1,13 @@
+Acute Kidney Injury/*chemically induced
+Aged
+Bacterial Infections/*drug therapy
+Clinical Trials as Topic
+Ear Diseases/*chemically induced
+Female
+Gentamicins/*adverse effects
+Gram-Negative Bacteria
+Humans
+Male
+Netilmicin/*adverse effects
+Random Allocation
+Tobramycin/*adverse effects

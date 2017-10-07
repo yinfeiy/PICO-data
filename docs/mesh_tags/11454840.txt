@@ -1,0 +1,11 @@
+Aneurysm, Dissecting/physiopathology
+Angioplasty, Balloon, Coronary/*methods
+Blood Flow Velocity
+Coronary Disease/physiopathology/*therapy
+Female
+Humans
+Male
+Middle Aged
+*Stents
+Treatment Outcome
+Ultrasonography, Interventional

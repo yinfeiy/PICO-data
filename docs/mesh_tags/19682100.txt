@@ -1,0 +1,20 @@
+Antiretroviral Therapy, Highly Active/methods
+Drug Administration Schedule
+Drug Resistance, Viral/genetics
+Drug Therapy, Combination
+Follow-Up Studies
+HIV Infections/*drug therapy/virology
+HIV Protease Inhibitors/*therapeutic use
+*HIV-1/drug effects/genetics
+Humans
+Intention to Treat Analysis
+Lamivudine/therapeutic use
+Lopinavir
+Male
+Medication Adherence
+Pyrimidinones/*therapeutic use
+RNA, Viral/blood/genetics
+Reverse Transcriptase Inhibitors/therapeutic use
+Ritonavir/*therapeutic use
+Treatment Outcome
+Zidovudine/therapeutic use

@@ -1,0 +1,11 @@
+Adenocarcinoma/*radiotherapy
+Carcinoma/*radiotherapy
+Carcinoma, Bronchogenic/mortality/*radiotherapy
+Carcinoma, Squamous Cell/*radiotherapy
+Esophagitis/etiology
+Humans
+Lung Neoplasms/mortality/*radiotherapy
+Pneumonia/etiology
+Radiation Injuries
+Radiotherapy Dosage
+Radiotherapy, High-Energy/adverse effects/methods

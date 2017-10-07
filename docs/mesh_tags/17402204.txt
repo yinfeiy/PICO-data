@@ -1,0 +1,9 @@
+Adult
+Breast Diseases/diagnosis
+Breast Neoplasms/*diagnosis/*mortality
+*Breast Self-Examination
+China
+Female
+Humans
+Middle Aged
+Patient Education as Topic

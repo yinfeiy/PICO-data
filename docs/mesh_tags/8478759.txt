@@ -1,0 +1,12 @@
+Administration, Rectal
+Anesthesia, Dental
+Anesthesia, General
+Blood Pressure/drug effects
+Child, Preschool
+Dental Anxiety/*prevention & control
+Diazepam/*administration & dosage
+Female
+Humans
+Male
+Midazolam/*administration & dosage
+Preanesthetic Medication/*methods

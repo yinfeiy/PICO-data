@@ -1,0 +1,18 @@
+Adult
+Aged
+Agranulocytosis/*complications
+Bacterial Infections/complications/*drug therapy
+Carbenicillin/*administration & dosage
+Clinical Trials as Topic
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Male
+Middle Aged
+Neoplasms/complications
+Prognosis
+Prospective Studies
+Random Allocation
+Sulfamethoxazole/*administration & dosage
+Trimethoprim/*administration & dosage

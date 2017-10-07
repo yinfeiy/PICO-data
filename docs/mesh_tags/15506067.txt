@@ -1,0 +1,16 @@
+Adult
+Aged
+Antihypertensive Agents/*pharmacokinetics/*pharmacology
+Blood Pressure/drug effects
+Cross-Over Studies
+Double-Blind Method
+Female
+Humans
+Hypertension/complications/*drug therapy
+Male
+Middle Aged
+Oxazoles/*pharmacokinetics/*pharmacology
+Placebos
+Stress, Psychological
+Sympathetic Nervous System/*drug effects/physiology
+Tilt-Table Test

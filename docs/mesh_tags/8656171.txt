@@ -1,0 +1,11 @@
+Acute Disease
+Adult
+Anti-Bacterial Agents/*therapeutic use
+Bronchitis/*drug therapy
+Double-Blind Method
+Erythromycin/*therapeutic use
+Female
+Humans
+Male
+Prospective Studies
+Treatment Outcome

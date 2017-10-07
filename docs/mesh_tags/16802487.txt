@@ -1,0 +1,10 @@
+*Anesthesia Recovery Period
+*Anesthesia, Inhalation
+*Anesthetics, Inhalation
+Female
+Humans
+Isoflurane/*analogs & derivatives
+Male
+Middle Aged
+Neuroma, Acoustic/*surgery
+Time Factors

@@ -1,0 +1,21 @@
+Adult
+Antioxidants/metabolism
+*Burns/complications/metabolism/surgery/therapy
+Copper/deficiency/metabolism/therapeutic use
+Dietary Supplements
+Enteral Nutrition
+Female
+Humans
+Infusions, Intravenous
+Male
+*Nutritional Requirements
+Oxidation-Reduction
+Pneumonia/*epidemiology/prevention & control
+Prospective Studies
+Selenium/deficiency/metabolism/therapeutic use
+Skin/*metabolism
+Skin Transplantation
+*Trace Elements/deficiency/metabolism/therapeutic use
+Treatment Outcome
+Wound Healing/*drug effects/physiology
+Zinc/deficiency/metabolism/therapeutic use

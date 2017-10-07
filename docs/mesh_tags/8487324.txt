@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Anemia/complications/*drug therapy
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Blood Transfusion
+Double-Blind Method
+Erythropoietin/blood/*therapeutic use
+Female
+Hematocrit
+Humans
+Male
+Middle Aged
+Neoplasms/blood/complications/*drug therapy
+Prospective Studies
+Quality of Life
+Recombinant Proteins/therapeutic use

@@ -1,0 +1,10 @@
+Anxiety Disorders/etiology/*therapy
+Asperger Syndrome/*complications/*psychology
+Child
+*Cognitive Therapy
+Female
+Humans
+Male
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Treatment Outcome

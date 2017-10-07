@@ -1,0 +1,27 @@
+Adrenergic beta-Antagonists/administration & dosage
+Aged
+Angiotensin Receptor Antagonists
+Angiotensin-Converting Enzyme Inhibitors/administration & dosage
+Biomarkers/blood
+Cardiovascular Agents/*administration & dosage
+Digoxin/administration & dosage
+Disease-Free Survival
+Diuretics/administration & dosage
+Female
+Germany
+Heart Failure/*blood/*drug therapy/physiopathology
+Humans
+Male
+Middle Aged
+Multivariate Analysis
+Natriuretic Peptide, Brain/*blood/drug effects
+Nitrates/administration & dosage
+Odds Ratio
+Peptide Fragments/*blood/drug effects
+Proportional Hazards Models
+*Quality of Life
+Severity of Illness Index
+Stroke Volume
+Surveys and Questionnaires
+Switzerland
+Treatment Outcome

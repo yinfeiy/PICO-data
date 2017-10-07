@@ -1,0 +1,13 @@
+Adult
+Female
+Humans
+Infertility/*therapy
+Insemination, Artificial/*methods
+Male
+Ovulation Induction/*methods
+Pregnancy
+Pregnancy Outcome
+Pregnancy Rate
+Prognosis
+Time Factors
+Treatment Outcome

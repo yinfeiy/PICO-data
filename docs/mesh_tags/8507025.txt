@@ -1,0 +1,20 @@
+Adult
+Analysis of Variance
+*Anesthesia, Dental
+Anesthesia, Intravenous
+Anesthetics, Local/*pharmacology
+Blood Glucose/*analysis/metabolism
+Conscious Sedation
+Double-Blind Method
+Drug Combinations
+Epinephrine/*pharmacology
+Felypressin/pharmacology
+Humans
+Hyperglycemia/chemically induced/metabolism
+Hypokalemia/chemically induced/metabolism
+Lidocaine/pharmacology
+Midazolam/administration & dosage/pharmacology
+Potassium/*blood/metabolism
+Prilocaine/pharmacology
+Receptors, Adrenergic/drug effects
+Time Factors

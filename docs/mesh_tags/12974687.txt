@@ -1,0 +1,17 @@
+Adult
+Analysis of Variance
+Animals
+Carbonated Beverages/adverse effects
+Cattle
+Dentin/*pathology/physiopathology
+Female
+Hardness
+Humans
+Linear Models
+Male
+Saliva/*physiology
+Time Factors
+Tooth Abrasion/*etiology/physiopathology
+Tooth Erosion/*etiology/physiopathology
+Tooth Root/*pathology/physiopathology
+Toothbrushing/adverse effects

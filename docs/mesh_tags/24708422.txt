@@ -1,0 +1,26 @@
+Adult
+Aged
+Analgesics/therapeutic use
+Attitude to Health
+Computer-Aided Design
+Dental Implantation, Endosseous/*methods/psychology
+Dental Implants
+Female
+Follow-Up Studies
+Humans
+Jaw, Edentulous/*surgery
+Male
+Mandible/surgery
+Maxilla/surgery
+Middle Aged
+Operative Time
+Osteotomy/methods
+Pain Measurement/methods
+Pain, Postoperative/psychology
+Patient Care Planning
+*Patient Satisfaction
+Quality of Life
+Surgery, Computer-Assisted/*methods/psychology
+Surgical Flaps/surgery
+Treatment Outcome
+Visual Analog Scale

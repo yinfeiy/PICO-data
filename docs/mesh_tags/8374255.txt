@@ -1,0 +1,9 @@
+Ascites/drug therapy/etiology/metabolism
+Diuretics/metabolism/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Furosemide/metabolism/*therapeutic use
+Humans
+Liver Cirrhosis/*drug therapy/metabolism
+Spironolactone/therapeutic use
+Sulfonamides/metabolism/*therapeutic use

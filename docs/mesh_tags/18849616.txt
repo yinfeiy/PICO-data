@@ -1,0 +1,28 @@
+Adolescent
+Antigens, CD/metabolism
+Antigens, CD63
+Antigens, Dermatophagoides/administration & dosage/*immunology/therapeutic use
+Arthropod Proteins
+Asthma/blood/immunology/*therapy
+Basophils/immunology/metabolism
+Breath Tests
+Child
+Cysteine Endopeptidases
+Desensitization, Immunologic/adverse effects/*methods
+Enzyme-Linked Immunosorbent Assay
+Eosinophil Cationic Protein/blood
+Female
+Forkhead Transcription Factors/genetics
+GATA3 Transcription Factor/genetics
+Gene Expression
+Humans
+Hypersensitivity/blood/immunology/*therapy
+Immunoglobulin E/blood/immunology
+Immunoglobulin G/blood/immunology
+Leukotrienes/metabolism
+Male
+Nitric Oxide/metabolism
+Platelet Membrane Glycoproteins/metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+T-Box Domain Proteins/genetics
+T-Lymphocytes/metabolism

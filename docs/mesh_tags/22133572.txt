@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Agents/pharmacology/*therapeutic use
+Biopsy
+Colorectal Neoplasms/*drug therapy/pathology
+Female
+Fluorouracil/pharmacology
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Pyrimidines/therapeutic use
+Quality of Life
+Thymidylate Synthase/*administration & dosage
+Time Factors
+Treatment Outcome

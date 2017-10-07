@@ -1,0 +1,15 @@
+Adult
+Aminoquinolines/*therapeutic use
+Antineoplastic Agents/*therapeutic use
+Carcinoma, Basal Cell/pathology/*therapy
+Chemotherapy, Adjuvant
+Desiccation
+Double-Blind Method
+*Electrosurgery
+Female
+Humans
+Male
+Neoplasm, Residual
+Pilot Projects
+Skin Neoplasms/pathology/*therapy
+Treatment Outcome

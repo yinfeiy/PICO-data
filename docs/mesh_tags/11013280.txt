@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Agents/administration & dosage/adverse effects/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy
+Cisplatin/administration & dosage/adverse effects/*therapeutic use
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Female
+Humans
+Lung Neoplasms/*drug therapy
+Male
+Middle Aged
+Paclitaxel/administration & dosage/adverse effects
+Quality of Life
+Survival Analysis

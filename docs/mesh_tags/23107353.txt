@@ -1,0 +1,17 @@
+Absorption
+Adolescent
+Blood Glucose/analysis
+Child
+Cross-Over Studies
+Diabetes Mellitus, Type 1/blood/*drug therapy
+Female
+Glucose Clamp Technique
+Hot Temperature
+Humans
+Hypoglycemic Agents/*administration & dosage/blood/pharmacokinetics/therapeutic use
+Infusions, Subcutaneous
+Insulin Aspart/*administration & dosage/blood/pharmacokinetics/therapeutic use
+*Insulin Infusion Systems
+Male
+*Regional Blood Flow
+Skin Temperature

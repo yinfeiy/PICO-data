@@ -1,0 +1,14 @@
+Adult
+Ambulatory Care
+Anxiety Disorders/*drug therapy
+Benzazepines/adverse effects/*therapeutic use
+Clinical Trials as Topic
+Diazepam/adverse effects/*therapeutic use
+Female
+Humans
+Ketones/adverse effects/therapeutic use
+Male
+Psychiatric Status Rating Scales
+Psychometrics
+Time Factors
+Tranquilizing Agents/adverse effects/*therapeutic use

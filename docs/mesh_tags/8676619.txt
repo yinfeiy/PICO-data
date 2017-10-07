@@ -1,0 +1,10 @@
+Antimetabolites, Antineoplastic/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Cladribine/chemistry
+Cyclophosphamide/administration & dosage
+Doxorubicin/administration & dosage
+Humans
+Leukemia, Lymphocytic, Chronic, B-Cell/*drug therapy
+Pentostatin/chemistry
+Prednisone/administration & dosage
+Vidarabine Phosphate/*analogs & derivatives/chemistry/therapeutic use

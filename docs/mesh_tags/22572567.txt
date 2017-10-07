@@ -1,0 +1,12 @@
+Adapalene
+Adult
+Dermatologic Agents/*therapeutic use
+Female
+Gels/therapeutic use
+Humans
+Ketoconazole/*therapeutic use
+Male
+Middle Aged
+Naphthalenes/*therapeutic use
+Tinea Versicolor/*drug therapy
+Treatment Outcome

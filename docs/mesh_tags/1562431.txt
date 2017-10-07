@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+*Bone Nails
+Female
+Femoral Fractures/*surgery
+Fracture Fixation, Intramedullary/instrumentation/*methods
+Humans
+Male
+Middle Aged
+Postoperative Complications

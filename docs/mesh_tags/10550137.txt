@@ -1,0 +1,11 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Breast Neoplasms/*drug therapy
+Cyclophosphamide/administration & dosage
+Double-Blind Method
+Doxorubicin/administration & dosage
+Female
+Granulocyte-Macrophage Colony-Stimulating Factor/administration & dosage/adverse effects/*therapeutic use
+Humans
+Middle Aged

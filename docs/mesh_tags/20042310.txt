@@ -1,0 +1,24 @@
+Adult
+Aged
+Antibodies, Monoclonal/*administration & dosage
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents/*administration & dosage
+Capecitabine
+Cetuximab
+Colectomy/*methods
+Deoxycytidine/administration & dosage/*analogs & derivatives
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Fluorouracil/administration & dosage/*analogs & derivatives
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neoadjuvant Therapy
+Neoplasm Staging
+Prodrugs
+Prospective Studies
+Receptor, Epidermal Growth Factor
+Rectal Neoplasms/*drug therapy/pathology/radiotherapy/surgery
+Treatment Outcome

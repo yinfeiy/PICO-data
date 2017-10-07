@@ -1,0 +1,17 @@
+Absorptiometry, Photon
+Adult
+Aged
+Bone Density/drug effects
+Calcitriol/*therapeutic use
+Female
+Hepatitis, Viral, Human/complications
+Humans
+Liver Cirrhosis/*complications/virology
+Male
+Middle Aged
+Osteoporosis/*complications/*drug therapy
+Proportional Hazards Models
+Regression Analysis
+Sex Factors
+Time Factors
+Treatment Outcome

@@ -1,0 +1,15 @@
+Anxiety/etiology/*therapy
+*Aromatherapy
+Depression/etiology/*therapy
+Female
+Humans
+Male
+*Massage
+Middle Aged
+Neoplasms/*psychology
+Odds Ratio
+Oils, Volatile/*therapeutic use
+Quality of Life
+Time Factors
+Treatment Outcome
+United Kingdom

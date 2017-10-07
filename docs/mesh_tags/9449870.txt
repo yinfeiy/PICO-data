@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Animals
+Anopheles/*parasitology
+Child
+Child, Preschool
+Diethylcarbamazine/*administration & dosage/therapeutic use
+Drug Administration Schedule
+Drug Therapy, Combination
+Elephantiasis, Filarial/drug therapy/epidemiology/*prevention & control/transmission
+Female
+Filaricides/*administration & dosage/therapeutic use
+Humans
+Insect Vectors/*parasitology
+Ivermectin/*administration & dosage/therapeutic use
+Male
+Papua New Guinea/epidemiology
+*Wuchereria bancrofti/isolation & purification

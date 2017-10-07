@@ -1,0 +1,10 @@
+Adult
+Aorta/physiology
+Brachial Artery/physiology
+*Cold Temperature
+Cross-Over Studies
+Female
+*Hemodynamics
+Humans
+Male
+*Vascular Stiffness

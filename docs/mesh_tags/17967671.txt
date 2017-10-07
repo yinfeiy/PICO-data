@@ -1,0 +1,13 @@
+Adolescent
+*Cardiopulmonary Bypass
+Child
+Child, Preschool
+Female
+Heart Defects, Congenital/*surgery
+Humans
+Infant
+Male
+Oxygen/*metabolism
+Prospective Studies
+Reperfusion Injury/prevention & control
+*Respiration, Artificial

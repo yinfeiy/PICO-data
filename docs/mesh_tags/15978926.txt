@@ -1,0 +1,9 @@
+Aged
+Aortic Aneurysm, Abdominal/mortality/*surgery
+Blood Vessel Prosthesis Implantation/mortality
+Female
+Humans
+Male
+Outcome Assessment (Health Care)
+Stents
+Survival Rate

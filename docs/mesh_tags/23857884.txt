@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Cohort Studies
+Decision Support Techniques
+Female
+Humans
+Joint Instability/*diagnosis
+*Magnetic Resonance Imaging
+Male
+Middle Aged
+Observer Variation
+*Patellofemoral Joint/diagnostic imaging/pathology
+Reproducibility of Results
+Single-Blind Method
+Tibia/diagnostic imaging/pathology
+*Tomography, X-Ray Computed
+Young Adult

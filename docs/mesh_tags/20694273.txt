@@ -1,0 +1,27 @@
+Administration, Oral
+Aged
+Alanine Transaminase/blood
+Anticoagulants/*administration & dosage/adverse effects/pharmacokinetics
+Aspartate Aminotransferases
+Atrial Fibrillation/blood/complications/*drug therapy
+Bilirubin/blood
+Biomarkers/blood
+Blood Coagulation/*drug effects
+Double-Blind Method
+Europe, Eastern
+Factor Xa/metabolism
+*Factor Xa Inhibitors
+Female
+Fibrin Fibrinogen Degradation Products/metabolism
+Hemorrhage/chemically induced
+Humans
+International Normalized Ratio
+Male
+Middle Aged
+Pyridines/*administration & dosage/adverse effects/pharmacokinetics
+Stroke/blood/etiology/*prevention & control
+Thiazoles/*administration & dosage/adverse effects/pharmacokinetics
+Time Factors
+Treatment Outcome
+United States
+Warfarin/*administration & dosage/adverse effects/pharmacokinetics

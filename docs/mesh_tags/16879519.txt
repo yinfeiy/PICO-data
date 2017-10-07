@@ -1,0 +1,19 @@
+Algorithms
+Androstanols/*pharmacokinetics
+*Anesthesia, Intravenous
+*Anesthetics, Inhalation
+*Anesthetics, Intravenous
+Child
+Child, Preschool
+Drug Interactions
+Female
+*Fentanyl
+Hemodynamics/drug effects/physiology
+Humans
+Male
+*Methyl Ethers
+Models, Statistical
+Monitoring, Intraoperative
+Neuromuscular Nondepolarizing Agents/*pharmacokinetics
+*Nitrous Oxide
+Synaptic Transmission/drug effects

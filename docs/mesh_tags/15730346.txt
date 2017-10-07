@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Antidepressive Agents/*administration & dosage
+Benzothiazoles
+Cocaine-Related Disorders/*rehabilitation
+Cyclohexanols/administration & dosage
+Dopamine Agonists/*administration & dosage
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Neuroprotective Agents/*administration & dosage
+Paroxetine/administration & dosage
+Pentoxifylline/administration & dosage
+Phosphodiesterase Inhibitors/*administration & dosage
+Riluzole/administration & dosage
+Serotonin Uptake Inhibitors/*administration & dosage
+Thiazoles/administration & dosage
+Venlafaxine Hydrochloride

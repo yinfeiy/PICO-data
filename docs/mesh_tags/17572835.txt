@@ -1,0 +1,14 @@
+Absorptiometry, Photon
+Aged
+Biomechanical Phenomena
+Bone Density/*physiology
+Exercise Therapy/*methods
+Female
+Humans
+Kyphosis/physiopathology/prevention & control/*therapy
+Middle Aged
+Muscle Strength/*physiology
+Muscle, Skeletal/*physiology
+Osteoporosis, Postmenopausal/physiopathology/prevention & control/*therapy
+Quality of Life
+Treatment Outcome

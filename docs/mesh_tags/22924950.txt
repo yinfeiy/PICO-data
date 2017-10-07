@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Aged
+Anticarcinogenic Agents/*administration & dosage/adverse effects
+Child
+Child, Preschool
+Combined Modality Therapy/methods
+Dose-Response Relationship, Drug
+Dose-Response Relationship, Radiation
+Early Termination of Clinical Trials
+Humans
+Infant
+Methoxsalen/administration & dosage/adverse effects
+Middle Aged
+Mycosis Fungoides/*drug therapy/pathology
+PUVA Therapy/adverse effects/*methods
+Photosensitizing Agents/administration & dosage/adverse effects
+Skin Neoplasms/pathology/*therapy
+Tetrahydronaphthalenes/*administration & dosage/adverse effects
+Treatment Outcome
+Young Adult

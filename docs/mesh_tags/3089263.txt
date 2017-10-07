@@ -1,0 +1,10 @@
+Aged
+Amiodarone/*therapeutic use
+Atrial Fibrillation/*drug therapy
+Atrial Flutter/*drug therapy
+Benzofurans/*therapeutic use
+Disopyramide/*therapeutic use
+Female
+Humans
+Male
+Random Allocation

@@ -1,0 +1,17 @@
+Adenocarcinoma/therapy
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Carcinoma, Squamous Cell/therapy
+Cisplatin/administration & dosage
+Combined Modality Therapy/adverse effects/economics
+Esophageal Neoplasms/mortality/secondary/*therapy
+Female
+Fluorouracil/administration & dosage
+Humans
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Prospective Studies
+Radiotherapy Dosage
+Random Allocation
+Survival Rate

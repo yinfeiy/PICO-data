@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Combined Modality Therapy
+Exercise Therapy/*methods
+Female
+Humans
+Male
+Middle Aged
+Osteoarthritis, Hip/complications/physiopathology/*rehabilitation
+Pain/etiology/rehabilitation
+Pain Measurement/methods
+*Patient Education as Topic
+Severity of Illness Index
+Single-Blind Method
+Treatment Outcome

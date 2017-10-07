@@ -1,0 +1,10 @@
+Adult
+Clinical Trials as Topic
+Colonic Diseases, Functional/*drug therapy
+Domperidone/adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Placebos

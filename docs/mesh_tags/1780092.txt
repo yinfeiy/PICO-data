@@ -1,0 +1,14 @@
+Adult
+Aged
+Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+Double-Blind Method
+Female
+Flurbiprofen/*therapeutic use
+Humans
+Inflammation/*drug therapy/etiology
+Male
+Middle Aged
+Otorhinolaryngologic Diseases/*complications
+Pain/*drug therapy/etiology
+Sulfonamides/administration & dosage/*therapeutic use
+Suppositories

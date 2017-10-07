@@ -1,0 +1,15 @@
+Analgesics, Opioid/administration & dosage/pharmacology
+Anesthesia/veterinary
+Anesthetics, Inhalation/*pharmacokinetics
+Anesthetics, Intravenous/administration & dosage/pharmacology
+Animals
+Dose-Response Relationship, Drug
+Drug Interactions
+Fentanyl/administration & dosage/*pharmacology
+Infusions, Intravenous/veterinary
+Isoflurane/*pharmacokinetics
+Lung/*metabolism
+Male
+Piperidines/administration & dosage/*pharmacology
+Rats/*physiology
+Rats, Wistar

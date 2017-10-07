@@ -1,0 +1,12 @@
+Autistic Disorder/complications/*diagnosis
+Behavioral Symptoms/complications/*diagnosis
+Child
+Communication
+Diagnosis, Differential
+Down Syndrome/complications/*diagnosis
+Humans
+Male
+Psychological Tests
+Social Behavior
+Socialization
+Stereotyped Behavior

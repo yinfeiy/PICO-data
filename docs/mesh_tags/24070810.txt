@@ -1,0 +1,23 @@
+Acute Disease
+Adult
+Aged
+Allergens/adverse effects
+Combined Modality Therapy
+Conjunctiva/blood supply
+Conjunctivitis, Allergic/diagnosis/etiology/*therapy
+*Cryotherapy
+Dibenzazepines/administration & dosage
+Double-Blind Method
+Female
+Histamine H1 Antagonists/administration & dosage
+Humans
+Hyperemia/chemically induced/drug therapy
+Imidazoles/administration & dosage
+Male
+Middle Aged
+Ophthalmic Solutions/*administration & dosage
+Pollen/adverse effects
+*Seasons
+Skin Tests
+Treatment Outcome
+Young Adult

@@ -1,0 +1,18 @@
+Adult
+Cholesterol/blood
+Cholesterol, VLDL/blood
+*Dietary Supplements
+Double-Blind Method
+Fasting/blood
+Female
+Homeostasis/physiology
+Humans
+Insulin/blood
+*Insulin Resistance
+Insulin-Secreting Cells/physiology
+Iron Chelating Agents/*therapeutic use
+Picolinic Acids/*therapeutic use
+Polycystic Ovary Syndrome/blood/*drug therapy
+Prospective Studies
+Triglycerides/blood
+Young Adult

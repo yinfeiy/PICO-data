@@ -1,0 +1,14 @@
+Acute Lung Injury/mortality/pathology/physiopathology/*therapy
+Adult
+*Critical Care
+Female
+Humans
+Lung/pathology/physiopathology
+Male
+Middle Aged
+Positive-Pressure Respiration/*instrumentation/methods
+Prospective Studies
+Respiratory Function Tests
+Survival Analysis
+Treatment Outcome
+*Ventilators, Mechanical

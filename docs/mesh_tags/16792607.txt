@@ -1,0 +1,14 @@
+Adult
+Anesthesia Recovery Period
+Anesthesia, Epidural/*adverse effects/methods
+Anesthesia, Obstetrical/*adverse effects/methods
+Anesthesia, Spinal/*adverse effects/methods
+Cesarean Section
+Female
+Humans
+Hypotension/etiology
+*Intraoperative Complications
+Needles
+Paresthesia/*etiology
+Postoperative Nausea and Vomiting/etiology
+Pregnancy

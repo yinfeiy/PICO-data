@@ -1,0 +1,22 @@
+Adenocarcinoma/*drug therapy/genetics/mortality/pathology
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cisplatin/administration & dosage
+Deoxycytidine/administration & dosage/analogs & derivatives
+Female
+Follow-Up Studies
+Glutamates/administration & dosage
+Guanine/administration & dosage/analogs & derivatives
+Humans
+Lung Neoplasms/*drug therapy/genetics/mortality/pathology
+Male
+Middle Aged
+Mutation/*genetics
+Neoplasm Staging
+Pemetrexed
+Prognosis
+Quinazolines/*therapeutic use
+Receptor, Epidermal Growth Factor/antagonists & inhibitors/*genetics
+Survival Rate

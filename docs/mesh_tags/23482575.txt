@@ -1,0 +1,18 @@
+Adrenal Medulla/*drug effects/physiology
+Animal Feed/analysis
+Animals
+Catecholamines/blood
+Dietary Carbohydrates/*administration & dosage
+Dietary Proteins/*administration & dosage
+Dose-Response Relationship, Drug
+Female
+Glucocorticoids/metabolism
+Hydrocortisone/blood/*metabolism
+Hypothalamo-Hypophyseal System/*drug effects/physiology
+Male
+Neurotransmitter Agents/metabolism
+Parity
+Pituitary-Adrenal System/*drug effects/physiology
+Pregnancy
+Stress, Physiological
+Sus scrofa/*physiology

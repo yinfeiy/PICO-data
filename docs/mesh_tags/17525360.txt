@@ -1,0 +1,19 @@
+Adult
+Chin/surgery
+Differential Threshold/physiology
+Double-Blind Method
+Exercise Therapy
+Face/*innervation
+Female
+Follow-Up Studies
+Humans
+Hypesthesia/rehabilitation
+Lip/innervation
+Male
+Mandible/surgery
+Maxilla/surgery
+Osteotomy/adverse effects
+Postoperative Complications/rehabilitation
+Sensation Disorders/*rehabilitation
+Sensory Thresholds/*physiology
+Touch/*physiology

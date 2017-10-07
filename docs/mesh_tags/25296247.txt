@@ -1,0 +1,13 @@
+Aged
+Anesthesia Recovery Period
+Antihypertensive Agents/*therapeutic use
+Brain Neoplasms/surgery
+*Craniotomy
+Female
+Humans
+Hypertension/*drug therapy/epidemiology/etiology
+Male
+Middle Aged
+Nicardipine/*therapeutic use
+Postoperative Complications/*drug therapy/epidemiology
+Propanolamines/*therapeutic use

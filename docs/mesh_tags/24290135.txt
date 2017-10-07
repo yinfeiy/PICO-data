@@ -1,0 +1,13 @@
+Elastic Modulus/radiation effects
+Female
+Femur Head/*diagnostic imaging
+*Finite Element Analysis
+Fractures, Bone
+Humans
+Imaging, Three-Dimensional/*methods
+Male
+Middle Aged
+*Models, Biological
+Stress, Mechanical
+Tomography, X-Ray Computed
+Trabecular Meshwork/diagnostic imaging

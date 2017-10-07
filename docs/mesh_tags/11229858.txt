@@ -1,0 +1,10 @@
+Analgesics, Non-Narcotic/*therapeutic use
+Anti-Inflammatory Agents, Non-Steroidal/therapeutic use
+Child
+Child, Preschool
+Dipyrone/therapeutic use
+Fever/*drug therapy
+Humans
+Malaria, Falciparum/parasitology/*physiopathology
+Naproxen/therapeutic use
+Parasitemia/parasitology/*physiopathology

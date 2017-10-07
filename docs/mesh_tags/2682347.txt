@@ -1,0 +1,15 @@
+3,4-Dihydroxyphenylacetic Acid/*blood
+Autistic Disorder/blood/*drug therapy
+Child
+Child, Preschool
+Dopamine/*blood
+Evoked Potentials, Auditory/*drug effects
+Female
+Fenfluramine/*therapeutic use
+Homovanillic Acid/*blood
+Humans
+Male
+Phenylacetates/*blood
+Randomized Controlled Trials as Topic
+Reaction Time/drug effects
+Serotonin/*blood

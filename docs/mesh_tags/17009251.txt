@@ -1,0 +1,15 @@
+Aged
+Arthroplasty, Replacement, Hip/*statistics & numerical data
+Arthroplasty, Replacement, Knee/*statistics & numerical data
+Endpoint Determination
+Estrogen Replacement Therapy/statistics & numerical data
+Estrogens/*therapeutic use
+Female
+Humans
+Middle Aged
+Osteoarthritis, Hip/prevention & control/surgery
+Osteoarthritis, Knee/prevention & control/surgery
+Progestins/*therapeutic use
+Proportional Hazards Models
+Risk Factors
+*Women's Health

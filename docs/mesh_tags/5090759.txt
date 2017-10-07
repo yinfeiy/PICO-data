@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Affective Symptoms/therapy
+Analysis of Variance
+Anxiety Disorders/complications
+Depression/complications
+Eczema/etiology/*therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Motivation
+Personality Assessment
+Psychiatric Status Rating Scales
+*Psychotherapy

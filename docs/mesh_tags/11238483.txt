@@ -1,0 +1,19 @@
+Adult
+Aged
+Animals
+Blood Glucose/*metabolism
+C-Peptide/blood
+Cattle
+Circadian Rhythm
+Diabetes Mellitus, Type 2/*blood
+Dietary Proteins/*administration & dosage
+Drinking
+Fatty Acids, Nonesterified/blood
+Glucagon/blood
+Humans
+Insulin/blood
+Male
+Meat
+Middle Aged
+Triglycerides/blood
+Uric Acid/blood

@@ -1,0 +1,18 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use/toxicity
+Colonic Neoplasms/*drug therapy
+Drug Evaluation
+Female
+Fluorouracil/administration & dosage/toxicity
+Humans
+Hydroxyurea/administration & dosage/toxicity
+Kidney Diseases/chemically induced
+Male
+Middle Aged
+Neutropenia/chemically induced
+Prospective Studies
+Random Allocation
+Rectal Neoplasms/*drug therapy
+Semustine/administration & dosage/toxicity
+Streptozocin/administration & dosage/toxicity
+Vincristine/administration & dosage/toxicity
+Vomiting/chemically induced

@@ -1,0 +1,16 @@
+Adult
+Aged
+Anti-Bacterial Agents/adverse effects/*blood/economics
+Antibiotics, Antineoplastic/adverse effects/*blood/economics
+Cost-Benefit Analysis
+Drug Monitoring/*economics
+Female
+Hematologic Neoplasms/*blood/drug therapy
+Humans
+Kidney Diseases/chemically induced/physiopathology
+Kidney Function Tests
+Logistic Models
+Male
+Middle Aged
+Prospective Studies
+Vancomycin/adverse effects/*blood/economics

@@ -1,0 +1,22 @@
+Adult
+Anesthesia, Dental/adverse effects/*instrumentation
+Anesthetics, Local/*administration & dosage
+Cross-Over Studies
+Double-Blind Method
+Epinephrine/administration & dosage
+Female
+Humans
+Hypesthesia/etiology
+Incisor/innervation
+Injections/adverse effects/instrumentation
+Lidocaine/*administration & dosage
+Male
+Mepivacaine/*administration & dosage
+Middle Aged
+Needles/adverse effects
+Nerve Block/adverse effects/*instrumentation
+Pain/*etiology
+Pain Measurement
+Placebos
+Prospective Studies
+Vasoconstrictor Agents/administration & dosage

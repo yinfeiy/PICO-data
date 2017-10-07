@@ -1,0 +1,14 @@
+Anesthesia, Local/*methods
+Anesthetics, Local/administration & dosage
+Bupivacaine/administration & dosage/*analogs & derivatives
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Male
+Pain Management/*methods
+Pain, Postoperative/diagnosis/*prevention & control
+Palatine Tonsil/drug effects/*surgery
+Tonsillectomy/*adverse effects

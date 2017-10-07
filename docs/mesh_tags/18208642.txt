@@ -1,0 +1,18 @@
+Adult
+Aged
+Anemia/blood/*drug therapy/etiology
+Cross-Over Studies
+Double-Blind Method
+Epoetin Alfa
+Erythropoietin/adverse effects/*analogs & derivatives/*therapeutic use
+Female
+Hematinics/adverse effects/*therapeutic use
+Hematocrit
+Hemoglobins/metabolism
+Humans
+Kidney Failure, Chronic/blood/*complications/therapy
+Male
+Middle Aged
+Recombinant Proteins
+Renal Dialysis/adverse effects
+Therapeutic Equivalency

@@ -1,0 +1,8 @@
+Arthralgia/therapy
+Humans
+Injections
+Low Back Pain/*therapy
+Lumbar Vertebrae/pathology
+*Nerve Block
+*Ultrasonic Therapy
+Zygapophyseal Joint/*pathology

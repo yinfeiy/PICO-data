@@ -1,0 +1,10 @@
+Balneology/*methods
+Hemodynamics/*physiology
+Hot Temperature/*therapeutic use
+Humans
+Microcirculation/physiopathology
+Oxygen/*blood
+Plethysmography
+Skin/*blood supply
+Venous Insufficiency/physiopathology/*rehabilitation
+Venous Pressure/physiology

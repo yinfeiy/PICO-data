@@ -1,0 +1,15 @@
+Adult
+Analgesia/*psychology
+Analgesics/therapeutic use
+Humans
+Lidocaine/therapeutic use
+Magnetic Resonance Imaging
+Male
+Pain/drug therapy/*psychology
+Pain Measurement
+Pain Threshold
+*Placebo Effect
+Placebos/*therapeutic use
+Posterior Horn Cells/physiology
+Spinal Cord/*physiology
+Young Adult

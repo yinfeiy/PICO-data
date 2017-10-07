@@ -1,0 +1,13 @@
+Adult
+Blood Pressure
+Cholinesterase Reactivators/administration & dosage/*therapeutic use
+Female
+Humans
+India
+Infusions, Intravenous
+Injections, Intravenous
+Logistic Models
+Male
+*Organophosphate Poisoning
+Pesticides/*poisoning
+Pralidoxime Compounds/administration & dosage/*therapeutic use

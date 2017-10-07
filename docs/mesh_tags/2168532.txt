@@ -1,0 +1,11 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Small Cell/*drug therapy
+Cyclophosphamide/administration & dosage
+Doxorubicin/administration & dosage
+Drug Administration Schedule
+Humans
+Lomustine/administration & dosage
+Lung Neoplasms/*drug therapy
+Methotrexate/administration & dosage
+Randomized Controlled Trials as Topic
+Vincristine/administration & dosage

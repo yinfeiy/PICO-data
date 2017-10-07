@@ -1,0 +1,23 @@
+Adult
+Amantadine/*administration & dosage
+Antiparkinson Agents/administration & dosage
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Efferent Pathways/drug effects/physiology
+Electromyography
+Evoked Potentials, Motor/*drug effects/physiology
+Excitatory Amino Acid Antagonists/administration & dosage
+Female
+Glutamic Acid/metabolism
+Humans
+Male
+Motor Cortex/*drug effects/physiology
+Muscle, Skeletal/innervation/physiology
+Neural Inhibition/*drug effects/physiology
+Neural Pathways/*drug effects/physiology
+Receptors, N-Methyl-D-Aspartate/antagonists & inhibitors/metabolism
+Synaptic Transmission/drug effects/physiology
+Transcranial Magnetic Stimulation
+gamma-Aminobutyric Acid/metabolism

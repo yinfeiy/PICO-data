@@ -1,0 +1,19 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Amphotericin B/adverse effects/*therapeutic use
+Blast Crisis/drug therapy/microbiology
+Female
+Fluconazole/adverse effects/*therapeutic use
+Humans
+Kidney Diseases/chemically induced
+Leukemia/*drug therapy/*microbiology
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive/drug therapy/microbiology/pathology
+Male
+Middle Aged
+Mycoses/*prevention & control
+Premedication
+Prospective Studies
+Remission Induction

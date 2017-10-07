@@ -1,0 +1,10 @@
+Adult
+Exercise/*physiology/psychology
+Heart Rate/physiology
+Humans
+Lactic Acid/*blood/metabolism
+Male
+Motivation/*physiology
+*Music/psychology
+Oxygen Consumption/physiology
+Physical Exertion/physiology

@@ -1,0 +1,10 @@
+Antibodies, Monoclonal/*adverse effects/therapeutic use
+Antigens, CD/*immunology
+Budesonide/*therapeutic use
+CTLA-4 Antigen
+Colitis/chemically induced/immunology
+Diarrhea/chemically induced/immunology
+Humans
+Immunity, Mucosal/drug effects
+Melanoma/*drug therapy/*immunology/pathology
+Skin Neoplasms/*drug therapy/*immunology/pathology

@@ -1,0 +1,17 @@
+Anticonvulsants/administration & dosage/adverse effects
+Child
+Child, Preschool
+Diazepam/*administration & dosage/adverse effects
+Female
+Humans
+Hypotension/chemically induced
+Infant
+Infusions, Intravenous
+Male
+Respiration, Artificial/statistics & numerical data
+Respiratory Insufficiency/chemically induced/therapy
+Status Epilepticus/*drug therapy
+Time Factors
+Treatment Outcome
+Valproic Acid/*administration & dosage/adverse effects
+Vasoconstrictor Agents/therapeutic use

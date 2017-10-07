@@ -1,0 +1,20 @@
+Aged
+Aged, 80 and over
+Aging/physiology
+Angiotensin II Type 1 Receptor Blockers/pharmacology/therapeutic use
+Angiotensin-Converting Enzyme Inhibitors/pharmacology/therapeutic use
+Antihypertensive Agents/pharmacology/*therapeutic use
+Blood Pressure/drug effects/*physiology
+Dihydropyridines/pharmacology/*therapeutic use
+Diuretics/pharmacology/therapeutic use
+Dose-Response Relationship, Drug
+Endpoint Determination
+Female
+Humans
+Hypertension/*drug therapy/*physiopathology
+Japan
+Male
+Nitrophenols/pharmacology/*therapeutic use
+Organophosphorus Compounds/pharmacology/therapeutic use
+Single-Blind Method
+Systole/*physiology

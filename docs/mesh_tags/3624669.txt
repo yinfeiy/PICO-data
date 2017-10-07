@@ -1,0 +1,17 @@
+Adult
+Aged
+Anti-Arrhythmia Agents/*therapeutic use
+Disopyramide/adverse effects/antagonists & inhibitors/blood/*therapeutic use
+Drug Interactions
+Electrocardiography
+Electrophysiology
+Exercise Test
+Humans
+Male
+Middle Aged
+Monitoring, Physiologic
+Parasympatholytics/*antagonists & inhibitors
+Pyridostigmine Bromide/adverse effects/blood/*therapeutic use
+Saliva/metabolism
+Surveys and Questionnaires
+Tears/metabolism

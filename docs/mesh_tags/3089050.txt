@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Anal Canal/*surgery
+*Anesthesia, Caudal
+*Anesthesia, Epidural
+*Bupivacaine/pharmacology
+Carbon Dioxide/physiology
+Female
+*Heroin/pharmacology
+Humans
+Injections, Intramuscular
+Male
+Middle Aged
+Opium/administration & dosage
+Pain, Postoperative/*therapy
+Respiration/drug effects

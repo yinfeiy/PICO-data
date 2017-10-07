@@ -1,0 +1,17 @@
+Adult
+Amlodipine/*therapeutic use
+Antihypertensive Agents/*therapeutic use
+Blood Proteins
+Calcium/metabolism
+Carrier Proteins/*blood
+Female
+Fibronectins/*blood
+Humans
+Hypertension/blood/*drug therapy
+Male
+Middle Aged
+Obesity/blood
+Peptides/*blood
+Perilipin-1
+Phosphoproteins/*blood
+Valsartan/*therapeutic use

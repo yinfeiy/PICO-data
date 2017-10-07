@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/adverse effects/*therapeutic use
+Bone Neoplasms/*drug therapy/pathology
+Child
+Child, Preschool
+Combined Modality Therapy
+Dactinomycin/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Etoposide/*administration & dosage
+Female
+Follow-Up Studies
+Hematologic Diseases/chemically induced
+Humans
+Ifosfamide/*administration & dosage
+Infant
+Lung Neoplasms/secondary
+Male
+Neoplasm Staging
+Prospective Studies
+Sarcoma, Ewing/*drug therapy/pathology/secondary
+Vincristine/administration & dosage

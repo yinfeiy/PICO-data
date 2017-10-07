@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Anti-Bacterial Agents/therapeutic use
+Anti-Infective Agents/therapeutic use
+Antibiotics, Antitubercular/therapeutic use
+Brucellosis/diagnosis/*drug therapy
+Chi-Square Distribution
+Ciprofloxacin/*therapeutic use
+Doxycycline/*therapeutic use
+Drug Administration Schedule
+Drug Therapy, Combination/*therapeutic use
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Rifampin/*therapeutic use
+Treatment Outcome

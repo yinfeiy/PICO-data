@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Aminoacridines/adverse effects/*therapeutic use
+Amsacrine
+Antibiotics, Antineoplastic/therapeutic use
+Bone Marrow/pathology
+Clinical Trials as Topic
+Cytarabine/*administration & dosage/adverse effects
+Drug Resistance
+Female
+Humans
+Leukemia, Myeloid, Acute/*drug therapy/pathology
+Male
+Middle Aged
+Naphthacenes/therapeutic use
+Random Allocation

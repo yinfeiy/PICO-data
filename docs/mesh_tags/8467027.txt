@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aerosols
+Aged
+Aged, 80 and over
+Bacterial Infections/*prevention & control
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Intubation, Intratracheal
+Male
+Middle Aged
+Pneumonia/*prevention & control
+Prospective Studies
+*Respiration, Artificial
+Tobramycin/*administration & dosage

@@ -1,0 +1,7 @@
+Adult
+Breast Neoplasms/diagnosis/*mortality
+Female
+Humans
+Middle Aged
+Risk
+Time Factors

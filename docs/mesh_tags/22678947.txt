@@ -1,0 +1,10 @@
+Activities of Daily Living
+Aged
+Amnesia/*rehabilitation
+Cognition/physiology
+Cognitive Dysfunction/physiopathology/*rehabilitation
+Female
+Humans
+Male
+*Mental Recall
+Self Efficacy

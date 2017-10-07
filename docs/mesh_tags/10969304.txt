@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Anesthetics, Intravenous/*pharmacology
+Brain/drug effects/physiology
+Cholinesterase Inhibitors/*pharmacology
+Consciousness/*drug effects
+Double-Blind Method
+Electroencephalography/*drug effects
+Electrooculography
+Humans
+Male
+Physostigmine/*pharmacology
+Propofol/blood/*pharmacology

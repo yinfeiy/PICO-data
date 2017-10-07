@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/*administration & dosage/adverse effects
+Bacterial Infections/*drug therapy/microbiology
+Drug Administration Schedule
+Female
+Hospitalization/*statistics & numerical data
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Prospective Studies
+Statistics, Nonparametric
+Vancomycin/*administration & dosage/adverse effects

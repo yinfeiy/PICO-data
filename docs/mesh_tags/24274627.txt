@@ -1,0 +1,13 @@
+Adult
+*Cooperative Behavior
+Depression/psychology/*therapy
+Depressive Disorder, Major/psychology/*therapy
+Female
+Humans
+Male
+Middle Aged
+*Professional-Patient Relations
+Psychotherapy/*methods
+Reproducibility of Results
+Severity of Illness Index
+Treatment Outcome

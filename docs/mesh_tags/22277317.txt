@@ -1,0 +1,21 @@
+Aged
+Angioplasty, Balloon, Coronary/adverse effects/*instrumentation/mortality
+Cardiovascular Agents/*administration & dosage
+Chronic Disease
+Coronary Angiography
+Coronary Occlusion/diagnosis/mortality/*therapy
+Coronary Restenosis/diagnosis/etiology
+*Drug-Eluting Stents
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction/etiology
+Prospective Studies
+Prosthesis Design
+Republic of Korea
+Sirolimus/administration & dosage/*analogs & derivatives
+Thrombosis/diagnosis/etiology
+Time Factors
+Treatment Outcome
+Ultrasonography, Interventional

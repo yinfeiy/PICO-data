@@ -1,0 +1,15 @@
+Adolescent
+Adult
+*Appendectomy
+Clinical Trials as Topic
+*Electric Stimulation Therapy
+Female
+Humans
+Male
+Mefenamic Acid/therapeutic use
+Middle Aged
+Opium/therapeutic use
+Pain, Postoperative/drug therapy/*therapy
+Placebos
+Random Allocation
+*Transcutaneous Electric Nerve Stimulation

@@ -1,0 +1,21 @@
+Adult
+Alkaline Phosphatase/blood/drug effects
+Amenorrhea/chemically induced
+Amino Acids/drug effects/urine
+Biomarkers/*blood/*urine
+Bone Density/*drug effects
+Calcium/urine
+Cohort Studies
+Collagen/drug effects/urine
+Double-Blind Method
+Endometriosis/drug therapy
+Female
+Gonadotropin-Releasing Hormone/adverse effects/agonists/therapeutic use
+Humans
+Hydroxyproline/drug effects/urine
+Luteolytic Agents/adverse effects/*therapeutic use
+Menstruation/drug effects
+Osteocalcin/blood/drug effects
+Parathyroid Hormone/blood
+Time Factors
+Triptorelin Pamoate/adverse effects/*therapeutic use

@@ -1,0 +1,12 @@
+Adult
+Aged
+Arthritis, Rheumatoid/*drug therapy
+Double-Blind Method
+Female
+Humans
+Male
+Metronidazole/adverse effects/*therapeutic use
+Middle Aged
+Nausea/chemically induced
+Nervous System Diseases/chemically induced
+Skin Diseases/chemically induced

@@ -1,0 +1,12 @@
+Adult
+Age Factors
+Erythrocytes/analysis
+Female
+Folic Acid/analysis/blood
+Folic Acid Deficiency/blood/*prevention & control
+Humans
+Iron/blood
+Parity
+Pregnancy
+Pregnancy Complications, Hematologic
+Time Factors

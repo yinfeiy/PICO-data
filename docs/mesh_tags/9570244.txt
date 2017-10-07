@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Amoxicillin/*administration & dosage/adverse effects
+Drug Therapy, Combination
+Duodenal Ulcer/drug therapy
+Female
+Helicobacter Infections/*drug therapy
+Helicobacter pylori
+Humans
+Male
+Metronidazole/*administration & dosage/adverse effects
+Middle Aged
+Omeprazole/*administration & dosage/adverse effects
+Prospective Studies
+Stomach Ulcer/drug therapy
+Treatment Outcome

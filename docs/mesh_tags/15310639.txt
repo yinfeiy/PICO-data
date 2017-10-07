@@ -1,0 +1,20 @@
+Analysis of Variance
+Anesthesia, Caudal/adverse effects/*methods
+Anesthetics, Local/adverse effects/*therapeutic use
+Bupivacaine/adverse effects/*therapeutic use
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Combinations
+Hemodynamics/drug effects
+Humans
+Hypospadias/surgery
+Male
+Neostigmine/adverse effects/*therapeutic use
+Pain Measurement/methods
+Pain, Postoperative/prevention & control
+Parasympathomimetics/adverse effects/*therapeutic use
+Prospective Studies
+Time Factors
+Treatment Outcome

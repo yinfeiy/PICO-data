@@ -1,0 +1,18 @@
+Adult
+*Brachytherapy/adverse effects
+Clinical Trials as Topic
+Fast Neutrons/adverse effects/*therapeutic use
+Female
+Humans
+Middle Aged
+Neoplasm Staging
+Neutrons/*therapeutic use
+Particle Accelerators
+Posture
+Radiotherapy Dosage
+Radium/adverse effects/therapeutic use
+Random Allocation
+Relative Biological Effectiveness
+Time Factors
+Uterine Cervical Neoplasms/mortality/*radiotherapy
+X-Rays

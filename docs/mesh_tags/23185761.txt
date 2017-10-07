@@ -1,0 +1,12 @@
+Adult
+Cervix Uteri/virology
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Humans
+Papillomaviridae
+Papillomavirus Infections/*drug therapy/virology
+*Phytotherapy
+RNA, Messenger/genetics
+Single-Blind Method
+Telomerase/metabolism
+Treatment Outcome

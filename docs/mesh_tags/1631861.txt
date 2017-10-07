@@ -1,0 +1,13 @@
+Adenosine Triphosphate/analysis
+Aged
+Aortic Valve Stenosis/*surgery
+Cardioplegic Solutions/*chemistry
+Creatine Kinase/analysis
+Female
+Heart Ventricles/chemistry
+Hemodynamics/*drug effects
+Humans
+Isoenzymes
+Male
+Middle Aged
+Phosphocreatine/analysis/*pharmacology

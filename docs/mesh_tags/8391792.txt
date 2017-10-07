@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Female
+Heparin/administration & dosage/*therapeutic use
+Heparin, Low-Molecular-Weight/administration & dosage/*therapeutic use
+Humans
+Infusions, Intravenous
+Injections, Subcutaneous
+Male
+Middle Aged
+Recurrence
+Thrombophlebitis/*drug therapy
+Treatment Outcome

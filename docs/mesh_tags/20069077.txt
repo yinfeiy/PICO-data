@@ -1,0 +1,29 @@
+Adult
+Aged
+Aged, 80 and over
+Anti-Inflammatory Agents/*administration & dosage/adverse effects
+Aspirin/*administration & dosage/adverse effects
+Atherosclerosis/immunology/*prevention & control
+Biomarkers/blood
+C-Reactive Protein/metabolism
+CD40 Ligand/blood
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Inflammation Mediators/*blood
+Least-Squares Analysis
+Male
+Metabolic Syndrome X/*drug therapy/immunology
+Middle Aged
+Natriuretic Peptide, Brain/blood
+P-Selectin/blood
+Peptide Fragments/blood
+Pilot Projects
+Platelet Aggregation Inhibitors/*administration & dosage/adverse effects
+Thrombosis/immunology/*prevention & control
+Ticlopidine/administration & dosage/adverse effects/*analogs & derivatives
+Time Factors
+Treatment Outcome
+United States
+Young Adult

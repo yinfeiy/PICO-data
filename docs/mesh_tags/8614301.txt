@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Animals
+*Blood Coagulation
+Dietary Fats, Unsaturated/administration & dosage/*pharmacology
+Factor VII/metabolism
+Fatty Acids/analysis/blood
+Female
+Fibrinogen/metabolism
+Fish Oils/administration & dosage/*pharmacology
+Humans
+Lipids/blood
+Lipopolysaccharides/pharmacology
+Male
+Middle Aged
+Peptide Fragments/metabolism
+Prothrombin/metabolism
+Seals, Earless
+Thromboplastin/metabolism
+Thromboxane B2/*blood
+Tumor Necrosis Factor-alpha/*metabolism
+Whales

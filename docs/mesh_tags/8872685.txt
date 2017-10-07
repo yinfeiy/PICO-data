@@ -1,0 +1,18 @@
+Aged
+*Anesthesia, General
+*Anesthetics, General
+Blood Pressure/drug effects/physiology
+Cardiac Output/drug effects/physiology
+*Enflurane
+Female
+Hemodynamics/drug effects
+Hemoglobins/metabolism
+Humans
+*Isoflurane
+Lactic Acid/blood/metabolism
+Liver/drug effects/metabolism
+Male
+Middle Aged
+Oxygen/*blood
+Prospective Studies
+Splanchnic Circulation/*drug effects

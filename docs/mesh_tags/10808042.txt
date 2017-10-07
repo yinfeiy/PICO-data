@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Autistic Disorder/blood/*diagnosis
+Female
+Human Growth Hormone/*blood
+Humans
+Male
+Middle Aged
+Receptor, Serotonin, 5-HT1D
+Receptors, Serotonin/drug effects
+Reference Values
+*Serotonin Receptor Agonists
+*Sumatriptan

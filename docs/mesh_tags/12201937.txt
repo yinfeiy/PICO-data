@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Child
+Diuresis
+Diuretics/*administration & dosage
+Female
+Furosemide/*administration & dosage
+Humans
+*Lithotripsy
+Male
+Middle Aged
+Ureteral Calculi/*therapy

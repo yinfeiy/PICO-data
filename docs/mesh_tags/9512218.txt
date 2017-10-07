@@ -1,0 +1,10 @@
+Chromans/therapeutic use
+Diazoxide/therapeutic use
+Female
+Humans
+Hyperinsulinism/complications/*drug therapy
+Hypoglycemic Agents/*therapeutic use
+Metformin/therapeutic use
+Polycystic Ovary Syndrome/*etiology
+Thiazoles/therapeutic use
+*Thiazolidinediones

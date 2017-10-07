@@ -1,0 +1,20 @@
+Adult
+Analysis of Variance
+Blood Glucose/metabolism
+Dietary Carbohydrates/administration & dosage/metabolism/*pharmacology
+Dietary Proteins/administration & dosage/*pharmacology
+*Dietary Supplements
+Double-Blind Method
+Energy Metabolism/physiology
+Exercise/*physiology
+Fatigue/metabolism
+Heart Rate/physiology
+Humans
+Insulin/blood
+Lactic Acid/blood
+Lipid Metabolism
+Male
+Oxygen/metabolism
+Physical Endurance/drug effects/*physiology
+Respiration/drug effects
+Time Factors

@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Blast Crisis/*metabolism/*mortality
+Cell Line, Tumor
+Cohort Studies
+Disease-Free Survival
+Gene Expression Profiling
+*Gene Expression Regulation, Leukemic
+Humans
+Leukemia, Myeloid, Acute/*metabolism/*mortality
+Male
+Middle Aged
+Osteopontin/*biosynthesis
+Survival Rate

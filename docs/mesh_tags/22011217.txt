@@ -1,0 +1,9 @@
+Acne Vulgaris/complications/*drug therapy
+Adolescent
+Adult
+Contraceptives, Oral, Combined/*therapeutic use
+Estrogens/administration & dosage/*therapeutic use
+Female
+Humans
+Polycystic Ovary Syndrome/complications/*drug therapy
+Progestins/administration & dosage/*therapeutic use

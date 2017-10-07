@@ -1,0 +1,18 @@
+*Arm/physiopathology
+Brain Ischemia/physiopathology/rehabilitation
+Exercise Therapy/*instrumentation/*methods
+Female
+Humans
+Intracranial Hemorrhages/physiopathology/rehabilitation
+Male
+Middle Aged
+Motivation
+Pain/physiopathology
+Pain Measurement
+Recovery of Function
+Single-Blind Method
+Stroke/physiopathology
+*Stroke Rehabilitation
+Therapy, Computer-Assisted/instrumentation/methods
+Treatment Outcome
+Video Games

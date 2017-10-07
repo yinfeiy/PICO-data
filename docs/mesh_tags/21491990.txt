@@ -1,0 +1,19 @@
+Acute-Phase Proteins
+Anti-Infective Agents, Local/*therapeutic use
+Antibiotic Prophylaxis/*methods
+C-Reactive Protein/analysis
+Carrier Proteins/blood
+Chlorhexidine/*therapeutic use
+Chronic Periodontitis/blood/complications/*drug therapy/microbiology
+Combined Modality Therapy
+Delayed-Action Preparations
+Dental Plaque/drug therapy/microbiology/prevention & control
+Dental Scaling
+Double-Blind Method
+Humans
+Longitudinal Studies
+Membrane Glycoproteins/blood
+Periodontal Attachment Loss/complications/*drug therapy
+Periodontal Index
+Periodontal Pocket/blood/complications/*drug therapy/microbiology
+Treatment Outcome

@@ -1,0 +1,14 @@
+Adult
+*African Continental Ancestry Group
+Aged
+Argon
+Female
+Follow-Up Studies
+Glaucoma, Open-Angle/ethnology/physiopathology/*surgery
+Humans
+Intraocular Pressure
+*Laser Therapy
+Male
+Middle Aged
+Reference Values
+*Trabeculectomy

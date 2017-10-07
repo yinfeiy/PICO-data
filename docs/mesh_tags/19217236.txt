@@ -1,0 +1,17 @@
+Adult
+Airway Management/*instrumentation/*methods
+Attitude of Health Personnel
+Female
+Heart Arrest/*therapy
+Humans
+Life Support Care/instrumentation/methods
+Male
+Manikins
+Middle Aged
+Practice Guidelines as Topic
+Prospective Studies
+Respiration, Artificial/methods
+Suction/education/instrumentation/methods
+Surveys and Questionnaires
+Time Factors
+Young Adult

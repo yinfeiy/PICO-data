@@ -1,0 +1,13 @@
+Analgesics, Opioid/administration & dosage/pharmacokinetics/*pharmacology
+Animals
+Cross-Over Studies
+Dogs/blood
+Female
+Half-Life
+Hydrocortisone/blood
+Hypodermoclysis/veterinary
+Injections, Intravenous/veterinary
+Male
+Metabolic Clearance Rate
+Methadone/administration & dosage/pharmacokinetics/*pharmacology
+Vasopressins/blood

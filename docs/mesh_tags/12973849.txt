@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage
+Brain Neoplasms/radiotherapy/*therapy
+Child
+Child, Preschool
+Combined Modality Therapy
+Female
+Follow-Up Studies
+Glioma/drug therapy/pathology/radiotherapy/*therapy
+Humans
+Infant
+Infant, Newborn
+Lomustine/administration & dosage
+Male
+Prednisolone/administration & dosage
+Prognosis
+Treatment Outcome
+Vincristine/administration & dosage

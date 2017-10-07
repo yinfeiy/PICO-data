@@ -1,0 +1,14 @@
+Adolescent
+Autistic Disorder/*drug therapy/psychology
+Child
+Child Behavior Disorders/drug therapy/psychology
+Child, Preschool
+Cognition/*drug effects/physiology
+Cognition Disorders/chemically induced/psychology
+Double-Blind Method
+Female
+Humans
+Irritable Mood/*drug effects/physiology
+Male
+Psychomotor Performance/drug effects/physiology
+Risperidone/adverse effects/pharmacology/*therapeutic use

@@ -1,0 +1,16 @@
+Antiviral Agents/*therapeutic use
+Biopsy
+Drug Therapy, Combination
+Female
+Hepatitis C, Chronic/*drug therapy/pathology
+Humans
+Interferon-alpha/*therapeutic use
+Liver/pathology
+Liver Cirrhosis/drug therapy
+Male
+Middle Aged
+Polyethylene Glycols/*therapeutic use
+Recombinant Proteins
+Ribavirin/adverse effects/*therapeutic use
+Treatment Failure
+Treatment Outcome

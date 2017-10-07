@@ -1,0 +1,16 @@
+Abdomen/*surgery
+Adult
+Aged
+Aged, 80 and over
+Anticoagulants/adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Humans
+*Intermittent Pneumatic Compression Devices
+Male
+Middle Aged
+Placebos
+Polysaccharides/adverse effects/*therapeutic use
+Surgical Procedures, Operative/*adverse effects
+Thromboembolism/*prevention & control
+Treatment Outcome

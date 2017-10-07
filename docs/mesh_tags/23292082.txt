@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Biomarkers, Tumor/*genetics
+Breast Neoplasms/epidemiology/*etiology/mortality
+Case-Control Studies
+Colorectal Neoplasms/epidemiology/*etiology/mortality
+DNA/genetics
+Female
+Finland/epidemiology
+Follow-Up Studies
+Genotype
+Homeodomain Proteins/*genetics
+Humans
+Male
+Middle Aged
+Mutation/*genetics
+Neoplasm Grading
+Polymorphism, Genetic/*genetics
+Prognosis
+Prospective Studies
+Prostatic Neoplasms/epidemiology/*etiology/mortality
+Risk Factors
+Survival Rate
+Young Adult

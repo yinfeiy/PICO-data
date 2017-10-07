@@ -1,0 +1,13 @@
+*Acupuncture Therapy
+Adenocarcinoma/immunology/therapy
+Adult
+Aged
+CD4-CD8 Ratio
+Carcinoma, Squamous Cell/immunology/therapy
+Esophageal Neoplasms/*immunology/therapy
+Female
+Humans
+Lung Neoplasms/*immunology/therapy
+Male
+Middle Aged
+T-Lymphocyte Subsets/*immunology

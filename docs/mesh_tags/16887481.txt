@@ -1,0 +1,11 @@
+Adult
+Aged
+*Cardia
+Digestive System Surgical Procedures/methods
+Disease-Free Survival
+Esophageal Neoplasms/mortality/*surgery
+Female
+Humans
+Male
+Middle Aged
+Stomach Neoplasms/mortality/*surgery

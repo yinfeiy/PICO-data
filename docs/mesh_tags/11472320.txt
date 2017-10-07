@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Amoxicillin/*therapeutic use
+Anti-Bacterial Agents/*therapeutic use
+Anti-Ulcer Agents/therapeutic use
+Clarithromycin/*therapeutic use
+Drug Therapy, Combination
+Dyspepsia/*drug therapy/microbiology
+Gastritis/drug therapy/microbiology
+Helicobacter Infections/complications/*drug therapy
+*Helicobacter pylori/cytology/isolation & purification
+Humans
+Middle Aged
+Pain Measurement
+Penicillins/*therapeutic use
+Quality of Life
+Ranitidine/therapeutic use
+Treatment Outcome

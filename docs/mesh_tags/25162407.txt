@@ -1,0 +1,11 @@
+Adult
+Aged
+Braces
+Female
+Humans
+Male
+Middle Aged
+Osteoarthritis, Knee/*therapy
+Prospective Studies
+*Transcutaneous Electric Nerve Stimulation
+Treatment Outcome

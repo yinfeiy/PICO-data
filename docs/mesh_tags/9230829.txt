@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Cause of Death
+Choroid Neoplasms/*mortality/pathology
+Female
+Follow-Up Studies
+Humans
+Male
+Melanoma/*mortality/pathology
+Middle Aged
+Multivariate Analysis
+Prospective Studies
+Risk Factors
+Survival Rate

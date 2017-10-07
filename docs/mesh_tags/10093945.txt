@@ -1,0 +1,13 @@
+Adolescent
+Anti-Infective Agents/*therapeutic use
+Cefixime
+Cefotaxime/*analogs & derivatives/therapeutic use
+Cephalosporins/*therapeutic use
+Child
+Child, Preschool
+Drug Resistance, Multiple
+Female
+Humans
+Male
+Ofloxacin/*therapeutic use
+Typhoid Fever/*drug therapy

@@ -1,0 +1,17 @@
+Animals
+Cattle
+Composite Resins/chemistry
+*Dental Bonding
+Dental Disinfectants/*pharmacology
+Dental Enamel/*drug effects/ultrastructure
+Dental Stress Analysis/instrumentation
+Dentin/*drug effects/ultrastructure
+Dentin-Bonding Agents/*chemistry
+Humans
+Materials Testing
+Ozone/*pharmacology
+Shear Strength
+Stress, Mechanical
+Surface Properties
+Tensile Strength
+Time Factors

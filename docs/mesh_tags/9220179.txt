@@ -1,0 +1,17 @@
+Acute Disease
+Acute Kidney Injury/complications/*drug therapy
+Aged
+Aged, 80 and over
+Bumetanide/*administration & dosage
+Diuretics/*administration & dosage
+Dopamine/*administration & dosage
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Heart Failure/*complications
+Humans
+Injections, Intravenous
+Kidney Function Tests
+Male
+Middle Aged
+Treatment Outcome

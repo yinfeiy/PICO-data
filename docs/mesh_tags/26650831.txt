@@ -1,0 +1,13 @@
+Breast Neoplasms/*diagnosis/diagnostic imaging/*drug therapy/pathology
+Chemotherapy, Adjuvant
+Female
+Humans
+*Magnetic Resonance Imaging
+*Neoadjuvant Therapy
+Netherlands
+Predictive Value of Tests
+Prospective Studies
+Reproducibility of Results
+Treatment Outcome
+Tumor Burden/*drug effects
+*Ultrasonography, Mammary

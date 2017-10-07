@@ -1,0 +1,27 @@
+Administration, Oral
+Aged
+Anticoagulants/*therapeutic use
+Aspirin/therapeutic use
+Blood Vessel Prosthesis
+Boston/epidemiology
+Combined Modality Therapy
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Extremities/*blood supply/*surgery
+Femoral Artery/surgery
+Follow-Up Studies
+Hemorrhage/chemically induced/mortality
+Humans
+International Normalized Ratio
+Maryland/epidemiology
+Middle Aged
+Morbidity
+Peripheral Vascular Diseases/complications/*mortality/*therapy
+Popliteal Artery/surgery
+Postoperative Complications/etiology/mortality
+Prospective Studies
+Time
+Treatment Outcome
+Vascular Patency/drug effects/physiology
+Vascular Surgical Procedures/instrumentation/*mortality
+Warfarin/therapeutic use

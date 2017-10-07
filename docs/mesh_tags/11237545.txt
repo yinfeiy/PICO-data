@@ -1,0 +1,12 @@
+Adult
+Aged
+Female
+Humans
+*Isoproterenol
+Male
+Middle Aged
+*Nitroglycerin
+Sensitivity and Specificity
+*Sympathomimetics
+Syncope, Vasovagal/*diagnosis
+*Tilt-Table Test

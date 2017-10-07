@@ -1,0 +1,26 @@
+Adhesiveness
+Adult
+Aged
+Biocompatible Materials/chemistry
+Color
+Dental Materials/*chemistry
+Dental Plaque/pathology
+*Denture Liners/microbiology
+Denture, Complete
+Dimethylpolysiloxanes/chemistry
+Elasticity
+Female
+Follow-Up Studies
+Fungi/growth & development
+Humans
+Male
+Methacrylates/chemistry
+Middle Aged
+Mouth Mucosa/pathology
+Oral Hygiene
+Patient Satisfaction
+Phthalic Acids/chemistry
+Prospective Studies
+Silicone Elastomers/chemistry
+Siloxanes/*chemistry
+Surface Properties

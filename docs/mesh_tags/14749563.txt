@@ -1,0 +1,14 @@
+Acute-Phase Proteins/*biosynthesis/metabolism
+Adolescent
+Anabolic Agents/*therapeutic use
+Burn Units
+Burns/blood/classification/*metabolism
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Liver/*drug effects/enzymology/metabolism
+Male
+Oxandrolone/*therapeutic use
+Transaminases/metabolism

@@ -1,0 +1,19 @@
+Adult
+Aged
+Biomarkers/metabolism
+Bone Marrow/*physiology
+*Bone Marrow Transplantation
+Cell- and Tissue-Based Therapy/methods
+Coronary Sinus
+Female
+Heart Failure/metabolism/pathology/*therapy
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Myocardial Ischemia/metabolism/pathology/*therapy
+Natriuretic Peptide, Brain/metabolism
+Prospective Studies
+Stroke Volume/physiology
+Transplantation, Autologous
+Ventricular Function, Left

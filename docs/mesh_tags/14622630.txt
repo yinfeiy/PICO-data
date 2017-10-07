@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Directly Observed Therapy/standards
+Double-Blind Method
+Drug Monitoring/*methods/standards
+Drug Therapy, Computer-Assisted/*methods/standards
+Female
+Humans
+Hypertension/*drug therapy/metabolism
+Male
+Middle Aged
+Patient Compliance/*statistics & numerical data
+Potassium/administration & dosage/urine
+*Randomized Controlled Trials as Topic
+Statistics, Nonparametric
+Surveys and Questionnaires/*standards

@@ -1,0 +1,18 @@
+Adolescent
+Child
+Child Behavior Disorders/diagnosis/drug therapy
+Child Development Disorders, Pervasive/diagnosis/drug therapy
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Fragile X Syndrome/diagnosis/*drug therapy
+Humans
+Indans/*adverse effects/*therapeutic use
+Intelligence/drug effects
+Male
+Nootropic Agents/*adverse effects/*therapeutic use
+Personality Assessment
+Pilot Projects
+Piperidines/*adverse effects/*therapeutic use
+Stanford-Binet Test
+Treatment Outcome

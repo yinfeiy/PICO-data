@@ -1,0 +1,13 @@
+Adult
+Aged
+Arrhythmias, Cardiac/etiology/prevention & control
+Drug Therapy, Combination
+Humans
+Male
+Middle Aged
+Myocardial Infarction/complications/*drug therapy/physiopathology
+Phosphocreatine/*therapeutic use
+Streptokinase/*therapeutic use
+Systole
+*Thrombolytic Therapy
+Ventricular Dysfunction, Left/etiology/prevention & control

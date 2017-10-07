@@ -1,0 +1,11 @@
+Adult
+*Cellulose, Oxidized
+Endometriosis/*surgery
+Female
+Humans
+Infertility, Female/*surgery
+Laparotomy
+Pelvic Neoplasms/*surgery
+Postoperative Complications/*prevention & control
+Recurrence
+Tissue Adhesions/*prevention & control

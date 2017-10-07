@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/*therapeutic use
+Bacteria/drug effects/isolation & purification
+Female
+Humans
+Imipenem/*therapeutic use
+Male
+Middle Aged
+Pancreatitis, Acute Necrotizing/*complications
+Prospective Studies
+Sepsis/complications/microbiology/*prevention & control
+Thienamycins/*therapeutic use
+Time Factors
+Treatment Outcome

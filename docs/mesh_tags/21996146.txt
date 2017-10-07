@@ -1,0 +1,19 @@
+Aged
+Coronary Artery Disease/blood/drug therapy/*surgery
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Hemorrhage/blood/*epidemiology/etiology
+Humans
+Incidence
+Italy/epidemiology
+Male
+*Patient Compliance
+Piperazines/administration & dosage/*therapeutic use
+Platelet Activation/*drug effects
+Prasugrel Hydrochloride
+Purinergic P2Y Receptor Antagonists/administration & dosage/therapeutic use
+Retrospective Studies
+*Stents
+Thiophenes/administration & dosage/*therapeutic use
+Treatment Outcome

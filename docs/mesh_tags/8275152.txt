@@ -1,0 +1,8 @@
+Female
+Hand
+Health Personnel
+Humans
+Male
+Pressure
+Respiration, Artificial/*methods
+*Tidal Volume

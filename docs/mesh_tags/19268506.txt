@@ -1,0 +1,22 @@
+Adult
+Aged
+Biomarkers/blood
+Blood Coagulation Factors/*metabolism
+Cardiovascular Diseases/*prevention & control
+Double-Blind Method
+Drug Therapy, Combination
+Dydrogesterone/*therapeutic use
+Estradiol/*therapeutic use
+Estrogen Replacement Therapy
+Estrogens/*therapeutic use
+Female
+Fibrinolysis/drug effects
+Humans
+Lipids/*blood
+Middle Aged
+Postmenopause
+Progestins/*therapeutic use
+Promegestone/*analogs & derivatives/therapeutic use
+Risk Factors
+Thromboembolism/etiology
+Uterine Hemorrhage/chemically induced

@@ -1,0 +1,21 @@
+Adult
+Aged
+Cardiopulmonary Resuscitation/*methods/mortality
+Cohort Studies
+Confidence Intervals
+Emergency Medical Service Communication Systems/*organization & administration
+Emergency Medical Services
+Female
+Follow-Up Studies
+Humans
+Logistic Models
+Male
+Middle Aged
+Odds Ratio
+Out-of-Hospital Cardiac Arrest/*mortality/*therapy
+*Qualitative Research
+*Residence Characteristics
+Risk Assessment
+Survival Analysis
+Treatment Outcome
+Washington

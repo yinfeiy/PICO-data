@@ -1,0 +1,11 @@
+Animals
+Drug Administration Schedule
+Estrus Synchronization/*methods
+Female
+Fertility/*drug effects
+Fertility Agents/administration & dosage/*pharmacology
+Male
+Parturition/*drug effects
+Progesterone/administration & dosage/*pharmacology
+*Sheep
+Time Factors

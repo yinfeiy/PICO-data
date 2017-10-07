@@ -1,0 +1,10 @@
+Aged
+Breast/*drug effects/*pathology
+Breast Neoplasms/diagnosis/*pathology
+Estrogen Replacement Therapy/*adverse effects/methods
+Estrogens, Conjugated (USP)/*pharmacology
+Female
+Humans
+Mammography/methods
+Middle Aged
+Risk Factors

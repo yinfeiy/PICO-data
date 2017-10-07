@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Cornea/physiopathology
+*Electrocoagulation
+Female
+Humans
+Hypesthesia/physiopathology/therapy
+Male
+Masticatory Muscles/physiopathology
+Middle Aged
+Muscle Weakness/etiology/physiopathology/therapy
+Postoperative Complications/*etiology/*therapy
+*Pulsed Radiofrequency Treatment
+Punctures
+Reflex
+Time Factors
+Trigeminal Neuralgia/physiopathology/*surgery

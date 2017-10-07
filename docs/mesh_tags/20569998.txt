@@ -1,0 +1,17 @@
+Aged
+Amlodipine/*therapeutic use
+Antihypertensive Agents/*therapeutic use
+Antineoplastic Agents/therapeutic use
+Blood Urea Nitrogen
+Creatinine/blood
+Female
+Geriatric Assessment
+Glomerular Filtration Rate/drug effects
+Humans
+Hypertension/complications/*drug therapy
+Hyperuricemia/chemically induced/drug therapy
+Losartan/*therapeutic use
+Male
+Neoplasms/*complications/drug therapy
+Treatment Outcome
+Uric Acid/blood/urine

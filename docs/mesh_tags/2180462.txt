@@ -1,0 +1,16 @@
+Abdomen/*surgery
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Cefamandole/*therapeutic use
+Cefotaxime/*therapeutic use
+Emergencies
+Female
+Humans
+Male
+Middle Aged
+*Premedication
+Prospective Studies
+Randomized Controlled Trials as Topic
+Surgical Wound Infection/*prevention & control

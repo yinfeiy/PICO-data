@@ -1,0 +1,15 @@
+Adult
+Aged
+Anesthesia Recovery Period
+Anesthesia, General
+*Anesthesia, Intravenous
+Brain Neoplasms/surgery
+Cerebrovascular Circulation/*drug effects
+*Craniotomy
+Female
+Flumazenil/*pharmacology
+Humans
+Male
+Midazolam/*antagonists & inhibitors
+Middle Aged
+Oxygen Consumption/*drug effects

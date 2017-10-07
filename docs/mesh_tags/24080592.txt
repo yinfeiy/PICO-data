@@ -1,0 +1,12 @@
+Adult
+Aged
+Cholesterol/blood
+Female
+Hemostasis/*drug effects
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*pharmacology/therapeutic use
+Hypertriglyceridemia/*blood/drug therapy
+Male
+Middle Aged
+Simvastatin/*pharmacology/therapeutic use
+Triglycerides/blood

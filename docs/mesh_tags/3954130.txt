@@ -1,0 +1,14 @@
+Abdomen/surgery
+Adult
+Aged
+Air Pressure
+*Airway Resistance
+Computers
+Humans
+Intubation, Intratracheal/*instrumentation
+Male
+Middle Aged
+*Pulmonary Ventilation
+Spirometry/methods
+Tidal Volume
+Transducers, Pressure

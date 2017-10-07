@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Arachidonic Acid/administration & dosage/*pharmacology
+Child
+Child Development Disorders, Pervasive/*drug therapy/physiopathology
+Docosahexaenoic Acids/administration & dosage/*pharmacology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Male
+Signal Transduction/drug effects
+Social Behavior Disorders/*drug therapy
+Superoxide Dismutase/blood
+Transferrin/metabolism
+Treatment Outcome
+Young Adult

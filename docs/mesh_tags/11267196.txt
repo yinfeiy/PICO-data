@@ -1,0 +1,11 @@
+Acute Disease
+Azathioprine/adverse effects/*therapeutic use
+Cyclosporine/adverse effects/*therapeutic use
+Glucocorticoids/therapeutic use
+Graft Rejection/immunology/*prevention & control
+Humans
+Immunosuppressive Agents/adverse effects/*therapeutic use
+Kidney Transplantation/*immunology
+Prednisone/therapeutic use
+Prospective Studies
+Sirolimus/adverse effects/*therapeutic use

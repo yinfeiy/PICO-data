@@ -1,0 +1,17 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Chemotherapy, Adjuvant
+Combined Modality Therapy
+Cyclophosphamide/administration & dosage/adverse effects
+Doxorubicin/administration & dosage/adverse effects
+Female
+Humans
+Lymphoma, Non-Hodgkin/*drug therapy/radiotherapy
+Male
+Middle Aged
+Neoplasm Staging
+Prednisone/administration & dosage/adverse effects
+Prospective Studies
+Survival Analysis
+Vincristine/administration & dosage/adverse effects

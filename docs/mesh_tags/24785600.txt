@@ -1,0 +1,11 @@
+Adult
+Aged
+Electrosurgery
+Female
+Humans
+Hysteroscopy/*methods
+Middle Aged
+Polyps/*surgery
+Single-Blind Method
+Specimen Handling/methods
+Uterine Diseases/*surgery

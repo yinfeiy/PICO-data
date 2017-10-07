@@ -1,0 +1,15 @@
+Adult
+Aged
+Anti-Infective Agents, Local/*therapeutic use
+Bacterial Infections/*prevention & control
+*Cataract Extraction
+Conjunctiva/microbiology
+Disinfectants/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Postoperative Complications/*prevention & control
+Povidone/*analogs & derivatives
+Povidone-Iodine/*therapeutic use
+Random Allocation

@@ -1,0 +1,13 @@
+Adult
+Aged
+Carcinoma, Hepatocellular/diagnostic imaging/pathology/*therapy
+*Catheter Ablation
+Female
+Humans
+Liver Neoplasms/diagnostic imaging/pathology/*therapy
+Male
+Middle Aged
+Patient Selection
+Radiography
+Time Factors
+Treatment Outcome

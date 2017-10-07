@@ -1,0 +1,15 @@
+Adult
+Aged
+Aspirin/pharmacology
+Clinical Trials as Topic
+Female
+Humans
+Indomethacin/*pharmacology
+Interferon Type I/administration & dosage/adverse effects/*therapeutic use
+Killer Cells, Natural/drug effects/immunology
+Male
+Melanoma/immunology/*therapy
+Middle Aged
+Neoplasm Metastasis
+Random Allocation
+Recombinant Proteins

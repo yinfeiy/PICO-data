@@ -1,0 +1,12 @@
+Anthracyclines/adverse effects/*therapeutic use
+Cardiomyopathies/*chemically induced/diagnosis/physiopathology
+Extracellular Space
+Female
+Humans
+Magnetic Resonance Imaging, Cine/*methods
+Male
+Myocardium/*pathology
+Neoplasms/*drug therapy
+Retrospective Studies
+Stroke Volume/drug effects
+Ventricular Function, Left

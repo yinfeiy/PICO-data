@@ -1,0 +1,18 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Squamous Cell/*drug therapy/radiotherapy
+Cisplatin/*administration & dosage
+Cytarabine/*administration & dosage
+Drug Synergism
+Female
+Fluorouracil/administration & dosage
+Follow-Up Studies
+Head and Neck Neoplasms/*drug therapy/radiotherapy
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Prospective Studies
+Survival Analysis
+Treatment Outcome

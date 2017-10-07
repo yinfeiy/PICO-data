@@ -1,0 +1,15 @@
+Acetaminophen/administration & dosage/*therapeutic use
+Analgesia/methods
+Analgesics, Non-Narcotic/administration & dosage/*therapeutic use
+Analgesics, Opioid/administration & dosage/*therapeutic use
+Drug Synergism
+Drug Therapy, Combination/methods
+Female
+Humans
+Infant, Newborn
+Infusions, Intravenous
+Male
+Morphine/administration & dosage/*therapeutic use
+Pain, Postoperative/*drug therapy
+Tramadol/administration & dosage/*therapeutic use
+Treatment Outcome

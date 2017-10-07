@@ -1,0 +1,24 @@
+2-Pyridinylmethylsulfinylbenzimidazoles/therapeutic use
+Adult
+Amoxicillin/therapeutic use
+Anti-Bacterial Agents/administration & dosage/*therapeutic use
+Anti-Ulcer Agents/administration & dosage/*therapeutic use
+Clarithromycin/therapeutic use
+Doxycycline/administration & dosage/therapeutic use
+Drug Therapy, Combination
+Female
+Helicobacter Infections/complications/*drug therapy
+*Helicobacter pylori
+Humans
+Intention to Treat Analysis
+Lansoprazole
+Levofloxacin
+Male
+Middle Aged
+Ofloxacin/administration & dosage/therapeutic use
+Omeprazole/administration & dosage/therapeutic use
+Prospective Studies
+Proton Pump Inhibitors/administration & dosage/*therapeutic use
+Recurrence
+Thiazoles/administration & dosage/therapeutic use
+Young Adult

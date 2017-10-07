@@ -1,0 +1,16 @@
+Adult
+Aged
+Amifostine/adverse effects/*therapeutic use
+*Cytoprotection
+Female
+*Hematopoietic Stem Cell Transplantation
+Humans
+Male
+Melphalan/adverse effects/*therapeutic use
+Middle Aged
+Mouth Mucosa
+Multiple Myeloma/mortality/*therapy
+Prospective Studies
+Stomatitis/prevention & control
+*Transplantation Conditioning
+Transplantation, Autologous

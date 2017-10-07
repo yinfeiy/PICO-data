@@ -1,0 +1,16 @@
+Aged
+Amifostine/*therapeutic use
+Antineoplastic Agents/*adverse effects
+Carboplatin/*adverse effects
+Carcinoma, Squamous Cell/drug therapy/*radiotherapy
+Combined Modality Therapy
+Female
+Head and Neck Neoplasms/drug therapy/*radiotherapy
+Humans
+Male
+Middle Aged
+Mouth Mucosa/drug effects/radiation effects
+Radiation Injuries/complications/*prevention & control
+Radiation-Protective Agents/*therapeutic use
+Stomatitis/etiology/*prevention & control
+Xerostomia/etiology/*prevention & control

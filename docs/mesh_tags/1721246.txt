@@ -1,0 +1,18 @@
+Adult
+Aerosols
+Aged
+Bradykinin/*pharmacology
+Captopril/*adverse effects
+Citrates/pharmacology
+Citric Acid
+Cough/*chemically induced
+Double-Blind Method
+Enalapril/*adverse effects
+Female
+Humans
+Hypertension/complications/drug therapy
+Male
+Middle Aged
+Reflex/*drug effects
+Respiratory Function Tests
+Substance P/pharmacology

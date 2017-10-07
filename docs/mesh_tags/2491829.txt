@@ -1,0 +1,15 @@
+Adult
+Aged
+Agranulocytosis/*drug therapy
+Antineoplastic Combined Chemotherapy Protocols/adverse effects
+Drug Evaluation
+Female
+Humans
+Leukemia, Myeloid, Acute/*complications/drug therapy
+Lithium/*therapeutic use
+Lithium Carbonate
+Male
+Middle Aged
+Neutropenia/chemically induced/*drug therapy
+Random Allocation
+Remission Induction

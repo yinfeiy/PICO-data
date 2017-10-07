@@ -1,0 +1,20 @@
+Anxiety/diagnosis/psychology/therapy
+Attention
+Autistic Disorder/diagnosis/psychology/*therapy
+Awareness
+Behavior Therapy/*methods
+Child
+Communication
+Female
+Follow-Up Studies
+Group Processes
+Humans
+Interpersonal Relations
+Male
+Negotiating
+Personal Construct Theory
+Personality Assessment
+Problem Solving
+Psychotherapy, Group/*methods
+*Social Adjustment
+*Social Behavior

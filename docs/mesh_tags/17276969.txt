@@ -1,0 +1,13 @@
+Adult
+Appetite Depressants/*therapeutic use
+Blood Pressure/drug effects
+Body Mass Index
+Calorimetry/methods
+Cyclobutanes/*therapeutic use
+Double Bind Interaction
+Female
+Heart Rate/drug effects
+Humans
+Obesity/*drug therapy/physiopathology
+Thermogenesis/*drug effects
+Waist-Hip Ratio

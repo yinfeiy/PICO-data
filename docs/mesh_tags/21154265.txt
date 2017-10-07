@@ -1,0 +1,21 @@
+Administration, Oral
+Aged
+Arginine/*administration & dosage
+Blood Pressure/*drug effects
+Chi-Square Distribution
+Citrulline/*administration & dosage
+*Dietary Supplements
+Echocardiography, Doppler
+Exercise Test
+Female
+Heart Failure/diagnosis/*drug therapy/physiopathology
+Humans
+Male
+Mexico
+Middle Aged
+Pulmonary Artery/diagnostic imaging/*drug effects/physiopathology
+Radionuclide Ventriculography
+Stroke Volume/*drug effects
+Time Factors
+Treatment Outcome
+Ventricular Function, Right/*drug effects

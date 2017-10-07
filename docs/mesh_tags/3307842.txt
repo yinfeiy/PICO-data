@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Breast Neoplasms/*radiotherapy/surgery
+Clinical Trials as Topic
+Cobalt Radioisotopes/therapeutic use
+Female
+Follow-Up Studies
+Humans
+Infection/*etiology
+Mastectomy
+Middle Aged
+Postoperative Care
+Preoperative Care
+Radioisotope Teletherapy
+Radiotherapy/*adverse effects
+Radiotherapy Dosage
+Random Allocation
+Seasons
+Time Factors

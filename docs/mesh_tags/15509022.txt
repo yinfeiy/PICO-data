@@ -1,0 +1,15 @@
+Animal Husbandry
+Animals
+Anthelmintics/*therapeutic use
+Drug Resistance
+Feces/parasitology
+Female
+Goat Diseases/parasitology/*prevention & control
+Goats
+Haemonchus/drug effects
+Malaysia
+Male
+Nematode Infections/prevention & control/*veterinary
+Parasite Egg Count/veterinary
+Sheep
+Sheep Diseases/parasitology/*prevention & control

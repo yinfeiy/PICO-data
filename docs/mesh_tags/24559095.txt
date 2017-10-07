@@ -1,0 +1,17 @@
+Adaptor Proteins, Signal Transducing/antagonists & inhibitors/*biosynthesis
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents, Hormonal/*therapeutic use
+Breast Neoplasms/diagnosis/*drug therapy/*metabolism
+Cell Line, Tumor
+Cohort Studies
+Female
+Follow-Up Studies
+*Gene Expression Regulation, Neoplastic
+Humans
+Middle Aged
+Neoplasm Recurrence, Local/diagnosis/drug therapy/metabolism
+Phosphoproteins/antagonists & inhibitors/*biosynthesis
+*Tamoxifen/antagonists & inhibitors/therapeutic use
+Treatment Outcome

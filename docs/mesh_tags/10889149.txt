@@ -1,0 +1,20 @@
+Adult
+Aged
+Amoxicillin/therapeutic use
+Anti-Bacterial Agents/therapeutic use
+Atrophy
+Clarithromycin/therapeutic use
+Endoscopy
+Female
+Gastric Mucosa/microbiology/pathology
+Gastroscopy
+Helicobacter Infections/*pathology
+*Helicobacter pylori
+Humans
+Intestines/*pathology
+Male
+Metaplasia
+Middle Aged
+Omeprazole/therapeutic use
+Penicillins/therapeutic use
+Prospective Studies

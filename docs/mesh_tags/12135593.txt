@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Antioxidants/*administration & dosage
+Aortic Aneurysm, Abdominal/*surgery
+Ascorbic Acid/administration & dosage
+*Dietary Supplements
+Double-Blind Method
+Female
+Hand Strength
+Humans
+Male
+Micronutrients/*administration & dosage
+Middle Aged
+Muscle, Skeletal/drug effects/*physiology
+Perioperative Care
+Selenium/administration & dosage
+Treatment Outcome
+Vitamin E/administration & dosage
+Vitamins/*administration & dosage
+Zinc/administration & dosage
+beta Carotene/administration & dosage

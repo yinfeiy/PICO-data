@@ -1,0 +1,17 @@
+Acetaminophen/adverse effects/*therapeutic use
+Analgesics, Non-Narcotic/adverse effects/*therapeutic use
+Analgesics, Opioid/adverse effects/*therapeutic use
+Codeine/adverse effects/*therapeutic use
+Double-Blind Method
+Drug Combinations
+Female
+Humans
+Hydrocodone/adverse effects/*therapeutic use
+Male
+Middle Aged
+Neoplasms/*complications
+Pain Measurement
+Pain, Intractable/*drug therapy/etiology
+Palliative Care
+Prospective Studies
+Tablets

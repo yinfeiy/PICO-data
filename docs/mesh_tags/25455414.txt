@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Carcinoma, Hepatocellular/*diagnostic imaging
+*Contrast Media
+End Stage Liver Disease/*diagnostic imaging
+Female
+Humans
+*Iodine
+Liver Neoplasms/*diagnostic imaging
+Male
+Middle Aged
+Prospective Studies
+Radiation Dosage
+*Radiographic Image Interpretation, Computer-Assisted/methods
+Signal-To-Noise Ratio
+*Tomography, X-Ray Computed/methods

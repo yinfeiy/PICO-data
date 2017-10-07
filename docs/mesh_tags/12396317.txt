@@ -1,0 +1,16 @@
+Acute Disease
+Adolescent
+Amodiaquine/therapeutic use
+Antimalarials/*therapeutic use
+Area Under Curve
+Child
+Child, Preschool
+Chloroquine/therapeutic use
+Chlorpheniramine/therapeutic use
+Drug Therapy, Combination
+Hepatomegaly/drug therapy/parasitology
+Humans
+Infant
+Malaria, Falciparum/complications/*drug therapy
+Prospective Studies
+Treatment Outcome

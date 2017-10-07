@@ -1,0 +1,16 @@
+Adult
+Aged
+Alfentanil/blood
+Anesthesia Recovery Period
+Anesthesia, Intravenous/methods
+Anesthetics, Combined/*blood
+Anesthetics, Intravenous/*blood
+*Coronary Artery Bypass
+Double-Blind Method
+Female
+Fentanyl/blood
+Humans
+Male
+Middle Aged
+Propofol/*blood
+Sufentanil/blood

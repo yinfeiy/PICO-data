@@ -1,0 +1,30 @@
+Administration, Oral
+Adult
+Aged
+Anemia/chemically induced
+Antineoplastic Agents, Phytogenic/administration & dosage/adverse effects/*pharmacokinetics
+Area Under Curve
+Camptothecin/administration & dosage/adverse effects/*analogs & derivatives/*pharmacokinetics
+Capsules
+Cytochrome P-450 CYP3A
+Cytochrome P-450 Enzyme System/genetics
+Diarrhea/chemically induced
+Dietary Fats/administration & dosage
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Genotype
+Glucuronosyltransferase/genetics
+Humans
+Leukopenia/chemically induced
+Male
+Middle Aged
+Nausea/chemically induced
+Neoplasms/*drug therapy/genetics/metabolism
+Neutropenia/chemically induced
+Polymorphism, Genetic
+Promoter Regions, Genetic/genetics
+Thrombocytopenia/chemically induced
+Time Factors
+Treatment Outcome
+Vomiting/chemically induced

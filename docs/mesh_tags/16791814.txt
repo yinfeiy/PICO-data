@@ -1,0 +1,15 @@
+Adult
+Aged
+Czech Republic
+Female
+Humans
+Iodine Radioisotopes/*therapeutic use
+Lymphatic Metastasis
+Male
+Middle Aged
+Neoplasm Metastasis
+Radionuclide Imaging/methods
+Slovakia
+Thyroid Neoplasms/*radiotherapy/surgery
+Treatment Outcome
+Whole Body Imaging

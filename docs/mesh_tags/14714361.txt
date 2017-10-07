@@ -1,0 +1,14 @@
+Adenocarcinoma/drug therapy/pathology
+Adult
+Aged
+Carcinoma, Squamous Cell/drug therapy/pathology
+Cell Cycle/drug effects
+Drugs, Chinese Herbal/*therapeutic use
+Esophageal Neoplasms/*drug therapy/pathology
+Female
+Humans
+Male
+Middle Aged
+NF-kappa B/*metabolism
+*Phytotherapy
+Stomach Neoplasms/*drug therapy/pathology

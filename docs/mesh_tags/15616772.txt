@@ -1,0 +1,18 @@
+Aged
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/*therapeutic use
+Carcinoma/*drug therapy/pathology/*surgery
+Chemotherapy, Adjuvant
+Combined Modality Therapy
+Doxorubicin/administration & dosage
+Female
+Fluorouracil/administration & dosage
+Gastrectomy
+Humans
+Immunotherapy
+Male
+Middle Aged
+Mitomycin/administration & dosage
+Mycobacterium bovis
+Stomach Neoplasms/*drug therapy/pathology/*surgery
+Survival Analysis
+Treatment Outcome

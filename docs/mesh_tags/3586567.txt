@@ -1,0 +1,18 @@
+Adenoma/surgery
+Adult
+Aged
+Aged, 80 and over
+Cyclohexanecarboxylic Acids/*therapeutic use
+Double-Blind Method
+Fibrinolysis/*drug effects
+Goiter/surgery
+Hemorrhage/*prevention & control
+Humans
+Intraoperative Complications/prevention & control
+Middle Aged
+Postoperative Complications/prevention & control
+Random Allocation
+Thyroid Diseases/*surgery
+Thyroid Neoplasms/surgery
+*Thyroidectomy
+Tranexamic Acid/*therapeutic use

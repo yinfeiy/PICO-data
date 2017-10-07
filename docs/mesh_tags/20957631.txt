@@ -1,0 +1,18 @@
+Adult
+Aged
+Cervical Intraepithelial Neoplasia/pathology/*prevention & control/virology
+Cryotherapy
+Cytodiagnosis
+DNA, Viral
+Female
+Humans
+*Mass Screening
+Middle Aged
+Papillomaviridae/genetics
+Papillomavirus Infections/pathology/*prevention & control/virology
+Prognosis
+Sensitivity and Specificity
+Specimen Handling
+Tumor Virus Infections/pathology/*prevention & control/virology
+Uterine Cervical Neoplasms/pathology/*prevention & control/virology
+Vaginal Smears

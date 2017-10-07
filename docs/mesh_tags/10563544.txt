@@ -1,0 +1,18 @@
+Adult
+Aged
+Colitis, Ulcerative/physiopathology
+Colon/*drug effects/physiology
+Cotinine/analysis
+Dose-Response Relationship, Drug
+Enema
+Female
+Gastrointestinal Motility/drug effects
+Humans
+Male
+Middle Aged
+Muscle Contraction/*drug effects/physiology
+Muscle Tonus/*drug effects
+Muscle, Smooth/*drug effects/physiology
+Nicotine/administration & dosage/*pharmacology
+Saliva/chemistry
+Sigmoidoscopy

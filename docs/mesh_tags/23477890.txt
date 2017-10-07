@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Amifostine/*administration & dosage
+Antineoplastic Combined Chemotherapy Protocols
+Carboplatin/*administration & dosage
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology/radiotherapy
+Chemoradiotherapy
+Disease-Free Survival
+Drug-Related Side Effects and Adverse Reactions
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neoplasm Recurrence, Local/drug therapy/pathology/radiotherapy
+Neoplasm Staging
+Paclitaxel/*administration & dosage

@@ -1,0 +1,16 @@
+Adult
+Diarrhea/chemically induced
+Double-Blind Method
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Nausea/chemically induced
+Phobic Disorders/diagnosis/*drug therapy/psychology
+Placebos
+Psychiatric Status Rating Scales/statistics & numerical data
+Serotonin Uptake Inhibitors/adverse effects/*therapeutic use
+Sertraline/adverse effects/*therapeutic use
+Sleep Initiation and Maintenance Disorders/chemically induced
+Treatment Outcome

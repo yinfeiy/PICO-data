@@ -1,0 +1,16 @@
+Adult
+Aggression/psychology
+Autistic Disorder/psychology/*rehabilitation
+Child
+*Choice Behavior
+Disabled Persons/*psychology
+Down Syndrome/psychology/*rehabilitation
+Humans
+Intellectual Disability/psychology/*rehabilitation
+Male
+*Motivation
+Patient Admission
+Reinforcement (Psychology)
+Social Behavior
+*Token Economy
+Treatment Outcome

@@ -1,0 +1,12 @@
+*Anxiety/diagnosis/etiology/psychology/therapy
+Behavioral Symptoms/diagnosis/therapy
+Child
+*Child Behavior/drug effects/psychology
+Child Development Disorders, Pervasive/*complications/diagnosis/psychology
+Cognitive Therapy/*methods
+Female
+Humans
+Male
+Psychiatric Status Rating Scales
+Psychotropic Drugs/*therapeutic use
+Treatment Outcome

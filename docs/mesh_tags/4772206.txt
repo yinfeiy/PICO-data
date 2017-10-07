@@ -1,0 +1,13 @@
+Diarrhea/etiology
+Dumping Syndrome/etiology
+Duodenal Ulcer/*physiopathology/surgery
+*Gastrointestinal Motility
+Humans
+Intestine, Small/*physiopathology
+Methods
+Middle Aged
+Postoperative Complications
+Pylorus/*surgery
+Stomach/*physiopathology
+Time Factors
+*Vagotomy

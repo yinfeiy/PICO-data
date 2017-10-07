@@ -1,0 +1,11 @@
+Aminoglutethimide/therapeutic use
+Antineoplastic Agents, Hormonal/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/surgery
+Chemotherapy, Adjuvant
+Diethylstilbestrol/therapeutic use
+Disease-Free Survival
+Female
+Humans
+Survival Analysis
+Tamoxifen/therapeutic use
+Treatment Outcome

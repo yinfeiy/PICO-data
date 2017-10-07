@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Glucose/*drug effects/metabolism
+Diabetes Mellitus, Type 2/*blood/*drug therapy/psychology
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hypoglycemic Agents/administration & dosage/*therapeutic use
+Male
+Medication Adherence/*psychology
+Middle Aged
+Models, Psychological
+*Psychotherapy, Brief

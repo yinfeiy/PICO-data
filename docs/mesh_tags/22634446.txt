@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Australia
+Capsid Proteins/administration & dosage/*immunology
+China
+Chronic Disease
+Condylomata Acuminata/surgery/*therapy
+Double-Blind Method
+Female
+Human papillomavirus 16/immunology
+Humans
+Immunotherapy/*methods
+Male
+Oncogene Proteins, Viral/administration & dosage/*immunology
+Papillomavirus Vaccines/administration & dosage/*immunology
+Placebos/administration & dosage
+Secondary Prevention
+Treatment Outcome
+Vaccines, Virosome/administration & dosage/immunology
+Young Adult

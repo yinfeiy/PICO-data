@@ -1,0 +1,12 @@
+Adult
+Aged
+Antineoplastic Agents/*pharmacology/therapeutic use
+Bone Marrow/pathology
+Breast Neoplasms/drug therapy/*pathology
+Diphosphonates/*pharmacology/therapeutic use
+Female
+Humans
+Imidazoles/*pharmacology/therapeutic use
+Middle Aged
+Neoadjuvant Therapy
+Neoplastic Cells, Circulating/*drug effects

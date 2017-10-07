@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Female
+Heart Rate/physiology
+Humans
+Hypoxia/blood/physiopathology
+Male
+Middle Aged
+Oximetry
+Oxygen/*blood
+Posture/*physiology
+Stroke/*blood/*physiopathology

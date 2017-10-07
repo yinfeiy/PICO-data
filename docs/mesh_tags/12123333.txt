@@ -1,0 +1,20 @@
+Administration, Oral
+Aged
+Breast Neoplasms/complications/*diagnosis/drug therapy
+Chi-Square Distribution
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Hot Flashes/complications/diagnosis/*drug therapy
+Humans
+Injections, Intramuscular
+Medroxyprogesterone Acetate/*administration & dosage
+Megestrol Acetate/*administration & dosage
+Middle Aged
+Patient Satisfaction
+Postmenopause
+Probability
+Reference Values
+Severity of Illness Index
+Treatment Outcome

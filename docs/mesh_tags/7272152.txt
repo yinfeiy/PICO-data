@@ -1,0 +1,11 @@
+Adult
+Atropine/*pharmacology
+Drug Interactions
+Esophagogastric Junction/drug effects/*physiology
+Female
+Humans
+Male
+Metoclopramide/*pharmacology
+Pressure
+Stomach/drug effects/physiology
+Time Factors

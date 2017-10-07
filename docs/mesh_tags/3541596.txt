@@ -1,0 +1,14 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Hypertension/*drug therapy
+Male
+Middle Aged
+Nifedipine/*therapeutic use
+Posture
+Random Allocation
+Time Factors

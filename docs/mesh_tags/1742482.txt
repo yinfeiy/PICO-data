@@ -1,0 +1,16 @@
+AIDS-Related Complex/blood/complications/*drug therapy
+Acquired Immunodeficiency Syndrome/blood/complications/*drug therapy
+Adult
+Bacterial Infections/complications
+Bone Marrow/pathology
+Female
+Granulocyte-Macrophage Colony-Stimulating Factor/administration & dosage/adverse effects/*therapeutic use
+HIV Core Protein p24/blood
+Humans
+Leukocyte Count
+Male
+Neutropenia/chemically induced/*drug therapy
+Platelet Count
+Random Allocation
+Recombinant Proteins/therapeutic use
+Zidovudine/*adverse effects/therapeutic use

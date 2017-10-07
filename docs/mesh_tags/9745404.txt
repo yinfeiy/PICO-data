@@ -1,0 +1,20 @@
+Adult
+Aged
+Body Mass Index
+*Critical Illness
+Cross-Over Studies
+Female
+Growth Hormone-Releasing Hormone/*therapeutic use
+Human Growth Hormone/*secretion
+Humans
+Hydrocortisone/blood
+Insulin/blood
+Insulin-Like Growth Factor Binding Protein 3/blood
+Insulin-Like Growth Factor I/metabolism
+Leptin
+Male
+Middle Aged
+Oligopeptides/therapeutic use
+Proteins/*metabolism
+Thyroid Hormones/blood
+Thyrotropin-Releasing Hormone/*therapeutic use

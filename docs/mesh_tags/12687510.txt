@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Arthritis, Rheumatoid/*nursing/psychology/*therapy
+*Day Care, Medical
+Female
+Humans
+Inpatients
+Male
+Middle Aged
+Outpatients
+Patient Care Team
+*Patient Satisfaction
+*Specialties, Nursing
+Surveys and Questionnaires/*standards

@@ -1,0 +1,10 @@
+Adult
+Analgesics, Opioid/administration & dosage/*therapeutic use
+*Arthroscopy
+Female
+Humans
+Injections, Intra-Articular
+Male
+Morphine/administration & dosage/*therapeutic use
+Pain Measurement/drug effects
+Shoulder/*surgery

@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Aged
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Levobunolol/*administration & dosage
+Male
+Middle Aged
+Ocular Hypertension/*drug therapy
+Random Allocation

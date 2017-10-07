@@ -1,0 +1,13 @@
+Adult
+Aged
+Cognition/drug effects
+Emotions/drug effects
+Female
+Humans
+Male
+Memory/drug effects
+Middle Aged
+Neurasthenia/*drug therapy
+*Panax
+Plant Extracts/adverse effects/therapeutic use
+*Plants, Medicinal

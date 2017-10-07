@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Amlodipine/administration & dosage/therapeutic use
+Antihypertensive Agents/administration & dosage/*therapeutic use
+Blood Pressure/*drug effects
+Blood Pressure Monitoring, Ambulatory
+Carbazoles/administration & dosage/therapeutic use
+Cardiovascular Diseases/*prevention & control
+Drug Therapy, Combination
+Enalapril/administration & dosage/therapeutic use
+Humans
+Hypertension/diagnostic imaging/*drug therapy
+Losartan/administration & dosage/therapeutic use
+Male
+Middle Aged
+Propanolamines/administration & dosage/therapeutic use
+Ultrasonography

@@ -1,0 +1,21 @@
+Administration, Oral
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Asparaginase/administration & dosage
+Bone Marrow/*drug effects/pathology
+Child
+Child, Preschool
+Dexamethasone/administration & dosage
+Etoposide/administration & dosage
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Infant
+Male
+Neoplasm Recurrence, Local/*drug therapy
+Podophyllotoxin/therapeutic use
+Precursor Cell Lymphoblastic Leukemia-Lymphoma/*drug therapy
+Remission Induction
+Treatment Outcome
+Vincristine/administration & dosage

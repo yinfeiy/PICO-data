@@ -1,0 +1,18 @@
+Adult
+Aged
+Anticoagulants/administration & dosage/*therapeutic use
+Aorta
+Blood Loss, Surgical
+Double-Blind Method
+Drug Administration Schedule
+Enoxaparin/administration & dosage/*therapeutic use
+Female
+Genital Neoplasms, Female/*surgery
+Heparin/administration & dosage/therapeutic use
+Humans
+*Lymph Node Excision
+Middle Aged
+Pelvis
+Prospective Studies
+Treatment Outcome
+Venous Thrombosis/*prevention & control

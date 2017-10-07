@@ -1,0 +1,19 @@
+Acute Disease
+Adolescent
+Adult
+Child
+Chronic Disease
+*Costs and Cost Analysis
+Female
+France
+Graft vs Host Disease/economics/epidemiology
+Hematopoietic Stem Cell Mobilization/economics
+Humans
+Infection/economics/epidemiology
+Leukemia/therapy
+Male
+Middle Aged
+Placebos
+Stem Cell Transplantation/adverse effects/*economics
+Transplantation, Homologous/economics
+Whole-Body Irradiation/economics

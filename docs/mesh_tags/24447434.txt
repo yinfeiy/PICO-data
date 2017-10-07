@@ -1,0 +1,20 @@
+Aged
+Antineoplastic Agents, Hormonal/*therapeutic use
+Breast Neoplasms/*drug therapy/genetics
+Chemotherapy, Adjuvant
+*Drug Resistance, Neoplasm
+Estrogen Antagonists/therapeutic use
+Extracellular Signal-Regulated MAP Kinases/metabolism
+Female
+Humans
+Mitogen-Activated Protein Kinases/metabolism
+Neoplasm Recurrence, Local/epidemiology
+Phosphatidylinositol 3-Kinase/metabolism
+Phosphorylation
+Postmenopause
+Proto-Oncogene Proteins c-akt/metabolism
+Retrospective Studies
+Ribosomal Protein S6 Kinases, 70-kDa/*metabolism
+TOR Serine-Threonine Kinases/metabolism
+Tamoxifen/*therapeutic use
+Treatment Outcome

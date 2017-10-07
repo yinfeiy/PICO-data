@@ -1,0 +1,12 @@
+Adult
+Aged
+Cyclosporine/adverse effects/*pharmacology/therapeutic use
+Female
+Humans
+Immunosuppressive Agents/adverse effects/*pharmacology/therapeutic use
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive/*drug therapy/metabolism/pathology
+Male
+Middle Aged
+P-Glycoprotein/*antagonists & inhibitors
+Prognosis
+Remission Induction

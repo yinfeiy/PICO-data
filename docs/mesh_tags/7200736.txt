@@ -1,0 +1,14 @@
+Adult
+Aged
+Alprostadil
+*Anesthesia, Inhalation
+Female
+Hemodynamics/drug effects
+Humans
+*Hypotension, Controlled
+Kidney Function Tests
+Mastectomy
+Middle Aged
+*Prostaglandins E/pharmacology
+Time Factors
+Trimethaphan

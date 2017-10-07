@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Carboplatin/administration & dosage/adverse effects
+Deoxycytidine/administration & dosage/adverse effects/analogs & derivatives
+Disease-Free Survival
+Fallopian Tube Neoplasms/drug therapy/pathology
+Female
+Humans
+Induction Chemotherapy
+Middle Aged
+Neoplasm Staging
+Neoplasms, Glandular and Epithelial/*drug therapy/pathology
+Ovarian Neoplasms/*drug therapy/pathology
+Paclitaxel/administration & dosage/adverse effects
+Peritoneal Neoplasms/drug therapy/pathology
+Survival Rate
+Young Adult

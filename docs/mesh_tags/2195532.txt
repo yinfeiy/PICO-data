@@ -1,0 +1,10 @@
+Airway Resistance/drug effects
+Asthma/*diagnosis
+Blood Gas Monitoring, Transcutaneous/*methods
+Bronchial Provocation Tests/*methods
+Humans
+Methacholine Chloride
+*Methacholine Compounds
+Oscillometry/*methods
+Plethysmography, Whole Body/*methods
+Respiratory Hypersensitivity/*diagnosis

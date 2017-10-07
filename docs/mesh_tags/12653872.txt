@@ -1,0 +1,11 @@
+Aged
+Carotid Artery Diseases/diagnostic imaging/*pathology
+Carotid Stenosis/diagnostic imaging/pathology
+Humans
+Hypertension/*complications
+Male
+Middle Aged
+Myocardial Infarction/pathology/*prevention & control
+Risk Factors
+Stroke/pathology/*prevention & control
+Ultrasonography

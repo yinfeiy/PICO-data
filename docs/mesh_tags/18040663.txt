@@ -1,0 +1,15 @@
+Adolescent
+Blood Glucose/analysis
+Child
+Diabetes Mellitus, Type 1/blood/*complications
+Diabetic Angiopathies/*drug therapy/etiology/physiopathology
+Endothelium/*drug effects/metabolism/physiopathology
+Female
+Hemoglobin A, Glycosylated/analysis
+Humans
+Hypoglycemic Agents/therapeutic use
+Insulin/*therapeutic use
+Lipid Metabolism/drug effects
+Male
+Microcirculation/*drug effects
+Treatment Outcome

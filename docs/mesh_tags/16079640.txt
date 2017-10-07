@@ -1,0 +1,23 @@
+Adult
+Aged
+Anticholesteremic Agents/therapeutic use
+Biomarkers/blood
+Coronary Artery Disease/drug therapy/metabolism/physiopathology/*therapy
+Coronary Circulation/drug effects
+Endothelium, Vascular/drug effects/metabolism/physiopathology
+*Exercise
+Exercise Test
+Exercise Tolerance/drug effects
+Follow-Up Studies
+Forearm/blood supply
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+Male
+Middle Aged
+Oxygen Consumption/drug effects
+Physical Endurance
+Pravastatin/*therapeutic use
+Regional Blood Flow/drug effects
+Treatment Outcome
+Vascular Resistance/*drug effects
+Vasodilation/*drug effects

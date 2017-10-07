@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+*Angioplasty, Balloon, Coronary
+Coronary Angiography
+Coronary Artery Bypass
+Female
+Humans
+Injections, Intravenous
+Male
+Middle Aged
+Myocardial Infarction/diagnosis/drug therapy/*therapy
+Placebos
+Prospective Studies
+Radionuclide Ventriculography
+Reoperation
+Streptokinase/*therapeutic use
+Treatment Outcome

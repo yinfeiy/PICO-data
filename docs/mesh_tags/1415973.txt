@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+*Anesthesia
+Blood Pressure/drug effects
+Central Venous Pressure/drug effects
+*Critical Care
+Female
+Heart Rate/drug effects
+Humans
+*Hypnotics and Sedatives
+*Isoflurane/adverse effects
+Male
+Middle Aged
+*Propofol/adverse effects
+Reaction Time/drug effects
+Respiration, Artificial
+Time Factors

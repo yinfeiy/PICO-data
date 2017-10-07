@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Female
+Humans
+Hypertension, Pulmonary/complications/*diagnostic imaging
+Image Interpretation, Computer-Assisted/*methods
+Male
+Middle Aged
+Observer Variation
+Reproducibility of Results
+Sensitivity and Specificity
+*Stroke Volume
+Ultrasonography
+Ventricular Dysfunction, Right/*diagnostic imaging/etiology

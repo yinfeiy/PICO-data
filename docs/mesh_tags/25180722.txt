@@ -1,0 +1,21 @@
+Adult
+Aged
+Blood Glucose/metabolism
+Critical Illness/*therapy
+Dose-Response Relationship, Drug
+Exercise/physiology
+Female
+Humans
+Hyperglycemia/metabolism/physiopathology/*therapy
+Immobilization/*adverse effects
+Insulin/therapeutic use
+Insulin Resistance/physiology
+*Intensive Care Units
+Logistic Models
+Male
+Middle Aged
+Muscle Strength/physiology
+Muscle Weakness/*etiology/physiopathology/*therapy
+*Physical Therapy Modalities
+*Respiration, Artificial
+Treatment Outcome

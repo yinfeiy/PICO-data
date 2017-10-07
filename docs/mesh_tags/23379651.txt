@@ -1,0 +1,18 @@
+Adult
+Clomiphene/adverse effects/*therapeutic use
+Drug Resistance
+Estrogen Antagonists/adverse effects/*therapeutic use
+Female
+Fertility Agents, Female/adverse effects/*therapeutic use
+Follicle Stimulating Hormone, Human/adverse effects/*therapeutic use
+Humans
+Hypoglycemic Agents/adverse effects/*therapeutic use
+Infertility, Female/etiology/prevention & control
+Insulin Resistance
+Ovary/*drug effects/physiopathology
+Ovulation Induction/adverse effects
+Polycystic Ovary Syndrome/*drug therapy/metabolism/physiopathology
+Pregnancy
+Pregnancy Rate
+Recombinant Proteins/therapeutic use
+Young Adult

@@ -1,0 +1,12 @@
+Adult
+Afferent Pathways/physiology
+Electromyography/methods
+Female
+H-Reflex/*physiology
+Humans
+Male
+Muscle Contraction/*physiology
+Physical Endurance/*physiology
+Resistance Training/*methods
+Time Factors
+Young Adult

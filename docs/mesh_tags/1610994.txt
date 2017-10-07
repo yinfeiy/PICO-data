@@ -1,0 +1,15 @@
+Adult
+Aged
+*Anesthesia, Inhalation
+Aorta/*surgery
+Female
+Glomerular Filtration Rate/physiology
+*Halothane
+Hemodynamics/physiology
+Humans
+*Isoflurane
+Kidney/*physiopathology
+Male
+Middle Aged
+Renal Circulation/physiology
+Urination/physiology

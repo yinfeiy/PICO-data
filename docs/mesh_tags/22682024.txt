@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Animals
+Anopheles/*growth & development/physiology
+Child
+Child, Preschool
+Feeding Behavior
+Humans
+Incidence
+India
+Infant
+Infant, Newborn
+*Insecticide-Treated Bednets
+Insecticides/*pharmacology
+Malaria/epidemiology/*prevention & control
+Male
+Middle Aged
+Mosquito Control/*methods
+Pyrethrins/*pharmacology
+Young Adult

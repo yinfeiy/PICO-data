@@ -1,0 +1,17 @@
+Adult
+Anti-Mullerian Hormone/blood
+*Electrocoagulation
+Endometriosis/blood/*surgery
+Female
+Follicle Stimulating Hormone/blood
+Hemostasis, Surgical/*methods
+Humans
+Laparoscopy
+Ovarian Diseases/blood/*surgery
+Ovary/*physiopathology
+Pregnancy
+Pregnancy Rate
+Recurrence
+Statistics, Nonparametric
+*Sutures
+Time Factors

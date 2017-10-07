@@ -1,0 +1,16 @@
+Adult
+Aromatase Inhibitors/pharmacology/*therapeutic use
+Endometriosis/complications/*drug therapy/surgery
+Female
+Gonadotropin-Releasing Hormone/*agonists
+Humans
+Infertility, Female/*drug therapy/etiology
+Laparoscopy
+Nitriles/pharmacology/*therapeutic use
+Postoperative Period
+Pregnancy
+Pregnancy Rate
+Prospective Studies
+Secondary Prevention
+Triazoles/pharmacology/*therapeutic use
+Triptorelin Pamoate/pharmacology/*therapeutic use

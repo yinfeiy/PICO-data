@@ -1,0 +1,11 @@
+Acetaminophen/pharmacology/*therapeutic use
+Body Temperature/drug effects
+Child
+Child, Preschool
+Double-Blind Method
+Female
+Fever/*drug therapy
+Humans
+Ibuprofen/pharmacology/*therapeutic use
+Male
+Treatment Outcome

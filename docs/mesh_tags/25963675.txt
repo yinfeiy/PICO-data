@@ -1,0 +1,12 @@
+Adult
+Cardiopulmonary Resuscitation/*instrumentation/methods
+Cross-Over Studies
+Emergency Medical Technicians/*education
+Female
+Humans
+*Laryngeal Masks
+Male
+*Manikins
+Respiration, Artificial/*instrumentation
+Time Factors
+Young Adult

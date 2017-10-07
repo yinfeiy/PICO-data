@@ -1,0 +1,16 @@
+Adenocarcinoma/*drug therapy/mortality/surgery
+Anorexia/chemically induced
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Chemotherapy, Adjuvant
+Cisplatin/administration & dosage/adverse effects
+Colonic Neoplasms/*drug therapy/mortality/surgery
+Drug Administration Schedule
+Female
+Fluorouracil/administration & dosage/adverse effects
+Humans
+Leucovorin/administration & dosage/adverse effects
+Male
+Middle Aged
+Neutropenia/chemically induced
+Rectal Neoplasms/*drug therapy/mortality/surgery
+Survival Rate

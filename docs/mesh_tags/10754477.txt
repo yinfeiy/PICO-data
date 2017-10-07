@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Brain Neoplasms/radiotherapy
+Human Growth Hormone/*blood/*deficiency/secretion
+Humans
+Male
+Radiation Injuries/*blood
+Reference Values
+*Sermorelin
+Time Factors

@@ -1,0 +1,10 @@
+Adult
+*Anesthesia, Conduction
+*Anesthesia, Intravenous
+Humans
+Leg
+Male
+Peroneal Nerve/physiology
+*Prilocaine/administration & dosage/blood
+Tibial Nerve/physiology
+Tourniquets

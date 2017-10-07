@@ -1,0 +1,9 @@
+Anaerobiosis
+Bacterial Infections/complications/*drug therapy/microbiology
+Cefoxitin/*therapeutic use
+Clindamycin/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Neoplasms/*complications

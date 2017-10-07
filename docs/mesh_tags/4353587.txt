@@ -1,0 +1,23 @@
+Adenocarcinoma/classification
+Adenocarcinoma, Bronchiolo-Alveolar/classification
+Adult
+Aged
+Bone Neoplasms
+Brain Neoplasms/prevention & control
+Carcinoma, Bronchogenic/classification
+Carcinoma, Small Cell/classification
+Carcinoma, Squamous Cell/classification
+Cyclophosphamide/*therapeutic use
+Evaluation Studies as Topic
+Follow-Up Studies
+Humans
+Liver Neoplasms/prevention & control
+Lung Neoplasms/classification/*surgery
+Lymphatic Metastasis
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Recurrence, Local/prevention & control
+Postoperative Complications/*prevention & control
+Prognosis
+Time Factors

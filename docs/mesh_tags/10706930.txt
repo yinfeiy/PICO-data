@@ -1,0 +1,11 @@
+Aged
+Arteriosclerosis/blood
+Coronary Angiography
+Coronary Disease/*blood
+Estradiol/*administration & dosage/adverse effects
+Female
+*Hemostasis/drug effects
+*Hormone Replacement Therapy/adverse effects
+Humans
+Middle Aged
+Postmenopause

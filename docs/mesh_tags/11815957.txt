@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/*administration & dosage/adverse effects/therapeutic use
+Breast Neoplasms/*drug therapy/pathology
+Doxorubicin/*administration & dosage/adverse effects/therapeutic use
+Electrocardiography
+Female
+Gated Blood-Pool Imaging
+Heart Failure/chemically induced
+Humans
+Liposomes
+Middle Aged
+Neoplasm Metastasis
+Proportional Hazards Models
+Remission Induction
+Survival Analysis
+Ventricular Function, Left

@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Cross-Sectional Studies
+Dental Anxiety/*etiology
+Female
+Humans
+Male
+Molar, Third/*surgery
+Pain Measurement
+Pain, Postoperative/psychology
+Prospective Studies
+Psychiatric Status Rating Scales
+Tooth Extraction/*psychology
+Tooth, Impacted/*surgery
+*Videotape Recording

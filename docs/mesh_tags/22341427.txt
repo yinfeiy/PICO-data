@@ -1,0 +1,17 @@
+Algorithms
+Blalock-Taussig Procedure/*mortality
+Child, Preschool
+Echocardiography, Doppler
+Female
+Gestational Age
+Heart Transplantation/*mortality
+Humans
+Hypoplastic Left Heart Syndrome/diagnostic imaging/*mortality/*surgery
+Infant
+Infant, Newborn
+Infant, Premature
+Male
+Norwood Procedures/*mortality
+Risk Factors
+Social Class
+Treatment Outcome

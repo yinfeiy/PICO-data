@@ -1,0 +1,14 @@
+Adult
+Aged
+Blood Cell Count
+Breast Neoplasms/*radiotherapy/surgery
+Clinical Trials as Topic
+Combined Modality Therapy
+Female
+Humans
+Infection Control
+Middle Aged
+Plant Extracts/*therapeutic use
+Radiation Injuries/*prevention & control
+Radiotherapy/*adverse effects
+Random Allocation

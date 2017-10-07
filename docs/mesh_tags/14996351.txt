@@ -1,0 +1,16 @@
+Adult
+Antiviral Agents/adverse effects/pharmacology/therapeutic use
+Drug Therapy, Combination
+Efficiency
+Female
+Hepatitis C, Chronic/*drug therapy
+Humans
+Interferon-alpha/administration & dosage/adverse effects/*therapeutic use
+Male
+Middle Aged
+Polyethylene Glycols/administration & dosage/adverse effects/*therapeutic use
+*Quality of Life
+Recombinant Proteins
+Ribavirin/administration & dosage/adverse effects/*therapeutic use
+Surveys and Questionnaires
+Treatment Outcome

@@ -1,0 +1,23 @@
+Adult
+Aged
+Antigens, CD3/analysis
+Antigens, CD56/analysis
+Antigens, CD8/analysis
+Carcinoma, Hepatocellular/pathology/*therapy
+Cell Line, Tumor
+Combined Modality Therapy
+Cytotoxicity Tests, Immunologic
+Female
+Humans
+Immunophenotyping
+Immunotherapy, Adoptive/*methods
+Interferon-gamma/metabolism
+Interleukin-4/metabolism
+Killer Cells, Lymphokine-Activated/immunology/metabolism/*transplantation
+Leukocytes, Mononuclear/chemistry/immunology
+Liver Neoplasms/pathology/*therapy
+Lymphocyte Subsets/immunology/metabolism/*transplantation
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*prevention & control
+Treatment Outcome

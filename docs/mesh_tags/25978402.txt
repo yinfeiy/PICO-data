@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Female
+Fibromyalgia/*physiopathology
+Humans
+Male
+Middle Aged
+Pain Measurement
+Quality of Life
+Self Care/*methods
+Treatment Outcome
+Young Adult

@@ -1,0 +1,16 @@
+Acute Disease
+Adult
+Data Collection
+Diagnostic Imaging/utilization
+Female
+Guideline Adherence/*organization & administration
+Health Plan Implementation/*statistics & numerical data
+Humans
+Low Back Pain/*diagnosis/*therapy
+Male
+Middle Aged
+Patient Education as Topic/*standards
+Physical Therapy Specialty/statistics & numerical data
+Practice Patterns, Physicians'/*statistics & numerical data
+Program Development/methods
+Referral and Consultation/utilization

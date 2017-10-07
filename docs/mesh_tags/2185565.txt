@@ -1,0 +1,16 @@
+Bone Marrow Transplantation/mortality/*trends
+Colony-Stimulating Factors/therapeutic use
+Combined Modality Therapy
+Double-Blind Method
+Drug Evaluation
+Graft Survival/drug effects
+Granulocyte-Macrophage Colony-Stimulating Factor
+Growth Substances/therapeutic use
+Humans
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive/drug therapy/mortality/*surgery
+Multiple Myeloma/drug therapy/mortality/*surgery
+Myelodysplastic Syndromes/drug therapy/mortality/*surgery
+Randomized Controlled Trials as Topic
+Recombinant Proteins/therapeutic use
+Survival Rate
+Washington/epidemiology

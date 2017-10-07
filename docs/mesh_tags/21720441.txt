@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Analysis of Variance
+*Beverages
+*Eating
+*Energy Intake
+Energy Metabolism
+Female
+*Fruit
+Humans
+Indiana/epidemiology
+Male
+Nutritive Value
+*Obesity/epidemiology/metabolism
+Surveys and Questionnaires
+*Thinness/epidemiology/metabolism
+*Vegetables
+*Weight Gain
+Young Adult

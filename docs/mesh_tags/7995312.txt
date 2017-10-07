@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Aged
+Female
+Humans
+Hypertension/*drug therapy
+Lisinopril/adverse effects/*therapeutic use
+Male
+Middle Aged
+Nifedipine/adverse effects/*therapeutic use

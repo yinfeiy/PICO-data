@@ -1,0 +1,17 @@
+Adolescent
+Adult
+*Anesthesia Recovery Period
+*Anesthesia, Dental
+Anesthetics, Combined/administration & dosage/*pharmacology
+Epidemiologic Methods
+Female
+Fentanyl/administration & dosage/*pharmacology
+Humans
+Male
+Midazolam/administration & dosage
+Middle Aged
+Molar, Third/surgery
+Piperidines/administration & dosage/*pharmacology
+Propofol/administration & dosage
+Recovery of Function/*drug effects
+Time Factors

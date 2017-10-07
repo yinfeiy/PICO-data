@@ -1,0 +1,14 @@
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Estradiol/blood
+Female
+Follicle Stimulating Hormone/blood
+Humans
+Infant
+Leuprolide/administration & dosage/adverse effects/*therapeutic use
+Luteinizing Hormone/blood
+Male
+Puberty, Precocious/blood/*drug therapy
+Testosterone/blood
+Treatment Outcome

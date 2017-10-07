@@ -1,0 +1,18 @@
+Acrylates/pharmacology/*therapeutic use
+Aged
+Angiotensin II Type 1 Receptor Blockers
+Angiotensin-Converting Enzyme Inhibitors/pharmacology/therapeutic use
+Antihypertensive Agents/pharmacology/*therapeutic use
+Blood Pressure/drug effects
+Double-Blind Method
+Enalapril/pharmacology/*therapeutic use
+Endothelium, Vascular/drug effects
+Female
+Humans
+Hypertension/*drug therapy
+Imidazoles/pharmacology/*therapeutic use
+Male
+Middle Aged
+Platelet Activation/drug effects
+Prospective Studies
+*Thiophenes

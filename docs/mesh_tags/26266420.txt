@@ -1,0 +1,22 @@
+5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase/*genetics
+Adult
+Aged
+Asian Continental Ancestry Group/genetics
+Blood Pressure
+Body Mass Index
+Double-Blind Method
+Female
+Ferredoxin-NADP Reductase/*genetics
+Folic Acid/blood
+Folic Acid Deficiency/blood/*genetics
+Genotyping Techniques
+Homocysteine/*metabolism
+Humans
+Incidence
+Linear Models
+Male
+Methylenetetrahydrofolate Reductase (NADPH2)/*genetics
+Middle Aged
+Polymerase Chain Reaction
+Polymorphism, Restriction Fragment Length
+Polymorphism, Single Nucleotide

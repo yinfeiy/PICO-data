@@ -1,0 +1,16 @@
+Age of Onset
+Aged
+Aged, 80 and over
+Antidepressive Agents/therapeutic use
+Brain/*pathology
+Depression/*drug therapy/pathology
+Depressive Disorder/drug therapy/pathology
+Female
+Humans
+*Magnetic Resonance Imaging
+Male
+Middle Aged
+Odds Ratio
+Prognosis
+Remission Induction
+Treatment Outcome

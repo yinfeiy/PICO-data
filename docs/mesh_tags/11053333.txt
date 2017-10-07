@@ -1,0 +1,18 @@
+Adult
+Antihypertensive Agents
+Blood Pressure/drug effects/physiology
+Cardiac Output/drug effects/physiology
+Cold Temperature
+Enzyme Inhibitors/*administration & dosage
+Female
+Heart Rate/drug effects/physiology
+Humans
+Hypotension/chemically induced/*physiopathology
+Male
+Nitric Oxide/metabolism
+Nitric Oxide Synthase/*antagonists & inhibitors
+Phentolamine
+Physical Exertion/*physiology
+Sympathetic Nervous System/physiology
+Vascular Resistance/drug effects/physiology
+omega-N-Methylarginine/*administration & dosage

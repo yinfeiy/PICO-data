@@ -1,0 +1,12 @@
+Aged
+Double-Blind Method
+Female
+Gastrointestinal Agents/*therapeutic use
+Humans
+Intestines/*pathology/radiation effects
+Male
+Middle Aged
+Neoplasms/*radiotherapy
+Pelvis/radiation effects
+Radiation Injuries/*prevention & control
+Sulfasalazine/*therapeutic use

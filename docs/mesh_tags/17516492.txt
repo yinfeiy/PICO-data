@@ -1,0 +1,14 @@
+Aged
+Depression/etiology/therapy
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Parkinson Disease/complications/*therapy
+Phototherapy/*methods
+Pilot Projects
+Retrospective Studies
+Severity of Illness Index
+Sleep Wake Disorders/etiology/therapy
+Treatment Outcome

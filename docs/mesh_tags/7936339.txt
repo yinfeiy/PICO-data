@@ -1,0 +1,11 @@
+Aged
+Aorta, Abdominal/*surgery
+Aortic Aneurysm, Abdominal/*surgery
+Dopamine/*analogs & derivatives/pharmacology
+Gastric Acidity Determination
+Hemodynamics/*drug effects
+Humans
+*Intraoperative Care
+Male
+Middle Aged
+Splanchnic Circulation/*drug effects/physiology

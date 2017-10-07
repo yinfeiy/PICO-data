@@ -1,0 +1,22 @@
+Adult
+Aged
+Biomarkers/blood
+C-Reactive Protein/metabolism
+Colectomy/*methods/mortality/rehabilitation
+Colonic Neoplasms/immunology/mortality/*surgery
+Female
+Flow Cytometry
+Hospital Mortality
+Humans
+*Immunity, Humoral
+Interleukin-6/blood
+*Laparoscopy/mortality/rehabilitation
+Length of Stay/statistics & numerical data
+Lymphocyte Count
+Male
+Middle Aged
+Patient Readmission/statistics & numerical data
+Perioperative Care/*methods
+Postoperative Complications/epidemiology
+Prospective Studies
+Treatment Outcome

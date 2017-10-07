@@ -1,0 +1,25 @@
+3' Untranslated Regions/*genetics
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Binding Sites
+Colonic Neoplasms/drug therapy/*genetics/mortality/pathology
+Female
+Follow-Up Studies
+Gene Expression Regulation, Neoplastic
+Humans
+Male
+MicroRNAs/*genetics
+Middle Aged
+Mutation/*genetics
+Neoplasm Grading
+Neoplasm Staging
+Polymorphism, Single Nucleotide/*genetics
+Prognosis
+Proto-Oncogene Proteins/*genetics
+Proto-Oncogene Proteins p21(ras)
+Survival Rate
+Young Adult
+ras Proteins/*genetics

@@ -1,0 +1,12 @@
+Administration, Rectal
+Anti-Infective Agents/therapeutic use
+Child, Preschool
+Drug Therapy, Combination
+Drugs, Chinese Herbal/*administration & dosage
+Female
+Humans
+Infant
+Male
+*Phytotherapy
+Pneumonia, Viral/*drug therapy/immunology
+Respiratory Syncytial Virus Infections/*drug therapy/immunology

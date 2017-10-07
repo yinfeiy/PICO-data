@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Age Factors
+Aged
+Aged, 80 and over
+Benzamides/*administration & dosage
+Dose-Response Relationship, Drug
+Female
+Humans
+Imatinib Mesylate
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive/*diagnosis/*drug therapy
+Male
+Middle Aged
+Piperazines/*administration & dosage
+Protein Kinase Inhibitors/*administration & dosage
+Pyrimidines/*administration & dosage
+Treatment Outcome
+Young Adult

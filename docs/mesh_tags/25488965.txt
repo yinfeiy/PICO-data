@@ -1,0 +1,17 @@
+Adult
+Aged
+Antineoplastic Agents/*therapeutic use
+Carcinoma, Squamous Cell/*mortality/pathology/*therapy
+*Chemoradiotherapy
+Cisplatin/*therapeutic use
+Disease-Free Survival
+*Dose Fractionation
+Female
+Head and Neck Neoplasms/*mortality/pathology/*therapy
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Neoplasm Staging
+*Patient Selection
+Prospective Studies

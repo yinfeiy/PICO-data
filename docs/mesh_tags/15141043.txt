@@ -1,0 +1,17 @@
+Adenocarcinoma/mortality/*surgery
+Adult
+Aged
+Aged, 80 and over
+Colectomy/*methods
+Colonic Neoplasms/mortality/*surgery
+Disease-Free Survival
+Female
+Follow-Up Studies
+Humans
+*Laparoscopy
+Laparotomy
+Male
+Middle Aged
+Neoplasm Recurrence, Local/epidemiology
+Postoperative Complications
+Survival Rate

@@ -1,0 +1,14 @@
+Adolescent
+Bacteremia/*drug therapy/etiology/microbiology
+*Catheterization
+Child
+Child, Preschool
+Drug Combinations
+Enterococcus/isolation & purification/pathogenicity
+Heparin/administration & dosage/*therapeutic use
+Humans
+*Parenteral Nutrition
+*Solutions
+Streptococcus/isolation & purification/pathogenicity
+Treatment Outcome
+Vancomycin/administration & dosage/*therapeutic use

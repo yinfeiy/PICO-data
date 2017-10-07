@@ -1,0 +1,17 @@
+Adult
+Aged
+Amlodipine/adverse effects/*therapeutic use
+Azetidinecarboxylic Acid/adverse effects/*analogs & derivatives/therapeutic use
+Calcium Channel Blockers/adverse effects/*therapeutic use
+Coronary Artery Disease/complications/*diagnostic imaging/*prevention & control
+Dihydropyridines/adverse effects/*therapeutic use
+Disease Progression
+Double-Blind Method
+Endpoint Determination
+Female
+Humans
+Hypertension/*complications/*drug therapy
+Male
+Middle Aged
+Ultrasonography
+Young Adult

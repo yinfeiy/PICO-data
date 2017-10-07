@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage/adverse effects
+Carboplatin/*administration & dosage/adverse effects
+Chemotherapy, Adjuvant
+Cisplatin/*administration & dosage/adverse effects
+Combined Modality Therapy
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Nasopharyngeal Neoplasms/*drug therapy/radiotherapy
+Radiotherapy/adverse effects
+Treatment Outcome

@@ -1,0 +1,18 @@
+Adult
+Aged
+Albuminuria/urine
+Blood Pressure
+Colorado
+Demography
+Diabetes Mellitus, Type 2/*complications
+Diabetic Angiopathies/*prevention & control
+Diabetic Nephropathies/prevention & control
+Diabetic Neuropathies/prevention & control
+Diabetic Retinopathy/prevention & control
+Female
+Glomerular Filtration Rate
+Humans
+Hypertension/*prevention & control
+Male
+Middle Aged
+Treatment Outcome

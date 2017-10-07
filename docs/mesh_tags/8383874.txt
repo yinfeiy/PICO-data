@@ -1,0 +1,11 @@
+Child
+Cross-Sectional Studies
+Female
+Humans
+Hypertension/*blood
+Leukocytes/*metabolism
+Male
+*Physical Education and Training
+Radioligand Assay
+Risk Factors
+Sodium-Potassium-Exchanging ATPase/*physiology

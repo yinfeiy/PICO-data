@@ -1,0 +1,14 @@
+Acute Disease
+Adult
+Disability Evaluation
+Female
+Follow-Up Studies
+Humans
+Low Back Pain/physiopathology/*psychology/*therapy
+Male
+Middle Aged
+Severity of Illness Index
+Sick Leave/statistics & numerical data
+Time Factors
+Treatment Outcome
+Work Capacity Evaluation

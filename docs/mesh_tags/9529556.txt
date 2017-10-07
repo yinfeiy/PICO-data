@@ -1,0 +1,27 @@
+Administration, Cutaneous
+Administration, Topical
+Anti-Inflammatory Agents/administration & dosage/adverse effects/therapeutic use
+Antipruritics/administration & dosage/adverse effects/therapeutic use
+Cyclooxygenase Inhibitors/administration & dosage/adverse effects/therapeutic use
+Cytokines/immunology
+Disease Progression
+Doxepin/administration & dosage/adverse effects/therapeutic use
+Drug Eruptions/complications
+Emollients/administration & dosage/therapeutic use
+Follow-Up Studies
+Glucocorticoids
+HIV Infections/*complications/immunology
+HIV Seropositivity
+*HIV-1
+Humans
+Hydroxyzine/administration & dosage/adverse effects/therapeutic use
+Indomethacin/administration & dosage/adverse effects/therapeutic use
+Pentoxifylline/administration & dosage/adverse effects/therapeutic use
+Phosphodiesterase Inhibitors/administration & dosage/adverse effects/therapeutic use
+Photosensitivity Disorders/complications
+Pruritus/*drug therapy/etiology/immunology
+Skin Diseases/complications
+Skin Diseases, Infectious/complications
+Th1 Cells/immunology
+Th2 Cells/immunology
+Triamcinolone/administration & dosage/adverse effects/therapeutic use

@@ -1,0 +1,10 @@
+Adult
+Ambulatory Surgical Procedures
+Anesthetics, Inhalation/*therapeutic use
+Female
+Humans
+Isoflurane/*analogs & derivatives/*therapeutic use
+Male
+Patient Discharge
+Time Factors
+Wakefulness/*drug effects

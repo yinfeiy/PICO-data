@@ -1,0 +1,17 @@
+Adult
+Antineoplastic Agents, Hormonal/*administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage
+Breast Neoplasms/*drug therapy/pathology
+Chemotherapy, Adjuvant
+Cyclophosphamide/administration & dosage
+Female
+Fluorouracil/administration & dosage
+Goserelin/*administration & dosage
+Humans
+Methotrexate/administration & dosage
+Middle Aged
+Ovarian Function Tests
+Ovary/drug effects
+Premenopause
+Primary Ovarian Insufficiency/*prevention & control
+Tamoxifen/*administration & dosage

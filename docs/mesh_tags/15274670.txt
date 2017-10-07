@@ -1,0 +1,12 @@
+Autonomic Nervous System Diseases/blood/physiopathology
+Blood Glucose/metabolism
+Diabetes Mellitus/blood/*physiopathology
+Diabetic Neuropathies/blood/physiopathology
+Erythromycin/*analogs & derivatives/pharmacology
+Female
+Gastric Emptying/*drug effects
+Gastroparesis/blood/*physiopathology
+Humans
+Male
+Middle Aged
+Motilin/*antagonists & inhibitors

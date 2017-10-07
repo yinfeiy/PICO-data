@@ -1,0 +1,15 @@
+Afferent Pathways/physiology
+Disability Evaluation
+Dystonic Disorders/physiopathology/*therapy
+Hand/innervation/*physiopathology
+Humans
+Motor Neurons/physiology
+Muscle, Skeletal/innervation/physiopathology
+Neural Inhibition/physiology
+Placebo Effect
+Recovery of Function/*physiology
+Sensory Receptor Cells/physiology
+Spinal Cord/physiology
+Synaptic Transmission/physiology
+Transcutaneous Electric Nerve Stimulation/*methods/statistics & numerical data
+Treatment Outcome

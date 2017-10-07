@@ -1,0 +1,16 @@
+Aldosterone/blood
+Angiotensin II/blood
+Angiotensin-Converting Enzyme Inhibitors/*administration & dosage
+Dose-Response Relationship, Drug
+Double-Blind Method
+Enalapril/*administration & dosage
+Female
+Genotype
+Heart Failure/blood/drug therapy/*genetics
+Humans
+Male
+Middle Aged
+Neurotransmitter Agents/*blood
+Peptidyl-Dipeptidase A/blood/*genetics
+*Polymorphism, Genetic
+Renin/blood

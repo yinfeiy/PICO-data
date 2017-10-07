@@ -1,0 +1,26 @@
+Actinobacillus Infections/therapy
+Adult
+Aggregatibacter actinomycetemcomitans/isolation & purification
+Aggressive Periodontitis/microbiology/*therapy
+Amoxicillin/*therapeutic use
+Anti-Bacterial Agents/*therapeutic use
+Anti-Infective Agents/*therapeutic use
+Bacteroidaceae Infections/therapy
+Bacteroides/classification
+Bacteroides Infections/therapy
+Chronic Periodontitis/microbiology/*therapy
+Colony Count, Microbial
+Combined Modality Therapy
+*Dental Scaling
+Drug Combinations
+Follow-Up Studies
+Humans
+Metronidazole/*therapeutic use
+Middle Aged
+Periodontal Attachment Loss/microbiology/therapy
+Periodontal Index
+Periodontal Pocket/microbiology/therapy
+Placebos
+Porphyromonas gingivalis/isolation & purification
+Prevotella intermedia/isolation & purification
+*Root Planing

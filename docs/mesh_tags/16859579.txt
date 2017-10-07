@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage
+Carcinoma, Renal Cell/*drug therapy/secondary/surgery
+Chemotherapy, Adjuvant
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Humans
+Injections, Subcutaneous
+Interleukin-2/*administration & dosage
+Kidney Neoplasms/*drug therapy/pathology/surgery
+Male
+Middle Aged
+Pilot Projects
+Treatment Outcome

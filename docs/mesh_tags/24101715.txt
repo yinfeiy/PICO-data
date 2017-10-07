@@ -1,0 +1,12 @@
+Adolescent
+Anxiety/psychology/*therapy
+Anxiety Disorders/psychology/*therapy
+Child
+Child Development Disorders, Pervasive/*psychology
+Cognitive Therapy/*methods
+Female
+Humans
+Male
+Pilot Projects
+Psychotherapy, Group/*methods
+Single-Blind Method

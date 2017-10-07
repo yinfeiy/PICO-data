@@ -1,0 +1,10 @@
+Adenoma/pathology/surgery
+Biopsy
+Clinical Trials as Topic
+Colonic Polyps/pathology/*surgery
+Electrocoagulation/*methods
+Humans
+Necrosis
+Prospective Studies
+Random Allocation
+Time Factors

@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Asian Americans/*psychology
+Breast Neoplasms/diagnosis/ethnology
+Colorectal Neoplasms/diagnosis/ethnology
+Early Detection of Cancer/*utilization
+Female
+Hawaii
+Healthcare Disparities/*ethnology
+Humans
+Male
+Medicare
+Middle Aged
+Oceanic Ancestry Group/*psychology
+Patient Acceptance of Health Care/*ethnology
+*Patient Navigation
+Prostatic Neoplasms/diagnosis/ethnology
+United States
+Uterine Cervical Neoplasms/diagnosis/ethnology

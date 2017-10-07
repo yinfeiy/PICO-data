@@ -1,0 +1,15 @@
+Adult
+Blood Pressure/*physiology
+Blood Pressure Determination/methods
+Blood Pressure Monitoring, Ambulatory
+Data Interpretation, Statistical
+Diastole
+Female
+Humans
+Hypertension/diagnosis/physiopathology
+Male
+Middle Aged
+Office Visits
+*Self Care
+Sensitivity and Specificity
+Systole

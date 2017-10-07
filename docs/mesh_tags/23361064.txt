@@ -1,0 +1,14 @@
+Adult
+Anticipation, Psychological/*physiology
+Dystonic Disorders/diagnosis/*physiopathology/psychology
+Female
+*Hand
+Humans
+Male
+Middle Aged
+Motion Perception/*physiology
+Photic Stimulation/*methods
+Psychomotor Performance/physiology
+Reaction Time/physiology
+Time Factors
+Young Adult

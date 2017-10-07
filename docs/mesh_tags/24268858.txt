@@ -1,0 +1,26 @@
+Adult
+Aged
+Angiogenesis Inhibitors/*therapeutic use
+Antibodies, Monoclonal, Humanized/*therapeutic use
+Central Serous Chorioretinopathy/diagnosis/*drug therapy/physiopathology
+Chronic Disease
+Coloring Agents
+Double-Blind Method
+Female
+Fluorescein Angiography
+Humans
+Indocyanine Green
+Intravitreal Injections
+*Low-Level Light Therapy
+Male
+Middle Aged
+*Photochemotherapy
+Photosensitizing Agents/therapeutic use
+Porphyrins/therapeutic use
+Prospective Studies
+Ranibizumab
+Retina/pathology
+Subretinal Fluid
+Tomography, Optical Coherence
+Treatment Outcome
+Visual Acuity/physiology

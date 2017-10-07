@@ -1,0 +1,13 @@
+Adult
+Cholesterol/blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Contraceptives, Oral, Combined/*pharmacology
+Desogestrel
+Ethinyl Estradiol/*pharmacology
+Female
+Humans
+Lipoproteins/*blood
+Norpregnenes/*pharmacology
+Random Allocation
+Triglycerides/blood

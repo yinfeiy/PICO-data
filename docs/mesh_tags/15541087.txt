@@ -1,0 +1,17 @@
+Administration, Cutaneous
+Adult
+Betamethasone/*therapeutic use
+Calcineurin Inhibitors
+Dermatitis, Seborrheic/*drug therapy/pathology
+Dermatologic Agents/*therapeutic use
+Erythema/drug therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Pruritus/drug therapy
+Recurrence
+Severity of Illness Index
+Tacrolimus/*analogs & derivatives/*therapeutic use
+Treatment Outcome

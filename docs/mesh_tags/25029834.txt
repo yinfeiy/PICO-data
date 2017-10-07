@@ -1,0 +1,13 @@
+Adult
+Aged
+Arthroscopy
+Case-Control Studies
+Combined Modality Therapy
+Debridement
+*Electroacupuncture
+Humans
+Knee Joint/physiopathology/*surgery
+Male
+Middle Aged
+Osteoarthritis, Knee/physiopathology/*surgery/*therapy
+Treatment Outcome

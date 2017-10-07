@@ -1,0 +1,11 @@
+Analgesia, Obstetrical/*methods
+Clinical Protocols
+Female
+Humans
+Injections, Intradermal/methods
+Labor Pain/*therapy
+Low Back Pain/*therapy
+Pain Measurement
+Pregnancy
+Single-Blind Method
+Water/*administration & dosage

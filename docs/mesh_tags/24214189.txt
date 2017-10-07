@@ -1,0 +1,15 @@
+Adult
+Asian Continental Ancestry Group
+Cross-Over Studies
+Double-Blind Method
+Electrocardiography/drug effects
+Female
+Fluoroquinolones/adverse effects/blood/pharmacokinetics/*pharmacology
+Humans
+Long QT Syndrome
+Male
+Middle Aged
+Nitriles/adverse effects/blood/pharmacokinetics/*pharmacology
+Pyridines/adverse effects/blood/pharmacokinetics/*pharmacology
+Xanthine Oxidase/*antagonists & inhibitors
+Young Adult

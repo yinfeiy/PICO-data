@@ -1,0 +1,17 @@
+Aged
+Blood Glucose/analysis/*drug effects
+Blood Pressure/drug effects
+Chromatography, Gas
+Cross-Over Studies
+Diabetes Mellitus, Type 2/blood/*physiopathology
+Double-Blind Method
+Fatty Acids, Nonesterified/blood
+Female
+Ganglionic Stimulants/administration & dosage/*pharmacology
+Glucose Clamp Technique
+Humans
+Infusions, Intravenous
+Insulin Resistance/*physiology
+Male
+Middle Aged
+Nicotine/administration & dosage/*pharmacology

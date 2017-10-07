@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/*therapeutic use
+Cephalosporins/pharmacology/therapeutic use
+Clostridium difficile/*drug effects
+Enterocolitis, Pseudomembranous/prevention & control
+Female
+Humans
+Intestines/*microbiology
+Male
+Middle Aged
+*Premedication
+Prospective Studies
+Surgical Procedures, Operative/*adverse effects

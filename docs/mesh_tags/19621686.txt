@@ -1,0 +1,16 @@
+Adult
+Aged
+*Asian Continental Ancestry Group
+Carcinoma/*ethnology/mortality/*surgery
+Cohort Studies
+Esophageal Neoplasms/*ethnology/mortality/*surgery
+Esophagectomy/*methods
+Female
+Humans
+Male
+Middle Aged
+Patient Satisfaction
+Quality of Life
+Recovery of Function
+Survival Rate
+Treatment Outcome

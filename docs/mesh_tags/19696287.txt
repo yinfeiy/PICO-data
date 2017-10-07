@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Analysis of Variance
+Carcinoma, Hepatocellular/blood supply/*diagnostic imaging
+Chi-Square Distribution
+Contrast Media/*administration & dosage
+Female
+Humans
+Iohexol/*administration & dosage
+Iopamidol/*administration & dosage
+Liver Neoplasms/blood supply/*diagnostic imaging
+Male
+Middle Aged
+Prospective Studies
+Sodium Chloride/administration & dosage
+Tomography, X-Ray Computed/*methods

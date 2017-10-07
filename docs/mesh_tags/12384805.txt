@@ -1,0 +1,17 @@
+Adjuvants, Immunologic/therapeutic use
+Adolescent
+Adult
+Aged
+Combined Modality Therapy
+Disease-Free Survival
+Female
+Humans
+*Immunotherapy, Adoptive
+Interleukin-2/therapeutic use
+Lymphatic Metastasis
+Lymphocytes, Tumor-Infiltrating/*transplantation
+Male
+Melanoma/diagnosis/mortality/*therapy
+Middle Aged
+Survival Rate
+T-Lymphocytes/immunology

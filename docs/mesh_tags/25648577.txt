@@ -1,0 +1,15 @@
+Aged
+Aged, 80 and over
+Comorbidity
+Depression/epidemiology
+Female
+Heart Failure/drug therapy/epidemiology/*psychology
+Humans
+Life Style
+Logistic Models
+Male
+Mineralocorticoid Receptor Antagonists/therapeutic use
+Prognosis
+*Quality of Life
+Spironolactone/therapeutic use
+Stroke Volume

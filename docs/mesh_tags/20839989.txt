@@ -1,0 +1,14 @@
+Acute-Phase Reaction/*psychology
+Animals
+Behavior, Animal/*drug effects
+Blood Glucose
+Dogs
+Female
+Hydrocortisone/blood
+Hysterectomy/*veterinary
+Male
+Orchiectomy/*veterinary
+Ovariectomy/veterinary
+Pheromones/*pharmacology
+Prolactin/blood
+Stress, Physiological/*drug effects

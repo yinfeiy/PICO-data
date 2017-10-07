@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+Cyclophosphamide/administration & dosage/*therapeutic use
+Cyclosporine/administration & dosage/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Nephrotic Syndrome/*complications/*drug therapy
+Recurrence
+Remission Induction
+*Steroids
+Substance-Related Disorders/*complications
+Time Factors

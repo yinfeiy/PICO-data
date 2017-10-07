@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Autistic Disorder/*physiopathology/*psychology
+Compulsive Behavior/etiology/*physiopathology
+Human Growth Hormone/*blood/secretion
+Humans
+Middle Aged
+Psychiatric Status Rating Scales
+Receptor, Serotonin, 5-HT1D
+Receptors, Serotonin/drug effects/*physiology
+Regression Analysis
+Serotonin Receptor Agonists/*pharmacology
+Sumatriptan/*pharmacology

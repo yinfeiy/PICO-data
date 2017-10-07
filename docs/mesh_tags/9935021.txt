@@ -1,0 +1,13 @@
+Adult
+Aged
+Cardiomyopathy, Hypertrophic/*diagnosis/pathology
+Female
+Follow-Up Studies
+Heart Ventricles/pathology
+Humans
+*Magnetic Resonance Imaging
+Male
+Middle Aged
+Myocardium/pathology
+Prognosis
+Sensitivity and Specificity

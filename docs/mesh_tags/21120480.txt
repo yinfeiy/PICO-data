@@ -1,0 +1,18 @@
+Adult
+Aged
+Area Under Curve
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Electrocardiography/drug effects
+Fasting/metabolism
+Female
+Food-Drug Interactions
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Neoplasms/*drug therapy/pathology
+Quinazolines/adverse effects/*pharmacokinetics/*therapeutic use
+Tomography, X-Ray Computed
+Treatment Outcome
+Young Adult

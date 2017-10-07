@@ -1,0 +1,18 @@
+Antibodies, Monoclonal/*therapeutic use
+Antirheumatic Agents/*therapeutic use
+Arthritis, Rheumatoid/diagnostic imaging/*drug therapy/physiopathology
+Arthrography
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Health Status
+Humans
+Infliximab
+Joints/drug effects/pathology/physiopathology
+Male
+Methotrexate/*therapeutic use
+Middle Aged
+Retreatment
+Severity of Illness Index
+Treatment Outcome
+*Tumor Necrosis Factor-alpha/immunology

@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Pressure/drug effects/physiology
+Diastole/drug effects/physiology
+Double-Blind Method
+Exercise Test
+Heart Failure, Systolic/*drug therapy/physiopathology
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Myocardium/*pathology
+Natriuretic Peptide, Brain/metabolism
+Peptide Fragments/metabolism
+Phosphodiesterase 5 Inhibitors/adverse effects/pharmacology/*therapeutic use
+Piperazines/adverse effects/pharmacology/*therapeutic use
+Prospective Studies
+Purines/adverse effects/pharmacology/therapeutic use
+Quality of Life
+Sildenafil Citrate
+Sulfones/adverse effects/pharmacology/*therapeutic use
+Ventricular Dysfunction, Left/*drug therapy/physiopathology

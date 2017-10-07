@@ -1,0 +1,22 @@
+Adenoma/diagnosis
+Adult
+Aged
+*Contrast Media/administration & dosage
+Craniopharyngioma/diagnosis
+Drug Combinations
+Female
+*Gadolinium/administration & dosage
+Gadolinium DTPA
+Humans
+Image Enhancement
+Injections, Intravenous
+*Magnetic Resonance Imaging/methods
+Male
+Meglumine
+Middle Aged
+*Organometallic Compounds/administration & dosage
+Pentetic Acid/administration & dosage/*analogs & derivatives
+Pituitary Diseases/*diagnosis
+Pituitary Neoplasms/diagnosis
+Prolactinoma/diagnosis
+Retrospective Studies

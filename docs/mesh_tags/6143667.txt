@@ -1,0 +1,17 @@
+Adrenergic beta-Antagonists/*adverse effects
+Adult
+Atenolol/adverse effects
+Blood Glucose/metabolism
+C-Peptide/blood
+Double-Blind Method
+Erythrocytes/metabolism
+Female
+Gastric Inhibitory Polypeptide/blood
+Humans
+Hypertension/*physiopathology
+Insulin/blood/*pharmacology
+Islets of Langerhans/*drug effects
+Male
+Middle Aged
+Propranolol/adverse effects
+Random Allocation

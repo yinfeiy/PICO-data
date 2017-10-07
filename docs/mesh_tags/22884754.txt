@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Aged
+Analysis of Variance
+Antipsychotic Agents/*pharmacology/therapeutic use
+Benzodiazepines/pharmacology/therapeutic use
+Cerebral Cortex/*drug effects
+Cognition Disorders/etiology
+Double-Blind Method
+Female
+Follow-Up Studies
+Haloperidol/pharmacology/therapeutic use
+Humans
+Image Processing, Computer-Assisted
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Neuropsychological Tests
+Psychiatric Status Rating Scales
+Retrospective Studies
+Risperidone/pharmacology/therapeutic use
+Schizophrenia/complications/drug therapy/*pathology
+Young Adult

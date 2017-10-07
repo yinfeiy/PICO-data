@@ -1,0 +1,14 @@
+Arousal/physiology
+*Behavior Therapy
+Blood Pressure/physiology
+Humans
+Hydrocortisone/blood
+Male
+Occupational Diseases/physiopathology/psychology/*therapy
+*Patient Education as Topic
+Personality Inventory
+*Psychotherapy, Group
+Saliva/metabolism
+Somatoform Disorders/physiopathology/psychology/*therapy
+Stress, Psychological/*complications/physiopathology/psychology
+Workload/*psychology

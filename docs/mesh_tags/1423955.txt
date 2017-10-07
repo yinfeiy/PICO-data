@@ -1,0 +1,12 @@
+Aged
+Atrial Fibrillation/*drug therapy
+Atrial Flutter/*drug therapy
+Diltiazem/administration & dosage/*pharmacokinetics/*therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Infusions, Intravenous
+Injections, Intravenous
+Male
+Models, Chemical

@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Algorithms
+Chi-Square Distribution
+Cognitive Therapy/education/*methods
+Community Mental Health Services/methods
+Female
+Humans
+Male
+Middle Aged
+Patient Education as Topic/methods
+Psychotherapy, Brief/*methods
+Schizophrenia/*therapy
+Treatment Outcome

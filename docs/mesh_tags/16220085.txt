@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Anti-HIV Agents/adverse effects/pharmacokinetics/*therapeutic use
+Antiretroviral Therapy, Highly Active
+Child
+Child, Preschool
+Didanosine/adverse effects/pharmacokinetics/therapeutic use
+Female
+HIV Infections/*drug therapy/virology
+HIV-1/drug effects
+Humans
+Infant
+Male
+Nelfinavir/adverse effects/pharmacokinetics/*therapeutic use
+Nevirapine/adverse effects/pharmacokinetics/therapeutic use
+Reverse Transcriptase Inhibitors/adverse effects/pharmacokinetics/*therapeutic use
+Ritonavir/adverse effects/pharmacokinetics/therapeutic use
+Stavudine/adverse effects/pharmacokinetics/therapeutic use
+Treatment Outcome

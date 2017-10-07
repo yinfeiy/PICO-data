@@ -1,0 +1,13 @@
+Adult
+Calcium/blood
+Female
+Goiter, Nodular/*surgery
+Humans
+Hypoparathyroidism/epidemiology/*etiology
+Male
+Middle Aged
+Parathyroid Hormone/blood
+Postoperative Complications/*epidemiology
+Retrospective Studies
+Risk Factors
+Thyroidectomy/adverse effects/*methods

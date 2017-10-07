@@ -1,0 +1,15 @@
+Administration, Oral
+Adolescent
+Adult
+Amoxicillin/*therapeutic use
+Amoxicillin-Potassium Clavulanate Combination
+Clavulanic Acids/*therapeutic use
+Drug Therapy, Combination/therapeutic use
+Female
+Hospitalization
+Humans
+Injections, Intravenous
+Male
+Ofloxacin/administration & dosage/adverse effects/*therapeutic use
+Respiratory Tract Infections/*drug therapy/microbiology
+Sputum/microbiology

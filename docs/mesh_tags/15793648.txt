@@ -1,0 +1,17 @@
+Absenteeism
+Adult
+Electrocoagulation/adverse effects/*instrumentation
+Female
+Follow-Up Studies
+Hemorrhoids/*surgery
+Humans
+Length of Stay
+Male
+Middle Aged
+Pain, Postoperative/etiology/prevention & control
+Patient Satisfaction
+Prospective Studies
+Severity of Illness Index
+*Surgical Stapling/adverse effects
+Treatment Outcome
+*Ultrasonics

@@ -1,0 +1,14 @@
+Abdomen/*diagnostic imaging
+Cathartics/*administration & dosage
+Colonic Diseases/diagnostic imaging
+Evaluation Studies as Topic
+Female
+*Gallium Radioisotopes/metabolism
+Humans
+Intestines/diagnostic imaging/metabolism
+Magnesium Hydroxide/administration & dosage
+Male
+Middle Aged
+Prospective Studies
+Radionuclide Imaging
+Random Allocation

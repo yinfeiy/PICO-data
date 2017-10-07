@@ -1,0 +1,19 @@
+Adenosine/*pharmacology
+Adult
+Carbon Dioxide/metabolism
+Chest Pain/drug therapy/metabolism/physiopathology
+Cross-Over Studies
+Double-Blind Method
+Dyspnea/metabolism/physiopathology
+Electric Stimulation/methods
+Healthy Volunteers
+Humans
+Male
+Middle Aged
+Nerve Fibers, Unmyelinated/drug effects/metabolism/physiology
+Neural Inhibition/*drug effects/*physiology
+Neural Pathways/drug effects/metabolism/physiopathology
+Nociceptors/*drug effects/metabolism/*physiology
+Pain Measurement/methods
+Reflex/drug effects/physiology
+Young Adult

@@ -1,0 +1,16 @@
+Aged
+Angina, Unstable/*therapy
+*Angioplasty, Balloon, Coronary
+Anticoagulants/administration & dosage/adverse effects/pharmacokinetics
+Antithrombins/*administration & dosage/adverse effects/pharmacokinetics
+Blood Coagulation/drug effects
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Hemorrhage/chemically induced
+Heparin/administration & dosage/adverse effects/pharmacokinetics
+Humans
+Male
+Middle Aged
+Pipecolic Acids/*administration & dosage/adverse effects/pharmacokinetics
+Thrombosis/*prevention & control

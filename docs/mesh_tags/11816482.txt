@@ -1,0 +1,11 @@
+Administration, Intravesical
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Doxorubicin/administration & dosage
+Epirubicin/administration & dosage
+Female
+Humans
+Instillation, Drug
+Male
+Neoplasm Recurrence, Local/*prevention & control
+Postoperative Care
+Urinary Bladder Neoplasms/*prevention & control/surgery

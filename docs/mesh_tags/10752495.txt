@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Arthritis, Rheumatoid/*metabolism
+Biomarkers/blood/urine
+Body Mass Index
+Creatinine/*blood/*urine
+Female
+Glomerular Filtration Rate
+Humans
+Male
+Mathematics
+Middle Aged
+Outpatients
+Predictive Value of Tests
+Reproducibility of Results

@@ -1,0 +1,5 @@
+Carcinoma, Squamous Cell/pathology/*radiotherapy/*surgery
+Clinical Protocols
+Humans
+Neoplasm Staging
+Oropharyngeal Neoplasms/pathology/*radiotherapy/*surgery

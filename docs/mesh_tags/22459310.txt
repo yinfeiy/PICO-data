@@ -1,0 +1,17 @@
+Adult
+Aged
+Atorvastatin Calcium
+Double-Blind Method
+Female
+Follow-Up Studies
+Glomerular Filtration Rate/*physiology
+Heart Failure/*drug therapy
+Heptanoic Acids/administration & dosage/*therapeutic use
+Hospitalization/*statistics & numerical data
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/administration & dosage/*therapeutic use
+Male
+Middle Aged
+Proportional Hazards Models
+Pyrroles/administration & dosage/*therapeutic use
+Retrospective Studies

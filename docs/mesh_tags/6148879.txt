@@ -1,0 +1,20 @@
+Adolescent
+Adrenergic beta-Antagonists/blood/*therapeutic use
+Adult
+Aged
+Creatinine/blood
+Female
+Heart Rate/drug effects
+Humans
+Hyperthyroidism/*drug therapy
+Kinetics
+Male
+Middle Aged
+Nadolol
+Patient Compliance
+Posture
+Propanolamines/blood/*therapeutic use
+Propranolol/blood/*therapeutic use
+Random Allocation
+Thyroid Hormones/blood
+Time Factors

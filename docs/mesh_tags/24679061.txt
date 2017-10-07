@@ -1,0 +1,14 @@
+Adrenergic alpha-2 Receptor Agonists/adverse effects/*therapeutic use
+Aged
+Clonidine/adverse effects/*therapeutic use
+Female
+Humans
+Hypotension/*chemically induced
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Infarction/*prevention & control
+Perioperative Care
+Postoperative Complications/chemically induced/*prevention & control
+Surgical Procedures, Operative/*mortality
+Treatment Failure

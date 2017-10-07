@@ -1,0 +1,13 @@
+Adult
+Aged
+Anticoagulants/*administration & dosage
+Dalteparin/*administration & dosage
+*Factor Xa Inhibitors
+Female
+Humans
+Male
+Middle Aged
+Neoplasms/*complications
+Prospective Studies
+Thromboembolism/blood/*complications/*drug therapy
+Warfarin/administration & dosage

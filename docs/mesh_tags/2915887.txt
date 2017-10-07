@@ -1,0 +1,12 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Breast Neoplasms/*drug therapy
+Cyclophosphamide/administration & dosage/adverse effects
+Doxorubicin/administration & dosage/adverse effects
+Epirubicin/administration & dosage/adverse effects
+Female
+Fluorouracil/administration & dosage/adverse effects
+Humans
+Middle Aged
+Neoplasm Metastasis

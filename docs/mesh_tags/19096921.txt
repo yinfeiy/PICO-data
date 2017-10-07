@@ -1,0 +1,19 @@
+Adolescent
+Aggression/drug effects/*psychology
+*Behavior Therapy/methods
+Child
+Child Development Disorders, Pervasive/drug therapy/psychology/*therapy
+Combined Modality Therapy
+Dopamine Antagonists/*therapeutic use
+Female
+Humans
+Male
+Outpatients
+Parent-Child Relations
+Parents/*psychology
+Patient Compliance/psychology
+Personality Assessment
+Psychiatric Status Rating Scales
+Risperidone/*therapeutic use
+Self-Injurious Behavior/psychology/*therapy
+Treatment Outcome

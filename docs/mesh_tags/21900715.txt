@@ -1,0 +1,17 @@
+Adult
+Antiviral Agents/adverse effects/*therapeutic use
+Coinfection/*drug therapy/virology
+Female
+HIV/genetics
+HIV Infections/*complications
+Hepacivirus/genetics
+Hepatitis C/*complications/*drug therapy/virology
+Humans
+Interferon-alpha/adverse effects/*therapeutic use
+Male
+Middle Aged
+Polyethylene Glycols/adverse effects/*therapeutic use
+Recombinant Proteins/adverse effects/therapeutic use
+Ribavirin/adverse effects/*therapeutic use
+Treatment Outcome
+Viral Load

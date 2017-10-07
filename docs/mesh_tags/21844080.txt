@@ -1,0 +1,12 @@
+Aged
+Coronary Artery Disease/*diagnosis/diagnostic imaging/*physiopathology
+Electrocardiography/methods/*standards
+Exercise Test/methods/*standards
+Female
+Follow-Up Studies
+Humans
+Middle Aged
+Myocardial Ischemia/diagnosis/diagnostic imaging/physiopathology
+Myocardial Perfusion Imaging/methods/*standards
+Tomography, Emission-Computed, Single-Photon/methods/*standards
+Treatment Outcome

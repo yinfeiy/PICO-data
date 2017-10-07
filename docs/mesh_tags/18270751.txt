@@ -1,0 +1,18 @@
+Adult
+Angiotensin II Type 1 Receptor Blockers/adverse effects/*therapeutic use
+Benzimidazoles/adverse effects/*therapeutic use
+Biopsy
+Blood Pressure/drug effects
+Diabetes Mellitus, Type 1/complications/*drug therapy/physiopathology
+Diabetic Nephropathies/*drug therapy/etiology/physiopathology
+Disease Progression
+Double-Blind Method
+Female
+Humans
+Kidney/*drug effects/pathology/physiopathology
+Kidney Function Tests
+Male
+Prospective Studies
+Tetrazoles/adverse effects/*therapeutic use
+Time Factors
+Treatment Outcome

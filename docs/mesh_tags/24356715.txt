@@ -1,0 +1,14 @@
+Adolescent
+Age of Onset
+Child Development Disorders, Pervasive/drug therapy/epidemiology
+Comorbidity
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Male
+Obsessive-Compulsive Disorder/*drug therapy/epidemiology
+Psychiatric Status Rating Scales
+Psychotropic Drugs/adverse effects/*therapeutic use
+Riluzole/adverse effects/*therapeutic use
+Treatment Outcome

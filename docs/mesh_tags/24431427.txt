@@ -1,0 +1,13 @@
+Acoustic Stimulation/*methods
+Adolescent
+Auditory Perception/*physiology
+Child
+Child Development Disorders, Pervasive/diagnosis/*physiopathology/psychology
+Female
+Humans
+Male
+Photic Stimulation/*methods
+Psychomotor Performance/physiology
+Reaction Time/*physiology
+Time Factors
+Visual Perception/*physiology

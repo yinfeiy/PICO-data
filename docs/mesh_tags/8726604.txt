@@ -1,0 +1,9 @@
+Adult
+*Ambulatory Surgical Procedures
+Anesthesia Recovery Period
+Anesthetics, Inhalation/*pharmacology
+Ethers/*pharmacology
+Female
+Humans
+Isoflurane/*pharmacology
+*Methyl Ethers

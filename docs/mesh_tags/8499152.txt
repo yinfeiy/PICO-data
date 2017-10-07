@@ -1,0 +1,11 @@
+Bone Marrow/pathology
+Calcium/blood
+Hemoglobins/analysis
+Humans
+Multiple Myeloma/blood/drug therapy/*mortality/pathology
+Multivariate Analysis
+Platelet Count
+Predictive Value of Tests
+Prognosis
+Risk Factors
+Time Factors

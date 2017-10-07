@@ -1,0 +1,22 @@
+*Angioplasty, Balloon, Coronary
+Antibodies, Monoclonal/*therapeutic use
+Combined Modality Therapy
+Coronary Circulation
+*Diabetes Complications
+Diabetes Mellitus/drug therapy
+Diabetic Angiopathies/*drug therapy/etiology/mortality/therapy
+Female
+Follow-Up Studies
+Humans
+Immunoglobulin Fab Fragments/*therapeutic use
+Insulin/therapeutic use
+Integrins/physiology
+Kinetics
+Male
+Middle Aged
+Neovascularization, Pathologic
+Platelet Glycoprotein GPIIb-IIIa Complex/*antagonists & inhibitors
+Stents
+Survival Analysis
+Treatment Outcome
+Tyrosine/*analogs & derivatives/*therapeutic use

@@ -1,0 +1,20 @@
+Adult
+Alveolar Bone Loss/pathology
+Dental Implantation, Endosseous/*methods
+*Dental Implants, Single-Tooth
+Dental Prosthesis Retention
+*Dental Prosthesis, Implant-Supported
+Dental Restoration, Temporary
+Dental Stress Analysis
+Female
+Gingival Recession/pathology
+Humans
+Incisor
+Male
+Maxilla
+Middle Aged
+Prospective Studies
+Time Factors
+Tooth Socket/surgery
+Vibration
+Young Adult

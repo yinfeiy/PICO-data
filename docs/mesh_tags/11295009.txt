@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Analysis of Variance
+Disability Evaluation
+Electric Stimulation Therapy/*methods
+Electrodes
+Female
+Humans
+Low Back Pain/physiopathology/*therapy
+Male
+Middle Aged
+Pain Measurement
+Quality of Life
+Statistics, Nonparametric
+Treatment Outcome

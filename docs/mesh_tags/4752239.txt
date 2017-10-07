@@ -1,0 +1,13 @@
+Anthelmintics/*therapeutic use
+Benzimidazoles/*therapeutic use
+Benzoates/therapeutic use
+Carbamates/*therapeutic use
+Child
+Child, Preschool
+Enterobius/*drug effects
+Female
+Humans
+Male
+Oxyuriasis/diagnosis/*drug therapy
+Pediatrics
+Placebos

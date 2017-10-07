@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Amodiaquine/*administration & dosage/*adverse effects
+Animals
+Antimalarials/*administration & dosage/*adverse effects
+Artemisinins/*administration & dosage/*adverse effects
+Cameroon
+Child
+Child, Preschool
+Female
+Gastrointestinal Diseases/physiopathology
+Humans
+Malaria, Falciparum/*drug therapy
+Male
+Parasitemia
+Plasmodium falciparum/genetics/isolation & purification
+Polymerase Chain Reaction/methods
+Pruritus
+Senegal
+Sesquiterpenes/*administration & dosage/*adverse effects

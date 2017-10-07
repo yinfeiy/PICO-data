@@ -1,0 +1,17 @@
+Adult
+Blood/metabolism
+Creatinine/blood
+Energy Intake
+Female
+Glucose/pharmacology
+Glucose Solution, Hypertonic
+Glycerol/*pharmacology
+Humans
+Hydrogen-Ion Concentration
+Hypertonic Solutions
+Isotonic Solutions
+Male
+Middle Aged
+Osmotic Pressure
+*Peritoneal Dialysis
+*Peritoneal Dialysis, Continuous Ambulatory

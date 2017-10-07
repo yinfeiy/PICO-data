@@ -1,0 +1,11 @@
+Administration, Intravesical
+Aged
+Antineoplastic Agents/*administration & dosage
+Cystectomy
+Doxorubicin/administration & dosage/*analogs & derivatives
+Female
+Humans
+Male
+Neoplasm Recurrence, Local/prevention & control
+Prospective Studies
+Urinary Bladder Neoplasms/*drug therapy/surgery

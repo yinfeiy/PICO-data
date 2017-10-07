@@ -1,0 +1,12 @@
+Adult
+Aged
+Angina Pectoris/*drug therapy
+Blood Pressure/drug effects
+Clinical Trials as Topic
+Double-Blind Method
+Electrocardiography
+Heart/drug effects
+Heart Rate/drug effects
+Humans
+Middle Aged
+Verapamil/adverse effects/pharmacology/*therapeutic use

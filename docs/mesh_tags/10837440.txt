@@ -1,0 +1,18 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Anti-Infective Agents/administration & dosage/adverse effects/*therapeutic use
+Bronchitis/complications/*drug therapy/microbiology
+Cephalosporins/administration & dosage/adverse effects/*therapeutic use
+Child
+Chronic Disease
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Patient Compliance
+Pharyngitis/drug therapy/microbiology
+Prospective Studies
+Tonsillitis/drug therapy/microbiology

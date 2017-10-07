@@ -1,0 +1,12 @@
+Abdominal Injuries/complications/*therapy
+Adult
+Bacterial Infections/etiology/*prevention & control
+Clinical Trials as Topic
+Critical Care/methods
+*Enteral Nutrition
+Female
+Humans
+Male
+*Parenteral Nutrition, Total
+Prospective Studies
+Random Allocation

@@ -1,0 +1,18 @@
+Adult
+Aged
+Bone Nails
+Bone Plates
+Bone Screws
+Bone Transplantation/*methods
+Female
+Femoral Fractures/*surgery
+Femur/blood supply/surgery
+Fracture Fixation, Internal/*instrumentation/*methods
+Fracture Healing/physiology
+Humans
+Male
+Middle Aged
+Postoperative Complications/epidemiology
+Prospective Studies
+Treatment Outcome
+Young Adult

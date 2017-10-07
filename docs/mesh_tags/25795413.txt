@@ -1,0 +1,25 @@
+Administration, Intranasal
+Adult
+Body Mass Index
+Brain/physiology
+Brain Mapping
+Cerebrovascular Circulation/physiology
+Cognition/drug effects/*physiology
+Craving/physiology
+Diabetes Mellitus, Type 2/*physiopathology/psychology
+Feeding Behavior/physiology
+Female
+Homeostasis/drug effects
+Humans
+Hunger/physiology
+Hypoglycemic Agents/administration & dosage/pharmacology
+Hypothalamus/blood supply
+Inhibition (Psychology)
+Insulin/administration & dosage/pharmacology
+Insulin Resistance/*physiology
+Intra-Abdominal Fat/drug effects
+Magnetic Resonance Imaging
+Male
+Obesity/physiopathology/psychology
+Overweight/*physiopathology/psychology
+Prefrontal Cortex/blood supply

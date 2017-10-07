@@ -1,0 +1,19 @@
+Adenocarcinoma/*drug therapy/pathology/*radiotherapy
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects
+Cisplatin/administration & dosage/adverse effects
+Deoxycytidine/administration & dosage/adverse effects/analogs & derivatives
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Fluorouracil/adverse effects/*therapeutic use
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Neoplasm Staging
+Pancreatic Neoplasms/*drug therapy/pathology/*radiotherapy
+Survival Rate
+Young Adult

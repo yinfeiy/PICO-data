@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Antibodies, Monoclonal, Humanized/*administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Bevacizumab
+Deoxycytidine/administration & dosage
+Digestive System Surgical Procedures
+Female
+Fluorouracil/administration & dosage
+Humans
+Leucovorin/administration & dosage
+Magnetic Resonance Imaging
+Male
+Middle Aged
+*Neoadjuvant Therapy
+Neoplasm Recurrence, Local/*drug therapy/pathology/radiotherapy/surgery
+Organoplatinum Compounds/administration & dosage
+Rectal Neoplasms/*drug therapy/pathology/radiotherapy/surgery

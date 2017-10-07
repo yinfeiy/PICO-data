@@ -1,0 +1,17 @@
+Adult
+Aged
+Algorithms
+Cohort Studies
+Coronary Disease/*psychology
+Depression/*diagnosis/therapy
+Family Practice
+Female
+Health Status
+Hospitalization
+Humans
+Male
+Middle Aged
+Outcome Assessment (Health Care)
+Prospective Studies
+Quality of Life
+Statistics as Topic

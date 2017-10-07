@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Aztreonam/*therapeutic use
+*Biliary Tract Surgical Procedures
+Female
+Gentamicins/*therapeutic use
+Humans
+Male
+Middle Aged
+*Premedication
+Random Allocation
+Stomach/*surgery
+Surgical Wound Infection/prevention & control

@@ -1,0 +1,18 @@
+Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/physiopathology/psychology
+Attention/drug effects/physiology
+Brain Mapping/*instrumentation
+Cerebral Cortex/*drug effects/physiopathology
+Dementia, Multi-Infarct/*drug therapy/physiopathology/psychology
+Double-Blind Method
+Electroencephalography/*drug effects/instrumentation
+Evoked Potentials/drug effects/physiology
+Female
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Retention (Psychology)/drug effects/physiology
+Signal Processing, Computer-Assisted/*instrumentation
+Xanthines/*therapeutic use

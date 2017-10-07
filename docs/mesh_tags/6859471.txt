@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Dreams/*drug effects
+Female
+Hallucinations/drug therapy
+Humans
+Male
+Middle Aged
+Morphine/*pharmacology
+Pentazocine/*pharmacology
+Postoperative Period
+*Preanesthetic Medication
+Tooth Extraction
+Tooth, Impacted/surgery

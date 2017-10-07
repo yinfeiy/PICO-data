@@ -1,0 +1,15 @@
+Adult
+Aged
+Emotions
+Exercise/physiology/*psychology
+Exercise Tolerance/physiology
+Female
+Heart Failure/physiopathology/*psychology/*rehabilitation
+Humans
+*Life Style
+Male
+Middle Aged
+Motor Activity/*physiology
+Personal Satisfaction
+Quality of Life/*psychology
+Severity of Illness Index

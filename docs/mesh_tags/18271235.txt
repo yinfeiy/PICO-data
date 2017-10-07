@@ -1,0 +1,11 @@
+*Acupuncture Therapy
+Adolescent
+Adult
+Aged
+Craniocerebral Trauma/physiopathology/*therapy
+Extremities/*physiopathology
+Female
+Humans
+Male
+Middle Aged
+*Motor Activity

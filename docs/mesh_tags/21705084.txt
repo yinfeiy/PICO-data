@@ -1,0 +1,17 @@
+Antihypertensive Agents/therapeutic use
+Cornea/*pathology
+Female
+Follow-Up Studies
+Glaucoma, Open-Angle/*diagnosis/drug therapy/physiopathology
+Gonioscopy
+Humans
+Intraocular Pressure/*physiology
+Male
+Middle Aged
+*Models, Statistical
+Ocular Hypertension/diagnosis/drug therapy/physiopathology
+Predictive Value of Tests
+Proportional Hazards Models
+Reproducibility of Results
+Risk Factors
+Tonometry, Ocular

@@ -1,0 +1,9 @@
+Albuterol/*adverse effects
+Asthma/*physiopathology
+Bronchitis/*physiopathology
+Chronic Disease
+Humans
+Ipratropium/*adverse effects
+Lung/physiopathology
+Random Allocation
+Respiratory Function Tests

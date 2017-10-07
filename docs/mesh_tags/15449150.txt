@@ -1,0 +1,19 @@
+Adenocarcinoma/drug therapy/pathology/*surgery
+Aged
+Antimetabolites, Antineoplastic/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Apoptosis/*drug effects
+Chemotherapy, Adjuvant
+Drug Therapy, Combination
+Female
+Fluorouracil/metabolism
+Humans
+Immunohistochemistry
+In Situ Nick-End Labeling
+Lung Neoplasms/drug therapy/pathology/*surgery
+Male
+Middle Aged
+Preoperative Care
+Prospective Studies
+Tegafur/*therapeutic use
+Uracil/*therapeutic use

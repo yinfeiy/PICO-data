@@ -1,0 +1,13 @@
+Aged
+Aged, 80 and over
+Female
+Humans
+Laser Coagulation/*methods
+Light Coagulation/methods
+Male
+Middle Aged
+Organ Size
+Surgery, Computer-Assisted/methods
+Thyroid Nodule/*diagnostic imaging/*therapy
+Treatment Outcome
+Ultrasonography

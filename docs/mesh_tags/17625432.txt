@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Amantadine/adverse effects/*therapeutic use
+Antiviral Agents/adverse effects/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Hepatitis C, Chronic/*drug therapy/psychology/rehabilitation
+Humans
+Interferon-alpha/adverse effects/therapeutic use
+Male
+Middle Aged
+Psychometrics
+*Quality of Life
+Recombinant Proteins
+Ribavirin/adverse effects/therapeutic use
+Treatment Outcome

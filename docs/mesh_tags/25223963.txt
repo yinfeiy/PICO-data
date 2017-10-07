@@ -1,0 +1,14 @@
+Adult
+Body Mass Index
+Exercise/*physiology
+Exercise Therapy/*methods
+Female
+Health Promotion
+Humans
+Male
+Middle Aged
+Obesity/physiopathology/*therapy
+Overweight/physiopathology/*therapy
+Pilot Projects
+Treatment Outcome
+*Weight Loss

@@ -1,0 +1,27 @@
+*Angioplasty, Balloon, Coronary
+Angioplasty, Balloon, Laser-Assisted
+Antibodies, Monoclonal/administration & dosage
+Arm/blood supply
+Aspirin/administration & dosage
+Drug Therapy, Combination
+Echocardiography
+Electrocardiography
+Female
+Hospitalization
+Humans
+Immunoglobulin Fab Fragments/administration & dosage
+Ischemic Preconditioning, Myocardial/*methods
+Male
+Middle Aged
+Myocardial Infarction/*therapy
+Myocardial Reperfusion Injury/*prevention & control
+Myocardium/pathology
+Platelet Aggregation Inhibitors/administration & dosage
+Prospective Studies
+Radiopharmaceuticals
+Technetium Tc 99m Sestamibi
+Ticlopidine/administration & dosage/analogs & derivatives
+Time Factors
+Tomography, Emission-Computed, Single-Photon
+Treatment Outcome
+Troponin T/blood

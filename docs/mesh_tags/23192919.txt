@@ -1,0 +1,25 @@
+Acute Kidney Injury/blood/*etiology/mortality
+Aged
+Biomarkers/blood
+Chi-Square Distribution
+Contrast Media/*adverse effects
+Creatinine/blood
+Female
+Humans
+Logistic Models
+Male
+Middle Aged
+Multivariate Analysis
+Myocardial Infarction/blood/diagnostic imaging/mortality/*therapy
+Natriuretic Peptide, Brain/*blood
+Odds Ratio
+Patient Admission
+*Percutaneous Coronary Intervention/adverse effects/instrumentation/mortality
+Predictive Value of Tests
+Prospective Studies
+Radiography
+Risk Assessment
+Risk Factors
+Stents
+Time Factors
+Treatment Outcome

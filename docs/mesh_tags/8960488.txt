@@ -1,0 +1,12 @@
+Adolescent
+Anesthesia, Dental
+Antibiotic Prophylaxis
+Bacteremia/*etiology/prevention & control
+Child
+Child, Preschool
+Dental Care for Children/*adverse effects
+Endocarditis, Bacterial/*etiology
+Female
+Humans
+Male
+Tooth Extraction/*adverse effects

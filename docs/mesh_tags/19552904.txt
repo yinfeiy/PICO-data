@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Blood Glucose/drug effects
+Body Mass Index
+Clomiphene/therapeutic use
+Double-Blind Method
+Drug Resistance
+Female
+Fertility Agents, Female/therapeutic use
+Hormones/blood
+Humans
+Hyperandrogenism/*drug therapy/etiology
+Hypoglycemic Agents/therapeutic use
+Insulin Resistance
+Metformin/*therapeutic use
+Ovulation Induction/*methods
+Polycystic Ovary Syndrome/*drug therapy/physiopathology
+Pregnancy
+Pregnancy Rate
+Young Adult

@@ -1,0 +1,11 @@
+Adolescent
+Adult
+Anxiety/psychology/*therapy
+Depression/psychology/*therapy
+Female
+Humans
+Male
+Outcome and Process Assessment (Health Care)
+*Psychotherapy
+*Self Disclosure
+Treatment Outcome

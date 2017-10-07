@@ -1,0 +1,16 @@
+Age Factors
+Aged
+Antibodies, Monoclonal/adverse effects/*therapeutic use
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents/adverse effects/*therapeutic use
+Cetuximab
+Colorectal Neoplasms/*drug therapy/*therapy
+Comorbidity
+Disease-Free Survival
+Female
+Humans
+Male
+Multivariate Analysis
+Palliative Care/*methods
+Risk Factors
+Survival Rate

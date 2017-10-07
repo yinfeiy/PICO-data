@@ -1,0 +1,20 @@
+Acid Etching, Dental/methods
+Aluminum Oxide/chemistry
+Aluminum Silicates/*chemistry
+Bisphenol A-Glycidyl Methacrylate/chemistry
+Coated Materials, Biocompatible/chemistry
+Composite Resins/*chemistry
+*Dental Bonding
+Dental Etching/methods
+Dental Materials/*chemistry
+Dental Porcelain/*chemistry
+Dental Prosthesis Repair
+Humans
+Hydrofluoric Acid/chemistry
+Materials Testing
+Potassium Compounds/*chemistry
+Resin Cements/chemistry
+Silanes/chemistry
+Silicon Dioxide/chemistry
+Stress, Mechanical
+Tensile Strength

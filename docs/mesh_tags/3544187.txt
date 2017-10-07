@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Antacids/*administration & dosage/adverse effects
+Cimetidine/*administration & dosage
+Clinical Trials as Topic
+Duodenal Ulcer/*drug therapy/pathology
+Female
+Humans
+Male
+Middle Aged
+Prognosis
+Random Allocation
+Recurrence
+Wound Healing

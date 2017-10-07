@@ -1,0 +1,19 @@
+Adult
+Aged
+Blood Pressure/*physiology
+Blood Pressure Monitoring, Ambulatory
+Circadian Rhythm
+Creatinine/urine
+Cross-Over Studies
+Female
+Follow-Up Studies
+Heart Rate
+Humans
+Hypertension/etiology/*physiopathology/urine
+Male
+Middle Aged
+Norepinephrine/urine
+Prognosis
+Risk Factors
+Sleep Deprivation/*physiology
+Sympathetic Nervous System/metabolism/physiopathology

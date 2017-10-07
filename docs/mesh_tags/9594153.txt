@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Carcinoma, Hepatocellular/mortality/*surgery
+Constriction
+Female
+Hepatic Artery/*surgery
+Humans
+Ligation/methods
+Liver Neoplasms/mortality/*surgery
+Male
+Middle Aged
+Palliative Care
+Prospective Studies
+Survival Rate

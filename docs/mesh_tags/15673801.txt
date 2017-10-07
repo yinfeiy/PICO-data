@@ -1,0 +1,20 @@
+Cyclophosphamide/adverse effects/therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Etanercept
+Female
+Glucocorticoids/adverse effects/therapeutic use
+Granulomatosis with Polyangiitis/*drug therapy/mortality
+Humans
+Immunoglobulin G/adverse effects/*therapeutic use
+Immunosuppressive Agents/adverse effects/*therapeutic use
+Male
+Methotrexate/adverse effects/therapeutic use
+Middle Aged
+Neoplasms/chemically induced
+Proportional Hazards Models
+Receptors, Tumor Necrosis Factor/*therapeutic use
+Remission Induction
+Secondary Prevention
+Treatment Failure
+Tumor Necrosis Factor-alpha/*antagonists & inhibitors

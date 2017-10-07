@@ -1,0 +1,14 @@
+Adult
+Blood Glucose
+Body Weights and Measures
+Cardiovascular Diseases/*physiopathology
+Exercise/*physiology/*psychology
+Female
+Humans
+Lipids/blood
+Male
+Middle Aged
+Occupational Health
+Oxidative Stress/*physiology
+Risk Factors
+Work/*psychology

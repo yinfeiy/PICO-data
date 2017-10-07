@@ -1,0 +1,20 @@
+Adult
+Aged
+Aldosterone/*blood
+Analysis of Variance
+Double-Blind Method
+Edema, Cardiac/diagnosis/drug therapy/physiopathology
+Female
+Heart Failure/diagnosis/*drug therapy/physiopathology
+Hemodynamics/*drug effects/physiology
+Humans
+Infusions, Intravenous
+Kidney Function Tests
+Linear Models
+Male
+Middle Aged
+Natriuretic Peptide, Brain
+Nerve Tissue Proteins/*administration & dosage/adverse effects
+Norepinephrine/*blood
+Sodium/metabolism/*urine
+Treatment Outcome

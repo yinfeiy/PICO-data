@@ -1,0 +1,15 @@
+Adult
+Aged
+Anistreplase
+Coronary Angiography
+Female
+Fibrinolytic Agents/administration & dosage/*therapeutic use
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Myocardial Infarction/diagnostic imaging/*drug therapy
+Myocardial Reperfusion/*methods
+Plasminogen/administration & dosage/*therapeutic use
+Streptokinase/administration & dosage/*therapeutic use
+Thrombolytic Therapy/*methods

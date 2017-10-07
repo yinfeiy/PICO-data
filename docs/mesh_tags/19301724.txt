@@ -1,0 +1,19 @@
+Adult
+Aged
+Analgesia, Epidural/*adverse effects/methods
+Anesthetics, Local/administration & dosage/therapeutic use
+Arthroplasty, Replacement, Knee/*rehabilitation
+Bupivacaine/administration & dosage/analogs & derivatives/therapeutic use
+Femur/*innervation
+Humans
+Injections, Spinal
+Knee Joint/*surgery
+Length of Stay
+Middle Aged
+Nerve Block/adverse effects/*methods
+Pain Measurement/methods
+Pain, Postoperative/*therapy
+Patient Satisfaction
+Postoperative Nausea and Vomiting/chemically induced/drug therapy
+Prospective Studies
+Treatment Outcome

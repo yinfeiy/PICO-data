@@ -1,0 +1,20 @@
+Adult
+*Anesthesia, General
+Anesthesia, Inhalation
+Anesthesia, Local
+Anesthetics
+Arousal/*drug effects
+Blood Glucose/metabolism
+Blood Pressure/drug effects
+Ear Diseases/*surgery
+Ear, Middle/*surgery
+Epinephrine/blood
+Female
+Glycerol/blood
+Heart Rate/drug effects
+Humans
+Lactates/blood
+Lactic Acid
+Male
+Middle Aged
+Norepinephrine/blood

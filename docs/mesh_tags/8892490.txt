@@ -1,0 +1,16 @@
+Adult
+Aged
+Cohort Studies
+Comorbidity
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Logistic Models
+Male
+Middle Aged
+Myocardial Infarction/*mortality/physiopathology
+Prognosis
+Recurrence
+Risk Factors
+Survival Analysis

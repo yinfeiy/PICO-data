@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Africa/ethnology
+Aged
+Asia/ethnology
+Dietary Supplements
+*Emigrants and Immigrants
+Female
+Humans
+Male
+Middle Aged
+Motor Skills
+Netherlands
+Pain Measurement
+Parathyroid Hormone/blood
+South America/ethnology
+*Sunlight
+Vitamin D/administration & dosage/*analogs & derivatives/blood
+Vitamin D Deficiency/ethnology/*therapy
+Vitamins/*administration & dosage
+Young Adult

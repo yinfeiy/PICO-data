@@ -1,0 +1,14 @@
+Adult
+Female
+Health Behavior
+Health Knowledge, Attitudes, Practice
+Humans
+Male
+Middle Aged
+Occupational Diseases/*prevention & control
+Occupational Exposure/adverse effects
+Occupational Health
+Protective Clothing/*utilization
+Skin Neoplasms/etiology/*prevention & control
+Sunlight/adverse effects
+*Sunscreening Agents

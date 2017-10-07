@@ -1,0 +1,13 @@
+Adult
+Aged
+*Breast/anatomy & histology/radiation effects
+Breast Neoplasms/diagnostic imaging/*radiotherapy/surgery
+Dose-Response Relationship, Radiation
+Female
+Humans
+Middle Aged
+Prospective Studies
+Radiotherapy Dosage
+Radiotherapy, Adjuvant
+Time Factors
+Tomography, X-Ray Computed

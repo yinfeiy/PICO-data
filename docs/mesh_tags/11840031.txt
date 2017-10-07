@@ -1,0 +1,21 @@
+B-Lymphocytes/immunology
+Bottle Feeding
+Breast Feeding
+Cohort Studies
+Female
+Flow Cytometry
+Food, Fortified
+Humans
+Immune System/*cytology/*drug effects
+Infant
+Infant Food
+Infant, Newborn
+Killer Cells, Natural/drug effects/immunology
+Longitudinal Studies
+Lymphocyte Count
+Lymphocyte Subsets/*immunology
+Male
+Milk, Human/*immunology
+Nucleotides/*administration & dosage/*immunology
+Soybeans
+T-Lymphocytes/drug effects/immunology

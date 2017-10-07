@@ -1,0 +1,15 @@
+Administration, Oral
+Adult
+Amenorrhea/diagnosis/drug therapy
+Double-Blind Method
+Female
+Headache/chemically induced/diagnosis
+Humans
+Leiomyoma/*diagnosis/*drug therapy
+Middle Aged
+Nausea/chemically induced/diagnosis
+Norpregnadienes/*administration & dosage/*adverse effects
+Pain/diagnosis/drug therapy
+*Quality of Life
+Treatment Outcome
+Uterine Neoplasms/*diagnosis/*drug therapy

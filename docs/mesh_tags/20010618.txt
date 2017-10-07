@@ -1,0 +1,14 @@
+Adult
+Aged
+Antihypertensive Agents/*administration & dosage/adverse effects
+Drug Therapy, Combination
+Female
+Humans
+Hydrochlorothiazide/*administration & dosage/adverse effects
+Hypertension/*drug therapy
+Male
+Middle Aged
+Tetrazoles/*administration & dosage/adverse effects
+Treatment Outcome
+Valine/administration & dosage/adverse effects/*analogs & derivatives
+Valsartan

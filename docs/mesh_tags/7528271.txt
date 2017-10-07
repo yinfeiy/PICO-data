@@ -1,0 +1,20 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Blood Transfusion, Autologous
+Carboplatin/administration & dosage
+Carcinoma, Small Cell/blood/mortality/*therapy
+Cause of Death
+Combined Modality Therapy
+Etoposide/administration & dosage
+Feasibility Studies
+Female
+Granulocyte Colony-Stimulating Factor/*administration & dosage
+*Hematopoietic Stem Cell Transplantation
+Humans
+Ifosfamide/administration & dosage
+Leukapheresis
+Lung Neoplasms/blood/mortality/*therapy
+Male
+Middle Aged
+Pilot Projects
+Platelet Transfusion

@@ -1,0 +1,21 @@
+Aged
+*Antineoplastic Combined Chemotherapy Protocols
+Bleomycin/administration & dosage
+Body Height/drug effects
+Cyclophosphamide/administration & dosage
+Dexamethasone/administration & dosage
+Double-Blind Method
+Doxorubicin/administration & dosage
+Drug Administration Schedule
+Etidronic Acid/*therapeutic use
+Female
+Humans
+Male
+Methotrexate/administration & dosage
+Middle Aged
+Multiple Myeloma/*complications/mortality
+Osteolysis/*drug therapy/*etiology/mortality
+Proportional Hazards Models
+Spine/drug effects
+Survival Rate
+Vincristine/administration & dosage

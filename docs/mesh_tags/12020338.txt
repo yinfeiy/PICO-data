@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Albuminuria
+Diabetes Mellitus, Type 1/blood/physiopathology/*therapy
+Diabetic Angiopathies/epidemiology/prevention & control
+Diabetic Nephropathies/*epidemiology/prevention & control
+Diabetic Neuropathies/*epidemiology/prevention & control
+Diabetic Retinopathy/*epidemiology/prevention & control
+Female
+Hemoglobin A, Glycosylated/*metabolism
+Humans
+Male
+Randomized Controlled Trials as Topic

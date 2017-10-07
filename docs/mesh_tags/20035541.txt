@@ -1,0 +1,12 @@
+Adult
+Catheter Ablation/*methods
+Female
+Humans
+Ligation
+Male
+Middle Aged
+Pain, Postoperative/etiology
+Patient Satisfaction
+Quality of Life
+Saphenous Vein/*surgery
+Varicose Veins/rehabilitation/*surgery

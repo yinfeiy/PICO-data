@@ -1,0 +1,15 @@
+Adolescent
+Body Mass Index
+*Carbohydrate Metabolism
+Cardiovascular Diseases/etiology
+Exercise Test
+Female
+*Glucose Tolerance Test
+Heart Rate/drug effects
+Humans
+Hypoglycemic Agents/therapeutic use
+Insulin Resistance
+Male
+Metformin/*therapeutic use
+Obesity/complications/*drug therapy/metabolism
+Risk Factors

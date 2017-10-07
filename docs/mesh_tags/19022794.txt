@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Analgesics, Opioid/administration & dosage
+Craniotomy/*adverse effects
+Cyclooxygenase 2 Inhibitors/*therapeutic use
+Double-Blind Method
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Humans
+Isoxazoles/*therapeutic use
+Male
+Middle Aged
+Morphine/administration & dosage
+Pain Measurement/methods
+Pain, Postoperative/etiology/*prevention & control
+Prospective Studies
+Young Adult

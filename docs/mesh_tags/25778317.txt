@@ -1,0 +1,19 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+*Chemoradiotherapy, Adjuvant/adverse effects
+China
+Cisplatin/administration & dosage
+Dose Fractionation
+Female
+Fluorouracil/administration & dosage
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Nasopharyngeal Neoplasms/mortality/pathology/*therapy
+Neoplasm Staging
+Prospective Studies
+Risk Factors
+Time Factors
+Treatment Outcome

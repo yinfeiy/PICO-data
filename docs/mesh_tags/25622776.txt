@@ -1,0 +1,16 @@
+Adult
+Aged
+Buprenorphine/economics/therapeutic use
+Buprenorphine, Naloxone Drug Combination/economics/therapeutic use
+Economics, Behavioral/*trends
+Female
+Humans
+Male
+Middle Aged
+Naloxone/economics/therapeutic use
+Narcotic Antagonists/economics/therapeutic use
+Opiate Substitution Treatment/economics/*psychology/*trends
+Opioid-Related Disorders/drug therapy/economics/*psychology
+Predictive Value of Tests
+Prescription Drug Misuse/economics/*psychology/*trends
+Treatment Outcome

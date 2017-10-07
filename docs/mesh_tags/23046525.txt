@@ -1,0 +1,16 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Biomarkers, Tumor/blood
+Bridged-Ring Compounds/administration & dosage
+CA-125 Antigen/blood
+Dalteparin/adverse effects/*therapeutic use
+Female
+Humans
+Membrane Proteins/blood
+Middle Aged
+Neoplasms, Glandular and Epithelial/blood/blood supply/*drug therapy
+Neovascularization, Pathologic/drug therapy
+Organoplatinum Compounds/administration & dosage
+Ovarian Neoplasms/blood/blood supply/*drug therapy
+Taxoids/administration & dosage

@@ -1,0 +1,25 @@
+Aged
+Cancer Care Facilities/standards
+Europe
+Femur Head
+Guideline Adherence/*standards
+Humans
+Male
+Neoplasm Recurrence, Local/blood/diagnostic imaging/*radiotherapy
+Observer Variation
+Organs at Risk/diagnostic imaging
+Phantoms, Imaging
+Prostate/diagnostic imaging
+Prostate-Specific Antigen/blood
+Prostatic Neoplasms/blood/diagnostic imaging/*radiotherapy
+Quality Assurance, Health Care/standards
+Quality Improvement/*standards
+Radiography
+Radiotherapy Dosage
+Radiotherapy Planning, Computer-Assisted/methods/standards
+Radiotherapy, Conformal/methods/*standards
+Radiotherapy, Intensity-Modulated/methods/standards
+Rectum
+Salvage Therapy/methods/*standards
+Surveys and Questionnaires
+Urinary Bladder

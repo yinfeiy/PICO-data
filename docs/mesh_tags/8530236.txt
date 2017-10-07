@@ -1,0 +1,16 @@
+Adult
+Aged
+Female
+Follow-Up Studies
+Humans
+Hysterectomy/*methods
+Intraoperative Complications/etiology
+Laparoscopy/*methods
+Leiomyoma/*surgery
+Length of Stay
+Male
+Middle Aged
+Postoperative Complications/etiology
+Ureter/injuries/*surgery
+Uterine Diseases/*surgery
+Uterine Neoplasms/*surgery

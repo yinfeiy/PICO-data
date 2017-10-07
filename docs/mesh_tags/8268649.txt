@@ -1,0 +1,12 @@
+Adult
+Calcium/blood
+Female
+Humans
+Kidney Failure, Chronic/*blood/therapy
+Magnesium/*blood
+Magnesium Deficiency/*blood
+Male
+Membranes, Artificial
+Middle Aged
+*Peritoneal Dialysis, Continuous Ambulatory
+*Renal Dialysis

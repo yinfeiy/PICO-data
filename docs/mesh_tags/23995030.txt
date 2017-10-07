@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antidepressive Agents, Second-Generation/*economics/*therapeutic use
+Chest Pain/*economics/psychology/*therapy
+Cognitive Therapy/*economics
+Cohort Studies
+Cost-Benefit Analysis/economics
+Drug Costs/statistics & numerical data
+Emergency Service, Hospital/economics
+Female
+Humans
+Male
+Middle Aged
+Panic Disorder/*economics/psychology/*therapy
+Paroxetine/*economics/*therapeutic use
+Psychotherapy, Brief/*economics
+Quebec
+Young Adult

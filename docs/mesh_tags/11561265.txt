@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+*Analgesia, Epidural
+*Analgesia, Patient-Controlled
+Analgesics, Opioid/*administration & dosage
+Breast/*surgery
+Female
+Humans
+Length of Stay
+*Mastectomy
+Middle Aged
+Morphine/*administration & dosage/adverse effects
+Pain, Postoperative/*drug therapy
+Prospective Studies
+*Surgical Flaps

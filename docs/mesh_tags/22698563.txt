@@ -1,0 +1,23 @@
+Aged
+Biomarkers/blood
+Blood Flow Velocity
+*Cardiopulmonary Bypass/adverse effects
+*Coronary Artery Bypass/adverse effects
+Extracorporeal Circulation/adverse effects/*methods
+Female
+Germany
+Hematocrit
+Humans
+Lactic Acid/blood
+Male
+*Microcirculation
+Microscopy, Polarization
+Microscopy, Video
+Middle Aged
+Mouth Floor/*blood supply
+Perfusion Imaging/methods
+Prospective Studies
+Recovery of Function
+Regional Blood Flow
+Time Factors
+Treatment Outcome

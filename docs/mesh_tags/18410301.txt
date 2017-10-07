@@ -1,0 +1,16 @@
+Adult
+Aged
+Arousal
+Atrophy
+Diagnostic and Statistical Manual of Mental Disorders
+Estradiol/blood
+Female
+Humans
+Middle Aged
+Photic Stimulation
+Photoplethysmography
+Postmenopause
+Premenopause
+Sexual Dysfunction, Physiological/*diagnosis
+Vagina/*blood supply/pathology
+Videotape Recording

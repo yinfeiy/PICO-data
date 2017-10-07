@@ -1,0 +1,16 @@
+Adaptation, Physiological
+Adult
+Biomechanical Phenomena
+Energy Metabolism
+Exercise Test
+Feedback, Sensory
+Female
+*Gait
+Humans
+Lower Extremity
+Male
+Models, Biological
+Muscle, Skeletal/*innervation
+Neural Pathways/*physiology
+Time Factors
+*Walking

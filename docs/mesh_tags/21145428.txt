@@ -1,0 +1,13 @@
+Cardiac Pacing, Artificial/adverse effects/*methods/mortality
+*Cause of Death
+*Defibrillators, Implantable
+Electrocardiography
+Female
+Humans
+Male
+Prognosis
+Risk Assessment
+Severity of Illness Index
+Survival Analysis
+Tachycardia, Ventricular/diagnosis/*mortality/*therapy
+Ventricular Dysfunction, Right/diagnosis/mortality/therapy

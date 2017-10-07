@@ -1,0 +1,12 @@
+Adult
+Aged
+C-Peptide/*blood
+Diabetes Mellitus, Type 2/blood/*drug therapy
+Female
+Glyburide/*therapeutic use
+Humans
+Insulin/*therapeutic use
+Male
+Metformin/therapeutic use
+Middle Aged
+Time Factors

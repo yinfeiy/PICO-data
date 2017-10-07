@@ -1,0 +1,15 @@
+Adult
+Aged
+Benzothiazoles/*administration & dosage/adverse effects
+Dopamine Agonists/*administration & dosage/adverse effects
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Leg/*physiopathology
+Male
+Middle Aged
+Movement/*drug effects
+*Polysomnography
+Restless Legs Syndrome/diagnosis/*drug therapy/*physiopathology
+Treatment Outcome

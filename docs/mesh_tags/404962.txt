@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Ampicillin/cerebrospinal fluid/*therapeutic use
+Carbenicillin/cerebrospinal fluid/*therapeutic use
+Child
+Child, Preschool
+Humans
+Infant
+Meningitis/cerebrospinal fluid/*drug therapy
+Meningitis, Haemophilus/drug therapy
+Meningitis, Pneumococcal/drug therapy
+Middle Aged
+Neisseria meningitidis
+Recurrence

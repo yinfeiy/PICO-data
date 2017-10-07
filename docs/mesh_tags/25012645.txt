@@ -1,0 +1,19 @@
+Aged
+*Bone Density
+Breast Neoplasms/pathology
+Carcinoma/radiotherapy/*rehabilitation/secondary
+Combined Modality Therapy
+Female
+Humans
+Kidney Neoplasms/pathology
+Lung Neoplasms/pathology
+Male
+Melanoma/radiotherapy/*rehabilitation/secondary
+Middle Aged
+Neoplasms/*pathology
+Palliative Care
+Physical Therapy Modalities
+Prostatic Neoplasms/pathology
+Resistance Training/*methods
+Skin Neoplasms/pathology
+Spinal Neoplasms/radiotherapy/*rehabilitation/secondary

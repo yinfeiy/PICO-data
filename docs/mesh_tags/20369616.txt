@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Alkaline Phosphatase/blood
+Antioxidants/administration & dosage/*therapeutic use
+Bilirubin/blood
+Drug Combinations
+Female
+Hepatitis B, Chronic/blood/*drug therapy
+Hepatitis C, Chronic/blood/*drug therapy
+Humans
+Male
+Middle Aged
+Succinates/*pharmacology
+Treatment Outcome
+Young Adult

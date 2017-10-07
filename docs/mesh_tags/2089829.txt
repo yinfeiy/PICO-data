@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Anesthesia, Local/*adverse effects
+*Anesthetics, Local
+Child
+*Cocaine
+Double-Blind Method
+Drug Combinations
+*Epinephrine
+Humans
+Middle Aged
+Pain/*prevention & control
+Pain Measurement
+Prospective Studies
+Single-Blind Method
+*Tetracaine

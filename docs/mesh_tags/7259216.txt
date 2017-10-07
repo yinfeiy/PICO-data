@@ -1,0 +1,8 @@
+Adult
+Alopecia Areata/*drug therapy
+Croton Oil/adverse effects/*therapeutic use
+Dinitrochlorobenzene/adverse effects/*therapeutic use
+Female
+Humans
+Male
+Nitrobenzenes/*therapeutic use

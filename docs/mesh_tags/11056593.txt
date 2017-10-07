@@ -1,0 +1,15 @@
+Activities of Daily Living
+Adult
+Aged
+Diabetic Neuropathies/diagnosis/*drug therapy/physiopathology
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Nerve Growth Factor/*therapeutic use
+Neural Conduction
+Neurologic Examination
+Polyneuropathies/diagnosis/*drug therapy/physiopathology
+Recombinant Proteins/therapeutic use
+Severity of Illness Index

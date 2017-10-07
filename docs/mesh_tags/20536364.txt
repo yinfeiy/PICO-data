@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/*therapeutic use
+Ciprofloxacin/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Length of Stay/statistics & numerical data
+Male
+Middle Aged
+Pulmonary Disease, Chronic Obstructive/*drug therapy/mortality
+Respiration, Artificial/statistics & numerical data
+Treatment Outcome
+Trimethoprim, Sulfamethoxazole Drug Combination/*therapeutic use

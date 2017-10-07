@@ -1,0 +1,19 @@
+Adult
+Aged
+Aging/physiology
+Antihypertensive Agents/*therapeutic use
+Disease Progression
+Female
+Follow-Up Studies
+Glaucoma, Open-Angle/*drug therapy/physiopathology/*surgery
+Humans
+Intraocular Pressure/physiology
+Male
+Middle Aged
+Risk Factors
+Tonometry, Ocular
+*Trabeculectomy
+Vision Disorders/*physiopathology
+Visual Acuity/physiology
+Visual Field Tests
+*Visual Fields

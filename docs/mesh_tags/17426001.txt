@@ -1,0 +1,16 @@
+Adult
+Amides/administration & dosage
+Analgesia, Epidural/methods
+Analgesics/*administration & dosage
+Female
+Fentanyl/administration & dosage
+Gastrectomy/methods
+Humans
+Infusions, Intravenous
+Interleukin-6/*blood
+Male
+Middle Aged
+Morphine/administration & dosage
+Pain, Postoperative/*drug therapy
+Stomach Neoplasms/blood/*surgery
+Treatment Outcome

@@ -1,0 +1,11 @@
+Adult
+Analgesics, Opioid/*administration & dosage/adverse effects/pharmacokinetics
+Delayed-Action Preparations
+Female
+Humans
+Male
+Middle Aged
+Morphine/*administration & dosage/adverse effects/pharmacokinetics
+Neoplasms/*complications
+Pain/*drug therapy
+Treatment Outcome

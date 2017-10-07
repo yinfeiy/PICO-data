@@ -1,0 +1,15 @@
+Adult
+Aged
+Antigens, Neoplasm/*blood
+Biomarkers, Tumor/*blood
+CA-19-9 Antigen/*blood
+Carcinoembryonic Antigen/blood
+Deoxycytidine/*analogs & derivatives/therapeutic use
+*Disease Progression
+Female
+Humans
+Male
+Middle Aged
+Pancreatic Neoplasms/diagnostic imaging/*drug therapy
+Prognosis
+Tomography, X-Ray Computed

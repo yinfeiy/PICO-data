@@ -1,0 +1,19 @@
+Adult
+Aged
+Animals
+Cardiotonic Agents/*therapeutic use
+Disease Models, Animal
+Dogs
+Electric Countershock/*methods
+Electrocardiography
+Follow-Up Studies
+Heart Failure/metabolism/physiopathology/*therapy
+Humans
+Male
+Middle Aged
+Myocardial Contraction/drug effects/*physiology
+Myocardium/*metabolism
+Oxygen Consumption/drug effects/*physiology
+Stroke Volume/drug effects/physiology
+Treatment Outcome
+Ventricular Function, Left/drug effects/*physiology

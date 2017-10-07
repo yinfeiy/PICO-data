@@ -1,0 +1,12 @@
+Adult
+Aged
+Aging/*physiology
+Autonomic Nervous System/*physiology
+Female
+Heart Rate/*physiology
+Humans
+Lung/*physiology
+Lung Volume Measurements
+Male
+Middle Aged
+Respiration

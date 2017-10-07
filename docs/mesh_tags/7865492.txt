@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Amoxicillin/administration & dosage/*therapeutic use
+Anti-Ulcer Agents/administration & dosage/*therapeutic use
+Drug Therapy, Combination
+Duodenal Ulcer/*drug therapy/*microbiology
+Female
+Helicobacter Infections/*drug therapy
+*Helicobacter pylori
+Humans
+Male
+Metronidazole/administration & dosage/therapeutic use
+Middle Aged
+Recurrence

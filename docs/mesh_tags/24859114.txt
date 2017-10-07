@@ -1,0 +1,16 @@
+Adult
+Blood Glucose
+Body Mass Index
+*Feeding Behavior
+Female
+*Glycemic Index
+Health Behavior
+Healthy Volunteers
+Humans
+Male
+Motor Activity
+Multivariate Analysis
+Overweight
+*Self Efficacy
+*Weight Loss
+Young Adult

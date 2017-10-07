@@ -1,0 +1,27 @@
+Adolescent
+Adult
+Aged
+Anemia, Aplastic/drug therapy/mortality/*therapy
+Animals
+Antilymphocyte Serum/*therapeutic use
+Blood Cell Count
+Child
+Child, Preschool
+Cyclosporine/*therapeutic use
+Disease-Free Survival
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Granulocyte Colony-Stimulating Factor/*administration & dosage/therapeutic use
+Hematopoietic Stem Cell Mobilization
+Horses
+Humans
+Immunosuppressive Agents/administration & dosage/*therapeutic use
+Life Tables
+Male
+Methylprednisolone/therapeutic use
+Middle Aged
+Prospective Studies
+Survival Analysis
+Treatment Failure
+Treatment Outcome

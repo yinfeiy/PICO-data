@@ -1,0 +1,12 @@
+*Cues
+Gait/physiology
+Hemiplegia/physiopathology/*rehabilitation
+Humans
+Middle Aged
+Postural Balance/*physiology
+Quality of Life
+Sensory Deprivation/*physiology
+Stroke/physiopathology
+*Stroke Rehabilitation
+Task Performance and Analysis
+Visual Perception/*physiology

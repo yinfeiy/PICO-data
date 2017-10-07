@@ -1,0 +1,9 @@
+Cholesterol, LDL/*blood
+Female
+Humans
+Hyperemia/*blood/*drug therapy
+Middle Aged
+Postmenopause/*blood/drug effects
+Quinolines/pharmacology/*therapeutic use
+Time Factors
+Treatment Outcome

@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Cognitive Therapy/*methods
+Female
+Humans
+*Internet
+Male
+Middle Aged
+Patient Compliance/*psychology
+Patient Dropouts/*psychology
+*Patient Satisfaction
+Therapy, Computer-Assisted
+Tinnitus/*psychology/therapy

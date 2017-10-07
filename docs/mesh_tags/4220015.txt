@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Alkaline Phosphatase/blood
+Child
+Chronic Disease
+Female
+Hepatitis/blood/diagnosis/*drug therapy/enzymology
+Humans
+Iron/blood
+Long-Term Care
+Male
+Middle Aged
+Prednisolone/administration & dosage/therapeutic use
+Prognosis
+Sulfobromophthalein
+Time Factors
+Transaminases/blood

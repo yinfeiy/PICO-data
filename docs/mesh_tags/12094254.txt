@@ -1,0 +1,19 @@
+Acute Disease
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Bone Marrow Cells/*metabolism/pathology
+Endothelial Growth Factors/*biosynthesis/genetics
+Gene Expression Regulation, Neoplastic
+Humans
+Leukemia, Myeloid/drug therapy/genetics/*metabolism/pathology
+Lymphokines/*biosynthesis/genetics
+Middle Aged
+Neovascularization, Pathologic
+Receptor Protein-Tyrosine Kinases/*biosynthesis/genetics
+Receptors, Growth Factor/*biosynthesis/genetics
+Receptors, Mitogen/biosynthesis/genetics
+Receptors, Vascular Endothelial Growth Factor
+Remission Induction
+Vascular Endothelial Growth Factor A
+Vascular Endothelial Growth Factors

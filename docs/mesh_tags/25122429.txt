@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Angiogenesis Inhibitors/therapeutic use
+Antibodies, Monoclonal, Humanized/*therapeutic use
+Antineoplastic Agents/*therapeutic use
+Bevacizumab
+Carcinoma, Non-Small-Cell Lung/*drug therapy/mortality/pathology
+Disease-Free Survival
+Drug Therapy, Combination
+Europe/epidemiology
+Female
+Follow-Up Studies
+Humans
+Lung Neoplasms/*drug therapy/mortality/pathology
+Male
+Middle Aged
+Prospective Studies
+Survival Rate/trends
+Time Factors
+Treatment Outcome
+United States/epidemiology
+Vascular Endothelial Growth Factor A

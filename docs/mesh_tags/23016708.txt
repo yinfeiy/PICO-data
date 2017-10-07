@@ -1,0 +1,13 @@
+Amiloride/*therapeutic use
+Angina Pectoris/blood/*drug therapy
+Biological Transport/drug effects
+Coronary Artery Disease/blood/*drug therapy
+Erythrocytes/*drug effects/metabolism
+Female
+Hemoglobins/*metabolism
+Humans
+Male
+Middle Aged
+Oxygen/*blood
+Potassium/*blood
+Single-Blind Method

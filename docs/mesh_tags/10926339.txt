@@ -1,0 +1,14 @@
+Administration, Inhalation
+Adolescent
+Adult
+Anti-Inflammatory Agents/*administration & dosage
+Asthma/*drug therapy/physiopathology
+Bronchial Hyperreactivity/drug therapy/physiopathology
+Budesonide/*administration & dosage
+Double-Blind Method
+Female
+Forced Expiratory Volume/drug effects
+Humans
+Male
+Patient Compliance
+Vital Capacity/drug effects

@@ -1,0 +1,13 @@
+Aged
+Cold Temperature
+Continuous Positive Airway Pressure/*instrumentation/methods
+Cross-Over Studies
+Female
+Hot Temperature
+Humans
+*Humidity
+Male
+Middle Aged
+Patient Satisfaction
+*Polysomnography
+Sleep Apnea, Obstructive/*therapy

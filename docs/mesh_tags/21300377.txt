@@ -1,0 +1,16 @@
+Adult
+Affective Disorders, Psychotic/diagnosis/*drug therapy/psychology
+Antidepressive Agents/adverse effects/*therapeutic use
+Antipsychotic Agents/adverse effects/*therapeutic use
+Benzodiazepines/adverse effects/*therapeutic use
+Depressive Disorder, Major/diagnosis/*drug therapy/psychology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Drug Resistance
+Drug Therapy, Combination
+Female
+Humans
+Male
+Retreatment
+Sertraline/adverse effects/*therapeutic use

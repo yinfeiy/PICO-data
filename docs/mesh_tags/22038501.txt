@@ -1,0 +1,17 @@
+Adenocarcinoma/mortality/*surgery
+Female
+Follow-Up Studies
+Humans
+Japan/epidemiology
+Lymph Node Excision/*methods
+Lymph Nodes/*surgery
+Male
+Middle Aged
+Pancreatic Neoplasms/mortality/*surgery
+Pancreaticoduodenectomy/*methods
+Prospective Studies
+Quality of Life
+Retroperitoneal Space
+Survival Rate/trends
+Time Factors
+Treatment Outcome

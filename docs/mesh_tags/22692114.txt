@@ -1,0 +1,17 @@
+Adult
+Athletic Performance/*physiology
+Body Fluids/*physiology
+Body Weight
+Carbohydrates/administration & dosage
+Cross-Over Studies
+Dehydration/prevention & control/*urine
+Electrolytes/administration & dosage
+Female
+Humans
+Male
+Reproducibility of Results
+Sodium Chloride/administration & dosage
+Specific Gravity
+Urine/chemistry
+Water/administration & dosage
+Young Adult

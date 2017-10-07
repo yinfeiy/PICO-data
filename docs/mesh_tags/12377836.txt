@@ -1,0 +1,18 @@
+Adult
+Aged
+Female
+*Home Care Services
+Humans
+Hypoxia/diagnosis
+Male
+Middle Aged
+Monitoring, Ambulatory/methods
+Monitoring, Physiologic/methods
+Oximetry
+Patient Compliance
+Polysomnography/instrumentation/*methods
+Prospective Studies
+ROC Curve
+Sensitivity and Specificity
+Severity of Illness Index
+Sleep Apnea Syndromes/*diagnosis

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Antidepressive Agents, Tricyclic/adverse effects/*therapeutic use
+Antipsychotic Agents/adverse effects/*therapeutic use
+Autistic Disorder/*drug therapy/psychology
+Basal Ganglia Diseases/chemically induced
+Clomipramine/adverse effects/*therapeutic use
+Cross-Over Studies
+Double-Blind Method
+Female
+Haloperidol/adverse effects/*therapeutic use
+Humans
+Male
+Psychiatric Status Rating Scales
+Stereotyped Behavior
+Treatment Outcome

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Chronic Disease
+Electrocoagulation/*instrumentation
+Female
+Hemostasis, Surgical
+Humans
+Male
+Middle Aged
+Pain, Postoperative/epidemiology
+Postoperative Hemorrhage/epidemiology
+Prospective Studies
+Sleep Apnea, Obstructive/*surgery
+Tonsillectomy/*methods
+Tonsillitis/*surgery
+Treatment Outcome

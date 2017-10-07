@@ -1,0 +1,21 @@
+Aged
+Anticholesteremic Agents/adverse effects/therapeutic use
+Atorvastatin Calcium
+Cholesterol/blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Coronary Disease/blood/*drug therapy
+Delayed-Action Preparations
+Drug Therapy, Combination
+Female
+Headache/chemically induced
+Heptanoic Acids/adverse effects/*therapeutic use
+Humans
+Hyperlipidemias/blood/drug therapy
+Lipids/*blood
+Male
+Middle Aged
+Niacin/adverse effects/*therapeutic use
+Pyrroles/adverse effects/*therapeutic use
+Treatment Outcome
+Triglycerides/blood

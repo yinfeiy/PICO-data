@@ -1,0 +1,18 @@
+Adult
+Aged
+Anticholesteremic Agents/*therapeutic use
+Cholesterol/blood
+Female
+Gemfibrozil/*therapeutic use
+Humans
+Hydrochlorothiazide/*therapeutic use
+*Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypercholesterolemia/blood/complications/*drug therapy
+Hypertension/*complications/drug therapy
+Lipoproteins, HDL/blood
+Lipoproteins, LDL/blood
+Lovastatin/*analogs & derivatives/therapeutic use
+Male
+Middle Aged
+Simvastatin
+Triglycerides/blood

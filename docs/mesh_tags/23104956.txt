@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Anticoagulants/administration & dosage
+Cross-Over Studies
+Female
+Heparin/*administration & dosage
+Heparin, Low-Molecular-Weight/*administration & dosage
+Humans
+Kidney Failure, Chronic/blood/pathology/*therapy
+Male
+Middle Aged
+Osteoprotegerin/*blood
+RANK Ligand/*blood
+Renal Dialysis/*methods
+von Willebrand Factor/*metabolism

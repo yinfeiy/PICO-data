@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+Female
+Humans
+India/epidemiology
+Male
+Middle Aged
+*Mortality
+Randomized Controlled Trials as Topic
+Vitamin A/*administration & dosage
+Vitamin A Deficiency/mortality

@@ -1,0 +1,24 @@
+Adult
+Aged
+Angiogenesis Inhibitors/*therapeutic use
+Antibodies, Monoclonal/*therapeutic use
+Antibodies, Monoclonal, Humanized
+Bevacizumab
+Combined Modality Therapy
+Diabetes Mellitus, Type 2/complications
+Diabetic Retinopathy/diagnosis/drug therapy/surgery/*therapy
+Double-Blind Method
+Female
+Fluorescein Angiography
+Follow-Up Studies
+Hemoglobin A, Glycosylated/analysis
+Humans
+Injections
+*Laser Coagulation
+Male
+Middle Aged
+Prospective Studies
+Recurrence
+Retinal Neovascularization/diagnosis/drug therapy/surgery/*therapy
+Vascular Endothelial Growth Factor A/antagonists & inhibitors
+Vitreous Body

@@ -1,0 +1,19 @@
+Adult
+Aged
+Antiviral Agents/*administration & dosage/adverse effects
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Hepatitis C, Chronic/*drug therapy
+Humans
+Interferon-alpha/*administration & dosage/adverse effects
+Male
+Middle Aged
+Pilot Projects
+Prospective Studies
+Recombinant Proteins
+Recurrence
+Retreatment/adverse effects/methods
+Ribavirin/*administration & dosage/adverse effects
+Time Factors
+Treatment Outcome

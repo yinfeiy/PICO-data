@@ -1,0 +1,15 @@
+*Antihypertensive Agents
+Atrial Fibrillation/complications/diagnostic imaging/*drug therapy
+Benzopyrans/*therapeutic use
+Echocardiography, Doppler
+Ethanolamines/*therapeutic use
+Female
+Humans
+Hypertension/complications/*drug therapy
+Male
+Middle Aged
+Nebivolol
+Tetrazoles/*therapeutic use
+Treatment Outcome
+Valine/*analogs & derivatives/therapeutic use
+Valsartan

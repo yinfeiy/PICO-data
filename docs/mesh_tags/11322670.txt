@@ -1,0 +1,13 @@
+Aged
+Aged, 80 and over
+Ambulatory Care
+*Drug Therapy, Combination
+Female
+Humans
+Male
+Outcome Assessment (Health Care)
+*Patient Care Team
+Patient Compliance
+*Patient Discharge
+Patient Readmission
+*Pharmacy Service, Hospital

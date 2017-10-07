@@ -1,0 +1,15 @@
+Atherosclerosis/*blood/complications/diagnostic imaging
+Cholesterol, HDL/*blood/drug effects
+Coronary Artery Disease/*blood/complications/diagnostic imaging
+Coronary Stenosis/blood/complications/diagnostic imaging
+Diabetes Mellitus, Type 2/blood/*complications/drug therapy
+Disease Progression
+Double-Blind Method
+Follow-Up Studies
+Humans
+Hypoglycemic Agents/administration & dosage/therapeutic use
+Prognosis
+Prospective Studies
+Thiazolidinediones/administration & dosage/*therapeutic use
+Triglycerides/*blood
+Ultrasonography, Interventional/*methods

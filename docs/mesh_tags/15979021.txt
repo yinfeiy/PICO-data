@@ -1,0 +1,23 @@
+Adult
+Aged
+Analgesics/*administration & dosage/adverse effects
+Chronic Disease
+Cyclohexanols/*administration & dosage/adverse effects
+Double-Blind Method
+Electric Stimulation/adverse effects
+Female
+Hot Temperature/adverse effects
+Humans
+Hyperalgesia/drug therapy/physiopathology/psychology
+Male
+Middle Aged
+Neuralgia/*drug therapy/physiopathology/psychology
+Pain Measurement/drug effects
+Pain Threshold/drug effects/physiology
+Pain, Intractable/*drug therapy/physiopathology/psychology
+Peripheral Nervous System Diseases/*drug therapy/physiopathology/psychology
+Physical Stimulation
+Placebos
+Time Factors
+Treatment Outcome
+Venlafaxine Hydrochloride

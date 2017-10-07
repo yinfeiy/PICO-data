@@ -1,0 +1,22 @@
+Antibodies, Monoclonal/administration & dosage
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bevacizumab
+Capecitabine
+Colorectal Neoplasms/drug therapy/*genetics/pathology
+Deoxycytidine/administration & dosage/analogs & derivatives
+Disease-Free Survival
+Enhancer Elements, Genetic
+Fluorouracil/administration & dosage/analogs & derivatives
+Genetic Association Studies
+Genotype
+Humans
+Kaplan-Meier Estimate
+Multifactor Dimensionality Reduction
+Neoplasm Metastasis
+Organoplatinum Compounds/administration & dosage
+*Polymorphism, Genetic
+Proportional Hazards Models
+Thymidylate Synthase/genetics
+Treatment Outcome
+Vascular Endothelial Growth Factor A/genetics

@@ -1,0 +1,19 @@
+Administration, Inhalation
+Administration, Topical
+Adult
+Alkaline Phosphatase/blood
+Androstadienes/administration & dosage/pharmacokinetics/*pharmacology
+Anti-Inflammatory Agents/administration & dosage/pharmacokinetics/*pharmacology
+Biological Availability
+Bone and Bones/drug effects/metabolism
+Budesonide
+Calcium/urine
+Cross-Over Studies
+Female
+Fluticasone
+Humans
+Hydrocortisone/blood
+Male
+Osteocalcin/blood
+Pregnenediones/administration & dosage/pharmacokinetics/*pharmacology
+Single-Blind Method

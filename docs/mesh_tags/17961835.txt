@@ -1,0 +1,16 @@
+Adult
+Amines/pharmacokinetics/*therapeutic use
+Analgesics/pharmacokinetics/*therapeutic use
+Cross-Over Studies
+Cyclohexanecarboxylic Acids/pharmacokinetics/*therapeutic use
+Double-Blind Method
+Electric Stimulation
+Humans
+Male
+Muscle, Skeletal/pathology
+Nociceptors/drug effects
+Pain/chemically induced/*drug therapy/psychology
+Pain Measurement/drug effects
+Pain Threshold/drug effects
+Skin/pathology
+gamma-Aminobutyric Acid/pharmacokinetics/*therapeutic use

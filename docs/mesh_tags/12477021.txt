@@ -1,0 +1,8 @@
+Adult
+Female
+Glaucoma/diagnosis
+Humans
+Intraocular Pressure/*physiology
+Male
+Reproducibility of Results
+Tonometry, Ocular/*instrumentation/standards

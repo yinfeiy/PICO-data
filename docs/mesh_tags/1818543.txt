@@ -1,0 +1,15 @@
+Adult
+Aged
+Arthritis, Rheumatoid/blood/*drug therapy
+Azathioprine/adverse effects/pharmacology/*therapeutic use
+Blood Pressure/drug effects
+Creatinine/blood
+Cyclosporine/adverse effects/pharmacology/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Hypertension/chemically induced
+Male
+Middle Aged
+Nausea/chemically induced
+Treatment Outcome

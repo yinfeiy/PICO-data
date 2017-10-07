@@ -1,0 +1,15 @@
+Aged
+Androgen Antagonists/*therapeutic use
+Antineoplastic Agents, Hormonal/*therapeutic use
+Cause of Death
+*Chemoradiotherapy
+Disease Progression
+Humans
+Male
+Middle Aged
+Neoplasm Grading
+Prostate-Specific Antigen/blood
+Prostatic Neoplasms/mortality/pathology/*therapy
+Radiotherapy Dosage
+Survival Analysis
+Treatment Outcome

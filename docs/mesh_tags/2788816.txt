@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Emergencies
+Esophageal and Gastric Varices/mortality/surgery/*therapy
+Esophagus/*surgery
+Female
+Gastrointestinal Hemorrhage/mortality/surgery/*therapy
+Humans
+Liver Cirrhosis/complications
+Male
+Middle Aged
+Random Allocation
+Sclerosing Solutions/*therapeutic use
+Surgical Staplers

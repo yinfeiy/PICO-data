@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Biopsy/adverse effects/instrumentation/*methods
+Bronchial Neoplasms/*pathology
+Bronchoscopes
+*Bronchoscopy/adverse effects
+*Cryosurgery/adverse effects/instrumentation
+Feasibility Studies
+Female
+Hemorrhage/etiology
+Humans
+Male
+Middle Aged
+Predictive Value of Tests
+Prospective Studies
+Surgical Instruments
+Young Adult

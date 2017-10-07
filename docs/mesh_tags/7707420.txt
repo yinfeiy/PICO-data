@@ -1,0 +1,11 @@
+Adult
+Anxiety/etiology
+Breast Neoplasms/epidemiology/etiology/*psychology
+*Counseling
+Female
+Humans
+Logistic Models
+Middle Aged
+Multivariate Analysis
+Risk Factors
+Treatment Outcome

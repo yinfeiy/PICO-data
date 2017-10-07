@@ -1,0 +1,28 @@
+Anticholesteremic Agents/*therapeutic use
+Apolipoprotein A-I/blood
+Apolipoproteins/blood
+Apolipoproteins B/blood
+Apoprotein(a)
+Blood Pressure/drug effects
+Body Mass Index
+Cholesterol/blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Creatinine/blood
+Diabetes Mellitus, Type 2/blood/drug therapy/*physiopathology
+Diabetic Nephropathies/*prevention & control
+Diet, Diabetic
+Female
+Follow-Up Studies
+Glomerular Filtration Rate/*drug effects
+Hemoglobin A, Glycosylated/analysis
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+*Lipoprotein(a)
+Lovastatin/*therapeutic use
+Male
+Middle Aged
+Placebos
+Single-Blind Method
+Time Factors
+Triglycerides/blood

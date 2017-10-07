@@ -1,0 +1,15 @@
+Adenocarcinoma/*diagnostic imaging/immunology
+Aged
+Antibodies, Monoclonal/administration & dosage/adverse effects/immunology/pharmacokinetics
+Antibodies, Neoplasm/biosynthesis/immunology
+Carcinoembryonic Antigen/*administration & dosage/adverse effects/immunology
+Humans
+Immunotoxins/*administration & dosage/adverse effects/immunology/pharmacokinetics
+Infusions, Intra-Arterial
+Infusions, Intravenous
+Iodine Radioisotopes/*administration & dosage/adverse effects/pharmacokinetics
+Middle Aged
+Pancreatic Neoplasms/immunology/*radiotherapy
+Radiography
+Radioimmunotherapy/adverse effects/*methods
+Survival Rate

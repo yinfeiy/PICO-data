@@ -1,0 +1,15 @@
+Adult
+Anovulation/*drug therapy
+Chi-Square Distribution
+Chorionic Gonadotropin/administration & dosage/*pharmacology/therapeutic use
+Drug Combinations
+Estradiol/blood
+Female
+Follicle Stimulating Hormone/administration & dosage/*pharmacology/therapeutic use
+Humans
+Infertility, Female/*drug therapy
+Luteinizing Hormone/administration & dosage/*pharmacology/therapeutic use
+Ovarian Follicle/drug effects
+Ovulation Induction/*methods
+Pregnancy
+Progesterone/blood

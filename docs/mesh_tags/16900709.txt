@@ -1,0 +1,12 @@
+Adult
+Aged
+*Catheters, Indwelling
+Female
+Humans
+Kidney Calculi/*surgery
+Male
+Middle Aged
+Nephrostomy, Percutaneous/*methods
+Postoperative Complications
+Ureteral Calculi/*surgery
+Urinary Catheterization/*methods

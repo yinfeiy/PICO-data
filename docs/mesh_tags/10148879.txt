@@ -1,0 +1,13 @@
+Adult
+Analgesia, Obstetrical/adverse effects/*methods
+Analgesia, Patient-Controlled/adverse effects/*methods
+Apgar Score
+Female
+Fentanyl/*administration & dosage
+Humans
+Infant, Newborn
+Labor, Obstetric
+Pain/prevention & control
+Pain Measurement
+Pregnancy
+Prospective Studies

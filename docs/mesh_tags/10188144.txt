@@ -1,0 +1,19 @@
+Adult
+Analysis of Variance
+Appendicitis/chemically induced
+Benzimidazoles/adverse effects/*therapeutic use
+Chronic Disease
+Double-Blind Method
+Electrocardiography/drug effects
+Female
+Histamine H1 Antagonists/adverse effects/*therapeutic use
+Humans
+Loratadine/adverse effects/*therapeutic use
+Male
+Middle Aged
+Patient Dropouts
+Pruritus/drug therapy/pathology
+Severity of Illness Index
+Treatment Outcome
+Urticaria/*drug therapy/pathology
+Vasculitis/chemically induced

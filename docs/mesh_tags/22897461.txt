@@ -1,0 +1,18 @@
+Apolipoproteins/blood
+Cholesterol, HDL/drug effects
+Cholesterol, LDL/blood/drug effects
+Drug Therapy, Combination
+Dyslipidemias/blood/*drug therapy
+Fatty Acids, Omega-3/*administration & dosage
+Female
+Fenofibrate/*administration & dosage
+Fluorobenzenes/*administration & dosage
+Humans
+Hypolipidemic Agents/*administration & dosage
+Male
+Medication Adherence
+Metabolic Syndrome X/blood/*drug therapy
+Middle Aged
+Pyrimidines/*administration & dosage
+Rosuvastatin Calcium
+Sulfonamides/*administration & dosage

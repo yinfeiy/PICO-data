@@ -1,0 +1,16 @@
+Adult
+Blood Cells/*drug effects
+Blood Platelets/metabolism
+Ethanolamine
+Ethanolamines/blood
+Fish Oils/*pharmacology
+*Food, Formulated
+Humans
+Leukotrienes/*biosynthesis
+Lysophospholipids/*biosynthesis
+Male
+Neutrophil Activation
+Neutrophils/metabolism
+Plant Oils/*pharmacology
+Platelet Activation
+Platelet Aggregation/drug effects

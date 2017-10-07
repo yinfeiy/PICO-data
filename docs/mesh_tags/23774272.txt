@@ -1,0 +1,23 @@
+Adult
+Biomarkers/blood
+Blood Pressure
+Body Weight
+C-Reactive Protein/metabolism
+*Dairy Products/adverse effects
+*Diet/adverse effects
+Feeding Behavior
+Female
+Health Behavior
+Health Status
+Healthy Volunteers
+Humans
+Inflammation Mediators/blood
+Insulin Resistance
+Lipids/blood
+Male
+Metabolic Syndrome X/blood/diagnosis/etiology/physiopathology/*prevention & control
+Middle Aged
+New Zealand
+Risk Factors
+Time Factors
+Waist Circumference

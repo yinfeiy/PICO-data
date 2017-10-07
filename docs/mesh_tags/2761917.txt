@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Anorexia/etiology
+Anus Neoplasms/*therapy
+Condylomata Acuminata/*therapy
+Drug Administration Schedule
+*Electrocoagulation/adverse effects
+Fatigue/etiology
+Female
+Genital Neoplasms, Female/*therapy
+Headache/etiology
+Humans
+Injections, Intramuscular
+Injections, Subcutaneous
+Interferon Type I/*administration & dosage
+Interferon-alpha/*administration & dosage/adverse effects
+Middle Aged
+Neoplasm Recurrence, Local/epidemiology
+Neoplasms, Multiple Primary/*therapy
+Random Allocation
+Recombinant Proteins

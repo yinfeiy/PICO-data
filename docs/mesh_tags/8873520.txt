@@ -1,0 +1,16 @@
+Absenteeism
+Adult
+Aged
+Aged, 80 and over
+Female
+Follow-Up Studies
+Hernia, Inguinal/*surgery
+Humans
+Ligaments/surgery
+Male
+Middle Aged
+Pain/etiology
+Postoperative Complications
+Recurrence
+Statistics, Nonparametric
+Surgical Wound Infection/etiology

@@ -1,0 +1,11 @@
+Aged
+Female
+Heparin/therapeutic use
+Humans
+Italy
+Male
+Multicenter Studies as Topic
+Myocardial Infarction/*drug therapy/mortality
+Randomized Controlled Trials as Topic
+Streptokinase/*therapeutic use
+Tissue Plasminogen Activator/*therapeutic use

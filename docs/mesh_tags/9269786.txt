@@ -1,0 +1,18 @@
+Adult
+Antineoplastic Agents/therapeutic use
+Chromosomes, Human, Pair 15
+Chromosomes, Human, Pair 17
+Cloning, Molecular
+Exons
+Hemoglobins/analysis
+Humans
+Introns
+Leukemia, Promyelocytic, Acute/drug therapy/*genetics
+Leukocyte Count
+Neoplasm Proteins/*genetics
+Oncogene Proteins, Fusion/*genetics
+Platelet Count
+Prognosis
+RNA, Messenger/*analysis
+Treatment Outcome
+Tretinoin/therapeutic use

@@ -1,0 +1,18 @@
+Adolescent
+Antipsychotic Agents/administration & dosage/adverse effects/*pharmacology
+Aripiprazole
+Autistic Disorder/complications/*drug therapy
+Child
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Irritable Mood/*drug effects
+Kaplan-Meier Estimate
+Long-Term Care
+Male
+Piperazines/administration & dosage/adverse effects/*pharmacology
+Placebos
+Quinolones/administration & dosage/adverse effects/*pharmacology
+*Secondary Prevention
+Treatment Outcome

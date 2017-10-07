@@ -1,0 +1,20 @@
+Allergens/immunology
+Animals
+Anti-Allergic Agents/therapeutic use
+Antibody Specificity/*immunology
+Biomarkers/blood
+Canada
+Cats
+Cattle
+Cetirizine/therapeutic use
+Child, Preschool
+Dermatitis, Atopic/drug therapy/*immunology
+Europe
+Female
+Humans
+Immunoglobulin E/*blood/immunology
+Infant
+Male
+Milk/immunology
+Mites/immunology
+Observer Variation

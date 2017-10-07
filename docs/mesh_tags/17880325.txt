@@ -1,0 +1,18 @@
+Acute Disease
+Aged
+Angina, Unstable/drug therapy/*mortality/physiopathology
+Aspirin/adverse effects/therapeutic use
+Female
+Hirudin Therapy/*adverse effects
+Hirudins/*adverse effects
+Humans
+Male
+Middle Aged
+Myocardial Infarction/drug therapy/*mortality/physiopathology
+Myocardial Ischemia/drug therapy/*mortality/physiopathology
+Platelet Aggregation Inhibitors/*adverse effects/therapeutic use
+Platelet Glycoprotein GPIIb-IIIa Complex/*antagonists & inhibitors
+Risk Assessment
+Risk Factors
+Survival
+Time Factors

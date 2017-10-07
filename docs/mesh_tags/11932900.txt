@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Diagnosis, Differential
+Female
+*Fluorodeoxyglucose F18
+Humans
+Male
+Middle Aged
+Nasopharyngeal Neoplasms/*diagnostic imaging/radiotherapy
+Neoplasm Recurrence, Local/*diagnostic imaging
+Neoplasm, Residual
+*Radiopharmaceuticals
+Reproducibility of Results
+*Technetium Tc 99m Sestamibi
+Tomography, Emission-Computed, Single-Photon/methods
+Tomography, X-Ray Computed

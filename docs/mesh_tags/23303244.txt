@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Cross-Over Studies
+Hemoglobinometry/methods/standards
+Hemoglobins/*metabolism
+Humans
+Hydroxyethyl Starch Derivatives/*administration & dosage
+Infusion Pumps/standards
+Isotonic Solutions/*administration & dosage
+Male
+Oximetry/methods/*standards
+Young Adult

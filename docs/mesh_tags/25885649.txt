@@ -1,0 +1,14 @@
+Accelerometry
+Adult
+Arthritis, Rheumatoid/physiopathology/*rehabilitation
+Body Mass Index
+Exercise/*physiology
+Exercise Therapy/*methods
+Female
+*Health Status
+Humans
+Male
+Middle Aged
+Motor Activity/*physiology
+*Self Report
+Surveys and Questionnaires

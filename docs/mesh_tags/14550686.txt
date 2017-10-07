@@ -1,0 +1,12 @@
+Adult
+Bradycardia/*chemically induced
+Electroencephalography/drug effects
+Female
+Heroin Dependence/*rehabilitation
+Humans
+Hypoxia/*chemically induced
+Injections, Intravenous
+Male
+Methadone/administration & dosage/*adverse effects/therapeutic use
+Middle Aged
+Narcotics/administration & dosage/*adverse effects/therapeutic use

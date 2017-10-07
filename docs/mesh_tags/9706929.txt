@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Anesthesia, Spinal/*adverse effects
+Bradycardia/etiology/*prevention & control
+Dihydroergotamine/*administration & dosage
+Female
+Hemodynamics
+Humans
+Hypotension/etiology/*prevention & control
+Infusions, Intravenous
+Isotonic Solutions/*administration & dosage
+Male
+Middle Aged
+Time Factors
+Vasoconstrictor Agents/*administration & dosage

@@ -1,0 +1,20 @@
+Acute Disease
+Adolescent
+Adult
+Age Factors
+Attitude to Health
+Back Pain/diagnosis/psychology/*therapy
+Cognitive Therapy/methods
+Cohort Studies
+Disability Evaluation
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neck Pain/diagnosis/psychology/*therapy
+Outcome Assessment (Health Care)/statistics & numerical data
+Primary Health Care/statistics & numerical data
+Probability
+Prospective Studies
+Sick Leave/*statistics & numerical data

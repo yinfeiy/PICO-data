@@ -1,0 +1,11 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cisplatin/*administration & dosage/adverse effects
+Dacarbazine/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Female
+Humans
+Male
+Melanoma/*drug therapy/mortality/secondary
+Middle Aged

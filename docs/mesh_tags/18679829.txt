@@ -1,0 +1,12 @@
+Adult
+Aged
+Breast Neoplasms/*genetics
+Female
+*Genes, BRCA1
+Genes, BRCA2
+*Genetic Predisposition to Disease
+*Genetic Testing/methods
+*Health Knowledge, Attitudes, Practice
+Humans
+Middle Aged
+Patient Education as Topic/*methods

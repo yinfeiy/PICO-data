@@ -1,0 +1,20 @@
+Administration, Oral
+Aged
+Blood Glucose/*drug effects/metabolism
+Body Mass Index
+Body Weight
+Diabetes Mellitus, Type 2/blood/*drug therapy
+Drug Therapy, Combination
+Female
+Glucagon-Like Peptide 1/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Hemoglobin A, Glycosylated/drug effects/metabolism
+Humans
+Hypoglycemic Agents/administration & dosage/adverse effects/*therapeutic use
+Insulin Glargine
+Insulin, Long-Acting/administration & dosage/adverse effects/*therapeutic use
+International Cooperation
+Liraglutide
+Male
+Metformin/administration & dosage/adverse effects/*therapeutic use
+Middle Aged
+Treatment Outcome

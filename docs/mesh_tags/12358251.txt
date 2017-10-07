@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Arrhythmias, Cardiac/*chemically induced/*physiopathology
+Colonic Diseases, Functional/*drug therapy/*physiopathology
+Double-Blind Method
+Electrocardiography/*drug effects
+Female
+Gastrointestinal Agents/adverse effects/*pharmacology/*therapeutic use
+Humans
+Indoles/adverse effects/*pharmacology/*therapeutic use
+Male
+Middle Aged

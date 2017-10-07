@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Dental Plaque/*therapy
+Electricity
+Epidemiologic Methods
+Equipment Design
+Female
+Humans
+Male
+Middle Aged
+Rotation
+Toothbrushing/*instrumentation

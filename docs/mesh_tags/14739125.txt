@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Apolipoproteins/blood
+Carrier Proteins/*antagonists & inhibitors
+Cholesterol Ester Transfer Proteins
+Cholesterol, HDL/blood
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Enzyme Inhibitors/administration & dosage/*pharmacology
+Female
+Glycoproteins/*antagonists & inhibitors
+Humans
+Lipids/blood
+Lipoproteins/blood
+Lipoproteins, HDL/*blood
+Male
+Middle Aged
+Quinolines/administration & dosage/*pharmacology

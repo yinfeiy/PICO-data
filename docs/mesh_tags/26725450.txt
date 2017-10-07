@@ -1,0 +1,16 @@
+Adenoviridae/*classification
+Adult
+Antibodies, Viral/*blood
+Dose-Response Relationship, Immunologic
+Ebola Vaccines/administration & dosage/adverse effects/*immunology
+Ebolavirus/immunology
+Female
+Fever/chemically induced
+Hemorrhagic Fever, Ebola/*prevention & control/virology
+Humans
+Immunoglobulin G/blood
+Male
+Middle Aged
+Military Personnel
+Vaccines, DNA/immunology
+Young Adult

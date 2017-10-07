@@ -1,0 +1,21 @@
+Adolescent
+Aggression/drug effects
+Antipsychotic Agents/adverse effects/*therapeutic use
+Attention/drug effects
+Child
+Child Behavior Disorders/diagnosis/drug therapy
+Child Development Disorders, Pervasive/diagnosis/*drug therapy
+Child, Preschool
+Choice Behavior/drug effects
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Humans
+Male
+Memory, Short-Term/drug effects
+*Neuropsychological Tests
+Pattern Recognition, Visual/drug effects
+Reaction Time/drug effects
+Risperidone/adverse effects/*therapeutic use
+Self-Injurious Behavior/diagnosis/drug therapy
+Serial Learning/drug effects

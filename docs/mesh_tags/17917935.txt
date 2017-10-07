@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Aminoquinolines/*administration & dosage/adverse effects
+Antineoplastic Agents/*administration & dosage/adverse effects
+Carcinoma, Basal Cell/*drug therapy/pathology
+Drug Administration Schedule
+Female
+Humans
+Male
+Middle Aged
+Skin Neoplasms/*drug therapy/pathology
+Treatment Outcome

@@ -1,0 +1,16 @@
+Adjuvants, Anesthesia/administration & dosage/*therapeutic use
+Adult
+Analgesics, Opioid/administration & dosage/*adverse effects
+Anesthesia, Epidural
+Anesthesia, Obstetrical
+Cesarean Section
+Dose-Response Relationship, Drug
+Double-Blind Method
+Droperidol/administration & dosage/*therapeutic use
+Female
+Humans
+Injections, Epidural
+Injections, Intravenous
+Morphine/administration & dosage/*adverse effects
+Pregnancy
+Pruritus/*chemically induced/*prevention & control

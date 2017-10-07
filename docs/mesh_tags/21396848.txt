@@ -1,0 +1,22 @@
+Administration, Rectal
+Aged
+Anesthetics, Local/administration & dosage
+Anti-Inflammatory Agents, Non-Steroidal/administration & dosage
+Biopsy, Needle
+Drug Therapy, Combination
+Follow-Up Studies
+Gels
+Humans
+Ketorolac/*administration & dosage
+Lidocaine/*administration & dosage
+Male
+Neoplasm Staging
+Ointments
+Pain/*drug therapy
+Pain Management
+Pain Measurement
+Prilocaine/*administration & dosage
+Prognosis
+Prospective Studies
+Prostatic Neoplasms/diagnostic imaging/pathology/*surgery
+Ultrasonography, Interventional

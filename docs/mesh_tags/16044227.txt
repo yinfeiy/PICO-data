@@ -1,0 +1,14 @@
+Adolescent
+Cuspid/*abnormalities/*diagnostic imaging/pathology
+Female
+Humans
+Male
+Maxilla/diagnostic imaging/pathology
+Organ Size
+Palate/diagnostic imaging/pathology
+Radiography
+Reproducibility of Results
+Sensitivity and Specificity
+Tooth/*diagnostic imaging/pathology
+Tooth Abnormalities/*diagnostic imaging/pathology
+Tooth Eruption, Ectopic/*diagnostic imaging/pathology

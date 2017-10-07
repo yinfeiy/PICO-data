@@ -1,0 +1,17 @@
+Acromegaly/blood/*drug therapy/surgery
+Adenoma/blood/*drug therapy/surgery
+Adult
+Antineoplastic Agents/*administration & dosage
+Chi-Square Distribution
+Combined Modality Therapy
+Female
+Human Growth Hormone/blood
+Humans
+Insulin-Like Growth Factor I/metabolism
+Male
+Middle Aged
+Peptides, Cyclic/*administration & dosage
+Pituitary Neoplasms/blood/*drug therapy/surgery
+Preoperative Care
+Prospective Studies
+Somatostatin/administration & dosage/*analogs & derivatives

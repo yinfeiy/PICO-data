@@ -1,0 +1,14 @@
+Antineoplastic Agents, Hormonal/*therapeutic use
+Aromatase Inhibitors/therapeutic use
+Breast Neoplasms/*drug therapy
+Disease-Free Survival
+Double-Blind Method
+Estradiol/adverse effects/*analogs & derivatives/therapeutic use
+Estrogen Antagonists/therapeutic use
+Female
+Humans
+Nitriles/adverse effects/*therapeutic use
+Postmenopause
+Survival Analysis
+Survival Rate
+Triazoles/adverse effects/*therapeutic use

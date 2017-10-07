@@ -1,0 +1,16 @@
+Activities of Daily Living
+Aged
+Bicycling/*physiology
+Exercise/*physiology
+Female
+Humans
+Leg/physiology
+Male
+Motor Activity/physiology
+Muscle Fatigue/*physiology
+Muscle Strength/physiology
+Muscle, Skeletal/*physiology/*physiopathology
+Physical Endurance/physiology
+Pulmonary Disease, Chronic Obstructive/*physiopathology
+Respiratory Function Tests
+Respiratory Mechanics/physiology

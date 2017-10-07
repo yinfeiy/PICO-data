@@ -1,0 +1,17 @@
+Adolescent
+Blood Loss, Surgical
+Child
+Chronic Disease
+Electrocoagulation/adverse effects/*methods
+Female
+Humans
+Intraoperative Period
+Laser Therapy/adverse effects/instrumentation/*methods
+Male
+Pain Measurement
+Pain, Postoperative
+Pilot Projects
+Postoperative Complications
+Prospective Studies
+Tonsillectomy/adverse effects/instrumentation/*methods
+Tonsillitis/*surgery

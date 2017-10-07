@@ -1,0 +1,11 @@
+Aged
+Alzheimer Disease/*blood/genetics
+Dexamethasone/*pharmacology
+Female
+Humans
+Lymphocyte Activation/drug effects
+Lymphocytes/*drug effects
+Male
+Phenotype
+Sensitivity and Specificity
+T-Lymphocytes/immunology

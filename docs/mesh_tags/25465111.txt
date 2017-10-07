@@ -1,0 +1,12 @@
+Aneurysm, Ruptured/mortality/*therapy
+Disease-Free Survival
+Embolization, Therapeutic/*methods/mortality
+Female
+Humans
+Intracranial Aneurysm/mortality/*therapy
+Male
+Neurosurgical Procedures/*methods/mortality
+Subarachnoid Hemorrhage/mortality/*therapy
+Surveys and Questionnaires
+Treatment Outcome
+United Kingdom

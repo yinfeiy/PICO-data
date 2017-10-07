@@ -1,0 +1,15 @@
+Adult
+Aged
+Female
+Follow-Up Studies
+Hernia, Inguinal/*surgery
+Humans
+Laparoscopy/*methods
+Male
+Middle Aged
+Pain, Postoperative/etiology
+Postoperative Complications/etiology
+Prospective Studies
+Recurrence
+*Surgical Mesh
+Treatment Outcome

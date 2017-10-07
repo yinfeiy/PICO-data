@@ -1,0 +1,16 @@
+APACHE
+Adult
+Aged
+Catheterization, Central Venous/adverse effects/*methods
+Coma
+Conscious Sedation
+Female
+*Femoral Vein
+Humans
+Intensive Care Units
+Male
+Middle Aged
+Phlebography
+Prospective Studies
+Thrombophlebitis/*etiology
+Vena Cava, Superior

@@ -1,0 +1,12 @@
+Adult
+Aged
+Anti-Inflammatory Agents/therapeutic use
+Dexamethasone/analogs & derivatives/therapeutic use
+Female
+Humans
+*Iontophoresis
+Male
+Middle Aged
+Osteoarthritis, Knee/*therapy
+*Phonophoresis
+Treatment Outcome

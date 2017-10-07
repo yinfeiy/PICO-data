@@ -1,0 +1,24 @@
+Adrenergic beta-Antagonists/*therapeutic use
+Adult
+Antioxidants/*metabolism
+Benzopyrans/*therapeutic use
+Biomarkers/blood
+Ethanolamines/*therapeutic use
+Exercise Test
+Female
+Humans
+Male
+Malondialdehyde/blood
+Metoprolol/*therapeutic use
+Microvascular Angina/blood/*drug therapy
+Middle Aged
+Nebivolol
+Nitrates/blood
+Nitrites/blood
+Oxidative Stress/*drug effects
+Peroxidase/blood
+Prospective Studies
+Single-Blind Method
+Superoxide Dismutase/blood
+Time Factors
+Treatment Outcome

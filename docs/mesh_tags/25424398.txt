@@ -1,0 +1,11 @@
+Adolescent
+Anxiety/therapy
+Anxiety Disorders/psychology/*therapy
+Autism Spectrum Disorder/*psychology/*therapy
+Child
+*Cognitive Therapy/methods
+Comorbidity
+Female
+Humans
+Male
+Treatment Outcome

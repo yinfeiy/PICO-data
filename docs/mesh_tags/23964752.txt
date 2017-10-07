@@ -1,0 +1,22 @@
+Acute Pain/diagnosis/*drug therapy/physiopathology
+Administration, Cutaneous
+Adolescent
+Adult
+Aged
+Anti-Inflammatory Agents, Non-Steroidal/administration & dosage/adverse effects/*therapeutic use
+Diclofenac/administration & dosage/adverse effects/analogs & derivatives/*therapeutic use
+Disability Evaluation
+Double-Blind Method
+Female
+Gels
+Germany
+Humans
+Male
+Middle Aged
+Neck Pain/diagnosis/*drug therapy/physiopathology
+Nonprescription Drugs/administration & dosage/adverse effects/*therapeutic use
+Pain Measurement
+Patient Safety
+Time Factors
+Treatment Outcome
+Young Adult

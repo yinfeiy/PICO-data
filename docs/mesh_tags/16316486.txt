@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Anticonvulsants/*therapeutic use
+Autistic Disorder/*drug therapy/physiopathology
+Child
+Child, Preschool
+Double-Blind Method
+Female
+Humans
+Male
+Personality Inventory
+Placebos
+Psychiatric Status Rating Scales
+Stereotyped Behavior/*drug effects
+Treatment Outcome
+Valproic Acid/*therapeutic use

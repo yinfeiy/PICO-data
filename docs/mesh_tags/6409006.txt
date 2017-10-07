@@ -1,0 +1,15 @@
+Adult
+Aged
+Biological Products/*therapeutic use
+Clinical Trials as Topic
+Female
+Humans
+Lung Neoplasms/*therapy
+Male
+Middle Aged
+Mitomycin
+Mitomycins/administration & dosage
+Picibanil/*therapeutic use
+Pleural Neoplasms/mortality
+Pleurisy/drug therapy/*therapy
+Random Allocation

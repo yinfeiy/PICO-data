@@ -1,0 +1,18 @@
+Adult
+Blood Glucose/analysis
+Diabetes Mellitus, Type 1/blood/*drug therapy
+Drug Administration Schedule
+Drug Delivery Systems/*instrumentation
+Equipment Design
+Female
+Humans
+Hypoglycemic Agents/*administration & dosage/blood/therapeutic use
+Infusions, Subcutaneous/instrumentation
+Injections, Intradermal/instrumentation
+Insulin/*administration & dosage/blood/therapeutic use
+Insulin Infusion Systems
+Male
+Microinjections/*instrumentation
+Needles
+Postprandial Period
+Treatment Outcome

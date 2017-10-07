@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/*therapeutic use
+Carboplatin/administration & dosage
+Carcinoma, Non-Small-Cell Lung/*drug therapy/*pathology
+Cisplatin/administration & dosage
+Deoxycytidine/administration & dosage/analogs & derivatives
+Female
+Humans
+Ifosfamide/administration & dosage
+Lung Neoplasms/*drug therapy/*pathology
+Male
+Middle Aged
+Mitomycin/administration & dosage
+Quality of Life
+Survival Analysis
+Treatment Outcome

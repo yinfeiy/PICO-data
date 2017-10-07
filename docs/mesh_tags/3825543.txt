@@ -1,0 +1,16 @@
+Adult
+Aged
+Antacids/*therapeutic use
+Cell Count/drug effects
+Cimetidine/*therapeutic use
+Duodenal Ulcer/complications/*drug therapy/metabolism/pathology
+Fasting
+Female
+Gastric Acid/secretion
+Gastric Mucosa/pathology
+Gastritis/complications/pathology
+Humans
+Male
+Middle Aged
+Parietal Cells, Gastric/*pathology
+Time Factors

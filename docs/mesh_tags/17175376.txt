@@ -1,0 +1,17 @@
+Adenocarcinoma/genetics
+Asian Continental Ancestry Group
+Carcinoma, Large Cell/genetics
+Carcinoma, Small Cell/genetics
+Carcinoma, Squamous Cell/genetics
+Case-Control Studies
+DNA, Neoplasm/genetics
+Dinucleotide Repeats/*genetics
+Genetic Predisposition to Disease
+Genotype
+Humans
+Introns/*genetics
+Lung Neoplasms/*genetics
+Polymorphism, Genetic/*genetics
+Prognosis
+Receptor, Epidermal Growth Factor/*genetics
+Risk Factors

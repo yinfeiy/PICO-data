@@ -1,0 +1,14 @@
+Adult
+Aged, 80 and over
+*Algorithms
+Diagnosis, Differential
+Female
+Humans
+*Image Processing, Computer-Assisted
+Lung Neoplasms/*diagnostic imaging
+Male
+Middle Aged
+Neoplasm Staging/*methods
+Prospective Studies
+Solitary Pulmonary Nodule/*diagnostic imaging
+Tomography, X-Ray Computed/*methods

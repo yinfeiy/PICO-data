@@ -1,0 +1,20 @@
+Adolescent
+Adverse Drug Reaction Reporting Systems
+Antipsychotic Agents/*administration & dosage/adverse effects
+Aripiprazole
+Autistic Disorder/diagnosis/*drug therapy/psychology
+Child
+Child Behavior Disorders/diagnosis/*drug therapy/psychology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Irritable Mood/*drug effects
+Male
+Personality Assessment
+Piperazines/*administration & dosage/adverse effects
+Psychomotor Agitation/diagnosis/drug therapy/psychology
+Quinolones/*administration & dosage/adverse effects
+Self-Injurious Behavior/diagnosis/drug therapy/psychology
+Treatment Outcome

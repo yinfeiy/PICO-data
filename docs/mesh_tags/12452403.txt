@@ -1,0 +1,9 @@
+Abdominal Pain/therapy
+Adult
+Colonic Diseases, Functional/physiopathology/psychology/*therapy
+Female
+Humans
+*Hypnosis
+Male
+Psychometrics
+Stress, Psychological/therapy

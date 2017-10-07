@@ -1,0 +1,18 @@
+Adult
+Air Pressure
+Aluminum Oxide
+Dental Caries/*pathology/therapy
+Dental Cavity Preparation/instrumentation/*methods
+Dentin/drug effects/*ultrastructure
+Enamel Microabrasion
+Equipment Design
+Glutamic Acid/therapeutic use
+Humans
+Laser Therapy
+Leucine/therapeutic use
+Lysine/therapeutic use
+Microscopy, Electron, Scanning
+Molar
+Replica Techniques
+Smear Layer
+Ultrasonic Therapy

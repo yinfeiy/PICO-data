@@ -1,0 +1,14 @@
+Administration, Oral
+Adult
+Docosahexaenoic Acids/blood
+Eicosapentaenoic Acid/blood
+Erythrocytes/*chemistry
+Fatty Acids/analysis/*blood
+Fatty Acids, Omega-3/administration & dosage/*pharmacology
+Fatty Acids, Unsaturated/blood
+Humans
+Male
+Phosphatidylcholines/blood
+Phosphatidylinositols/blood
+Phosphatidylserines/blood
+Phospholipids/analysis/*blood

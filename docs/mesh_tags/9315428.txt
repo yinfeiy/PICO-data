@@ -1,0 +1,16 @@
+Absenteeism
+Angina, Unstable/economics/mortality/prevention & control
+Anticholesteremic Agents/adverse effects/economics/*therapeutic use
+Australia
+Coronary Disease/economics/mortality/*prevention & control
+Cost-Benefit Analysis
+Double-Blind Method
+Health Resources/economics/utilization
+Humans
+Myocardial Infarction/economics/mortality/prevention & control
+New Zealand
+Pravastatin/adverse effects/economics/*therapeutic use
+Quality-Adjusted Life Years
+Recurrence
+Research Design
+Survival Analysis

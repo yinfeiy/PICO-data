@@ -1,0 +1,11 @@
+*Anesthesia, General
+Depression, Chemical
+Female
+Humans
+Injections, Intramuscular
+Injections, Intravenous
+Meperidine/administration & dosage
+*Pentazocine/administration & dosage
+*Preanesthetic Medication
+Respiration/*drug effects
+Spirometry

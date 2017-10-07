@@ -1,0 +1,18 @@
+*Acclimatization
+Adult
+*Altitude
+Blood Pressure
+Carotid Arteries/pathology/*physiopathology
+Carotid Intima-Media Thickness
+Female
+Humans
+Hypoxia/pathology/*physiopathology
+Male
+Muscle, Smooth, Vascular/pathology/*physiopathology
+Oxidation-Reduction
+Placebo Effect
+Pressure
+Reactive Oxygen Species/*blood
+Sympathetic Nervous System/pathology/*physiopathology
+Vascular Resistance
+Vasoconstriction

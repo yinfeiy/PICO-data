@@ -1,0 +1,13 @@
+Adult
+Antifungal Agents/adverse effects/*pharmacokinetics
+Area Under Curve
+Biological Availability
+Chemistry, Pharmaceutical
+Cross-Over Studies
+Female
+Humans
+Male
+Middle Aged
+Naphthalenes/adverse effects/*pharmacokinetics
+Sex Characteristics
+Therapeutic Equivalency

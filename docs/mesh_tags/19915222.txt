@@ -1,0 +1,18 @@
+Acute Coronary Syndrome/drug therapy/mortality/*therapy
+Adenosine Monophosphate/adverse effects/*analogs & derivatives/therapeutic use
+Aged
+*Angioplasty, Balloon, Coronary
+Combined Modality Therapy
+Coronary Thrombosis/epidemiology/prevention & control
+Double-Blind Method
+Female
+Hemorrhage/chemically induced
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Myocardial Infarction/prevention & control
+Platelet Aggregation Inhibitors/adverse effects/*therapeutic use
+Retreatment
+Stents
+Treatment Outcome

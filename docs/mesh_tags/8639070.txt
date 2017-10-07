@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Amantadine/*therapeutic use
+Analysis of Variance
+Attention/drug effects
+Central Nervous System Stimulants/*therapeutic use
+Cognition/*drug effects
+Fatigue/drug therapy/etiology
+Female
+Humans
+Male
+Memory/drug effects
+Middle Aged
+Movement/drug effects
+Multiple Sclerosis/complications/*drug therapy/psychology
+Neuropsychological Tests
+Pemoline/*therapeutic use

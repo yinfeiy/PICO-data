@@ -1,0 +1,15 @@
+Ambulances
+Anistreplase/*administration & dosage/adverse effects
+Canada
+Chi-Square Distribution
+Double-Blind Method
+Emergency Medical Services/*methods
+Europe
+Fibrinolytic Agents/*administration & dosage/adverse effects
+Humans
+Injections, Intravenous
+Myocardial Infarction/complications/diagnosis/*drug therapy/mortality
+Survival Analysis
+Thrombolytic Therapy/adverse effects/*methods
+Time Factors
+Treatment Outcome

@@ -1,0 +1,20 @@
+Adult
+Chronic Disease
+Combined Modality Therapy
+Cost-Benefit Analysis
+Disability Evaluation
+Exercise Therapy/*economics
+Female
+Humans
+Low Back Pain/*economics/physiopathology/rehabilitation
+Male
+Middle Aged
+Musculoskeletal Manipulations/*economics
+Pain Measurement
+Patient Education as Topic/*economics
+Prospective Studies
+Quality of Life
+Referral and Consultation/*economics
+Severity of Illness Index
+Surveys and Questionnaires
+Treatment Outcome

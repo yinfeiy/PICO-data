@@ -1,0 +1,12 @@
+Acne Vulgaris/drug therapy/*microbiology
+Administration, Topical
+Anti-Bacterial Agents/adverse effects/*therapeutic use
+*Anti-Infective Agents
+Bacteria/*drug effects
+Drug Resistance, Microbial
+Erythromycin/adverse effects/*therapeutic use
+*Fluoroquinolones
+Humans
+Microbial Sensitivity Tests
+Quinolizines/adverse effects/*therapeutic use
+Skin/drug effects/*microbiology

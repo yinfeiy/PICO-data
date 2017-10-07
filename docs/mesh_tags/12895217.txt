@@ -1,0 +1,8 @@
+Artifacts
+Endosonography/*methods/standards
+Female
+Humans
+Male
+Middle Aged
+Premedication/*methods
+Pronase/*administration & dosage

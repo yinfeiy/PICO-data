@@ -1,0 +1,11 @@
+Dental Scaling/instrumentation
+Diamond
+Equipment Design
+Humans
+Molar/pathology
+Organ Size
+Root Planing/*instrumentation/methods
+Subgingival Curettage/instrumentation
+Tooth Abrasion/pathology
+Tooth Root/*pathology
+Ultrasonic Therapy/instrumentation

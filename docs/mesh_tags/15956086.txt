@@ -1,0 +1,15 @@
+Adult
+Blood Pressure/*drug effects
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Hemodynamics/drug effects
+Hormones/*blood
+Humans
+Hypertension/blood/*drug therapy/*physiopathology
+Male
+Middle Aged
+Naloxone/pharmacology
+Narcotic Antagonists/pharmacology
+Receptors, Opioid/*agonists
+beta-Endorphin/*administration & dosage/therapeutic use

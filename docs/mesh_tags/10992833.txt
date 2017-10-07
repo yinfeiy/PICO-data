@@ -1,0 +1,16 @@
+Adult
+Aged
+Androstanols/*pharmacology
+Anesthetics, Inhalation/administration & dosage
+Anesthetics, Intravenous/administration & dosage
+Electromyography/drug effects
+Enflurane/administration & dosage/analogs & derivatives
+Female
+Humans
+*Intubation, Intratracheal
+Male
+Middle Aged
+Neuromuscular Nondepolarizing Agents/*pharmacology
+Propofol/administration & dosage
+Single-Blind Method
+Vecuronium Bromide/*analogs & derivatives/pharmacology

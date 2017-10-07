@@ -1,0 +1,24 @@
+Adult
+Aromatase Inhibitors/*therapeutic use
+Chorionic Gonadotropin/therapeutic use
+Drug Therapy, Combination
+Female
+Fertility Agents, Female/*therapeutic use
+Fertilization in Vitro
+Follicle Stimulating Hormone/therapeutic use
+Gonadotropin-Releasing Hormone/*analogs & derivatives/*antagonists & inhibitors/therapeutic use
+Gonadotropins/*therapeutic use
+Hormone Antagonists/*therapeutic use
+Humans
+Infertility/blood/therapy
+Luteinizing Hormone/*blood
+Nitriles/*therapeutic use
+Ovulation Induction/*methods
+Pregnancy
+Pregnancy Rate
+Prospective Studies
+Recombinant Proteins/therapeutic use
+Taiwan
+Treatment Outcome
+Triazoles/*therapeutic use
+Up-Regulation

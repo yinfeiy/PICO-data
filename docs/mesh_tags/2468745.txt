@@ -1,0 +1,16 @@
+Adenocarcinoma/*drug therapy/mortality/pathology
+Breast Neoplasms/*drug therapy/mortality/pathology
+Clinical Trials as Topic
+Doxorubicin/adverse effects/*therapeutic use
+Drug Evaluation
+Female
+Heart Diseases/chemically induced
+Hematologic Diseases/chemically induced
+Humans
+Middle Aged
+Mitoxantrone/adverse effects/*therapeutic use
+Neoplasm Metastasis
+Palliative Care
+Quality of Life
+Random Allocation
+Statistics as Topic

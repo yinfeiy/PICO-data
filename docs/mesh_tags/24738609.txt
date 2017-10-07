@@ -1,0 +1,19 @@
+Adult
+Aged
+Analgesics/administration & dosage
+Chronic Pain/diagnosis/drug therapy
+Delayed-Action Preparations/administration & dosage
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Internationality
+Low Back Pain/diagnosis/*drug therapy
+Male
+Middle Aged
+Neuralgia/diagnosis/*drug therapy
+Pain Management/*methods
+Phenols/*administration & dosage
+Pregabalin/*administration & dosage
+*Severity of Illness Index
+Treatment Outcome

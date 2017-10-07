@@ -1,0 +1,13 @@
+Adult
+*Ambulatory Surgical Procedures
+*Anesthesia
+Female
+*Fentanyl/adverse effects
+Genital Diseases, Female/*surgery
+Humans
+Ketorolac
+Nausea/chemically induced
+Pain, Postoperative
+Single-Blind Method
+Tolmetin/adverse effects/*analogs & derivatives
+Vomiting/chemically induced

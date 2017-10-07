@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anticholesteremic Agents/*administration & dosage
+Atorvastatin Calcium
+Cholesterol, LDL/blood
+Fatty Acids, Monounsaturated/*administration & dosage
+Female
+Heptanoic Acids/*administration & dosage
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*administration & dosage
+Hypercholesterolemia/blood/*drug therapy
+Indoles/*administration & dosage
+Lovastatin/*administration & dosage
+Male
+Middle Aged
+Pravastatin/*administration & dosage
+Pyrroles/*administration & dosage
+Simvastatin/*administration & dosage
+Treatment Outcome

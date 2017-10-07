@@ -1,0 +1,15 @@
+Adult
+Asian Continental Ancestry Group
+Brain Neoplasms/enzymology/*genetics
+Case-Control Studies
+Female
+Genetic Predisposition to Disease
+Genotype
+Glioma/enzymology/*genetics
+Glutathione S-Transferase pi/*genetics
+Humans
+Male
+Middle Aged
+Polymorphism, Single Nucleotide
+Risk Factors
+Telomerase/*genetics

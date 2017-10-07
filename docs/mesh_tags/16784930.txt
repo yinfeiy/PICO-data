@@ -1,0 +1,25 @@
+Aged
+Apoptosis/drug effects
+Cardiotonic Agents/administration & dosage/*therapeutic use
+Chronic Disease
+Dobutamine/administration & dosage/*therapeutic use
+Echocardiography
+Fas Ligand Protein
+Female
+Heart Failure/*drug therapy
+Hemodynamics/drug effects
+Humans
+Hydrazones/administration & dosage/*therapeutic use
+Infusions, Intravenous
+Interleukin-6/blood
+Male
+Membrane Glycoproteins/blood/drug effects
+Natriuretic Peptide, Brain/blood/drug effects
+Peptide Fragments/blood/drug effects
+Prognosis
+Pulmonary Wedge Pressure/drug effects
+Pyridazines/administration & dosage/*therapeutic use
+Stroke Volume/drug effects
+Treatment Outcome
+Tumor Necrosis Factor-alpha/analysis/drug effects
+Tumor Necrosis Factors/blood

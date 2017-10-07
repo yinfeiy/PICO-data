@@ -1,0 +1,22 @@
+Abdominal Pain/chemically induced
+Adolescent
+Adult
+Aged
+Analgesics/administration & dosage/adverse effects/*therapeutic use
+Aspirin/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use
+Caffeine/administration & dosage/adverse effects/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Ergotamine/administration & dosage/adverse effects/*therapeutic use
+Female
+Humans
+Male
+Metoclopramide/administration & dosage/adverse effects/*therapeutic use
+Middle Aged
+Migraine Disorders/*drug therapy
+Nausea/chemically induced/drug therapy
+Patient Acceptance of Health Care
+Safety
+Sleep Stages/drug effects
+Treatment Outcome
+Urea/administration & dosage/adverse effects/*analogs & derivatives/therapeutic use

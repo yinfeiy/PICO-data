@@ -1,0 +1,19 @@
+Acne Vulgaris/chemically induced
+Adolescent
+Adult
+Alanine Transaminase/blood
+Anabolic Agents/*pharmacology
+Blood Pressure/drug effects
+Body Weight/drug effects
+Cholesterol/blood
+Clinical Trials as Topic
+Dietary Proteins
+Headache/chemically induced
+Humans
+Hypertension/chemically induced
+Male
+Methandrostenolone/administration & dosage/adverse effects/pharmacology
+Physical Exertion/*drug effects
+Placebos
+Sexual Behavior/drug effects
+*Sports Medicine

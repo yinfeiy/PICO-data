@@ -1,0 +1,18 @@
+Adult
+Arginine/administration & dosage/*therapeutic use
+Blood Flow Velocity/drug effects
+Chorionic Gonadotropin/administration & dosage
+Estradiol/blood
+Female
+Fertility Agents, Female/administration & dosage
+Fertilization in Vitro/*methods
+Follicle Stimulating Hormone/administration & dosage
+Human Growth Hormone/blood
+Humans
+Infertility, Female/drug therapy/physiopathology/therapy
+Leuprolide/administration & dosage
+Ovary/blood supply/diagnostic imaging/drug effects
+Ovulation Induction/*methods
+Pregnancy
+Prospective Studies
+Ultrasonography

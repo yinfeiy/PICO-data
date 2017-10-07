@@ -1,0 +1,21 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Squamous Cell/mortality/pathology/radiotherapy/*therapy
+Chemoradiotherapy/*methods
+Confidence Intervals
+Dose Fractionation
+Female
+Fluorouracil/administration & dosage
+Follow-Up Studies
+Head and Neck Neoplasms/mortality/pathology/radiotherapy/*therapy
+Humans
+Hypopharyngeal Neoplasms/mortality/pathology/therapy
+Male
+Middle Aged
+Mitomycin/administration & dosage
+Mouth Neoplasms/mortality/pathology/therapy
+Oropharyngeal Neoplasms/mortality/pathology/therapy
+Population Surveillance
+Regression Analysis
+Survival Rate

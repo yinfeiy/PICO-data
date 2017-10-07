@@ -1,0 +1,12 @@
+Anesthesia, Intravenous/*veterinary
+Anesthetics, Combined
+*Anesthetics, Intravenous
+Animals
+Female
+Guaifenesin/*administration & dosage
+Horses
+*Isoflurane
+*Ketamine
+Male
+*Midazolam
+*Thiopental

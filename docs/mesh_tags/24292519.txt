@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Alleles
+Antilymphocyte Serum/*administration & dosage
+Cytomegalovirus/metabolism
+Disease-Free Survival
+Female
+Graft vs Host Disease/*prevention & control/therapy
+HLA Antigens/chemistry
+Hematologic Neoplasms/therapy
+Hematopoietic Stem Cell Transplantation/adverse effects/*methods
+Histocompatibility Testing
+Humans
+Lymphocyte Depletion/adverse effects
+Lymphoproliferative Disorders/therapy
+Male
+Middle Aged
+Postoperative Complications/immunology
+Prospective Studies
+Tissue Donors
+Transplantation Conditioning
+Young Adult

@@ -1,0 +1,16 @@
+Adenocarcinoma/drug therapy/radiotherapy/*surgery
+Aged
+Female
+Humans
+Kaplan-Meier Estimate
+*Laparoscopy/adverse effects
+Length of Stay
+Lymph Node Excision
+Lymphatic Metastasis
+Male
+Neoadjuvant Therapy
+Neoplasm Recurrence, Local/etiology
+Postoperative Complications/etiology
+Prospective Studies
+Rectal Neoplasms/drug therapy/radiotherapy/*surgery
+Reoperation

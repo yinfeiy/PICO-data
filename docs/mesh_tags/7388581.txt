@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Female
+Humans
+Hydrogen-Ion Concentration
+Lactobacillus/isolation & purification
+Menstruation
+Miconazole/therapeutic use
+Middle Aged
+Mycoses/*drug therapy
+Nystatin/therapeutic use
+Vagina/*microbiology/physiology
+Vaginitis/*drug therapy
+Yeasts/isolation & purification

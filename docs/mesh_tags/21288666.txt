@@ -1,0 +1,18 @@
+Animal Feed
+Animals
+CDC2 Protein Kinase/*genetics/metabolism
+Cyclin B1/*genetics/metabolism
+Dietary Supplements
+Female
+Gene Expression Regulation, Developmental/drug effects
+Germ Cells/*drug effects/metabolism
+*Goats/genetics/physiology
+Male
+Maternal Nutritional Physiological Phenomena/drug effects/physiology
+Multiple Birth Offspring
+Pregnancy
+*Pregnancy, Animal
+Prenatal Exposure Delayed Effects/*genetics/metabolism
+Selenium/administration & dosage/*pharmacology
+Testis/drug effects/metabolism
+Yeasts

@@ -1,0 +1,20 @@
+Adult
+Avena/chemistry
+Beta vulgaris/chemistry
+Blood Glucose/*analysis
+Dietary Fiber/*administration & dosage
+Female
+Food Handling
+Humans
+Insulin/*blood
+Male
+Plant Roots/chemistry
+*Postprandial Period
+Secale/chemistry
+Seeds/chemistry
+Sex Characteristics
+Single-Blind Method
+Statistics, Nonparametric
+Time Factors
+Triglycerides/*blood
+Young Adult

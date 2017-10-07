@@ -1,0 +1,17 @@
+Acetaminophen/administration & dosage/adverse effects/*therapeutic use
+Adult
+Aged
+Analgesics/administration & dosage/adverse effects/*therapeutic use
+Chronic Disease
+Codeine/administration & dosage/adverse effects/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Hydrocodone/administration & dosage/adverse effects/*therapeutic use
+Ibuprofen/administration & dosage/adverse effects/*therapeutic use
+Male
+Middle Aged
+Pain/*drug therapy
+Pain Measurement
+Placebos

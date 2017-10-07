@@ -1,0 +1,10 @@
+Adult
+Drugs, Chinese Herbal/*therapeutic use
+Humans
+Hypertension/blood/*drug therapy/metabolism
+Magnetic Resonance Spectroscopy
+Male
+Metabolomics
+Mucus/metabolism
+Serum/*chemistry/metabolism
+Treatment Outcome

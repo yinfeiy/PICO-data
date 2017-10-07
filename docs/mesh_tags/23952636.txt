@@ -1,0 +1,14 @@
+Adult
+Aged
+Amyotrophic Lateral Sclerosis/*drug therapy/*physiopathology
+Cohort Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Imidazoles/*administration & dosage/adverse effects
+Male
+Middle Aged
+Muscle Strength/*drug effects/*physiology
+Pyrazines/*administration & dosage/adverse effects
+Treatment Outcome

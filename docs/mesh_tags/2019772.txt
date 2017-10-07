@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Agranulocytosis/*complications
+Amikacin/adverse effects/therapeutic use
+Bacterial Infections/complications/*drug therapy
+Ceftazidime/adverse effects/therapeutic use
+Child
+Child, Preschool
+Drug Therapy, Combination/adverse effects/therapeutic use
+Female
+Follow-Up Studies
+*Gram-Positive Bacteria
+Humans
+Infant
+Male
+Middle Aged
+Neoplasms/*complications
+Prospective Studies
+Sepsis/complications/drug therapy
+Vancomycin/adverse effects/*therapeutic use

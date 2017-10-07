@@ -1,0 +1,22 @@
+Adult
+Aged
+Alveolar Bone Loss/classification
+Bone Density/physiology
+*Crowns
+Dental Abutments
+Dental Implantation, Endosseous/methods
+*Dental Implants, Single-Tooth
+*Dental Prosthesis Design
+Dental Restoration Failure
+Esthetics, Dental
+Female
+Follow-Up Studies
+Gingiva/pathology
+Humans
+*Incisor
+Male
+Maxilla
+Middle Aged
+Osseointegration/physiology
+Prospective Studies
+Treatment Outcome

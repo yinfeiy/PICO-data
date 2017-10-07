@@ -1,0 +1,12 @@
+Adult
+Anti-Bacterial Agents/*therapeutic use
+Cytokines/*therapeutic use
+Drug Therapy, Combination
+Female
+Humans
+Immunologic Factors/*therapeutic use
+Male
+Middle Aged
+Oral Surgical Procedures/*adverse effects
+Surgical Wound Infection/drug therapy/*prevention & control
+Young Adult

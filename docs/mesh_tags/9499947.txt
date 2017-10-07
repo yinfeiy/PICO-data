@@ -1,0 +1,15 @@
+Adult
+Aged
+Cholecystectomy, Laparoscopic/*instrumentation
+Cholelithiasis/*surgery
+Cystic Duct/surgery
+Feasibility Studies
+Female
+Follow-Up Studies
+Hemostasis, Surgical/instrumentation
+Humans
+Ligation/instrumentation
+Male
+Middle Aged
+Prospective Studies
+*Surgical Stapling

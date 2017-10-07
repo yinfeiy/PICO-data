@@ -1,0 +1,23 @@
+Adult
+CD4 Lymphocyte Count
+Disease Progression
+Double-Blind Method
+Drug Resistance, Microbial/genetics
+Drug Therapy, Combination
+Female
+Follow-Up Studies
+HIV/drug effects/genetics
+HIV Core Protein p24/blood
+HIV Infections/*drug therapy/immunology/mortality
+Humans
+Injections, Subcutaneous
+Male
+Middle Aged
+Patient Compliance
+Pentamidine/therapeutic use
+Pneumonia, Pneumocystis/prevention & control
+Prognosis
+Proportional Hazards Models
+Thymopentin/administration & dosage/adverse effects/*therapeutic use
+Trimethoprim, Sulfamethoxazole Drug Combination/therapeutic use
+Zidovudine/*therapeutic use

@@ -1,0 +1,19 @@
+Acute Disease
+Aged
+Atorvastatin Calcium
+Brain Ischemia/*drug therapy
+Female
+Heptanoic Acids/*administration & dosage
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*administration & dosage
+Male
+Middle Aged
+Neuroprotective Agents/*administration & dosage
+Odds Ratio
+Pyrroles/*administration & dosage
+Risk Factors
+Stroke/*drug therapy/mortality
+Survival Analysis
+Time Factors
+Treatment Outcome
+*Withholding Treatment/statistics & numerical data

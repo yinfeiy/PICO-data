@@ -1,0 +1,12 @@
+Adult
+Anxiety/*etiology
+Arrhythmias, Cardiac/*diagnosis/*psychology
+Electrocardiography, Ambulatory/*psychology
+Family Practice
+Female
+Humans
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+Psychometrics
+*Quality of Life

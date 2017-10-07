@@ -1,0 +1,20 @@
+Adolescent
+Ampicillin/*administration & dosage
+Cefotaxime/*analogs & derivatives/therapeutic use
+Ceftriaxone
+Cerebrospinal Fluid/microbiology
+Child
+Child, Preschool
+Chloramphenicol/*administration & dosage
+Clinical Trials as Topic
+Drug Therapy, Combination
+Female
+Humans
+Infant
+Male
+Meningitis/*drug therapy
+Meningitis, Haemophilus/cerebrospinal fluid/drug therapy
+Meningitis, Meningococcal/cerebrospinal fluid/drug therapy
+Meningitis, Pneumococcal/cerebrospinal fluid/drug therapy
+Prospective Studies
+Random Allocation

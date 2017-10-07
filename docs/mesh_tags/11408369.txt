@@ -1,0 +1,13 @@
+Adult
+Anti-Bacterial Agents/*pharmacology
+Area Under Curve
+Caffeine/blood
+Chromatography, High Pressure Liquid
+Clarithromycin/*pharmacology
+Cross-Over Studies
+Cytochrome P-450 Enzyme System/*drug effects
+Female
+Humans
+Male
+Theophylline/blood
+Tolbutamide/pharmacokinetics/urine

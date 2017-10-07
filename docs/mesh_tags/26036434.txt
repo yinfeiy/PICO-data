@@ -1,0 +1,11 @@
+Absorptiometry, Photon
+Aged
+Bone Density/*drug effects
+Bone Diseases, Metabolic/diagnostic imaging/*drug therapy/metabolism
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Femur Neck/diagnostic imaging/*metabolism
+Humans
+Middle Aged
+Postmenopause/*metabolism

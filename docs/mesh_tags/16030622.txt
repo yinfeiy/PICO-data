@@ -1,0 +1,10 @@
+Animals
+Animals, Newborn
+Anthelmintics/administration & dosage/*therapeutic use
+Dichlorvos/administration & dosage/therapeutic use
+Pyridines/administration & dosage/therapeutic use
+Swine
+Swine Diseases/*drug therapy
+Treatment Outcome
+Trichuriasis/drug therapy/*veterinary
+Trichuris

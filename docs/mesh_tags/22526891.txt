@@ -1,0 +1,28 @@
+Adult
+Anesthesia, Dental/instrumentation/*methods
+Anesthesia, Local/instrumentation/methods
+Anesthetics, Local/*administration & dosage
+Arterial Pressure/drug effects
+Bicuspid/drug effects
+Blood Pressure/drug effects
+Carticaine/*administration & dosage
+Dental Pulp/drug effects
+Dose-Response Relationship, Drug
+*Drug Delivery Systems
+Electrocardiography/drug effects
+Epinephrine/*administration & dosage
+Female
+Follow-Up Studies
+Heart Rate/drug effects
+Humans
+Male
+Mandible/drug effects
+Monitoring, Physiologic/instrumentation
+Pain Threshold/drug effects
+Periodontal Ligament/drug effects
+Safety
+Single-Blind Method
+*Therapy, Computer-Assisted
+Time Factors
+Vasoconstrictor Agents/*administration & dosage
+Young Adult

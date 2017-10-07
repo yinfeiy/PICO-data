@@ -1,0 +1,10 @@
+Aged
+Dyspnea/physiopathology/*prevention & control
+Female
+Humans
+Hypercapnia/physiopathology/*prevention & control
+Male
+Masks/*adverse effects/standards
+Positive-Pressure Respiration/*adverse effects/methods/standards
+Pulmonary Disease, Chronic Obstructive/physiopathology/*therapy
+Tidal Volume/physiology

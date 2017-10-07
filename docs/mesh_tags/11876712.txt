@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Aged
+Antacids/adverse effects/therapeutic use
+Anti-Bacterial Agents/adverse effects/*therapeutic use
+Bismuth/adverse effects/therapeutic use
+Clarithromycin/adverse effects/*therapeutic use
+Drug Interactions
+Drug Resistance, Bacterial
+Drug Therapy, Combination
+Dyspepsia/complications/microbiology
+Female
+Helicobacter Infections/complications/*drug therapy
+Helicobacter pylori/isolation & purification/*physiology
+Humans
+Male
+Metronidazole/adverse effects/therapeutic use
+Microbial Sensitivity Tests
+Middle Aged
+Multivariate Analysis
+Omeprazole/adverse effects/therapeutic use
+Tetracycline/adverse effects/*therapeutic use
+Treatment Failure

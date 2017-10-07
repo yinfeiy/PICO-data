@@ -1,0 +1,12 @@
+Adult
+Aged
+Aged, 80 and over
+Angiography/*methods
+*Angiography, Digital Subtraction
+Female
+Humans
+Male
+Middle Aged
+Peripheral Vascular Diseases/*diagnostic imaging/surgery
+Regression Analysis
+*Tomography, X-Ray Computed

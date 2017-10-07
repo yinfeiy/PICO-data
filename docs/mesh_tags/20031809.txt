@@ -1,0 +1,22 @@
+*Adaptation, Psychological
+Aged
+Coronary Artery Disease/mortality/nursing/psychology/*therapy
+Female
+Health Knowledge, Attitudes, Practice
+Humans
+Kaplan-Meier Estimate
+Middle Aged
+Odds Ratio
+*Patient Compliance
+Patient Education as Topic
+Proportional Hazards Models
+*Psychotherapy, Group
+*Relaxation Therapy/nursing
+Risk Assessment
+Risk Factors
+*Self Care
+Stress, Psychological/complications/mortality/nursing/*therapy
+Sweden
+Time Factors
+Treatment Outcome
+*Women's Health

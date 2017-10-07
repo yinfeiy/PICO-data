@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antimetabolites, Antineoplastic/therapeutic use
+Chemotherapy, Adjuvant
+Disease-Free Survival
+Female
+Fluorouracil/therapeutic use
+Humans
+Leucovorin/therapeutic use
+Male
+Middle Aged
+Postoperative Care
+Preoperative Care
+Prospective Studies
+Radiotherapy, Adjuvant
+Rectal Neoplasms/*mortality/*therapy
+Survival Rate
+Vitamin B Complex/therapeutic use

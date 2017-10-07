@@ -1,0 +1,13 @@
+Adolescent
+Autistic Disorder/complications/*rehabilitation
+Child
+Female
+Humans
+Intellectual Disability/complications/*rehabilitation
+Male
+*Motor Cortex
+Motor Skills Disorders/complications/rehabilitation
+Occupational Therapy
+*Psychomotor Performance
+Transcranial Magnetic Stimulation/*methods
+Young Adult

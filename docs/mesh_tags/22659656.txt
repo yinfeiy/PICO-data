@@ -1,0 +1,11 @@
+Adult
+Antioxidants/therapeutic use
+Female
+Humans
+Hypertension/*drug therapy/*physiopathology
+Male
+Malondialdehyde/*blood
+Middle Aged
+Oxidative Stress/drug effects
+Probucol/*therapeutic use
+Superoxide Dismutase/*blood

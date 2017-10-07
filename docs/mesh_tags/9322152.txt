@@ -1,0 +1,18 @@
+Adult
+Aged
+Biopsy
+Cyclosporine/administration & dosage/*adverse effects
+Endocardium/pathology
+Female
+Follow-Up Studies
+Graft Rejection/*pathology
+Heart Transplantation/*pathology
+Humans
+Immunosuppressive Agents/administration & dosage/*adverse effects
+Male
+Middle Aged
+Myocarditis/*pathology
+Myocardium/pathology
+Opportunistic Infections/*pathology
+Prospective Studies
+Tacrolimus/administration & dosage/*adverse effects

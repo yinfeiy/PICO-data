@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Body Height/*drug effects/physiology
+Child
+Dose-Response Relationship, Drug
+Female
+Gonadotropin-Releasing Hormone/*analogs & derivatives
+Growth Hormone/*therapeutic use
+Humans
+Infant, Newborn
+Infant, Small for Gestational Age/*growth & development
+Longitudinal Studies
+Male
+Treatment Outcome

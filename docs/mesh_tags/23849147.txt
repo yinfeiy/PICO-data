@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+Anticonvulsants/*therapeutic use
+Bayes Theorem
+Child
+Child, Preschool
+Comparative Effectiveness Research/*methods/statistics & numerical data
+Early Termination of Clinical Trials
+Emergency Service, Hospital
+Humans
+Intention to Treat Analysis
+Middle Aged
+*Models, Statistical
+Phenytoin/analogs & derivatives/therapeutic use
+Piracetam/analogs & derivatives/therapeutic use
+*Randomized Controlled Trials as Topic
+Research Design/*statistics & numerical data
+Status Epilepticus/*therapy
+Treatment Outcome
+Valproic Acid/therapeutic use
+Young Adult

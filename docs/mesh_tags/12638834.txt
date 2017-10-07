@@ -1,0 +1,20 @@
+Adult
+Anesthesia, Spinal/*instrumentation
+Body Height
+Body Weight
+*Cesarean Section
+Elective Surgical Procedures
+Equipment Design
+Female
+Headache/classification/epidemiology/etiology
+Hospitals, University
+Humans
+Hypotension/epidemiology/etiology
+Incidence
+Nausea/epidemiology/etiology
+Needles/adverse effects/*standards
+Nigeria/epidemiology
+Pregnancy
+Prospective Studies
+Spinal Puncture/*instrumentation
+Vomiting/epidemiology/etiology

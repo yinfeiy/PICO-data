@@ -1,0 +1,17 @@
+*Acute Coronary Syndrome/blood/complications/drug therapy/mortality
+Aged
+Atorvastatin Calcium
+Biomarkers/blood
+Double-Blind Method
+Female
+Heptanoic Acids/*administration & dosage
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*administration & dosage
+Male
+Middle Aged
+Myocardial Infarction/blood/etiology/mortality
+Placenta Growth Factor
+Pravastatin/*administration & dosage
+Pregnancy Proteins/*blood
+Pyrroles/*administration & dosage
+Risk Factors

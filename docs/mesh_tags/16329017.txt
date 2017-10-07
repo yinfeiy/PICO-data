@@ -1,0 +1,14 @@
+Adult
+*Clinical Competence
+Colonic Diseases/diagnostic imaging
+Colonography, Computed Tomographic/*methods
+Education, Medical, Graduate/methods
+Female
+Forecasting
+Gastroenterology/education
+Humans
+Internship and Residency
+Male
+Patient Simulation
+Risk Assessment
+Sensitivity and Specificity

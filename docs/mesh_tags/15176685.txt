@@ -1,0 +1,17 @@
+Adult
+Anti-Bacterial Agents/*therapeutic use
+Asthma/*complications
+Bronchial Hyperreactivity/*drug therapy/*etiology/physiopathology
+Bronchial Provocation Tests
+Bronchoconstrictor Agents
+Clarithromycin/*therapeutic use
+Double-Blind Method
+Female
+Forced Expiratory Volume
+Humans
+Male
+Methacholine Chloride
+Middle Aged
+Spirometry
+Time Factors
+Treatment Outcome

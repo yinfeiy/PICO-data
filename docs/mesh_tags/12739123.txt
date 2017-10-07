@@ -1,0 +1,20 @@
+Abdominal Pain/*etiology
+Acute Disease
+Adolescent
+Adult
+Appendectomy/methods
+Appendicitis/*diagnosis/surgery
+Diagnosis, Differential
+Endometriosis/diagnosis
+Female
+Fever/etiology
+Follow-Up Studies
+Humans
+*Laparoscopy
+Middle Aged
+Ovarian Cysts/diagnosis
+Prospective Studies
+Salpingitis/diagnosis
+Sensitivity and Specificity
+Treatment Outcome
+Unnecessary Procedures

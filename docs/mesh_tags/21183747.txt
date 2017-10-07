@@ -1,0 +1,11 @@
+Aged
+Blood Pressure/drug effects/*physiology
+Female
+Heparin, Low-Molecular-Weight/pharmacology/*therapeutic use
+Humans
+Hypertension/*complications/drug therapy/*physiopathology
+Male
+Recurrence
+Stroke/*complications/drug therapy/*physiopathology
+Time Factors
+Treatment Outcome

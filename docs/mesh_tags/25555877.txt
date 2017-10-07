@@ -1,0 +1,15 @@
+Aged
+Anesthesia, General/methods
+Autonomic Nerve Block/*methods
+Esophageal Neoplasms/diagnosis/*surgery
+Female
+*Hemodynamics/physiology
+Humans
+Lung/pathology/*surgery
+Male
+Middle Aged
+Perioperative Care/*methods
+Propofol/administration & dosage
+Respiration, Artificial/methods
+*Stellate Ganglion
+Treatment Outcome

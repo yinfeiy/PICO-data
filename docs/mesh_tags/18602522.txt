@@ -1,0 +1,13 @@
+Aged
+Double-Blind Method
+Exercise Test/*methods
+Female
+Heart Failure, Diastolic/diagnostic imaging/*physiopathology
+Heart Failure, Systolic/diagnostic imaging/*physiopathology
+Heart Function Tests
+Humans
+Male
+Middle Aged
+Oxygen Consumption
+Stroke Volume
+Ultrasonography

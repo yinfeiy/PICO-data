@@ -1,0 +1,9 @@
+Enalapril/therapeutic use
+Heart Failure/blood/drug therapy/*mortality
+Humans
+Hydralazine/therapeutic use
+Isosorbide Dinitrate/therapeutic use
+Norepinephrine/*blood
+Prognosis
+Sympathetic Nervous System/*physiopathology
+Ventricular Dysfunction, Left/blood/physiopathology

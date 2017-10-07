@@ -1,0 +1,12 @@
+Adult
+Amides/pharmacology/*therapeutic use
+Blood Pressure/drug effects
+Cross-Over Studies
+Double-Blind Method
+Female
+Fumarates/pharmacology/*therapeutic use
+Humans
+Male
+Proteinuria/*complications/*drug therapy/physiopathology
+Renal Insufficiency, Chronic/*complications/physiopathology
+Renin/*antagonists & inhibitors

@@ -1,0 +1,26 @@
+Adolescent
+Adult
+Antitubercular Agents/*administration & dosage/adverse effects
+Chi-Square Distribution
+Child
+Drug Administration Schedule
+*Emigrants and Immigrants
+Female
+Humans
+Isoniazid/*administration & dosage/adverse effects
+Latent Tuberculosis/diagnosis/*drug therapy/epidemiology
+Logistic Models
+Male
+Medication Adherence
+Multivariate Analysis
+Odds Ratio
+Prevalence
+Prospective Studies
+Rifampin/*administration & dosage/adverse effects
+Risk Assessment
+Risk Factors
+Socioeconomic Factors
+Spain/epidemiology
+Time Factors
+Treatment Outcome
+Young Adult

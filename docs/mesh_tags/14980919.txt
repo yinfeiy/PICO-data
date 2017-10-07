@@ -1,0 +1,12 @@
+Adult
+Anesthetics, Intravenous/*adverse effects/*therapeutic use
+Anesthetics, Local/therapeutic use
+Double-Blind Method
+Female
+Humans
+Lidocaine/therapeutic use
+Male
+Pain/*prevention & control
+Propofol/*adverse effects
+Prospective Studies
+Thiopental/*therapeutic use

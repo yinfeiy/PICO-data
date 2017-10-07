@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Ascites/pathology
+Carcinoma, Squamous Cell/drug therapy/*pathology/radiotherapy/surgery
+Child
+Combined Modality Therapy
+Female
+Follow-Up Studies
+Humans
+Melphalan/*therapeutic use
+Middle Aged
+Neoplasm Staging
+Ovarian Neoplasms/drug therapy/*pathology/radiotherapy/*surgery

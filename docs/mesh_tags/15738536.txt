@@ -1,0 +1,22 @@
+Adult
+Aged
+Bone Neoplasms/*drug therapy/mortality/*secondary
+Breast Neoplasms/mortality/*pathology/therapy
+Diphosphonates/*therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Imidazoles/*therapeutic use
+Infusions, Intravenous
+Japan
+Middle Aged
+Neoplasm Invasiveness/*pathology
+Neoplasm Staging
+Prognosis
+Proportional Hazards Models
+Reference Values
+Risk Assessment
+Survival Analysis
+Treatment Outcome

@@ -1,0 +1,15 @@
+Adolescent
+Child
+Child, Preschool
+Diagnosis, Differential
+Electroencephalography
+Epilepsies, Myoclonic/*diagnosis
+Epilepsy, Generalized/classification/*diagnosis/etiology/psychology
+Female
+Humans
+Infant
+Intellectual Disability/complications
+Male
+Mathematics
+Methods
+Vibration

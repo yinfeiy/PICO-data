@@ -1,0 +1,16 @@
+Adult
+Aged
+Angina Pectoris/*drug therapy/physiopathology
+Atenolol/*administration & dosage
+Clinical Trials as Topic
+Dose-Response Relationship, Drug
+Double-Blind Method
+Exercise Test
+Female
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Propanolamines/*administration & dosage
+Random Allocation
+Time Factors

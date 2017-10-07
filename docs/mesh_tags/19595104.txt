@@ -1,0 +1,13 @@
+Adult
+Aged
+Carcinoma, Hepatocellular/drug therapy/pathology/*therapy
+Catheter Ablation/methods
+*Chemoembolization, Therapeutic
+Combined Modality Therapy
+Female
+Follow-Up Studies
+Humans
+Liver Neoplasms/drug therapy/pathology/*therapy
+Male
+Middle Aged
+*Ultrasonic Therapy

@@ -1,0 +1,17 @@
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal/*administration & dosage
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology
+Disease-Free Survival
+*Drug Approval
+Female
+Humans
+Kaplan-Meier Estimate
+Lung Neoplasms/*drug therapy/pathology
+Male
+Middle Aged
+Taxoids/administration & dosage
+United States
+United States Food and Drug Administration
+Vascular Endothelial Growth Factor A/antagonists & inhibitors/genetics
+Vascular Endothelial Growth Factor Receptor-2/antagonists & inhibitors/genetics

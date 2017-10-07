@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Brain Neoplasms/*mortality/radiotherapy/*secondary/surgery
+Breast Neoplasms/pathology
+Combined Modality Therapy/methods/mortality
+Cranial Irradiation/methods/*mortality
+Female
+Humans
+Kidney Neoplasms/pathology
+Lung Neoplasms/pathology
+Male
+Melanoma/secondary
+Middle Aged
+Prognosis
+Radiosurgery/methods/*mortality
+Regression Analysis
+Young Adult

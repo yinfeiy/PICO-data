@@ -1,0 +1,12 @@
+Adult
+Arteries
+Blood Flow Velocity
+Blood Pressure
+Endothelium, Vascular/*physiopathology
+Female
+Humans
+Intra-Abdominal Fat/*physiopathology
+Male
+Polysomnography
+Vasodilation
+*Weight Gain

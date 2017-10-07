@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Anticholesteremic Agents/*administration & dosage
+Confidence Intervals
+Coronary Artery Disease/diagnosis/*prevention & control
+Coronary Stenosis/diagnosis/*prevention & control
+Diagnostic Imaging/*methods
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Drug-Related Side Effects and Adverse Reactions
+Female
+Follow-Up Studies
+Humans
+Hypercholesterolemia/diagnosis/*drug therapy
+Magnetic Resonance Imaging/methods
+Male
+Middle Aged
+Positron-Emission Tomography/methods
+Reference Values
+Risk Assessment
+Sulfhydryl Compounds/*administration & dosage
+Treatment Outcome
+Young Adult

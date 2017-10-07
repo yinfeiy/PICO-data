@@ -1,0 +1,16 @@
+Adolescent
+Antiemetics/*administration & dosage/toxicity
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects/therapeutic use
+Child
+Child, Preschool
+Female
+Granisetron/*administration & dosage/toxicity
+Humans
+Indoles/*administration & dosage/toxicity
+Infant
+Male
+Nausea/chemically induced/*drug therapy/prevention & control
+Prospective Studies
+Therapeutic Equivalency
+Treatment Outcome
+Vomiting/chemically induced/*drug therapy/prevention & control

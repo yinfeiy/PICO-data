@@ -1,0 +1,13 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cisplatin/administration & dosage/adverse effects
+Female
+Fluorouracil/administration & dosage/adverse effects
+Humans
+Leukopenia/chemically induced
+Male
+Middle Aged
+Nasopharyngeal Neoplasms/*drug therapy/pathology/radiotherapy
+Survival Rate
+Treatment Failure

@@ -1,0 +1,12 @@
+Equipment Design
+Female
+Heart Rate
+Humans
+Infant, Newborn
+*Infant, Premature/physiology
+Infant, Premature, Diseases/epidemiology
+Male
+*Masks
+Oxygen/blood
+Positive-Pressure Respiration/*instrumentation
+Resuscitation/methods

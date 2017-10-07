@@ -1,0 +1,16 @@
+Adult
+Amoxicillin/*therapeutic use
+Benzenesulfonates/*therapeutic use
+Double-Blind Method
+Duodenal Ulcer/*drug therapy
+Female
+Gastritis/drug therapy
+Helicobacter Infections/*drug therapy
+*Helicobacter pylori
+Histamine H2 Antagonists/*therapeutic use
+Humans
+Male
+Metronidazole/*therapeutic use
+Middle Aged
+Ranitidine/*therapeutic use
+Thiazoles/*therapeutic use

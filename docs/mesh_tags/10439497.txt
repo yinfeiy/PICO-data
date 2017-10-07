@@ -1,0 +1,18 @@
+Adrenergic beta-Antagonists/*therapeutic use
+Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+Anticholesteremic Agents/*therapeutic use
+Atenolol/*therapeutic use
+Captopril/*therapeutic use
+Combined Modality Therapy
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Hypercholesterolemia/complications/*drug therapy
+Hypertension/complications/*drug therapy
+*Life Style
+Male
+Middle Aged
+Norway
+Pravastatin/*therapeutic use
+Statistics, Nonparametric

@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Combined Modality Therapy
+Female
+Humans
+Karyotype
+Leukemia, Myeloid, Acute/*diagnosis/*genetics/mortality/therapy
+Male
+Middle Aged
+Mutation/physiology
+Nuclear Proteins/*genetics
+Prognosis
+RNA, Messenger/analysis/genetics/physiology
+Survival Analysis
+Tandem Repeat Sequences/*genetics
+Treatment Outcome
+fms-Like Tyrosine Kinase 3/analysis/*genetics

@@ -1,0 +1,8 @@
+Adult
+Biological Assay
+Folic Acid/blood/*metabolism
+Glutamates/metabolism
+Humans
+Intestinal Absorption/*drug effects
+Lactobacillus casei
+Phenytoin/*pharmacology

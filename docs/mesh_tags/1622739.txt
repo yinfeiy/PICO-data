@@ -1,0 +1,19 @@
+Aged
+Cohort Studies
+Dose-Response Relationship, Drug
+Humans
+Infusions, Intra-Arterial
+Interleukin-2/*administration & dosage/adverse effects
+Killer Cells, Lymphokine-Activated/drug effects/physiology
+Killer Cells, Natural/drug effects/physiology
+Leukocyte Count/drug effects
+Leukocytes, Mononuclear/drug effects/physiology
+Liver Neoplasms/blood/drug therapy/secondary
+Lung Neoplasms/blood/drug therapy/secondary
+Lymphocyte Activation/drug effects
+Lymphocytes/drug effects
+Male
+Middle Aged
+Neoplasms/blood/*drug therapy
+Phenotype
+Splenic Artery

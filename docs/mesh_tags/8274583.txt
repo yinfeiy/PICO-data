@@ -1,0 +1,14 @@
+Adult
+Comorbidity
+Depressive Disorder/*blood/psychology
+Double-Blind Method
+Female
+Humans
+Infusions, Intravenous
+Male
+Methoxyhydroxyphenylglycol/blood
+Middle Aged
+Norepinephrine/*blood
+Panic Disorder/*blood/psychology
+Receptors, Adrenergic, alpha-2/*drug effects/physiology
+Yohimbine/*pharmacology

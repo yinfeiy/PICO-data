@@ -1,0 +1,19 @@
+Adult
+African Continental Ancestry Group
+Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+Blood Pressure/*drug effects
+Blood Pressure Monitoring, Ambulatory
+Cross-Over Studies
+Diuretics/*therapeutic use
+Female
+Humans
+Hydrochlorothiazide/*therapeutic use
+Hypertension/*drug therapy/physiopathology
+Lisinopril/*therapeutic use
+Male
+Middle Aged
+Sex Factors
+Seychelles
+Single-Blind Method
+Time Factors
+Treatment Outcome

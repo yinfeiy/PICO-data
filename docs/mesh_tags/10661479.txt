@@ -1,0 +1,18 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Double-Blind Method
+Echocardiography
+Female
+Growth Hormone/*pharmacology/therapeutic use
+Heart/*drug effects/physiology
+Heart Function Tests
+Heart Rate/drug effects
+Hemoglobin A/metabolism
+Humans
+Hypertrophy, Left Ventricular/chemically induced
+Insulin-Like Growth Factor I/metabolism
+Male
+Middle Aged
+*Renal Dialysis
+Ventricular Function, Left/*drug effects

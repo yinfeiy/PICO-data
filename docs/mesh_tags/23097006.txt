@@ -1,0 +1,17 @@
+Adult
+Aged
+Anti-Arrhythmia Agents/therapeutic use
+Atrial Fibrillation/physiopathology/*surgery
+Cardiac Pacing, Artificial
+Catheter Ablation/*methods
+Electrocardiography, Ambulatory
+Electrophysiologic Techniques, Cardiac
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Pulmonary Veins/*surgery
+Reoperation
+Statistics, Nonparametric
+Treatment Outcome

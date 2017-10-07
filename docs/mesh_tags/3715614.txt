@@ -1,0 +1,7 @@
+Cancer Care Facilities
+Humans
+Interinstitutional Relations
+Random Allocation
+Surgery Department, Hospital
+Thyroid Neoplasms/*surgery
+Thyroidectomy/*methods

@@ -1,0 +1,19 @@
+Adult
+Aged
+*Bone Marrow Transplantation
+Europe
+Feasibility Studies
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction/pathology/physiopathology/*surgery
+Myocardium/*pathology
+Prospective Studies
+Single-Blind Method
+*Stem Cell Transplantation
+*Stroke Volume
+Time Factors
+Tomography, Emission-Computed, Single-Photon
+Treatment Outcome
+*Ventricular Function, Left

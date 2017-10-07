@@ -1,0 +1,10 @@
+Adult
+Catheterization/instrumentation
+Epistaxis/etiology/*prevention & control
+Equipment Design
+Female
+Humans
+Intubation, Intratracheal/adverse effects/*instrumentation/methods
+Male
+Suction
+Treatment Outcome

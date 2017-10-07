@@ -1,0 +1,14 @@
+Aged
+*Anesthesia, Epidural
+Anesthesia, Inhalation
+Aorta, Abdominal/*surgery
+Blood Glucose/*metabolism
+Bupivacaine
+Female
+Halothane
+Humans
+Hydrocortisone/*blood
+Intraoperative Period
+Male
+Middle Aged
+Neuroleptanalgesia

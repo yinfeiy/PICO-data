@@ -1,0 +1,14 @@
+Adolescent
+Autism Spectrum Disorder/*diagnosis/*therapy
+Child, Preschool
+Clinical Competence/*statistics & numerical data
+*Decision Support Systems, Clinical
+Female
+Guideline Adherence/statistics & numerical data
+Humans
+Infant
+Infant, Newborn
+Male
+Physicians/*statistics & numerical data
+Practice Patterns, Physicians'/statistics & numerical data
+Self Report

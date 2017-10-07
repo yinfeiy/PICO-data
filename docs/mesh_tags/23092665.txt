@@ -1,0 +1,21 @@
+Administration, Intravenous
+Administration, Oral
+Aged
+Cardiopulmonary Bypass/adverse effects/methods
+Coronary Artery Bypass/adverse effects/*methods
+Coronary Disease/diagnostic imaging/*surgery
+Female
+Follow-Up Studies
+Gastrointestinal Hemorrhage/*prevention & control
+Humans
+Japan
+Length of Stay
+Male
+Middle Aged
+Perioperative Care/methods
+Postoperative Complications/prevention & control
+Primary Prevention/*methods
+Proton Pump Inhibitors/*administration & dosage
+Radiography
+Reference Values
+Treatment Outcome

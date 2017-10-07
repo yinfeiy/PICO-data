@@ -1,0 +1,15 @@
+Adolescent
+Adrenergic beta-Antagonists/*pharmacology
+Autistic Disorder/complications/*drug therapy/physiopathology
+Female
+Humans
+Language Disorders/complications/*drug therapy/physiopathology
+Male
+Matched-Pair Analysis
+Neural Pathways/*drug effects/physiology
+Propranolol/*pharmacology
+Reference Values
+Semantics
+Statistics, Nonparametric
+Verbal Behavior/*drug effects
+Young Adult

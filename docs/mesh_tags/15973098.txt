@@ -1,0 +1,19 @@
+Chi-Square Distribution
+Colonoscopy/methods
+Female
+Follow-Up Studies
+Hemorrhoids/diagnosis/*surgery
+Humans
+Male
+Minimally Invasive Surgical Procedures/*instrumentation/methods
+Pain Measurement
+Pain, Postoperative/*physiopathology
+Postoperative Complications
+Probability
+Prospective Studies
+Rectum/*surgery
+Risk Assessment
+Severity of Illness Index
+Surgical Stapling/*methods
+Time Factors
+Treatment Outcome

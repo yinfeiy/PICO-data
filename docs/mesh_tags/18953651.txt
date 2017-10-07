@@ -1,0 +1,20 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Breast Neoplasms/*drug therapy/pathology
+Chemotherapy, Adjuvant
+Cyclophosphamide/administration & dosage
+Endocrine System/*drug effects
+Female
+Fluorouracil/administration & dosage
+Humans
+International Agencies
+Lymph Nodes/drug effects/*pathology
+Lymphatic Metastasis
+Methotrexate/administration & dosage
+Middle Aged
+Neoplasms, Hormone-Dependent/*drug therapy/pathology
+Postmenopause
+Prognosis
+Receptors, Estrogen/*metabolism
+Survival Rate
+Tamoxifen/administration & dosage
+Treatment Outcome

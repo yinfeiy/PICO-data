@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Deglutition Disorders/*surgery
+Endoscopes, Gastrointestinal
+Endoscopy, Gastrointestinal/adverse effects/*methods
+Female
+Gastrostomy/adverse effects/instrumentation/*methods
+Humans
+Length of Stay
+Male
+Middle Aged
+Pneumonia, Aspiration/etiology
+Surgical Wound Infection/etiology
+Treatment Outcome

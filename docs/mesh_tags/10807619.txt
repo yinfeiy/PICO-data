@@ -1,0 +1,16 @@
+Administration, Inhalation
+Adult
+Aged
+Algorithms
+Androstadienes/*administration & dosage/adverse effects
+Anti-Inflammatory Agents/*administration & dosage/adverse effects
+Double-Blind Method
+Female
+Fluticasone
+Forced Expiratory Volume/drug effects
+Health Status
+Humans
+Lung Diseases, Obstructive/*drug therapy
+Male
+Middle Aged
+Treatment Outcome

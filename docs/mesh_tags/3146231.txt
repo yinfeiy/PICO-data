@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Alfentanil
+Analgesics/therapeutic use
+Anesthesia, Inhalation/*adverse effects
+Clinical Trials as Topic
+Enflurane/administration & dosage/adverse effects
+Female
+Fentanyl/administration & dosage/analogs & derivatives
+Halothane/adverse effects
+Headache/*chemically induced
+Humans
+Isoflurane/adverse effects
+Male
+Middle Aged
+Nausea/*chemically induced
+*Pain, Postoperative/drug therapy
+*Postoperative Complications
+Prospective Studies
+Random Allocation
+Vomiting/*chemically induced

@@ -1,0 +1,11 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Deoxycytidine/administration & dosage/adverse effects/analogs & derivatives
+Female
+Humans
+Middle Aged
+Neoplasm Metastasis
+Paclitaxel/administration & dosage/adverse effects
+Taxoids/administration & dosage/adverse effects
+Treatment Failure

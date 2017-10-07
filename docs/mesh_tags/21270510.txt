@@ -1,0 +1,17 @@
+Adult
+Aged
+Body Mass Index
+China/epidemiology
+Cholesterol/blood
+Cross-Sectional Studies
+Female
+Follow-Up Studies
+Humans
+Male
+Metabolic Syndrome X/blood/*epidemiology
+Middle Aged
+Prevalence
+Prognosis
+Risk Factors
+Rural Population/*statistics & numerical data
+Urban Population/*statistics & numerical data

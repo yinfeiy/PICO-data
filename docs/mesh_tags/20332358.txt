@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Blood Glucose/analysis
+Child
+Diabetes Mellitus, Type 1/*drug therapy
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Hypoglycemic Agents/administration & dosage/adverse effects/*therapeutic use
+Male
+Peptides/administration & dosage/adverse effects/*therapeutic use
+Postprandial Period
+Venoms/administration & dosage/adverse effects/*therapeutic use
+Young Adult

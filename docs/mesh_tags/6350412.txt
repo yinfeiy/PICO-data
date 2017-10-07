@@ -1,0 +1,14 @@
+Adult
+Aged
+Clinical Trials as Topic
+Delayed-Action Preparations
+Female
+Glaucoma, Open-Angle/*drug therapy
+Humans
+Intraocular Pressure/*drug effects
+Male
+Middle Aged
+Ocular Hypertension/*drug therapy
+Ophthalmic Solutions
+Pilocarpine/*administration & dosage/adverse effects
+Tonometry, Ocular

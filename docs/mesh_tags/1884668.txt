@@ -1,0 +1,11 @@
+Adult
+Drug Tolerance
+Heroin/*adverse effects
+Heroin Dependence/*diagnosis/rehabilitation
+Humans
+Male
+Methadone/therapeutic use
+Middle Aged
+*Naloxone
+Neurologic Examination
+Substance Withdrawal Syndrome/*diagnosis/rehabilitation

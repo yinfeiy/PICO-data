@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Antihypertensive Agents/*therapeutic use
+Blood Pressure/drug effects/*physiology
+Blood Pressure Monitoring, Ambulatory/*methods
+Female
+Follow-Up Studies
+Humans
+Hypertension/drug therapy/*physiopathology
+Male
+Middle Aged
+Retrospective Studies
+Treatment Outcome

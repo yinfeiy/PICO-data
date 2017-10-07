@@ -1,0 +1,12 @@
+Adult
+Autistic Disorder/diagnosis/physiopathology
+Child
+Child Development Disorders, Pervasive/*diagnosis/*physiopathology
+Evoked Potentials, Visual/*physiology
+Humans
+Motion Perception/*physiology
+Photic Stimulation/methods
+Psychomotor Performance/physiology
+Reaction Time/*physiology
+Visual Cortex/*physiology
+Visual Perception/physiology

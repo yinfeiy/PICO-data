@@ -1,0 +1,21 @@
+Aged
+Algorithms
+Analysis of Variance
+*Angioplasty, Balloon
+Blood Pressure
+Blood Pressure Determination
+Female
+Follow-Up Studies
+*Glomerular Filtration Rate
+Humans
+Hypertension/*physiopathology/*therapy
+Incidental Findings
+Longitudinal Studies
+Male
+Middle Aged
+Radionuclide Imaging
+Renal Artery Obstruction/diagnostic imaging/*physiopathology/*therapy
+Severity of Illness Index
+*Stents
+Treatment Outcome
+Ultrasonography

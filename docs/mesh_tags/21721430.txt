@@ -1,0 +1,14 @@
+Adult
+Aged
+Asthma/physiopathology/*psychology
+Female
+Humans
+Male
+Middle Aged
+Quality of Life/*psychology
+Reproducibility of Results
+Sensitivity and Specificity
+Social Environment
+Spirometry
+Surveys and Questionnaires/*standards
+Thailand

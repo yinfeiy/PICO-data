@@ -1,0 +1,22 @@
+Adult
+Antioxidants/*metabolism
+Ascorbic Acid/blood
+Docosahexaenoic Acids/administration & dosage
+Eicosapentaenoic Acid/administration & dosage
+Erythrocytes/*drug effects/*metabolism
+Fatty Acids/metabolism
+Fatty Acids, Omega-3/*administration & dosage
+Female
+*Food, Fortified
+Humans
+Linoleic Acids/metabolism
+Lipid Peroxides/metabolism
+Male
+Malondialdehyde/metabolism
+*Margarine
+Middle Aged
+Reference Values
+Tocopherols/blood
+Uric Acid/blood
+Young Adult
+alpha-Linolenic Acid/administration & dosage

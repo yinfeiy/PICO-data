@@ -1,0 +1,16 @@
+Adult
+Basal Ganglia/physiology
+*Brain Mapping
+Evoked Potentials, Motor/physiology
+Female
+Fingers/*physiology
+Humans
+Magnetic Resonance Imaging
+Male
+Motor Cortex/*physiology
+Motor Skills/*physiology
+Movement/*physiology
+Periodicity
+Practice (Psychology)
+Reference Values
+Time Perception/*physiology

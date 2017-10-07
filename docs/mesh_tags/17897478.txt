@@ -1,0 +1,28 @@
+Acetates/adverse effects/*therapeutic use
+Adrenergic beta-Agonists/adverse effects/*therapeutic use
+Adult
+Albuterol/adverse effects/*analogs & derivatives/therapeutic use
+Androstadienes/adverse effects/*therapeutic use
+Anti-Asthmatic Agents/adverse effects/*therapeutic use
+Asthma/*drug therapy/metabolism/pathology/physiopathology
+Bronchial Hyperreactivity/*drug therapy/metabolism/pathology/physiopathology
+Cysteine/metabolism
+Double-Blind Method
+Drug Combinations
+Female
+Fluticasone
+Fluticasone Propionate, Salmeterol Xinafoate Drug Combination
+Forced Expiratory Volume/drug effects
+Histamine/metabolism
+Humans
+Interleukin-8/metabolism
+Leukotriene Antagonists/adverse effects/*therapeutic use
+Leukotrienes/metabolism
+Lung/drug effects/physiopathology
+Male
+Quinolines/adverse effects/*therapeutic use
+Spirometry
+Sputum/cytology/drug effects/metabolism
+Time Factors
+Treatment Outcome
+United Kingdom

@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bone Neoplasms/*drug therapy/*mortality
+Child
+Child, Preschool
+Cisplatin/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Female
+Humans
+Ifosfamide/*administration & dosage
+Infant
+Lung Neoplasms/secondary
+Male
+Methotrexate/administration & dosage
+Neoplasm Recurrence, Local
+Osteosarcoma/*drug therapy/*mortality/secondary
+Survival Rate

@@ -1,0 +1,20 @@
+Adolescent
+Air Pollution, Indoor/adverse effects
+Antibody Specificity/immunology
+Asthma/*etiology/metabolism/*therapy
+Child
+Child Welfare
+Child, Preschool
+Female
+Formaldehyde/*adverse effects/*immunology/metabolism
+Humans
+*Immunization
+Immunoglobulin E/*drug effects/*immunology/metabolism
+Japan/epidemiology
+Male
+Nasal Mucosa/drug effects/immunology/pathology
+Prevalence
+Severity of Illness Index
+Smoking/adverse effects
+Statistics as Topic
+Treatment Outcome

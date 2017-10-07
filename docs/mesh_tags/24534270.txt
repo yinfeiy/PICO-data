@@ -1,0 +1,16 @@
+Adult
+Anthropometry/methods
+Blood Pressure Determination
+Cardiovascular Diseases/*prevention & control
+Exercise Therapy/*methods
+Female
+Humans
+Male
+Middle Aged
+Monitoring, Physiologic
+Nitric Oxide/blood
+*Overweight/diagnosis/metabolism/physiopathology/psychology/therapy
+Pulse Wave Analysis/methods
+Sedentary Lifestyle
+Treatment Outcome
+*Vascular Stiffness

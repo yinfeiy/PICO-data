@@ -1,0 +1,24 @@
+Cause of Death
+Cerebral Hemorrhage/etiology
+Cerebral Ventricles
+Chronic Disease
+Feasibility Studies
+Female
+Gestational Age
+Humans
+Incidence
+Infant, Low Birth Weight
+Infant, Newborn
+*Infant, Premature
+Infant, Premature, Diseases/*therapy
+Infant, Very Low Birth Weight
+Lung Diseases/etiology
+Male
+Oxygen/administration & dosage
+Pneumothorax/etiology
+Prospective Studies
+Respiration, Artificial/adverse effects/*methods
+Respiratory Distress Syndrome, Newborn/*therapy
+Time Factors
+Treatment Outcome
+Ventilators, Mechanical

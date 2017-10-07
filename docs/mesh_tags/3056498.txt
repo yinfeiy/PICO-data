@@ -1,0 +1,13 @@
+Adult
+Aged
+Climacteric/*drug effects
+Clinical Trials as Topic
+Drug Therapy, Combination
+Estradiol/administration & dosage/*therapeutic use
+Female
+Humans
+Megestrol/administration & dosage/*analogs & derivatives/therapeutic use
+Megestrol Acetate
+Middle Aged
+Norethindrone/administration & dosage/*analogs & derivatives/therapeutic use
+Random Allocation

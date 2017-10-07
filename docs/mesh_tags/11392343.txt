@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Amantadine/administration & dosage/*therapeutic use
+Autistic Disorder/diagnosis/*psychology
+Child
+Child, Preschool
+Dopamine Agents/administration & dosage/*therapeutic use
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+*Irritable Mood
+Male
+Psychiatric Status Rating Scales
+Psychomotor Agitation/diagnosis/*drug therapy/*etiology
+Severity of Illness Index
+Treatment Outcome

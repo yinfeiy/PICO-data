@@ -1,0 +1,17 @@
+Age Factors
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cyclophosphamide/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Female
+Follow-Up Studies
+Humans
+Lymphoma, Non-Hodgkin/*drug therapy/*immunology/pathology
+Male
+Middle Aged
+Mitoxantrone/administration & dosage
+Prednisone/administration & dosage
+Risk Factors
+Vidarabine/administration & dosage/*analogs & derivatives
+Vindesine/administration & dosage

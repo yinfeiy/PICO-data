@@ -1,0 +1,13 @@
+Adult
+Aged
+Cardiac Catheterization
+Cardiac Surgical Procedures/adverse effects/methods
+Chronic Disease
+Double-Blind Method
+Female
+Heart Failure/etiology/*surgery
+Humans
+Male
+Middle Aged
+Myoblasts, Skeletal/*transplantation
+Myocardial Infarction/complications

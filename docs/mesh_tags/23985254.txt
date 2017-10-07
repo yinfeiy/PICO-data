@@ -1,0 +1,21 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/therapeutic use
+Capecitabine
+Chemoradiotherapy, Adjuvant/*adverse effects
+Cyclin D1/*genetics
+Deoxycytidine/administration & dosage/analogs & derivatives
+*Diarrhea/chemically induced/etiology
+Female
+Fluorouracil/administration & dosage/analogs & derivatives
+Genetic Predisposition to Disease
+Humans
+Male
+Middle Aged
+Neoplasm Staging
+Organoplatinum Compounds/administration & dosage
+*Polymorphism, Single Nucleotide
+Postoperative Period
+Prospective Studies
+Rectal Neoplasms/*genetics/pathology/surgery/*therapy
+Risk Factors

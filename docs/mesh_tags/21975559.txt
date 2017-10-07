@@ -1,0 +1,28 @@
+Administration, Oral
+Adolescent
+Adult
+Age Factors
+Aged
+Aged, 80 and over
+Bone Density/drug effects
+Bone Density Conservation Agents/*administration & dosage/therapeutic use
+Diphosphonates/*administration & dosage/therapeutic use
+Double-Blind Method
+Drug Administration Schedule
+Etidronic Acid/administration & dosage/*analogs & derivatives/therapeutic use
+Female
+Glucocorticoids/administration & dosage/*adverse effects
+Humans
+Imidazoles/*administration & dosage/therapeutic use
+Infusions, Intravenous
+Lumbar Vertebrae/physiopathology
+Male
+Menopause/physiology
+Middle Aged
+Osteoporosis/chemically induced/*drug therapy/physiopathology/prevention & control
+Osteoporosis, Postmenopausal/chemically induced/drug therapy/physiopathology/prevention & control
+Prednisone/administration & dosage/adverse effects
+Risedronate Sodium
+Sex Factors
+Vitamin D/analogs & derivatives/blood
+Young Adult

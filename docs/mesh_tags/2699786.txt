@@ -1,0 +1,10 @@
+Adult
+Aged
+Catheterization, Central Venous/*methods
+Female
+Humans
+*Jugular Veins
+Male
+Middle Aged
+Randomized Controlled Trials as Topic
+Ultrasonography/instrumentation/*methods

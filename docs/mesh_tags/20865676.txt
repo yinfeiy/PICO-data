@@ -1,0 +1,15 @@
+Aged
+Arginine/*administration & dosage
+Citrulline/*administration & dosage
+Echocardiography
+Endothelium, Vascular/*drug effects/physiology
+Female
+Fingers/blood supply
+Heart Failure/diagnostic imaging/*drug therapy/physiopathology
+Heart Failure, Diastolic/diagnostic imaging/*drug therapy/physiopathology
+Humans
+Male
+Middle Aged
+Photoplethysmography
+Stroke Volume/*physiology
+Vasodilation/drug effects/physiology

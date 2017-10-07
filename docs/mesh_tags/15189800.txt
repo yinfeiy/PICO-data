@@ -1,0 +1,10 @@
+Diagnosis, Differential
+Fatigue Syndrome, Chronic/*diagnosis
+Female
+Humans
+Immune System/*physiopathology
+Male
+Neurosecretory Systems/*physiopathology
+Nurses
+Physician Assistants
+*Terminology as Topic

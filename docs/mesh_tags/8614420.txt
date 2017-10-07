@@ -1,0 +1,18 @@
+Actuarial Analysis
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Breast Neoplasms/*drug therapy/*radiotherapy/surgery
+Combined Modality Therapy
+Female
+Humans
+*Mastectomy, Segmental
+Middle Aged
+Neoplasm Metastasis/prevention & control
+Neoplasm Recurrence, Local/epidemiology/prevention & control
+Neoplasm Staging
+Recurrence
+Survival Analysis
+Tamoxifen/administration & dosage
+Time Factors
+Treatment Outcome

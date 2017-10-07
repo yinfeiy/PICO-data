@@ -1,0 +1,12 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cisplatin/*administration & dosage
+Disease-Free Survival
+Drug Combinations
+Female
+Humans
+Male
+Middle Aged
+Oxonic Acid/*administration & dosage
+Paclitaxel/*administration & dosage
+Stomach Neoplasms/*drug therapy/mortality
+Tegafur/*administration & dosage

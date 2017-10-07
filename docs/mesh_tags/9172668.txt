@@ -1,0 +1,14 @@
+Adult
+Contrast Media
+*Decompression, Surgical
+Diagnosis, Differential
+Femur Head/*pathology/surgery
+Femur Head Necrosis/classification/*diagnosis/surgery
+Follow-Up Studies
+Humans
+Image Processing, Computer-Assisted
+Magnetic Resonance Imaging/*methods
+Male
+Middle Aged
+Postoperative Complications/*diagnosis
+Treatment Outcome

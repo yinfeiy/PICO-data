@@ -1,0 +1,18 @@
+Adenocarcinoma/*drug therapy/pathology/secondary
+Adult
+Aged
+Case-Control Studies
+Double-Blind Method
+Enzyme Inhibitors/adverse effects/pharmacokinetics/*therapeutic use
+Female
+Humans
+Hydroxamic Acids/adverse effects/pharmacokinetics/*therapeutic use
+L-Lactate Dehydrogenase/metabolism
+Male
+Metalloendopeptidases/antagonists & inhibitors
+Middle Aged
+Safety
+Stomach Neoplasms/*drug therapy/pathology
+Survival Rate
+Tissue Distribution
+Treatment Outcome

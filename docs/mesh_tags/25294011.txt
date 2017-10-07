@@ -1,0 +1,17 @@
+Adult
+Body Mass Index
+Caloric Restriction/*methods
+Combined Modality Therapy
+Double-Blind Method
+Enzyme Inhibitors/*pharmacology
+Female
+Humans
+Lactones/*pharmacology
+Metabolome/*drug effects
+Obesity/blood/diet therapy/drug therapy
+*Overweight/blood/diet therapy/drug therapy
+*Polycystic Ovary Syndrome/blood/diet therapy/drug therapy
+Testosterone/*blood
+Treatment Outcome
+Weight Loss/*drug effects
+Young Adult

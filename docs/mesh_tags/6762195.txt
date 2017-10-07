@@ -1,0 +1,20 @@
+Acute Disease
+Adult
+Aged
+Antineoplastic Agents/therapeutic use
+*Antineoplastic Combined Chemotherapy Protocols
+BCG Vaccine/therapeutic use
+Clinical Trials as Topic
+Cytarabine/therapeutic use
+Daunorubicin/therapeutic use
+Drug Administration Schedule
+Drug Therapy, Combination
+Humans
+Hydroxyurea/therapeutic use
+*Immunotherapy
+Leukemia/*therapy
+Middle Aged
+Prednisolone/therapeutic use
+Prognosis
+Random Allocation
+Vincristine/therapeutic use

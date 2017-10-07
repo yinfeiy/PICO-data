@@ -1,0 +1,18 @@
+Adult
+Autistic Disorder/pathology/*physiopathology/psychology
+Brain/pathology/physiopathology
+Cognition/physiology
+Female
+Humans
+Image Processing, Computer-Assisted
+*Magnetic Resonance Imaging
+Male
+Mental Processes/physiology
+Middle Aged
+Neuropsychological Tests
+Parietal Lobe/pathology/physiopathology
+Prefrontal Cortex/pathology/*physiopathology
+Psychomotor Performance/physiology
+Reaction Time/physiology
+Recruitment, Neurophysiological/*physiology
+Task Performance and Analysis

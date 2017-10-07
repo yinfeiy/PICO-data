@@ -1,0 +1,22 @@
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage/adverse effects
+Antineoplastic Combined Chemotherapy Protocols/adverse effects
+Blood Coagulation Tests
+Bone Marrow/drug effects
+Breast Neoplasms/drug therapy
+Clinical Trials as Topic
+Colonic Neoplasms/drug therapy
+Female
+Humans
+Leukopenia/chemically induced/*prevention & control
+Lung Neoplasms/drug therapy
+Male
+Medroxyprogesterone/administration & dosage/adverse effects/*analogs & derivatives
+Medroxyprogesterone Acetate
+Middle Aged
+Neoplasms/*drug therapy
+Random Allocation
+Rectal Neoplasms/drug therapy
+Thrombocytopenia/chemically induced/*prevention & control
+Time Factors

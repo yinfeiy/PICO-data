@@ -1,0 +1,14 @@
+Anti-Inflammatory Agents/adverse effects/*therapeutic use
+Biomarkers/blood
+C-Reactive Protein/*metabolism
+Double-Blind Method
+Drug Therapy, Combination
+Eicosapentaenoic Acid/adverse effects/*analogs & derivatives/therapeutic use
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/therapeutic use
+Hypolipidemic Agents/adverse effects/*therapeutic use
+Inflammation Mediators/*blood
+Lipids/*blood
+Metabolic Syndrome X/blood/diagnosis/*drug therapy
+Time Factors
+Treatment Outcome

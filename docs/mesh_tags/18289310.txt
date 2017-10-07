@@ -1,0 +1,16 @@
+Abomasum/*drug effects/physiology
+Acetaminophen/blood/pharmacokinetics
+Animals
+Animals, Suckling
+Anti-Bacterial Agents/administration & dosage/*pharmacology
+Anti-Inflammatory Agents, Non-Steroidal/blood/pharmacokinetics
+Blood Glucose/analysis/metabolism
+Cattle/*physiology
+Cross-Over Studies
+Erythromycin/administration & dosage/*pharmacology
+Gastric Emptying/*drug effects
+Gentamicins/administration & dosage/*pharmacology
+Injections, Intramuscular/veterinary
+Intestinal Absorption
+Male
+Time Factors

@@ -1,0 +1,13 @@
+Adult
+Aged
+Arthritis, Rheumatoid/*drug therapy
+Chemotaxis/drug effects
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Griseofulvin/*therapeutic use
+Humans
+Male
+Middle Aged
+Neutrophils/*drug effects
+Random Allocation

@@ -1,0 +1,20 @@
+Aged
+Blood Pressure/physiology
+Creatinine/blood
+*Diagnostic Tests, Routine
+Female
+Heart Failure/*blood/*drug therapy/mortality
+Humans
+Kidney/metabolism/*physiopathology
+Male
+Middle Aged
+*Patient Discharge
+Patient Readmission
+Predictive Value of Tests
+Purinergic P1 Receptor Antagonists/*therapeutic use
+Serum Albumin/metabolism
+Sodium/blood
+Survival Rate
+Treatment Outcome
+Urea/blood
+Xanthines/*therapeutic use

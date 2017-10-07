@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Carcinoma, Squamous Cell/drug therapy/*physiopathology/radiotherapy
+*Cell Hypoxia
+Cisplatin/administration & dosage
+Comet Assay
+DNA Damage
+Female
+Fluorouracil/administration & dosage
+Head and Neck Neoplasms/drug therapy/*physiopathology/radiotherapy
+Humans
+Male
+Microelectrodes
+Middle Aged
+Oxygen/*analysis
+Radiation-Sensitizing Agents/therapeutic use
+Triazines/therapeutic use

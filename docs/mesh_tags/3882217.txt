@@ -1,0 +1,17 @@
+Actuarial Analysis
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/radiotherapy/surgery
+Clinical Trials as Topic
+Combined Modality Therapy
+Female
+Head and Neck Neoplasms/*drug therapy/radiotherapy/surgery
+Humans
+Lung Neoplasms/secondary/surgery
+Male
+Middle Aged
+Neoplasm Recurrence, Local/surgery
+Random Allocation
+Sarcoma/*drug therapy/radiotherapy/surgery
+Wound Healing

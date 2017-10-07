@@ -1,0 +1,22 @@
+Adenoma/*surgery
+Aged
+Aged, 80 and over
+Anesthetics, Intravenous/*administration & dosage/adverse effects
+Bradycardia/chemically induced
+Chi-Square Distribution
+Consciousness Monitors
+*Deep Sedation
+*Dissection
+Female
+Gastric Mucosa/surgery
+Gastroscopy
+Humans
+Hypotension/chemically induced
+Hypoxia/chemically induced
+Male
+Midazolam/administration & dosage/adverse effects
+Middle Aged
+Oxygen Inhalation Therapy
+Propofol/*administration & dosage/adverse effects
+Statistics, Nonparametric
+Stomach Neoplasms/*surgery

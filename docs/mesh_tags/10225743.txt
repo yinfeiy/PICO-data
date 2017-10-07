@@ -1,0 +1,12 @@
+Adsorption
+Charcoal/pharmacology
+Critical Care/*methods
+Endotoxemia/blood/etiology/*therapy
+Endotoxins/adverse effects/*isolation & purification
+Follow-Up Studies
+Hemofiltration/*methods
+Humans
+Plasma Exchange/*methods
+Polymyxin B/pharmacology
+Systemic Inflammatory Response Syndrome/blood/etiology/*therapy
+Treatment Outcome

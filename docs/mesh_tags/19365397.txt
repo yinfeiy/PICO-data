@@ -1,0 +1,25 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anticoagulants/administration & dosage
+Child
+Comorbidity
+Disability Evaluation
+Edema/diagnosis/etiology/physiopathology
+Female
+Fever/epidemiology
+Heparin/administration & dosage
+Humans
+Incidence
+Male
+Middle Aged
+Muscle Spasticity/epidemiology
+Physical Therapy Modalities/statistics & numerical data
+Severity of Illness Index
+Spinal Cord/blood supply/physiopathology
+Spinal Cord Injuries/*epidemiology
+Veins/drug effects/physiopathology
+Venous Thrombosis/*epidemiology/prevention & control/therapy
+Young Adult

@@ -1,0 +1,15 @@
+Adenomatous Polyps/pathology/*surgery
+Aged
+Colon/pathology/*surgery
+Colonic Polyps/pathology/*surgery
+Colonoscopy
+Female
+Follow-Up Studies
+*Health Promotion
+Humans
+Male
+Mass Screening
+Middle Aged
+Pilot Projects
+Research Design
+*Walking

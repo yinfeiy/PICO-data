@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Anemia, Iron-Deficiency/blood/*drug therapy
+Child
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Ferritins/*blood
+Humans
+Iron/blood
+Male
+Middle Aged
+*Phytotherapy
+Receptors, Transferrin/*blood

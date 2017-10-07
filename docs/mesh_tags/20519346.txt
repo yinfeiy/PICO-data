@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Analysis of Variance
+Dose-Response Relationship, Radiation
+Double-Blind Method
+Female
+Goiter, Nodular/*radiotherapy
+Humans
+Iodine Radioisotopes/*therapeutic use
+Linear Models
+Male
+Middle Aged
+Patient Satisfaction
+Radiation Dosage
+Recombinant Proteins/*therapeutic use
+Thyroid Function Tests
+Thyrotropin/*therapeutic use
+Treatment Outcome

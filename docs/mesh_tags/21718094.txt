@@ -1,0 +1,17 @@
+Adolescent
+Blood Glucose/*drug effects/metabolism
+C-Peptide/blood
+Child
+Diabetes Mellitus, Type 1/blood/*drug therapy
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hypoglycemic Agents/*administration & dosage
+Infusion Pumps, Implantable
+Insulin/*administration & dosage
+Insulin Infusion Systems
+Insulin-Secreting Cells/*drug effects/metabolism
+Male
+Patient Satisfaction
+Pilot Projects
+Prospective Studies

@@ -1,0 +1,8 @@
+Anesthesia, Local/*methods
+Anterior Eye Segment/physiopathology/*surgery
+Cataract Extraction/methods
+Humans
+Intraocular Pressure
+Postoperative Complications
+Retrospective Studies
+Trabeculectomy/methods

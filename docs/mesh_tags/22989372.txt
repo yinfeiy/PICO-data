@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Allergens/*administration & dosage
+Asthma/*diagnosis/*immunology
+Bronchial Provocation Tests/*methods
+Bronchitis/*diagnosis/*immunology
+Cytokines/immunology
+Dose-Response Relationship, Drug
+Female
+Humans
+Male
+Young Adult

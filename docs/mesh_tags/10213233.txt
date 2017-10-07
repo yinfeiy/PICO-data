@@ -1,0 +1,13 @@
+Biopsy, Needle/*adverse effects
+Drainage/*adverse effects
+Endophthalmitis/*microbiology/pathology/surgery
+Eye Infections, Bacterial/*microbiology/pathology/surgery
+Follow-Up Studies
+Humans
+Needles
+*Postoperative Complications/pathology
+Reoperation
+Treatment Outcome
+Visual Acuity
+*Vitrectomy
+Vitreous Body/microbiology/*pathology

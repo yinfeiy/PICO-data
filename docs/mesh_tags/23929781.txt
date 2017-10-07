@@ -1,0 +1,27 @@
+Adult
+Aged
+Aged, 80 and over
+Anemia/blood/*complications/diagnosis/mortality/physiopathology
+Biomarkers/blood
+Disease Progression
+*Exercise Therapy
+Female
+Heart Failure/diagnosis/etiology/mortality/physiopathology/*therapy
+Hemoglobins/metabolism
+Hospitalization
+Humans
+Kaplan-Meier Estimate
+Linear Models
+Male
+Middle Aged
+Odds Ratio
+Proportional Hazards Models
+Prospective Studies
+Risk Factors
+*Systole
+Time Factors
+Treatment Outcome
+United States
+Ventricular Dysfunction, Left/complications/diagnosis/mortality/physiopathology/*therapy
+*Ventricular Function, Left
+Young Adult

@@ -1,0 +1,11 @@
+Cholesterol/blood
+Dietary Fiber/*therapeutic use
+Female
+Humans
+Hyperinsulinism/diet therapy
+Hypertension/*diet therapy
+Insulin/blood
+Male
+Pilot Projects
+ROC Curve
+Triglycerides/blood

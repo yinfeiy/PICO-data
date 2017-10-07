@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Chronic Disease/*therapy
+Colitis, Ulcerative/psychology/*therapy
+*Family Practice
+Female
+*Gastroenterology
+Humans
+Male
+Medical Records
+Middle Aged
+Patient Education as Topic/*methods
+Patient Participation/*methods
+Patient Satisfaction
+Physician-Patient Relations
+*Self Care
+Surveys and Questionnaires

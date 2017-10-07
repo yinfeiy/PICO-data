@@ -1,0 +1,17 @@
+Adult
+Aged
+Ascites/*drug therapy
+Body Weight/drug effects
+Canrenoic Acid/administration & dosage/pharmacology/therapeutic use
+Combined Modality Therapy
+Diet, Sodium-Restricted
+Diuretics/administration & dosage/pharmacology/*therapeutic use
+Female
+Furosemide/administration & dosage/pharmacology/*therapeutic use
+Humans
+Liver Cirrhosis/*drug therapy
+Male
+Middle Aged
+Natriuresis/drug effects
+Potassium/urine
+Sulfonamides/administration & dosage/pharmacology/*therapeutic use

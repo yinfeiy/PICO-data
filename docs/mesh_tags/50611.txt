@@ -1,0 +1,14 @@
+Aged
+Antineoplastic Agents/therapeutic use
+Copper
+Female
+Humans
+Male
+Middle Aged
+Neoplasms/drug therapy/*radiotherapy
+Palliative Care
+Radiation Effects
+Radioisotopes
+Radiotherapy Dosage
+Skin/*radiation effects
+Time Factors

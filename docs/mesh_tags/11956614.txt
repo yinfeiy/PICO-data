@@ -1,0 +1,12 @@
+Adult
+Aged
+*Cytological Techniques
+Endometrial Neoplasms/*diagnosis/metabolism
+Endometrium/cytology/pathology
+Epithelium/metabolism/pathology
+Female
+Humans
+Mass Screening/*methods
+Middle Aged
+Postmenopause
+Premenopause

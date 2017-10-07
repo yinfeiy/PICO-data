@@ -1,0 +1,16 @@
+Adult
+Ambulatory Care/*economics/psychology
+Arthritis/therapy
+Female
+Health Care Costs
+*Health Care Rationing
+Health Status
+Humans
+Male
+Mental Health
+Middle Aged
+Outcome Assessment (Health Care)
+Patient Satisfaction
+*Referral and Consultation
+Rheumatology/*economics
+*Waiting Lists

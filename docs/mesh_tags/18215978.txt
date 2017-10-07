@@ -1,0 +1,18 @@
+Adult
+Aged
+Anti-HIV Agents/*therapeutic use
+Benzoxazines/*therapeutic use
+CD4 Lymphocyte Count
+Dideoxynucleosides/*therapeutic use
+Double-Blind Method
+Drug Resistance, Viral
+Drug Therapy, Combination
+Female
+HIV Infections/*drug therapy/virology
+HIV Protease Inhibitors/therapeutic use
+HIV-1/*drug effects/isolation & purification
+Humans
+Indinavir/*therapeutic use
+Male
+Middle Aged
+Treatment Outcome

@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Biopsy, Needle
+Confidence Intervals
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Enzyme-Linked Immunosorbent Assay
+Female
+Gastric Mucosa/*drug effects/*enzymology/pathology
+Gastroscopy
+Humans
+Ibuprofen/*administration & dosage/adverse effects
+Immunohistochemistry
+Male
+Nitric Oxide Synthase/*drug effects/metabolism
+Probability
+Prospective Studies
+Prostaglandin-Endoperoxide Synthases/*drug effects/metabolism
+Prostaglandins/blood
+Reference Values
+Risk Factors
+Single-Blind Method
+Thromboxanes/blood

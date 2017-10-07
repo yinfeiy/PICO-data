@@ -1,0 +1,21 @@
+Acute Coronary Syndrome/*drug therapy/economics
+Aged
+Angina, Unstable/*drug therapy/economics
+Angioplasty, Balloon, Coronary/economics
+Aspirin/economics/therapeutic use
+Canada
+Cost of Illness
+Cost-Benefit Analysis
+Drug Therapy, Combination
+Female
+Hospitalization/economics
+Humans
+Length of Stay
+Life Expectancy
+Male
+Middle Aged
+Outcome Assessment (Health Care)/*economics
+Platelet Aggregation Inhibitors/*economics/*therapeutic use
+Quality-Adjusted Life Years
+Ticlopidine/*analogs & derivatives/economics/therapeutic use
+Time Factors

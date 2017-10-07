@@ -1,0 +1,25 @@
+Aged
+Aspirin/*therapeutic use
+Blood Platelets/*drug effects/metabolism
+Cell Adhesion Molecules/blood
+Coronary Artery Disease/blood/*drug therapy
+Diabetes Mellitus, Type 2/*blood
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Florida
+Humans
+Male
+Microfilament Proteins/blood
+Middle Aged
+Pentoxifylline/*therapeutic use
+Phosphodiesterase Inhibitors/*therapeutic use
+Phosphoproteins/blood
+Phosphorylation
+Platelet Aggregation Inhibitors/*therapeutic use
+Platelet Function Tests
+Prospective Studies
+Receptors, Purinergic P2Y12/drug effects/metabolism
+Ticlopidine/*analogs & derivatives/therapeutic use
+Time Factors
+Treatment Outcome

@@ -1,0 +1,15 @@
+Aged
+*Angioplasty, Balloon, Coronary
+Chi-Square Distribution
+*Coronary Artery Bypass
+Coronary Stenosis/*therapy
+Female
+Humans
+Male
+Myocardial Reperfusion Injury/*prevention & control
+Prospective Studies
+Quality of Life
+Statistics, Nonparametric
+*Stents
+Survival Analysis
+Treatment Outcome

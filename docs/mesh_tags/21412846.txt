@@ -1,0 +1,16 @@
+Adenosine/blood
+Adenosine Deaminase/*blood
+Adult
+Chronic Disease
+Clozapine/*therapeutic use
+Double-Blind Method
+Female
+Haloperidol/therapeutic use
+Humans
+Male
+Middle Aged
+Prospective Studies
+Risperidone/therapeutic use
+Schizophrenia/*blood/*drug therapy
+Treatment Outcome
+Young Adult

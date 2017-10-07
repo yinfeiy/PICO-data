@@ -1,0 +1,12 @@
+Adult
+Aged
+Aged, 80 and over
+Chlorambucil/*therapeutic use
+Combined Modality Therapy
+Female
+Humans
+Interferon-alpha/*therapeutic use
+Lymphoma, Follicular/*drug therapy/mortality/*therapy
+Male
+Middle Aged
+Recombinant Proteins

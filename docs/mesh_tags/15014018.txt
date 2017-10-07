@@ -1,0 +1,23 @@
+Adult
+Aged
+Antineoplastic Agents/*therapeutic use
+*Chemotherapy, Adjuvant
+Clinical Trials as Topic
+Confidence Intervals
+Disease-Free Survival
+Female
+Follow-Up Studies
+Humans
+Interferon-alpha/*therapeutic use
+Lymphatic Metastasis
+Male
+Melanoma/*drug therapy/mortality/pathology
+Middle Aged
+Neoplasm Staging
+Prognosis
+Proportional Hazards Models
+Recombinant Proteins
+Retrospective Studies
+Survival Analysis
+Time Factors
+Treatment Outcome

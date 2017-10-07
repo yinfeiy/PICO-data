@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects
+Bone Neoplasms/complications/drug therapy/secondary
+Breast Neoplasms/*complications/*drug therapy/pathology
+Doxorubicin/administration & dosage/analogs & derivatives
+Female
+Humans
+Liver Neoplasms/complications/drug therapy/secondary
+Lung Neoplasms/complications/drug therapy/secondary
+Middle Aged
+*Models, Statistical
+Neoplasm Recurrence, Local/drug therapy
+Neoplasm Staging
+Neutropenia/*chemically induced/pathology
+Polyethylene Glycols/administration & dosage
+Prognosis
+Prospective Studies
+Risk Factors
+Sensitivity and Specificity
+Survival Rate
+Treatment Outcome

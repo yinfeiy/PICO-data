@@ -1,0 +1,25 @@
+Adult
+Anti-Bacterial Agents/administration & dosage/*therapeutic use
+Antineoplastic Agents/therapeutic use
+Bacteremia/drug therapy
+Bacterial Infections/drug therapy
+Case-Control Studies
+Ceftazidime/administration & dosage/*therapeutic use
+Cephalosporins/administration & dosage/*therapeutic use
+Drug Resistance, Microbial
+Drug Therapy, Combination/administration & dosage/therapeutic use
+Enzyme Inhibitors/administration & dosage/*therapeutic use
+Female
+Fever/*drug therapy
+Fever of Unknown Origin/drug therapy
+Hematologic Neoplasms/drug therapy
+Humans
+Male
+Middle Aged
+Neutropenia/*drug therapy
+Penicillanic Acid/administration & dosage/*analogs & derivatives/therapeutic use
+Penicillins/administration & dosage/*therapeutic use
+Piperacillin/administration & dosage/*therapeutic use
+Prospective Studies
+Tobramycin/administration & dosage/*therapeutic use
+Vancomycin/administration & dosage/therapeutic use

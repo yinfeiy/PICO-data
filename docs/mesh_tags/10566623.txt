@@ -1,0 +1,14 @@
+Adult
+Aged
+Female
+Humans
+Iodine Radioisotopes
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*diagnosis
+Radionuclide Imaging
+Recombinant Proteins/administration & dosage
+Thyroglobulin/*blood
+Thyroid Hormones/*administration & dosage
+Thyroid Neoplasms/*diagnosis/diagnostic imaging
+Thyrotropin/*administration & dosage/adverse effects/blood

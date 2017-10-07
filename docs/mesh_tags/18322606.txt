@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Collagen Type IV/analysis
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Hepatitis B, Chronic/*drug therapy/pathology/physiopathology
+Humans
+Immunohistochemistry
+Liver Cirrhosis/drug therapy/pathology
+Male
+Medicine, Chinese Traditional
+Middle Aged

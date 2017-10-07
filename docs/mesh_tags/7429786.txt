@@ -1,0 +1,7 @@
+Adolescent
+Adult
+Aged
+Antacids/*administration & dosage/therapeutic use
+Duodenal Ulcer/*drug therapy
+Humans
+Middle Aged

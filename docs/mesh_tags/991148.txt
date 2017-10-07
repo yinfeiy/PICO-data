@@ -1,0 +1,15 @@
+Acute Disease
+Adolescent
+Antineoplastic Agents/adverse effects/*therapeutic use
+Asparaginase/therapeutic use
+Cell Division/*drug effects
+Cells, Cultured
+Child
+Cytarabine/*pharmacology/therapeutic use
+DNA, Neoplasm/biosynthesis
+Drug Therapy, Combination
+Humans
+Leukemia/*drug therapy
+Prednisone/therapeutic use
+Remission, Spontaneous
+Vincristine/therapeutic use

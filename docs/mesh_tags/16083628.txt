@@ -1,0 +1,13 @@
+Adult
+Drug Therapy, Combination
+Endothelium, Vascular/*drug effects/physiopathology
+Female
+Folic Acid/*administration & dosage
+Humans
+Hyperhomocysteinemia/*drug therapy/physiopathology
+*Kidney Transplantation
+Male
+Middle Aged
+Treatment Outcome
+Vitamin B 12/*administration & dosage
+Vitamin B 6/*administration & dosage

@@ -1,0 +1,11 @@
+Adult
+Aged
+Aged, 80 and over
+Angioplasty, Balloon, Coronary
+Female
+Humans
+*Ischemic Postconditioning
+Male
+Middle Aged
+Myocardial Infarction/physiopathology/*therapy
+Myocardial Reperfusion Injury/physiopathology/*prevention & control

@@ -1,0 +1,15 @@
+Acute Disease
+Adult
+Anti-Bacterial Agents/*therapeutic use
+Bacterial Infections/*drug therapy
+Cefuroxime/*analogs & derivatives/*therapeutic use
+Double-Blind Method
+Female
+Humans
+*Lactams
+Male
+Maxillary Sinusitis/*drug therapy/microbiology
+Middle Aged
+Prospective Studies
+Treatment Outcome
+beta-Lactams

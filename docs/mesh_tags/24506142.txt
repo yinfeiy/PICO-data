@@ -1,0 +1,19 @@
+Adult
+Aged
+Colon/*surgery
+Colonic Diseases/diagnosis/etiology/*surgery
+Colonic Neoplasms/complications/mortality
+Colonoscopy/*methods
+*Disease Management
+Female
+Follow-Up Studies
+Humans
+Intestinal Obstruction/diagnosis/etiology/*surgery
+Male
+Middle Aged
+Prosthesis Design
+Retrospective Studies
+*Stents
+Survival Rate/trends
+Treatment Outcome
+United Kingdom/epidemiology

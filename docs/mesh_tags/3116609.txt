@@ -1,0 +1,11 @@
+*Analgesia
+*Anesthesia, Epidural
+*Anesthesia, Local
+Bupivacaine/*administration & dosage
+Carbon Dioxide/*administration & dosage
+Drug Combinations
+Humans
+*Lithotripsy
+Nerve Block
+Temperature
+Time Factors

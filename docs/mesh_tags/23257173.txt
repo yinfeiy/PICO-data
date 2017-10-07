@@ -1,0 +1,17 @@
+Arteries/drug effects/*innervation/physiopathology
+Blood Pressure/drug effects/physiology
+Cross-Over Studies
+Double-Blind Method
+Endothelium, Vascular/drug effects/*physiopathology
+Female
+Follow-Up Studies
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/therapeutic use
+Hyperlipidemias
+Hypertension/blood/*drug therapy/physiopathology
+Male
+Middle Aged
+Prospective Studies
+Simvastatin/*therapeutic use
+Sympathetic Nervous System/*drug effects/physiopathology
+Vasodilation/*drug effects

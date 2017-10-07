@@ -1,0 +1,14 @@
+Acebutolol/pharmacology/*therapeutic use
+Adrenergic beta-Antagonists/pharmacology/*therapeutic use
+Adult
+Aged
+Cineangiography
+Coronary Disease/diagnostic imaging/*drug therapy
+Echocardiography
+Female
+Heart Ventricles/diagnostic imaging/*drug effects
+Humans
+Male
+Middle Aged
+Placebos
+Radionuclide Imaging

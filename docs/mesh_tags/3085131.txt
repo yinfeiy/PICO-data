@@ -1,0 +1,9 @@
+Adult
+Blood Pressure/drug effects
+Female
+Heart Rate/drug effects
+Humans
+Male
+Mecamylamine/adverse effects/*pharmacology/therapeutic use
+Middle Aged
+*Smoking/prevention & control

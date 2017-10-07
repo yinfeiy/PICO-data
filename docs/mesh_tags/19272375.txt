@@ -1,0 +1,15 @@
+Acetaminophen/*pharmacology
+Adult
+Anti-Inflammatory Agents, Non-Steroidal/*pharmacology
+Aspirin/*administration & dosage/pharmacology
+Diclofenac/*pharmacology
+Drug Interactions
+Female
+Humans
+Male
+Middle Aged
+Naproxen/*pharmacology
+Platelet Aggregation/*drug effects
+Platelet Aggregation Inhibitors/*administration & dosage/pharmacology
+Platelet Function Tests
+Young Adult

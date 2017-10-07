@@ -1,0 +1,12 @@
+Adult
+Arrhythmias, Cardiac/*chemically induced
+Caffeine/*adverse effects
+Central Nervous System Stimulants/*adverse effects
+Cross-Over Studies
+Double-Blind Method
+Electrocardiography/*drug effects
+Female
+Humans
+Male
+Reference Values
+Signal Processing, Computer-Assisted

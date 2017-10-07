@@ -1,0 +1,15 @@
+Administration, Intravesical
+Adult
+Aged
+*Aminolevulinic Acid
+Carcinoma, Transitional Cell/*diagnosis/mortality/pathology/surgery
+Cystoscopy
+Disease-Free Survival
+Female
+Fluorescence
+Humans
+Male
+Middle Aged
+Neoplasm Staging
+Survival Rate
+Urinary Bladder Neoplasms/*diagnosis/mortality/pathology/surgery

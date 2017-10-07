@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Anxiety/*diagnosis/epidemiology
+Anxiety Disorders/diagnosis/epidemiology/*therapy
+Child
+Child Development Disorders, Pervasive/diagnosis/epidemiology/*therapy
+Female
+Humans
+Internal-External Control
+Male
+Parents/*psychology
+Psychotherapy/*methods
+Severity of Illness Index
+Treatment Outcome

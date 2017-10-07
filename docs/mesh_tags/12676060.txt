@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Analysis of Variance
+Audiometry, Pure-Tone
+Auditory Pathways/*physiopathology
+Autistic Disorder/*physiopathology
+Confidence Intervals
+Female
+Humans
+Male
+Matched-Pair Analysis
+Mental Processes/physiology
+Pitch Discrimination/physiology
+Pitch Perception/*physiology
+ROC Curve
+Random Allocation
+Sensory Thresholds/physiology

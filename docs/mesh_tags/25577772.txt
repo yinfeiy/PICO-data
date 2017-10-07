@@ -1,0 +1,14 @@
+Aged
+Diabetes Mellitus, Type 2/*complications/diagnostic imaging
+Echocardiography/*methods
+Feasibility Studies
+Female
+Follow-Up Studies
+Heart Failure/*diagnostic imaging/epidemiology/etiology
+Humans
+Male
+New Zealand/epidemiology
+Proportional Hazards Models
+Risk Assessment/*methods
+Risk Factors
+Ventricular Dysfunction, Left/complications/*diagnostic imaging/epidemiology

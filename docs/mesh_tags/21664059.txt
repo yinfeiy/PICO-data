@@ -1,0 +1,18 @@
+Abdomen/surgery
+Aged
+Area Under Curve
+Cardiovascular Diseases/complications
+Fecal Incontinence/*etiology
+Follow-Up Studies
+Gastrointestinal Hemorrhage/*etiology
+Humans
+Likelihood Functions
+Male
+*Models, Statistical
+Probability
+Prostatic Neoplasms/pathology/*radiotherapy
+ROC Curve
+Radiation Injuries/*complications
+Radiotherapy Dosage
+Radiotherapy, Conformal/*adverse effects/methods
+Rectum/*radiation effects

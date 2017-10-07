@@ -1,0 +1,15 @@
+Adolescent
+Age Factors
+Antipsychotic Agents/adverse effects/pharmacology/*therapeutic use
+Autistic Disorder/blood/*drug therapy
+Body Mass Index
+Body Weight/*drug effects
+Child
+Child, Preschool
+Female
+Humans
+Leptin/*blood
+Male
+Prospective Studies
+Risperidone/adverse effects/pharmacology/*therapeutic use
+Weight Gain/drug effects

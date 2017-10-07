@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Coagulation
+Carboxypeptidase B2/*blood
+Cross-Over Studies
+Female
+Fibrin Clot Lysis Time
+Fibrinolysis
+Hemorrhage/blood/etiology
+*Hemostasis/drug effects
+Humans
+Hyperthyroxinemia/*blood/complications
+Hypothyroidism/*blood/complications
+Male
+Middle Aged
+Netherlands
+Single-Blind Method
+Thrombosis/blood/etiology
+Thyrotropin/blood
+Thyroxine/administration & dosage/blood
+Triiodothyronine/blood

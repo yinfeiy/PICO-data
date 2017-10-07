@@ -1,0 +1,17 @@
+Administration, Intranasal
+Adolescent
+Adult
+Analgesics, Opioid/administration & dosage/therapeutic use
+Blood Pressure/drug effects
+Double-Blind Method
+Female
+Fentanyl/administration & dosage/therapeutic use
+Gynecologic Surgical Procedures
+Humans
+Middle Aged
+Morphine/therapeutic use
+Nicotine/administration & dosage/*therapeutic use
+Nicotinic Agonists/administration & dosage/*therapeutic use
+Pain Measurement/drug effects
+Pain, Postoperative/*drug therapy
+Uterus/surgery

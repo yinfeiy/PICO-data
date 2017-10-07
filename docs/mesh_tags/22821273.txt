@@ -1,0 +1,23 @@
+Aged
+Angioplasty, Balloon, Coronary/*adverse effects/*instrumentation/mortality
+Biomarkers/blood
+Chi-Square Distribution
+Coronary Artery Disease/mortality/*therapy
+Creatine Kinase, MB Form/*blood
+*Drug-Eluting Stents
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Multivariate Analysis
+Myocardial Infarction/blood/*diagnosis/etiology/mortality
+Myocardium/*metabolism/pathology
+Necrosis
+Predictive Value of Tests
+Proportional Hazards Models
+Prospective Studies
+Risk Assessment
+Risk Factors
+Time Factors
+Troponin T/*blood

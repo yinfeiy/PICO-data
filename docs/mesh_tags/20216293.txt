@@ -1,0 +1,16 @@
+Diabetic Retinopathy/physiopathology/*surgery
+Female
+Follow-Up Studies
+Humans
+*Laser Coagulation
+Lasers, Solid-State/adverse effects/*therapeutic use
+Male
+Middle Aged
+Pain Measurement
+Pain, Postoperative
+Prospective Studies
+Retina/physiopathology
+Treatment Outcome
+Visual Acuity/physiology
+Visual Field Tests
+Visual Fields/physiology

@@ -1,0 +1,14 @@
+Adult
+Aged
+Cephalometry/instrumentation
+Chin
+Continuous Positive Airway Pressure/*methods
+Electroencephalography
+Female
+Humans
+Male
+Middle Aged
+Mouth
+Mouth Breathing/*complications/*therapy
+Sleep Apnea, Obstructive/*complications/*therapy
+Snoring/complications

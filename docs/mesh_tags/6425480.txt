@@ -1,0 +1,14 @@
+Adolescent
+Anthropometry
+Child
+Cystic Fibrosis/physiopathology/*therapy
+Evaluation Studies as Topic
+Female
+Humans
+Lung/*physiopathology
+Male
+*Parenteral Nutrition
+*Parenteral Nutrition, Total
+Pulmonary Gas Exchange
+Respiratory Function Tests
+Time Factors

@@ -1,0 +1,10 @@
+Adult
+Anti-Bacterial Agents/adverse effects/*therapeutic use
+Clarithromycin/adverse effects/*therapeutic use
+Erythromycin/adverse effects/*analogs & derivatives/*therapeutic use
+Female
+Humans
+Male
+Pneumonia/diagnostic imaging/*drug therapy/microbiology/*physiopathology
+Radiography, Thoracic
+Roxithromycin/adverse effects/*therapeutic use

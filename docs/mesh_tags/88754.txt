@@ -1,0 +1,14 @@
+Antigens, Bacterial/administration & dosage
+Bleomycin/*therapeutic use
+Carcinoma, Squamous Cell/*drug therapy/mortality/surgery
+Drug Therapy, Combination
+Humans
+Leucovorin/*therapeutic use
+Methotrexate/*therapeutic use
+Mouth Floor
+Mouth Neoplasms/*drug therapy/mortality/surgery
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Propionibacterium acnes/immunology
+Random Allocation
+Tongue Neoplasms/*drug therapy/mortality/surgery

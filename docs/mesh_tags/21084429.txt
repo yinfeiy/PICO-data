@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/mortality/pathology
+Capecitabine
+Cross-Over Studies
+Deoxycytidine/administration & dosage/analogs & derivatives
+Disease-Free Survival
+Female
+Fluorouracil/administration & dosage/analogs & derivatives
+Humans
+Kaplan-Meier Estimate
+Middle Aged
+Neoplasm Metastasis
+Taxoids/administration & dosage

@@ -1,0 +1,17 @@
+Aged
+Amiodarone/*therapeutic use
+Anti-Arrhythmia Agents/*therapeutic use
+Arrhythmias, Cardiac/etiology/mortality
+Death, Sudden, Cardiac
+Double-Blind Method
+Electrocardiography, Ambulatory
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Mortality
+Myocardial Infarction/*complications/mortality
+Stroke Volume
+Treatment Outcome
+Ventricular Dysfunction, Left/*drug therapy/etiology/mortality

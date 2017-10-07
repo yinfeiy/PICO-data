@@ -1,0 +1,22 @@
+Administration, Cutaneous
+Administration, Intravaginal
+Adult
+Atrophy/drug therapy
+Colposcopy
+Contraceptive Agents, Female/therapeutic use
+Dose-Response Relationship, Drug
+Estradiol/therapeutic use
+Estriol/*therapeutic use
+Estrogen Replacement Therapy
+Female
+Humans
+Medroxyprogesterone Acetate/therapeutic use
+Middle Aged
+Papanicolaou Test
+Postmenopause/*physiology
+Treatment Outcome
+Urologic Diseases/*drug therapy
+Vagina/*pathology
+Vaginal Creams, Foams, and Jellies
+Vaginal Diseases/*drug therapy
+Vaginal Smears

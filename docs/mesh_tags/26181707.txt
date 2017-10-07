@@ -1,0 +1,25 @@
+Adenine/administration & dosage/adverse effects/analogs & derivatives/therapeutic use
+Adult
+Anti-HIV Agents/administration & dosage/*therapeutic use
+Atazanavir Sulfate
+Carbamates/*administration & dosage/adverse effects
+Cobicistat
+Deoxycytidine/administration & dosage/adverse effects/analogs & derivatives/therapeutic use
+Double-Blind Method
+Drug Administration Schedule
+Drug Synergism
+Drug Therapy, Combination
+Emtricitabine
+Female
+HIV Infections/drug therapy
+HIV-1/drug effects
+Humans
+Male
+Oligopeptides/administration & dosage/adverse effects/therapeutic use
+Organophosphonates/administration & dosage/adverse effects/therapeutic use
+Pyridines/administration & dosage/adverse effects/therapeutic use
+RNA, Viral/blood
+Ritonavir/administration & dosage/adverse effects/therapeutic use
+Tenofovir
+Thiazoles/*administration & dosage/adverse effects
+Viral Load

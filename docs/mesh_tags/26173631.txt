@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antiviral Agents/therapeutic use
+Benzoates/*pharmacology/therapeutic use
+Dose-Response Relationship, Drug
+Female
+Hepatitis C, Chronic/*complications/drug therapy
+Humans
+Hydrazines/*pharmacology/therapeutic use
+Male
+Middle Aged
+Pyrazoles/*pharmacology/therapeutic use
+Thrombocytopenia/*complications/*drug therapy
+Treatment Outcome
+Young Adult

@@ -1,0 +1,19 @@
+Adult
+Aged
+Antibodies, Monoclonal/administration & dosage/adverse effects
+Antibodies, Monoclonal, Murine-Derived
+Antigens, CD34/biosynthesis
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Combined Modality Therapy
+Etoposide/administration & dosage
+Female
+Granulocyte Colony-Stimulating Factor/administration & dosage
+Hematopoietic Stem Cell Mobilization/*methods
+Hematopoietic Stem Cell Transplantation/methods
+Humans
+Lymphoma, B-Cell/drug therapy/surgery/*therapy
+Male
+Middle Aged
+Prospective Studies
+Rituximab
+Young Adult

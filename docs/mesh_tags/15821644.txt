@@ -1,0 +1,24 @@
+Aged
+Blood Platelets/*drug effects
+*Cardiopulmonary Bypass
+Coronary Artery Bypass
+Drug Combinations
+Free Radical Scavengers/administration & dosage/*therapeutic use
+Humans
+Iloprost/administration & dosage/*therapeutic use
+Leukocytes/drug effects
+Macrophage-1 Antigen/analysis
+Middle Aged
+Nitric Oxide/administration & dosage/*therapeutic use
+Oxygenators
+P-Selectin/analysis
+Peptide Fragments/drug effects
+Pilot Projects
+Platelet Activation/drug effects
+Platelet Aggregation/drug effects
+Platelet Aggregation Inhibitors/administration & dosage/*therapeutic use
+Platelet Glycoprotein GPIIb-IIIa Complex/analysis
+Platelet Glycoprotein GPIb-IX Complex/analysis
+Postoperative Hemorrhage/prevention & control
+Receptors, Cell Surface/drug effects
+Thrombocytopenia/prevention & control

@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Child
+Chronic Disease
+Cytomegalovirus Infections/mortality/prevention & control
+Double-Blind Method
+Female
+Fibroblast Growth Factor 7/*administration & dosage
+Graft vs Host Disease/mortality/*prevention & control
+Hematologic Neoplasms/mortality/therapy
+*Hematopoietic Stem Cell Transplantation
+Humans
+*Living Donors
+Male
+Middle Aged
+Mucositis/mortality/prevention & control
+Mycoses/mortality/prevention & control
+Transplantation, Homologous

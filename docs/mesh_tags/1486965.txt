@@ -1,0 +1,19 @@
+Administration, Inhalation
+Administration, Oral
+Adolescent
+Adult
+Aged
+Albuterol/*analogs & derivatives/therapeutic use
+Asthma/*drug therapy
+Bronchodilator Agents/*therapeutic use
+Circadian Rhythm/physiology
+Delayed-Action Preparations
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Ketotifen/*administration & dosage
+Male
+Middle Aged
+Salmeterol Xinafoate
+Theophylline/*administration & dosage

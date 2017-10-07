@@ -1,0 +1,10 @@
+Analgesics, Opioid/*therapeutic use
+Female
+Humans
+Meperidine/*therapeutic use
+Obstetric Labor Complications/*drug therapy
+Pain/*drug therapy/etiology
+Pain Measurement/methods
+Pregnancy
+Tramadol/*therapeutic use
+Treatment Outcome

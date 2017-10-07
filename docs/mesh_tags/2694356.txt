@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Female
+Humans
+*Laser Therapy
+Male
+Middle Aged
+Naproxen/therapeutic use
+Radiotherapy Dosage
+Randomized Controlled Trials as Topic
+*Shoulder Joint
+Tendinopathy/drug therapy/*radiotherapy

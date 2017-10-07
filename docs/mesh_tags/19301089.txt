@@ -1,0 +1,21 @@
+Aged
+Alkaline Phosphatase/blood
+Bone Density/drug effects
+Bone Density Conservation Agents/adverse effects/pharmacology/therapeutic use
+Calcium/therapeutic use
+Collagen Type I/blood
+Cytokines/*blood
+Etidronic Acid/adverse effects/*analogs & derivatives/pharmacology/therapeutic use
+Female
+Humans
+Interleukin-1beta/blood
+Middle Aged
+Osteocalcin/blood
+Osteoporosis, Postmenopausal/*blood/*drug therapy
+Osteoprotegerin/blood
+Peptides/blood
+RANK Ligand/blood
+Risedronate Sodium
+Tumor Necrosis Factor-alpha/blood
+Turkey
+Vitamin D/therapeutic use

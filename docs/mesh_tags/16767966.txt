@@ -1,0 +1,11 @@
+Adult
+Aged
+Anesthesia, General
+Antiemetics/*therapeutic use
+Dexamethasone/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Postoperative Nausea and Vomiting/*prevention & control

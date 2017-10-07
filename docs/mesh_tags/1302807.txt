@@ -1,0 +1,11 @@
+Administration, Oral
+Adolescent
+Adult
+Candidiasis/*drug therapy
+Female
+Fluconazole/administration & dosage/*therapeutic use
+Humans
+Miconazole/administration & dosage/*therapeutic use
+Middle Aged
+Time Factors
+Vaginal Diseases/*drug therapy/microbiology

@@ -1,0 +1,18 @@
+Abdomen
+Anesthesia, Closed-Circuit/instrumentation
+Anesthesia, Inhalation/instrumentation
+Anesthesiology
+*Auscultation
+Axilla
+*Esophagus
+Halothane
+Humans
+*Intubation
+*Intubation, Intratracheal
+Middle Aged
+Nurse Anesthetists
+Reproducibility of Results
+Respiration, Artificial/instrumentation
+Single-Blind Method
+Stomach
+*Thorax

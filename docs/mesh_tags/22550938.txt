@@ -1,0 +1,16 @@
+Aged
+Aged, 80 and over
+Biomarkers/*blood
+Dyspnea/*diagnosis/economics/therapy
+Electrocardiography
+Female
+Heart Failure/*diagnosis/economics/therapy
+Humans
+Male
+Middle Aged
+Natriuretic Agents/*blood
+Natriuretic Peptide, Brain/*blood/economics
+Primary Health Care
+ROC Curve
+Radiography, Thoracic
+Single-Blind Method

@@ -1,0 +1,14 @@
+Adult
+Affect/*drug effects
+Antipsychotic Agents/*therapeutic use
+Benzodiazepines/*therapeutic use
+Bipolar Disorder/*drug therapy/*prevention & control/psychology
+Depression/drug therapy/prevention & control
+Double-Blind Method
+Female
+Humans
+Male
+Psychiatric Status Rating Scales
+Secondary Prevention
+Time Factors
+Treatment Outcome

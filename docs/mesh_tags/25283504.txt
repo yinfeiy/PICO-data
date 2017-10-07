@@ -1,0 +1,15 @@
+China
+Drug Dosage Calculations
+Female
+Gout Suppressants/*administration & dosage/blood/*pharmacokinetics
+Healthy Volunteers
+Humans
+Infusions, Intravenous
+Male
+*Models, Biological
+Recombinant Proteins/administration & dosage/blood/pharmacokinetics
+Renal Elimination
+Single-Blind Method
+Urate Oxidase/*administration & dosage/blood/*pharmacokinetics
+Uric Acid/blood/urine
+Young Adult

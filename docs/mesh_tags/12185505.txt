@@ -1,0 +1,18 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/adverse effects/*therapeutic use
+Bleomycin/administration & dosage/adverse effects/*therapeutic use
+Combined Modality Therapy
+Cyclophosphamide/administration & dosage/adverse effects/*therapeutic use
+Dose-Response Relationship, Drug
+Epirubicin/administration & dosage/adverse effects/*therapeutic use
+Female
+Humans
+Lymphoma, B-Cell/*drug therapy/radiotherapy
+Male
+Mediastinal Neoplasms/*drug therapy/radiotherapy
+Middle Aged
+Prednisone/administration & dosage/adverse effects/*therapeutic use
+Radiotherapy, Adjuvant
+Survival Analysis
+Treatment Outcome
+Vincristine/administration & dosage/adverse effects/*therapeutic use

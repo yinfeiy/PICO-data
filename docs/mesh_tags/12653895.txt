@@ -1,0 +1,21 @@
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage/*therapeutic use
+Carcinoma, Hepatocellular/*drug therapy/mortality/*surgery
+Chemotherapy, Adjuvant
+Cisplatin/*administration & dosage/*therapeutic use
+Contrast Media/administration & dosage
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+*Hepatectomy
+Humans
+Injections, Intra-Articular
+Iodized Oil/administration & dosage
+Liver Neoplasms/*drug therapy/mortality/*surgery
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*prevention & control
+Prospective Studies
+Survival Rate

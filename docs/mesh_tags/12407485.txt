@@ -1,0 +1,19 @@
+Adult
+Aged
+Anti-HIV Agents/*administration & dosage/adverse effects/*therapeutic use
+CD4 Lymphocyte Count
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+HIV Infections/*drug therapy/virology
+HIV Protease Inhibitors/administration & dosage/adverse effects/*therapeutic use
+HIV-1/genetics/isolation & purification
+Humans
+Indinavir/administration & dosage/adverse effects/therapeutic use
+Lamivudine/*administration & dosage/adverse effects/*therapeutic use
+Male
+Middle Aged
+Nelfinavir/administration & dosage/adverse effects/therapeutic use
+Patient Compliance
+RNA, Viral/analysis
+Stavudine/administration & dosage/adverse effects/*therapeutic use

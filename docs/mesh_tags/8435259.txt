@@ -1,0 +1,13 @@
+Adult
+Aged
+Edrophonium/*pharmacology
+Female
+Humans
+Male
+Middle Aged
+Neostigmine/*pharmacology
+Nerve Block
+Neuromuscular Junction/*drug effects
+Pancuronium/*antagonists & inhibitors
+Time Factors
+Tubocurarine/*antagonists & inhibitors

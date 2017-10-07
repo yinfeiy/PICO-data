@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Analgesics, Non-Narcotic/*therapeutic use
+Anesthetics, Intravenous/administration & dosage/*adverse effects
+Dexmedetomidine/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Injections, Intravenous/*adverse effects
+Male
+Middle Aged
+Pain/*drug therapy
+Pain Management/*methods
+Pain Measurement
+Propofol/administration & dosage/*adverse effects
+Prospective Studies
+Triglycerides/chemistry
+Young Adult

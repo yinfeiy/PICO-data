@@ -1,0 +1,17 @@
+Adult
+Aged
+Analgesia
+Anesthesia, Conduction
+Anesthetics, Local/administration & dosage/*therapeutic use
+Blood Pressure/drug effects
+Female
+Humans
+Joint Diseases/drug therapy
+Male
+Mepivacaine/therapeutic use
+Middle Aged
+Neuralgia/drug therapy
+Pain/*drug therapy
+Propylamines/administration & dosage/therapeutic use
+Pulse/drug effects
+Thiophenes/administration & dosage/*therapeutic use

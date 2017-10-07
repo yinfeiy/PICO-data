@@ -1,0 +1,12 @@
+Aged
+Cardiopulmonary Bypass/*instrumentation
+Coronary Artery Bypass/*instrumentation
+Coronary Artery Disease/*surgery
+Extracorporeal Circulation/*instrumentation/methods
+Female
+Humans
+Inflammation
+Length of Stay
+Male
+Pilot Projects
+*Treatment Outcome

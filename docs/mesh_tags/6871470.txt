@@ -1,0 +1,17 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Antibody Specificity
+Antibody-Dependent Cell Cytotoxicity
+*Blood Donors
+Blood Platelets/immunology
+Blood Transfusion/*adverse effects/methods
+Female
+Humans
+Immunization/*prevention & control
+Isoantigens/administration & dosage
+Leukemia/*complications
+Male
+Middle Aged
+Thrombocytopenia/*etiology/therapy

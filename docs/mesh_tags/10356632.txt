@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Amphetamine-Related Disorders/complications/*physiopathology
+Amphetamines/adverse effects
+Analysis of Variance
+Attention/drug effects/*physiology
+Auditory Perception/physiology
+Case-Control Studies
+Central Nervous System Stimulants/adverse effects
+Cerebral Cortex/*physiopathology
+*Cognition Disorders/chemically induced/physiopathology
+Cues
+Discrimination (Psychology)/physiology
+Evoked Potentials/drug effects/*physiology
+Female
+Humans
+Linear Models
+Male
+Neural Inhibition/drug effects/physiology
+Sensitivity and Specificity
+Severity of Illness Index
+Stress, Psychological/physiopathology
+Volition/drug effects/*physiology

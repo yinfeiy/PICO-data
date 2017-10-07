@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Cinoxacin/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Nitrofurantoin/*therapeutic use
+Oxolinic Acid/*therapeutic use
+Pyridazines/*therapeutic use
+Random Allocation
+Urinary Tract Infections/*drug therapy

@@ -1,0 +1,11 @@
+Adolescent
+Brain/*physiopathology
+Child
+Child Development Disorders, Pervasive/physiopathology/psychology/*therapy
+Female
+Galvanic Skin Response/*physiology
+Humans
+Male
+Neurofeedback/*methods
+Trail Making Test
+Treatment Outcome

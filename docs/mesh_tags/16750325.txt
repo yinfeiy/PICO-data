@@ -1,0 +1,12 @@
+Adult
+Aged
+Antineoplastic Agents/therapeutic use
+Breast Neoplasms/drug therapy/*radiotherapy/surgery
+Chemotherapy, Adjuvant
+Female
+Humans
+Middle Aged
+Neoplasm Recurrence, Local
+Prospective Studies
+Radiation Injuries/etiology
+Radiotherapy Dosage

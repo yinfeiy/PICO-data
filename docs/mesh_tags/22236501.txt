@@ -1,0 +1,16 @@
+Adolescent
+Child
+Child, Preschool
+Esophageal pH Monitoring
+Gastroesophageal Reflux/*complications/diagnosis/*drug therapy
+Histamine H2 Antagonists/therapeutic use
+Humans
+Infant
+Omeprazole/*therapeutic use
+Plethysmography, Impedance
+Proton Pump Inhibitors/therapeutic use
+Ranitidine/*therapeutic use
+Respiratory Tract Diseases/*drug therapy/*etiology
+Severity of Illness Index
+Surveys and Questionnaires
+Treatment Outcome

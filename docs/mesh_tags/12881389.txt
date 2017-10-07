@@ -1,0 +1,25 @@
+Adenocarcinoma/*drug therapy/*pathology
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cisplatin/*therapeutic use
+Confidence Intervals
+Dose-Response Relationship, Drug
+Doxorubicin/*therapeutic use
+Drug Administration Schedule
+Epirubicin/*therapeutic use
+Female
+Fluorouracil/*therapeutic use
+Humans
+Italy
+Leucovorin/*therapeutic use
+Male
+Methotrexate/*therapeutic use
+Middle Aged
+Neoplasm Invasiveness/pathology
+Neoplasm Staging
+Probability
+Prognosis
+Stomach Neoplasms/*drug therapy/mortality/*pathology
+Survival Analysis
+Treatment Outcome

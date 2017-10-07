@@ -1,0 +1,16 @@
+Androgens/blood
+Antineoplastic Agents, Hormonal/administration & dosage/adverse effects
+Child
+Child, Preschool
+Dose-Response Relationship, Drug
+Estradiol/blood
+Female
+Follow-Up Studies
+Gonadotropin-Releasing Hormone/*agonists
+Humans
+Hypothalamo-Hypophyseal System/drug effects
+Leuprolide/*administration & dosage/*adverse effects
+Luteinizing Hormone/blood
+Male
+Puberty, Precocious/*drug therapy
+Sexual Maturation/drug effects

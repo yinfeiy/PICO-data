@@ -1,0 +1,11 @@
+Actuarial Analysis
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Humans
+Lymphoma/drug therapy/mortality/*pathology
+Lymphoma, Follicular/drug therapy/mortality/pathology
+Lymphoma, Non-Hodgkin/drug therapy/mortality/pathology
+Middle Aged
+Prognosis
+Risk

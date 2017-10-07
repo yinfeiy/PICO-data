@@ -1,0 +1,20 @@
+Aged
+Aorta/drug effects/metabolism
+Atherosclerosis/*drug therapy/*metabolism/physiopathology
+Biomarkers/blood
+C-Reactive Protein/metabolism
+Cross-Over Studies
+Disease Progression
+Double-Blind Method
+Doxycycline/*pharmacology
+Female
+Humans
+Immunohistochemistry
+Inflammation Mediators/blood
+JNK Mitogen-Activated Protein Kinases/metabolism
+Male
+Middle Aged
+Peripheral Arterial Disease/drug therapy/metabolism/physiopathology
+Phosphorylation
+Signal Transduction/drug effects
+Transcription Factor AP-1/*antagonists & inhibitors/*metabolism

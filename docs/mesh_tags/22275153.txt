@@ -1,0 +1,16 @@
+Aged
+Aged, 80 and over
+Constipation/*physiopathology
+Dilatation, Pathologic/physiopathology
+Female
+Humans
+Male
+Middle Aged
+Muscle Contraction/physiology
+Muscle, Smooth/physiopathology
+Prospective Studies
+Rectum/*physiopathology
+Sensation/*physiology
+Urinary Bladder/*physiopathology
+Urinary Bladder, Overactive/*physiopathology
+Urodynamics/physiology

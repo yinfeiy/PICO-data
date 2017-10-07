@@ -1,0 +1,10 @@
+Adult
+Blood Pressure/drug effects
+Epinephrine/*adverse effects
+Female
+Heart Rate/drug effects
+Humans
+Hyperventilation/*chemically induced
+Male
+Panic Disorder/*chemically induced/diagnosis
+Psychiatric Status Rating Scales

@@ -1,0 +1,17 @@
+Adult
+Cervix Uteri/drug effects/pathology/physiology
+Colposcopy
+Double-Blind Method
+Erythema/pathology
+Female
+Gels
+Humans
+Hydrogen-Ion Concentration
+Leukocyte Count
+Middle Aged
+Nonoxynol/*adverse effects
+Sexually Transmitted Diseases/prevention & control
+Spermatocidal Agents/*adverse effects
+Vagina/drug effects/pathology/*physiology
+Vaginal Creams, Foams, and Jellies/*pharmacology
+Vulva/drug effects/pathology/physiology

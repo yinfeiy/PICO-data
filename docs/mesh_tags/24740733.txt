@@ -1,0 +1,19 @@
+Adult
+Aged
+Diagnostic Techniques, Neurological
+Electromyography/methods
+*Facial Nerve/pathology/physiopathology/surgery
+*Facial Nerve Diseases/complications/diagnosis/physiopathology/surgery
+*Facial Paralysis/diagnosis/etiology/physiopathology/surgery
+Female
+Humans
+Male
+Middle Aged
+Nerve Transfer/*methods
+Neurologic Examination
+*Parotid Neoplasms/pathology/surgery
+Pilot Projects
+*Postoperative Complications/diagnosis/etiology/physiopathology/surgery
+Preoperative Care/methods
+Treatment Outcome
+Trigeminal Nerve/pathology/surgery

@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Breast/pathology
+*Breast Implantation/adverse effects
+Breast Implants/*adverse effects
+Contracture/etiology/pathology
+Female
+Follow-Up Studies
+Humans
+Patient Satisfaction
+Porosity
+Prospective Studies
+*Sodium Chloride
+Surface Properties

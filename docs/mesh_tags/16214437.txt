@@ -1,0 +1,15 @@
+Confidence Intervals
+*Electrocardiography
+Female
+Fibrinolytic Agents/*therapeutic use
+Glucose/therapeutic use
+Humans
+Insulin/therapeutic use
+Male
+Middle Aged
+Myocardial Infarction/complications/diagnostic imaging/*drug therapy
+Potassium/therapeutic use
+Streptokinase/*therapeutic use
+Time Factors
+Treatment Outcome
+Ultrasonography

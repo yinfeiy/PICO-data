@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Allergic Agents/*therapeutic use
+Child
+Conjunctivitis, Allergic/*drug therapy
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Intention to Treat Analysis
+Male
+Middle Aged
+Ophthalmic Solutions
+Piperidines/*therapeutic use
+Pyridines/*therapeutic use
+Seasons
+Treatment Outcome
+Young Adult

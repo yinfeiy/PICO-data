@@ -1,0 +1,30 @@
+Aged
+Anticholesteremic Agents/*administration & dosage/adverse effects
+Atorvastatin Calcium
+Azetidines/*administration & dosage/adverse effects
+Biomarkers/blood
+Cholesterol/analogs & derivatives/blood
+Cholesterol, LDL/*blood
+Coronary Artery Disease/blood/*drug therapy
+Drug Administration Schedule
+Drug Therapy, Combination
+Ezetimibe
+Female
+Fluorobenzenes/*administration & dosage/adverse effects
+Heptanoic Acids/*administration & dosage/adverse effects
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*administration & dosage/adverse effects
+Japan
+Male
+Middle Aged
+Phytosterols/blood
+Proprotein Convertase 9
+Proprotein Convertases/blood
+Prospective Studies
+Pyrimidines/*administration & dosage/adverse effects
+Pyrroles/*administration & dosage/adverse effects
+Rosuvastatin Calcium
+Serine Endopeptidases/blood
+Sulfonamides/*administration & dosage/adverse effects
+Time Factors
+Treatment Outcome

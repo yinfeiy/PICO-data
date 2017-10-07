@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Blood Glucose/*analysis
+Blood Specimen Collection/*psychology
+England
+Female
+Fingers/blood supply
+Humans
+Male
+Middle Aged
+*Pain Measurement
+Phlebotomy/psychology
+Predictive Value of Tests
+Thumb/blood supply

@@ -1,0 +1,11 @@
+Adult
+Blood Coagulation/drug effects
+Contraceptives, Oral, Combined/administration & dosage/*pharmacology
+Desogestrel/administration & dosage/pharmacology
+Ethinyl Estradiol/administration & dosage/pharmacology
+Female
+Fibrinolysis/drug effects
+Hemostasis/*drug effects
+Humans
+Norpregnenes/administration & dosage/pharmacology
+Prospective Studies

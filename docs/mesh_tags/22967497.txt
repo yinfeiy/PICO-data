@@ -1,0 +1,15 @@
+Adult
+Aged
+Antazoline/administration & dosage/adverse effects/*therapeutic use
+Anti-Arrhythmia Agents/administration & dosage/adverse effects/*therapeutic use
+Atrial Fibrillation/diagnosis/*drug therapy/physiopathology
+Double-Blind Method
+Electrocardiography
+Female
+Humans
+Injections, Intravenous
+Male
+Middle Aged
+Poland
+Time Factors
+Treatment Outcome

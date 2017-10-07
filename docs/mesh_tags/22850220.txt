@@ -1,0 +1,12 @@
+Critical Care/methods
+Drug Compounding/*methods/statistics & numerical data
+Drug Packaging
+Epinephrine/administration & dosage
+Hospitals, Urban
+Humans
+Infusions, Intravenous
+Medication Errors/*statistics & numerical data
+Patient Simulation
+Shock, Septic/drug therapy
+Single-Blind Method
+Syringes

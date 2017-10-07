@@ -1,0 +1,24 @@
+Adult
+Aged
+Antineoplastic Agents/*therapeutic use
+Benzimidazoles/therapeutic use
+Carcinoma, Renal Cell/*drug therapy/secondary
+Disease-Free Survival
+Everolimus
+Female
+France
+Humans
+Indoles/*therapeutic use
+Kidney Neoplasms/*drug therapy
+Male
+Middle Aged
+Niacinamide/*analogs & derivatives/therapeutic use
+Phenylurea Compounds/*therapeutic use
+Protein Kinase Inhibitors/therapeutic use
+Pyrroles/*therapeutic use
+Quinolones/therapeutic use
+Salvage Therapy
+Sirolimus/*analogs & derivatives/therapeutic use
+TOR Serine-Threonine Kinases/antagonists & inhibitors
+Treatment Failure
+Treatment Outcome

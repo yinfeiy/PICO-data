@@ -1,0 +1,18 @@
+Adult
+Blood Pressure/*drug effects
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Monitoring/methods
+Exercise Tolerance/*drug effects
+Female
+*Heart Failure, Systolic/complications/physiopathology
+Humans
+Hypertension, Pulmonary/*drug therapy/etiology/physiopathology
+Male
+Middle Aged
+Phosphodiesterase 5 Inhibitors/administration & dosage/adverse effects
+*Piperazines/administration & dosage/adverse effects
+Purines/administration & dosage/adverse effects
+Sildenafil Citrate
+*Sulfones/administration & dosage/adverse effects
+Treatment Outcome

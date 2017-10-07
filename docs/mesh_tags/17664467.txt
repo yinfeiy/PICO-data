@@ -1,0 +1,19 @@
+Adenocarcinoma/*drug therapy/pathology
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Chi-Square Distribution
+Cisplatin/administration & dosage
+Drug Administration Schedule
+Esophageal Neoplasms/*drug therapy/pathology
+Fluorouracil/administration & dosage
+Humans
+Middle Aged
+Neoplasm Metastasis
+Proportional Hazards Models
+Prospective Studies
+Quality of Life
+Stomach Neoplasms/*drug therapy/pathology
+Survival Rate
+Taxoids/administration & dosage
+Treatment Outcome

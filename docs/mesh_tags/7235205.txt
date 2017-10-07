@@ -1,0 +1,11 @@
+Administration, Oral
+Adult
+Asthma/*drug therapy/metabolism
+Delayed-Action Preparations
+Female
+Humans
+Male
+Middle Aged
+Saliva/*metabolism
+Tablets
+Theophylline/administration & dosage/*metabolism/therapeutic use

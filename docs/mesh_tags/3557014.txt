@@ -1,0 +1,14 @@
+Adult
+Cimetidine/*therapeutic use
+Duodenal Ulcer/*drug therapy/physiopathology
+Female
+Follow-Up Studies
+Humans
+Male
+Patient Compliance
+Prospective Studies
+Random Allocation
+Recurrence
+*Smoking
+Sucralfate/*therapeutic use
+Wound Healing/*drug effects

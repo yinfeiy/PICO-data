@@ -1,0 +1,11 @@
+Administration, Intravesical
+Aged
+Antineoplastic Agents/*administration & dosage
+Doxorubicin/*administration & dosage/adverse effects
+Female
+Humans
+Male
+Middle Aged
+Mitoxantrone/*administration & dosage/adverse effects
+Neoplasm Recurrence, Local
+Urinary Bladder Neoplasms/*drug therapy

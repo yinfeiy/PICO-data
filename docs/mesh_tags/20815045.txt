@@ -1,0 +1,29 @@
+Aged
+Angioplasty, Balloon, Coronary/adverse effects/*instrumentation/mortality
+Cardiovascular Agents/*administration & dosage
+Chi-Square Distribution
+Coronary Angiography
+Coronary Stenosis/diagnostic imaging/mortality/*therapy
+Diabetes Complications/diagnostic imaging/mortality/*therapy
+*Drug-Eluting Stents
+Female
+Humans
+Hypoglycemic Agents/therapeutic use
+Insulin/therapeutic use
+Kaplan-Meier Estimate
+Logistic Models
+Male
+Middle Aged
+Myocardial Infarction/etiology
+Odds Ratio
+Paclitaxel/*administration & dosage
+Prospective Studies
+Prosthesis Design
+Republic of Korea
+Risk Assessment
+Risk Factors
+Severity of Illness Index
+Sirolimus/*administration & dosage
+Thrombosis/etiology
+Time Factors
+Treatment Outcome

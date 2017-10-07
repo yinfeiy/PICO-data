@@ -1,0 +1,15 @@
+Adult
+Antiviral Agents/*administration & dosage
+Fatigue/complications/psychology
+Female
+Hepatitis C, Chronic/*drug therapy/psychology/virology
+Humans
+Interferon-alpha/*administration & dosage
+Liver Cirrhosis/*drug therapy/psychology/virology
+Male
+Middle Aged
+Polyethylene Glycols/*administration & dosage
+*Quality of Life/psychology
+Recombinant Proteins
+Sexual Behavior/*drug effects/psychology
+Socioeconomic Factors

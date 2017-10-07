@@ -1,0 +1,20 @@
+Administration, Intravesical
+Adult
+Aged
+Aged, 80 and over
+Antibiotics, Antineoplastic/*administration & dosage/therapeutic use
+Carcinoma, Transitional Cell/*drug therapy/pathology/surgery
+Cystoscopy
+Disease Progression
+Doxorubicin/*administration & dosage/therapeutic use
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Mitomycin/*administration & dosage/therapeutic use
+Neoplasm Recurrence, Local/pathology/prevention & control
+Prospective Studies
+Regression Analysis
+Treatment Outcome
+Urinary Bladder Neoplasms/*drug therapy/pathology/surgery

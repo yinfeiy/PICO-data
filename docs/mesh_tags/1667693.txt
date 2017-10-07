@@ -1,0 +1,15 @@
+Adult
+Alprostadil/pharmacology/*therapeutic use
+Chemotaxis, Leukocyte/drug effects
+Critical Care
+Cytoplasmic Granules/enzymology
+Double-Blind Method
+Humans
+Incidence
+Neutrophils/drug effects/*physiology
+Prospective Studies
+Pulmonary Edema/drug therapy/etiology/mortality/physiopathology/*prevention & control
+Risk
+Superoxides/metabolism
+Time Factors
+Wounds and Injuries/*complications/mortality

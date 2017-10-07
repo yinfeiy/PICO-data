@@ -1,0 +1,17 @@
+Adult
+Aspirin/*administration & dosage/*therapeutic use
+Blood Pressure/drug effects
+Circadian Rhythm/physiology
+Double-Blind Method
+Endpoint Determination
+Female
+Heart Rate/drug effects
+Humans
+Hypertension/*drug therapy/physiopathology
+Male
+Middle Aged
+Motor Activity/physiology
+Platelet Aggregation Inhibitors/*administration & dosage/*therapeutic use
+Prospective Studies
+Sleep/physiology
+Time Factors

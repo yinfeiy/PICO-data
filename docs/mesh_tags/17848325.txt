@@ -1,0 +1,11 @@
+Adult
+Electrocoagulation/*instrumentation/methods
+Electrosurgery/adverse effects/*instrumentation/methods
+Female
+Humans
+Hysteroscopes
+Hysteroscopy/adverse effects/*methods
+Infertility, Female/surgery
+Prospective Studies
+Treatment Outcome
+Uterus/*abnormalities/*surgery

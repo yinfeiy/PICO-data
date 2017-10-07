@@ -1,0 +1,22 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Brain Neoplasms/diagnostic imaging/secondary
+Carcinoma, Small Cell/*drug therapy/mortality/radiotherapy/secondary
+Cisplatin/administration & dosage
+Combined Modality Therapy
+Cranial Irradiation
+Disease-Free Survival
+Etoposide/administration & dosage
+Female
+Follow-Up Studies
+Humans
+Ifosfamide/administration & dosage
+Injections, Intravenous
+Lung Neoplasms/*drug therapy/mortality/radiotherapy
+Male
+Middle Aged
+Proportional Hazards Models
+Radiography
+Regression Analysis
+Survival Rate

@@ -1,0 +1,19 @@
+Behavior Therapy/methods
+Biomarkers/*blood
+Breast Neoplasms/psychology/surgery
+CD4-CD8 Ratio
+CD8-Positive T-Lymphocytes
+Cytokines/blood/immunology
+Depression/blood/diagnosis/*therapy
+Depressive Disorder/blood/diagnosis/therapy
+Fatigue/diagnosis/psychology
+Female
+Humans
+Inflammation/*blood
+Interleukin-6/blood/immunology
+Leukocyte Count
+Neutrophils/immunology
+Pain/diagnosis/psychology
+Psychotherapy/*methods
+T-Lymphocytes, Helper-Inducer/immunology
+Treatment Outcome

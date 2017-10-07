@@ -1,0 +1,10 @@
+Acetaminophen/*administration & dosage
+Adult
+Codeine/*administration & dosage
+Drug Synergism
+Drug Therapy, Combination
+Female
+Humans
+Male
+Pain, Postoperative/*drug therapy
+*Surgery, Oral

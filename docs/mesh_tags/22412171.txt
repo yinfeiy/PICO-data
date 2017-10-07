@@ -1,0 +1,17 @@
+Adult
+Aged
+Analysis of Variance
+Female
+Hand Strength/*physiology
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Muscle Strength Dynamometer
+Pain Measurement
+Stroke/*physiopathology
+*Stroke Rehabilitation
+Time Factors
+*Transcranial Magnetic Stimulation
+Treatment Outcome
+Upper Extremity/*physiopathology

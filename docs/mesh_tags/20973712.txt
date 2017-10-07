@@ -1,0 +1,19 @@
+Adolescent
+Affective Symptoms/drug therapy
+Aggression
+Antipsychotic Agents/adverse effects/*therapeutic use
+Aripiprazole
+Autistic Disorder/diagnosis/drug therapy
+Checklist
+Child
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Irritable Mood/drug effects
+Male
+Piperazines/adverse effects/*therapeutic use
+*Psychiatric Status Rating Scales
+Quinolones/adverse effects/*therapeutic use
+Self-Injurious Behavior
+Treatment Outcome

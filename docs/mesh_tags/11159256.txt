@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Analgesics, Non-Narcotic/*therapeutic use
+Analgesics, Opioid/*administration & dosage
+Carbamazepine/*therapeutic use
+Complex Regional Pain Syndromes/*drug therapy
+Delayed-Action Preparations
+Double-Blind Method
+*Electric Stimulation Therapy
+Humans
+Middle Aged
+Morphine/*administration & dosage
+Pain/*drug therapy
+Spinal Cord/*physiology

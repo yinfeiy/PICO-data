@@ -1,0 +1,16 @@
+Biopsy
+Cholesterol/blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Cholesterol, VLDL/blood
+Double-Blind Method
+Drug Administration Schedule
+Endometrium/drug effects/pathology
+Estradiol/*administration & dosage
+Female
+Flushing/physiopathology/prevention & control
+Humans
+Middle Aged
+Norgestrel/*administration & dosage
+Postmenopause/blood/*drug effects
+Triglycerides/blood

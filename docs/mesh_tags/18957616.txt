@@ -1,0 +1,15 @@
+Adult
+Antihypertensive Agents/pharmacology
+Endothelin Receptor Antagonists
+Endothelin-1/antagonists & inhibitors/metabolism/*physiology
+Female
+Humans
+Hyperinsulinism/complications/*metabolism/*physiopathology
+Insulin/pharmacology
+Male
+Muscle, Skeletal/*blood supply/metabolism/physiopathology
+Nitric Oxide/metabolism
+Obesity/complications/physiopathology
+Peptides, Cyclic/pharmacology
+Vasoconstriction/drug effects/physiology
+omega-N-Methylarginine/pharmacology

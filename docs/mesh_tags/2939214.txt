@@ -1,0 +1,12 @@
+Adult
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Hypertension/*drug therapy
+Ketanserin
+Male
+Middle Aged
+Pindolol/*therapeutic use
+Piperidines/*therapeutic use
+Random Allocation

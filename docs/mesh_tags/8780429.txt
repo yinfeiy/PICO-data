@@ -1,0 +1,16 @@
+Age Factors
+Age of Onset
+Aged
+Basal Ganglia/pathology
+Brain/*pathology
+Cerebrovascular Disorders/diagnosis/epidemiology
+Comorbidity
+Depressive Disorder/*diagnosis/epidemiology
+Female
+Geriatric Assessment
+Humans
+Hypertension/diagnosis
+*Magnetic Resonance Imaging
+Male
+Psychiatric Status Rating Scales
+Risk Factors

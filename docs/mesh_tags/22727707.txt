@@ -1,0 +1,17 @@
+Adult
+Antipsychotic Agents/*therapeutic use
+Clozapine/*therapeutic use
+Cognition/*drug effects
+Cognition Disorders/complications/*drug therapy
+Double-Blind Method
+Female
+Humans
+Hypoglycemic Agents/pharmacology/*therapeutic use
+Male
+Middle Aged
+Neuropsychological Tests
+PPAR gamma/agonists
+Pilot Projects
+Schizophrenia/complications/*drug therapy
+Thiazolidinediones/pharmacology/*therapeutic use
+Treatment Outcome

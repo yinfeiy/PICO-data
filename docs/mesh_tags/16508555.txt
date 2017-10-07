@@ -1,0 +1,12 @@
+Adult
+Cohort Studies
+*Disability Evaluation
+Female
+*Health Status
+Humans
+Low Back Pain/*diagnosis/physiopathology/rehabilitation
+Male
+Middle Aged
+*Pain Measurement
+Surveys and Questionnaires
+*Treatment Outcome

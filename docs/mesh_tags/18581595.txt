@@ -1,0 +1,13 @@
+Adult
+Breast Neoplasms/*radiotherapy/surgery/*therapy
+Combined Modality Therapy
+Exercise Therapy/adverse effects/*methods
+Fatigue/etiology
+Female
+Humans
+Middle Aged
+Pain Measurement
+Quality of Life
+Range of Motion, Articular
+Shoulder/physiopathology
+Treatment Outcome

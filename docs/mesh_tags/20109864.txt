@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+*Catheter Ablation/methods
+Coronary Disease/*complications
+*Defibrillators, Implantable
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Tachycardia, Ventricular/*surgery/therapy
+Treatment Outcome

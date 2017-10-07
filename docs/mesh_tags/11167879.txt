@@ -1,0 +1,11 @@
+Blood Transfusion/*methods
+Follow-Up Studies
+Humans
+Leukocyte Transfusion/methods
+Lymphocyte Depletion/methods
+Neoplasm Recurrence, Local/*etiology
+Perioperative Care/*methods
+Rectal Neoplasms/*surgery
+Sigmoid Neoplasms/*surgery
+Survival Analysis
+Transplantation, Homologous

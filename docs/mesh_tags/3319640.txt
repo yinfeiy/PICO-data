@@ -1,0 +1,15 @@
+Adult
+Blood Pressure/drug effects
+Body Weight/drug effects
+Cholesterol/blood
+Clinical Trials as Topic
+Double-Blind Method
+Humans
+Hypertension/*drug therapy
+Lipids/blood
+Lipoproteins/blood
+Middle Aged
+Nicardipine/adverse effects/*therapeutic use
+Propranolol/adverse effects/*therapeutic use
+Random Allocation
+Triglycerides/blood

@@ -1,0 +1,15 @@
+Aged
+Ambulatory Care
+Anticoagulants/*adverse effects
+Antifibrinolytic Agents/*administration & dosage
+Blood Coagulation/*drug effects
+Double-Blind Method
+Female
+Health Maintenance Organizations
+Humans
+International Normalized Ratio
+Male
+Middle Aged
+Prospective Studies
+Vitamin K 1/*administration & dosage
+Warfarin/*adverse effects

@@ -1,0 +1,19 @@
+Adult
+Aged
+Analysis of Variance
+Carcinoma, Hepatocellular/mortality/*surgery
+Combined Modality Therapy
+Disease-Free Survival
+Female
+Hepatectomy/*mortality
+Humans
+Liver/pathology/surgery
+Liver Neoplasms/mortality/*surgery
+Lymph Node Excision/*mortality
+Lymph Nodes/pathology/surgery
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*prevention & control
+Prognosis
+Prospective Studies
+Survival Rate

@@ -1,0 +1,20 @@
+Aged
+Aged, 80 and over
+Blood Pressure
+Female
+Heart Rate
+Hemoperfusion/adverse effects/*methods
+Hospital Mortality
+Humans
+Intensive Care Units
+Interleukin-6/blood
+Interleukin-8/blood
+Length of Stay
+Male
+Middle Aged
+Multiple Organ Failure/diagnosis/etiology
+Sepsis/*therapy
+Severity of Illness Index
+Shock, Septic/*therapy
+Survival
+Time Factors

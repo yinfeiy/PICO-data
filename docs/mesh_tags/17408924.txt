@@ -1,0 +1,25 @@
+Adult
+Analgesics/therapeutic use
+Anti-Bacterial Agents/*administration & dosage
+Antibiotic Prophylaxis
+Body Temperature/drug effects
+Clindamycin/*administration & dosage
+Double-Blind Method
+Dry Socket/prevention & control
+Edema/prevention & control
+Female
+Follow-Up Studies
+Humans
+Lymphadenitis/prevention & control
+Male
+Mandible/*surgery
+Molar, Third/*surgery
+Pain, Postoperative/prevention & control
+Placebos
+Postoperative Complications/*prevention & control
+Prospective Studies
+Surgical Wound Infection/*prevention & control
+*Tooth Extraction
+Tooth, Impacted/surgery
+Treatment Outcome
+Trismus/prevention & control

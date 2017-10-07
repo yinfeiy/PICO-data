@@ -1,0 +1,13 @@
+Adult
+Aged
+Arthritis, Rheumatoid/diagnosis/*drug therapy
+Drug Therapy, Combination
+*Drugs, Chinese Herbal/adverse effects/therapeutic use
+Female
+Humans
+Male
+Medicine, Chinese Traditional
+*Methotrexate/adverse effects/therapeutic use
+Middle Aged
+Prospective Studies
+Treatment Outcome

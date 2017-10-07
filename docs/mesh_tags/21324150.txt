@@ -1,0 +1,19 @@
+Biomarkers/blood
+Blood Glucose/metabolism
+Blood Pressure
+Cardiovascular Diseases/blood/etiology/physiopathology/*prevention & control
+Cluster Analysis
+*Diet
+*Exercise
+*Family Practice
+Glucose Intolerance/blood/complications/diagnosis/*therapy
+Humans
+Ontario
+Prediabetic State/complications/diagnosis/physiopathology/*therapy
+Prehypertension/complications/diagnosis/physiopathology/*therapy
+*Research Design
+Risk Assessment
+Risk Factors
+*Risk Reduction Behavior
+Time Factors
+Treatment Outcome

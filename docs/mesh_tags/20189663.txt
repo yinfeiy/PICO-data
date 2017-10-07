@@ -1,0 +1,13 @@
+Aged
+Chronic Disease
+Female
+Genotype
+*Heart Failure/genetics/physiopathology/rehabilitation
+Humans
+Male
+Middle Aged
+Oxygen Consumption/genetics
+Peptidyl-Dipeptidase A/*genetics
+Physical Endurance/genetics
+Resistance Training/*methods
+Severity of Illness Index

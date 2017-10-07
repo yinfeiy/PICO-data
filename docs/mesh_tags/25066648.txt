@@ -1,0 +1,11 @@
+Adult
+Aged
+Breast Neoplasms/*complications/*surgery
+*Compression Bandages
+Female
+Humans
+Lymphedema/*etiology/*therapy
+Mastectomy/*adverse effects
+Middle Aged
+Quality of Life
+Turkey

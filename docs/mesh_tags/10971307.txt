@@ -1,0 +1,15 @@
+Acetamides/adverse effects/blood/*pharmacology
+Adult
+Analgesics, Opioid/adverse effects/blood/*pharmacology
+Atrial Natriuretic Factor/metabolism
+Cross-Over Studies
+Cyclic AMP/metabolism
+Double-Blind Method
+Endothelin-1/metabolism
+Humans
+Kidney Function Tests
+Kidney Tubules/drug effects/*metabolism
+Male
+Pyrrolidines/adverse effects/blood/*pharmacology
+Receptors, Opioid, kappa/*agonists
+Vasopressins/*metabolism

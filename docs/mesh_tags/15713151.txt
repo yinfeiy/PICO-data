@@ -1,0 +1,16 @@
+Adult
+Arteries/physiology
+Blood Transfusion/statistics & numerical data
+Female
+Humans
+Leiomyoma/*surgery
+Menstrual Cycle
+Myometrium/*surgery
+Postoperative Hemorrhage/*prevention & control
+Postoperative Period
+Suture Techniques
+*Tourniquets
+Uterine Hemorrhage/*prevention & control
+Uterine Neoplasms/*surgery
+Uterus/blood supply
+Vascular Resistance/physiology

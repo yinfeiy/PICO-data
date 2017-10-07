@@ -1,0 +1,15 @@
+Adult
+Biological Availability
+Blood Platelets/metabolism
+Carotenoids/*administration & dosage/*blood/pharmacokinetics
+Chlorophyta/*chemistry
+Erythrocytes/metabolism
+Humans
+Leukocytes, Mononuclear/metabolism
+Male
+Prealbumin/metabolism
+Retinol-Binding Proteins/metabolism
+Retinol-Binding Proteins, Plasma
+Vitamin A/blood
+Vitamin E/blood
+beta Carotene

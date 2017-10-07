@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents, Alkylating/adverse effects/*therapeutic use
+Benzimidazoles/adverse effects/*therapeutic use
+Dacarbazine/adverse effects/*analogs & derivatives/*therapeutic use
+Disease Progression
+Female
+Humans
+Male
+Melanoma/*drug therapy
+Middle Aged
+Survival Analysis
+Treatment Outcome
+Uveal Neoplasms/*drug therapy

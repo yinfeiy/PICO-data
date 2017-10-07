@@ -1,0 +1,20 @@
+Aged
+Biopsy
+Body Mass Index
+Debridement
+Diabetic Foot/complications/diagnosis/*therapy
+Double-Blind Method
+Exudates and Transudates
+Female
+Granulation Tissue
+Humans
+Male
+Middle Aged
+Prospective Studies
+Safety
+Smoking/adverse effects
+Time Factors
+Treatment Outcome
+Ultrasonic Therapy/instrumentation/*methods
+Wound Healing
+Wound Infection/etiology

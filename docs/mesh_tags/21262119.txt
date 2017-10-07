@@ -1,0 +1,15 @@
+Animals
+Blood Glucose/metabolism
+Circadian Rhythm/*radiation effects
+Corticosterone/blood
+Endocrine System/radiation effects
+Fatty Acids/blood
+Housing, Animal
+Laboratory Animal Science
+Lactic Acid/blood
+*Light
+Male
+Melatonin/blood
+*Photoperiod
+Rats/metabolism/*physiology
+Rats, Sprague-Dawley

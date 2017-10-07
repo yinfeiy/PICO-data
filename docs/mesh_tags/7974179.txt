@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Brachytherapy/adverse effects/*methods
+Carcinoma/complications/mortality/pathology/*radiotherapy
+Cause of Death
+Cobalt Radioisotopes/administration & dosage
+Female
+Follow-Up Studies
+Humans
+Middle Aged
+Neoplasm Staging
+Prospective Studies
+Radiotherapy Dosage
+Uterine Cervical Neoplasms/complications/mortality/pathology/*radiotherapy

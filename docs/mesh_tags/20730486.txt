@@ -1,0 +1,23 @@
+Absorptiometry, Photon
+Aged
+Androstadienes/administration & dosage/*adverse effects
+Antineoplastic Agents/administration & dosage/*adverse effects
+Aromatase Inhibitors/administration & dosage/*adverse effects
+Australia
+Biomarkers/metabolism
+Bone Density/*drug effects
+Breast Neoplasms/*drug therapy
+Chemotherapy, Adjuvant
+Double-Blind Method
+Estrogen Antagonists/administration & dosage/*adverse effects
+Europe
+Female
+Fractures, Bone/*chemically induced/diagnostic imaging/metabolism
+Humans
+Middle Aged
+Odds Ratio
+Risk Assessment
+Risk Factors
+Tamoxifen/administration & dosage/*adverse effects
+Time Factors
+United States

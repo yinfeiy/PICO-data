@@ -1,0 +1,11 @@
+Antineoplastic Agents/*pharmacokinetics/*therapeutic use
+Carcinoma, Squamous Cell/*drug therapy/*metabolism/pathology
+Female
+Humans
+Laryngeal Neoplasms/*drug therapy/*metabolism/pathology
+Larynx/*metabolism/pathology
+Male
+Neoplasm Staging
+Picibanil/*pharmacokinetics/*therapeutic use
+Retrospective Studies
+Survival Rate

@@ -1,0 +1,17 @@
+Acetates/*administration & dosage
+Bone Remodeling/*drug effects
+Brazil/epidemiology
+Calcinosis/*epidemiology
+Calcium Compounds/administration & dosage
+Chelating Agents/administration & dosage
+Comorbidity
+Coronary Artery Disease/*epidemiology
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Polyamines/*administration & dosage
+Renal Dialysis/*statistics & numerical data
+Sevelamer
+Treatment Outcome

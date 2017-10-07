@@ -1,0 +1,7 @@
+Adult
+*Electrocoagulation
+Female
+Hemorrhoids/*therapy
+Humans
+Male
+*Sclerotherapy

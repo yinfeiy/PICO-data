@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Cerebral Cortex/*physiopathology
+Child
+Child Development Disorders, Pervasive/*physiopathology/psychology
+Electroencephalography
+Evoked Potentials/*physiology
+Face
+Female
+Humans
+Male
+Pattern Recognition, Visual/*physiology
+Reaction Time/physiology
+*Social Perception
+Treatment Outcome

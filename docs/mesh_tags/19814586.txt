@@ -1,0 +1,20 @@
+Administration, Sublingual
+Adult
+Aged
+Aged, 80 and over
+Algorithms
+Analgesics, Opioid/administration & dosage
+Double-Blind Method
+Female
+Fentanyl/*administration & dosage/pharmacokinetics
+Humans
+Male
+Middle Aged
+Neoplasms/complications/*drug therapy
+Pain/*drug therapy/etiology
+Palliative Care/methods
+Placebos
+Tablets/administration & dosage/pharmacokinetics
+Time Factors
+Treatment Outcome
+Young Adult

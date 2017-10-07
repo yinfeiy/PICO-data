@@ -1,0 +1,23 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Coagulation Factors/analysis
+*Blood Transfusion
+Blood Volume
+Cardiac Surgical Procedures/*methods
+Cardiopulmonary Bypass
+*Centrifugation
+Chest Tubes
+Female
+Fibrinogen/analysis
+Hemoglobins/metabolism
+Humans
+Kidney Function Tests
+Male
+Middle Aged
+Operative Blood Salvage/*methods
+Platelet Count
+Postoperative Care
+Prospective Studies
+Serum Albumin/analysis
+Treatment Outcome

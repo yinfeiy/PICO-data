@@ -1,0 +1,14 @@
+Adult
+Aged
+Anemia/blood/*drug therapy
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects
+Erythropoietin/adverse effects/*therapeutic use
+*Esophagogastric Junction
+Female
+Hemoglobins/analysis
+Humans
+Male
+Middle Aged
+Prospective Studies
+Recombinant Proteins/adverse effects/therapeutic use
+Stomach Neoplasms/*drug therapy/mortality

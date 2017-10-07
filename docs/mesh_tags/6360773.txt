@@ -1,0 +1,16 @@
+Adult
+Aged
+Bile/*analysis
+Ceruletide
+Cholelithiasis/drug therapy/*metabolism
+Cholesterol/analysis
+Clinical Trials as Topic
+Cyclohexanecarboxylic Acids/*pharmacology/therapeutic use
+Double-Blind Method
+Female
+Humans
+Lipids/*analysis
+Male
+Middle Aged
+Phospholipids/analysis
+Random Allocation

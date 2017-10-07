@@ -1,0 +1,16 @@
+Autistic Disorder/complications/diagnosis/*drug therapy
+Child
+Child Development Disorders, Pervasive/complications/diagnosis/*drug therapy
+Child, Preschool
+Chronic Disease
+Comorbidity
+Constipation/complications/drug therapy
+Cross-Over Studies
+Diarrhea/complications/drug therapy
+Double-Blind Method
+Female
+Humans
+Male
+Personality Assessment
+Secretin/adverse effects/*therapeutic use
+Treatment Outcome

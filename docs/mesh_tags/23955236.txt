@@ -1,0 +1,22 @@
+Animals
+Animals, Inbred Strains
+*Blastocyst/drug effects
+Crosses, Genetic
+Cryopreservation/instrumentation/methods/*veterinary
+Cryoprotective Agents/pharmacology
+*Ectogenesis/drug effects
+Embryo Culture Techniques/veterinary
+*Embryo Implantation/drug effects
+Embryo Transfer/*veterinary
+Ethylene Glycol/pharmacology
+Feasibility Studies
+Female
+Insemination, Artificial/veterinary
+Japan
+Live Birth/veterinary
+Male
+Polyethylene Glycols/pharmacology
+Pregnancy
+Sus scrofa/*physiology
+Trehalose/pharmacology
+*Vitrification

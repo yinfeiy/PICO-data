@@ -1,0 +1,12 @@
+Area Under Curve
+Biomarkers/blood
+Bone Density/*drug effects
+Bone Density Conservation Agents/administration & dosage/adverse effects/*pharmacokinetics/*pharmacology
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Half-Life
+Humans
+Middle Aged
+Osteoporosis, Postmenopausal/*prevention & control
+Thiazolidines/administration & dosage/adverse effects/*pharmacokinetics/*pharmacology

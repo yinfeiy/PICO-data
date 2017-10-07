@@ -1,0 +1,12 @@
+Adolescent
+Brain Injuries/physiopathology/*psychology
+Case-Control Studies
+Cognition/*physiology
+Emotions/physiology
+Female
+Humans
+Male
+Neuropsychological Tests/statistics & numerical data
+Psychomotor Performance/*physiology
+*Social Behavior
+Young Adult

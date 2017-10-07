@@ -1,0 +1,20 @@
+Adult
+Alleles
+Blood Pressure
+Carrier Proteins/*genetics
+Female
+Genotype
+Heart Rate
+*Hemodynamics
+Humans
+Hydroxyindoleacetic Acid/*cerebrospinal fluid
+Male
+Membrane Glycoproteins/*genetics
+*Membrane Transport Proteins
+Middle Aged
+*Nerve Tissue Proteins
+Polymorphism, Genetic
+Promoter Regions, Genetic/genetics
+Serotonin/genetics/*metabolism
+Serotonin Plasma Membrane Transport Proteins
+Stress, Psychological/*cerebrospinal fluid/genetics/physiopathology

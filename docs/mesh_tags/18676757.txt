@@ -1,0 +1,16 @@
+Aged
+Antigens, CD80/*chemistry
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Camptothecin/administration & dosage/analogs & derivatives
+Carcinoembryonic Antigen/*chemistry
+Colorectal Neoplasms/*therapy
+Female
+Fluorouracil/administration & dosage
+Humans
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Neoplasm Metastasis
+T-Lymphocytes/metabolism
+Treatment Outcome
+Viral Vaccines/*therapeutic use

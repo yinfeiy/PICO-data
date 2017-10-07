@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Child
+*Cluster Analysis
+Curriculum
+*Data Interpretation, Statistical
+Female
+Health Education/statistics & numerical data
+Humans
+Longitudinal Studies
+Male
+Mental Disorders/*prevention & control/psychology
+Outcome Assessment (Health Care)/*statistics & numerical data
+Substance-Related Disorders/prevention & control/psychology
+Treatment Outcome

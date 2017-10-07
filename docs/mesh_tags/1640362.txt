@@ -1,0 +1,12 @@
+Adult
+Biological Availability
+Chemical Phenomena
+Chemistry, Pharmaceutical
+Chemistry, Physical
+Delayed-Action Preparations
+Drug Carriers
+Female
+Humans
+Male
+Starch/*pharmacokinetics
+Theophylline/adverse effects/blood/*pharmacokinetics

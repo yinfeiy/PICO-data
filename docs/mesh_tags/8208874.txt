@@ -1,0 +1,12 @@
+Adult
+Analysis of Variance
+Combined Modality Therapy
+Depressive Disorder/physiopathology/psychology/*therapy
+Female
+Humans
+Lithium/*therapeutic use
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+Sleep Deprivation/*physiology
+Time Factors

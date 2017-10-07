@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+*Feedback
+Female
+Humans
+Male
+Middle Aged
+Norway
+Outcome Assessment (Health Care)/*methods
+Psychometrics/instrumentation
+Psychotherapy/*standards
+Quality of Health Care/*standards
+Surveys and Questionnaires/*standards
+Young Adult

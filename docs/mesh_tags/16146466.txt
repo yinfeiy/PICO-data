@@ -1,0 +1,20 @@
+Animals
+Enzyme Induction/physiology
+Heme Oxygenase-1/*metabolism
+Hemin/pharmacology
+*Hyperbaric Oxygenation
+Lipopolysaccharides/*toxicity
+Lung/pathology
+Lung Diseases/*chemically induced/metabolism/*prevention & control
+Male
+Neutrophils/pathology
+Nitric Oxide/metabolism
+Nitric Oxide Synthase Type II/biosynthesis
+Organ Size/physiology
+Protoporphyrins/pharmacology
+Pulmonary Alveoli/pathology
+RNA/biosynthesis
+Rats
+Rats, Sprague-Dawley
+Reverse Transcriptase Polymerase Chain Reaction
+Sepsis/enzymology/physiopathology

@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Biomarkers/*metabolism
+Cross-Over Studies
+Dietary Fats/*adverse effects
+Female
+Humans
+Inflammation/*metabolism
+Male
+Middle Aged
+Oxidative Stress/*physiology
+Trans Fatty Acids/*adverse effects
+Young Adult

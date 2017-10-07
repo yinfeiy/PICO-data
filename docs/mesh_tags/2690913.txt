@@ -1,0 +1,13 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Breast Neoplasms/analysis/*drug therapy/mortality/surgery
+Combined Modality Therapy
+Female
+Humans
+Lymphatic Metastasis
+Mastectomy, Simple
+Middle Aged
+Randomized Controlled Trials as Topic
+Receptors, Estrogen/analysis
+Receptors, Progesterone/analysis
+Recurrence

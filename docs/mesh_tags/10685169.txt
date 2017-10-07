@@ -1,0 +1,11 @@
+Administration, Cutaneous
+Animals
+Forelimb/injuries
+Granulation Tissue/drug effects
+Hindlimb/injuries
+Horses/*injuries
+Male
+Recombinant Proteins/administration & dosage/pharmacology
+Transforming Growth Factor beta/administration & dosage/*pharmacology
+Treatment Outcome
+Wound Healing/*drug effects

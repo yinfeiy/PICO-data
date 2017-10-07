@@ -1,0 +1,17 @@
+Acute Disease
+Administration, Intravenous
+Administration, Oral
+Adult
+Aged
+Anti-Bacterial Agents/*administration & dosage/adverse effects
+Ceftriaxone/*administration & dosage/adverse effects
+Cephalosporins/*administration & dosage/adverse effects
+Double-Blind Method
+Drug Substitution
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+Pyelonephritis/*drug therapy
+Treatment Outcome

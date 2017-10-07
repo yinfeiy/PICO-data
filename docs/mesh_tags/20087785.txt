@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Cohort Studies
+Female
+Humans
+Lymph Nodes/pathology
+Lymphatic Metastasis
+Male
+Melanoma/*mortality/*secondary
+Middle Aged
+Prognosis
+Retrospective Studies
+*Sentinel Lymph Node Biopsy
+Skin Neoplasms/*mortality/*pathology
+Survival Rate
+*Tumor Burden
+Young Adult

@@ -1,0 +1,11 @@
+Aged
+*Body Temperature
+*Cardiac Surgical Procedures
+Cardiopulmonary Bypass/*methods
+Female
+*Hemodynamics
+Humans
+Hypothermia, Induced
+Male
+Middle Aged
+Oxygen Consumption

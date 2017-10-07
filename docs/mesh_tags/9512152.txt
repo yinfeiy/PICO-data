@@ -1,0 +1,17 @@
+Aged
+Cataract/complications
+Chemotherapy, Adjuvant
+Female
+Glaucoma, Open-Angle/complications/*surgery
+Humans
+*Lens Implantation, Intraocular
+Male
+Mitomycin/*administration & dosage
+Ophthalmic Solutions
+*Phacoemulsification
+Prognosis
+Prospective Studies
+Risk Factors
+Survival Analysis
+*Trabeculectomy
+Treatment Failure

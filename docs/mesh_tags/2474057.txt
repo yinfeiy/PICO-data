@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Belgium
+Bleomycin/administration & dosage
+Child
+Cyclophosphamide/administration & dosage
+Dose-Response Relationship, Drug
+Doxorubicin/administration & dosage
+France
+Humans
+Lymphoma/*drug therapy/mortality
+Middle Aged
+Multicenter Studies as Topic
+Prednisolone/administration & dosage
+Prognosis
+Random Allocation
+Remission Induction
+Vindesine/administration & dosage

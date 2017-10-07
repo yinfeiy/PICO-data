@@ -1,0 +1,14 @@
+Adult
+Antibodies, Anti-Idiotypic/blood
+Antibodies, Monoclonal/adverse effects/immunology/*therapeutic use
+C-Reactive Protein/analysis
+Crohn Disease/*drug therapy
+Double-Blind Method
+Drug Administration Schedule
+Female
+Gastrointestinal Agents/adverse effects/immunology/*therapeutic use
+Humans
+Male
+Steroids/administration & dosage
+Treatment Outcome
+Tumor Necrosis Factor-alpha/*antagonists & inhibitors/immunology

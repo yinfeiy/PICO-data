@@ -1,0 +1,18 @@
+Adult
+Ambulatory Care/methods
+Analgesia, Patient-Controlled/*methods
+Anesthesia Recovery Period
+Cholangiopancreatography, Endoscopic Retrograde/*methods
+Conscious Sedation/*methods
+Female
+Humans
+Male
+Midazolam/administration & dosage
+Middle Aged
+Narcotics/administration & dosage
+*Nurse Anesthetists
+Pain Measurement
+Patient Satisfaction
+Propofol/*administration & dosage
+Prospective Studies
+Risk Assessment

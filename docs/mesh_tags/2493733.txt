@@ -1,0 +1,14 @@
+Adult
+Aged
+Atrial Fibrillation/*drug therapy
+Atrial Flutter/*drug therapy
+Clinical Trials as Topic
+Female
+Flecainide/administration & dosage/*therapeutic use
+Heart Conduction System/drug effects
+Humans
+Male
+Middle Aged
+Random Allocation
+Time Factors
+Verapamil/administration & dosage/*therapeutic use

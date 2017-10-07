@@ -1,0 +1,15 @@
+Adult
+Blood Pressure
+Cohort Studies
+Echocardiography/methods
+Female
+Follow-Up Studies
+Humans
+Hyperthyroidism/complications/*diagnostic imaging/*physiopathology
+Male
+Middle Aged
+Myocardial Contraction/*physiology
+Prospective Studies
+Single-Blind Method
+Time Factors
+Ventricular Dysfunction, Left/*diagnostic imaging/etiology/*physiopathology

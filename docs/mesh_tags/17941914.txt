@@ -1,0 +1,12 @@
+Bifidobacteriales Infections/microbiology/transmission
+Bifidobacterium/*physiology
+Feces/microbiology
+Female
+Humans
+Hypersensitivity/immunology/*microbiology
+Infant
+Infant, Newborn
+Intestines/*microbiology
+Milk, Human/*microbiology
+*Mothers
+Risk Factors

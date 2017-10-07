@@ -1,0 +1,13 @@
+*Angioplasty, Balloon
+Austria
+Carotid Stenosis/mortality/*therapy
+Cerebral Infarction/mortality/*therapy
+Cohort Studies
+*Endarterectomy, Carotid
+Follow-Up Studies
+Germany
+Humans
+Ischemic Attack, Transient/mortality/*therapy
+Secondary Prevention
+*Stents
+Survival Analysis

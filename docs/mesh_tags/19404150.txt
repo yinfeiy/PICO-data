@@ -1,0 +1,17 @@
+Adult
+Aged
+Female
+Humans
+*Hypothermia, Induced
+Incidence
+*Intraoperative Care
+Logistic Models
+Male
+Middle Aged
+Neurologic Examination
+Neuropsychological Tests
+Neurosurgical Procedures/*adverse effects
+Retrospective Studies
+Severity of Illness Index
+Statistics, Nonparametric
+Subarachnoid Hemorrhage/*surgery

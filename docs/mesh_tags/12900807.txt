@@ -1,0 +1,15 @@
+Acetylglucosaminidase/*urine
+Aged
+Anti-Inflammatory Agents, Non-Steroidal/pharmacology/*therapeutic use
+Diabetes Mellitus, Type 2/*urine
+Diabetic Nephropathies/enzymology/*prevention & control
+Female
+Humans
+Kidney Tubules/blood supply/drug effects/pathology
+Male
+Microcirculation/drug effects
+Middle Aged
+Pentoxifylline/pharmacology/*therapeutic use
+Prospective Studies
+Proteinuria/enzymology/epidemiology
+Treatment Outcome

@@ -1,0 +1,14 @@
+Administration, Oral
+Adult
+Biological Availability
+Dietary Supplements
+Dose-Response Relationship, Drug
+Female
+Humans
+Lutein/blood/chemistry/*pharmacokinetics
+Macular Degeneration/blood/*prevention & control
+Male
+Risk Factors
+Xanthophylls
+Zeaxanthins
+beta Carotene/administration & dosage/analogs & derivatives/blood/*pharmacokinetics

@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Attention/physiology
+Autistic Disorder/*diagnosis/psychology
+Communication
+Developmental Disabilities/*diagnosis/psychology
+Female
+Humans
+Imagination/physiology
+Intelligence/*physiology
+Japan
+Language
+Male
+*Psychiatric Status Rating Scales
+Reproducibility of Results
+Sex Characteristics
+Social Behavior

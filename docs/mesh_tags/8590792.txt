@@ -1,0 +1,18 @@
+Albuminuria/urine
+Angiotensin-Converting Enzyme Inhibitors/therapeutic use
+Antihypertensive Agents/*therapeutic use
+Blood Glucose/analysis
+Blood Pressure/drug effects
+Calcium Channel Blockers/therapeutic use
+Diabetes Mellitus, Type 2/*drug therapy/physiopathology
+Diabetic Angiopathies/*drug therapy/physiopathology
+Double-Blind Method
+Female
+Hemoglobin A, Glycosylated/analysis
+Humans
+Hypertension/*drug therapy/physiopathology
+Insulin/blood
+Lisinopril/*therapeutic use
+Male
+Middle Aged
+Nifedipine/*therapeutic use

@@ -1,0 +1,18 @@
+Adult
+Aged
+Cognition Disorders/drug therapy/etiology
+Cytidine Diphosphate Choline/therapeutic use
+Double-Blind Method
+Female
+Galantamine/therapeutic use
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Nootropic Agents/therapeutic use
+Psychiatric Status Rating Scales
+Psychotic Disorders/complications/drug therapy
+Schizophrenia/complications/*drug therapy
+Synaptic Transmission/drug effects
+Treatment Outcome
+alpha7 Nicotinic Acetylcholine Receptor/*drug effects/metabolism

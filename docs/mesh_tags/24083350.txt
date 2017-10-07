@@ -1,0 +1,14 @@
+2-Pyridinylmethylsulfinylbenzimidazoles/*therapeutic use
+Adult
+Aged
+Dyspepsia/complications
+Esophagitis, Peptic/*drug therapy/etiology
+Female
+Gastroesophageal Reflux/complications/*drug therapy
+Humans
+Irritable Bowel Syndrome/complications
+Male
+Middle Aged
+Proton Pump Inhibitors/*therapeutic use
+*Quality of Life
+Treatment Outcome

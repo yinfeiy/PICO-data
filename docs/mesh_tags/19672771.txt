@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/administration & dosage
+Cladribine/*administration & dosage/adverse effects
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Humans
+Leukemia, Hairy Cell/blood/*drug therapy
+Male
+Middle Aged
+Neutropenia/blood/chemically induced
+Remission Induction
+Treatment Outcome
+Young Adult

@@ -1,0 +1,16 @@
+Acetates/*therapeutic use
+Adolescent
+Adult
+Anti-Asthmatic Agents/*therapeutic use
+Asthma/*drug therapy
+Chronic Disease
+Double-Blind Method
+Drug Evaluation
+Female
+Forced Expiratory Volume/drug effects
+Humans
+Male
+Middle Aged
+Peak Expiratory Flow Rate/drug effects
+Quinolines/*therapeutic use
+Treatment Outcome

@@ -1,0 +1,18 @@
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Asparaginase/administration & dosage
+Biopsy
+Child
+Combined Modality Therapy
+Humans
+Male
+Methotrexate/administration & dosage
+Neoplasm Recurrence, Local/drug therapy/mortality/pathology/secondary
+Precursor Cell Lymphoblastic Leukemia-Lymphoma/drug therapy/mortality/*pathology
+Prednisone/administration & dosage
+Prognosis
+Radiotherapy Dosage
+Remission Induction
+Testicular Neoplasms/drug therapy/mortality/pathology/secondary
+Testis/*pathology
+Time Factors
+Vincristine/administration & dosage

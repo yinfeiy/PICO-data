@@ -1,0 +1,14 @@
+Adult
+Anesthetics, Local/*therapeutic use
+Blood Pressure/drug effects
+Double-Blind Method
+Electrocardiography/drug effects
+Female
+Heart Rate/drug effects
+Humans
+Injections, Intravenous
+Intubation, Intratracheal/*adverse effects
+Laryngoscopy/adverse effects
+Lidocaine/*therapeutic use
+Long QT Syndrome/etiology/*prevention & control
+Middle Aged

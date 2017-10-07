@@ -1,0 +1,16 @@
+APACHE
+Adolescent
+Adult
+Antioxidants/administration & dosage/*therapeutic use
+Critical Care/*methods
+Free Radicals/metabolism
+Hemodynamics/drug effects
+Humans
+Infusions, Intravenous
+Liver/*drug effects/metabolism
+Middle Aged
+Oxygen Consumption/drug effects
+Peritonitis/*drug therapy/etiology/metabolism/*surgery
+Succinates/administration & dosage/*therapeutic use
+Treatment Outcome
+Young Adult

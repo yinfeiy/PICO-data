@@ -1,0 +1,15 @@
+Adult
+Aged
+Antineoplastic Agents, Phytogenic/*therapeutic use
+Brain Neoplasms/*drug therapy/*radiotherapy
+Chemotherapy, Adjuvant
+Etoposide/*therapeutic use
+Female
+Glioma/*drug therapy/*radiotherapy
+Humans
+Male
+Middle Aged
+Prospective Studies
+Radiotherapy, Adjuvant
+Survival Analysis
+Treatment Outcome

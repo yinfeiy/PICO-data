@@ -1,0 +1,15 @@
+Adult
+Aging/psychology
+Attention/physiology
+Autistic Disorder/diagnosis/psychology/*therapy
+Child, Preschool
+Communication
+Early Medical Intervention/*methods
+Female
+Humans
+Infant
+Language Development
+Male
+Neuropsychological Tests
+Parents/*psychology
+Treatment Outcome

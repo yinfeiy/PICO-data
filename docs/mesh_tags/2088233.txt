@@ -1,0 +1,18 @@
+Actinobacillus/drug effects/isolation & purification
+Actinomyces/drug effects/isolation & purification
+Adolescent
+Adult
+Aggressive Periodontitis/*drug therapy/microbiology/therapy
+Alveolar Bone Loss/microbiology
+Bacteria/drug effects/*isolation & purification
+Bacteroides/drug effects/isolation & purification
+Dental Scaling
+Double-Blind Method
+Doxycycline/administration & dosage/*therapeutic use
+Female
+Gingival Crevicular Fluid/microbiology
+Humans
+Male
+Placebos
+Time Factors
+Tooth Root/surgery

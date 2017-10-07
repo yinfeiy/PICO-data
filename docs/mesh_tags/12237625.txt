@@ -1,0 +1,10 @@
+Adult
+Catheter Ablation/*methods
+Endometrium/*surgery
+Female
+Humans
+Hysteroscopy
+Menorrhagia/*surgery
+Middle Aged
+*Patient Satisfaction
+Prospective Studies

@@ -1,0 +1,24 @@
+Aged
+Aged, 80 and over
+Amiodarone/*administration & dosage
+Anti-Arrhythmia Agents/*administration & dosage
+Argentina
+Atrial Fibrillation/diagnosis/physiopathology/*therapy
+Bayes Theorem
+Combined Modality Therapy
+Disease-Free Survival
+Double-Blind Method
+Drug Administration Schedule
+Echocardiography, Doppler
+*Electric Countershock/adverse effects
+Electrocardiography, Ambulatory
+Female
+Heart Conduction System/*drug effects/physiopathology
+Heart Rate/*drug effects
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Recurrence
+Time Factors
+Treatment Outcome

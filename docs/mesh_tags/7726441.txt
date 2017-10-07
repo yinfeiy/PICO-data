@@ -1,0 +1,12 @@
+Adult
+Aged
+Double-Blind Method
+Female
+Genitalia, Female/*surgery
+Granisetron/adverse effects/*therapeutic use
+Humans
+Middle Aged
+Nausea/etiology/*prevention & control
+Postoperative Complications/*prevention & control
+Prospective Studies
+Vomiting/etiology/*prevention & control

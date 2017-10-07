@@ -1,0 +1,15 @@
+Acute Disease
+Adolescent
+Aminoacridines/adverse effects/*therapeutic use
+Amsacrine
+Antineoplastic Agents/adverse effects/*therapeutic use
+Child
+Drug Administration Schedule
+Drug Evaluation
+Heart Diseases/chemically induced
+Humans
+Infection/chemically induced
+Leukemia/*drug therapy
+Leukemia, Lymphoid/drug therapy
+Pancytopenia/chemically induced
+Random Allocation

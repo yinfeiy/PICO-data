@@ -1,0 +1,21 @@
+Adult
+Antibodies, Monoclonal/administration & dosage/adverse effects/*therapeutic use
+Antibodies, Monoclonal, Murine-Derived
+Antineoplastic Agents/administration & dosage/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects/*therapeutic use
+Cyclophosphamide/administration & dosage/adverse effects/therapeutic use
+Disease Progression
+Disease-Free Survival
+Doxorubicin/administration & dosage/adverse effects/therapeutic use
+Etoposide/administration & dosage/adverse effects/therapeutic use
+Female
+HIV/*physiology
+Humans
+Infusions, Intravenous
+Lymphoma, B-Cell/*drug therapy/pathology/*virology
+Male
+Middle Aged
+Prednisone/administration & dosage/adverse effects/therapeutic use
+Rituximab
+Treatment Outcome
+Vincristine/administration & dosage/adverse effects/therapeutic use

@@ -1,0 +1,18 @@
+Adult
+Aged
+Antineoplastic Agents/adverse effects/blood/*therapeutic use
+Carcinoma, Basal Cell/blood/*epidemiology/*prevention & control
+Carcinoma, Squamous Cell/blood/chemically induced/*epidemiology/*prevention & control
+Dietary Supplements
+Double-Blind Method
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Odds Ratio
+Risk Factors
+Selenium/adverse effects/blood/*therapeutic use
+Skin Neoplasms/blood/chemically induced/*epidemiology/*prevention & control
+Treatment Failure
+United States/epidemiology

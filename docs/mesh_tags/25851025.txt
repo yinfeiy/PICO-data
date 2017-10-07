@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Chemistry, Pharmaceutical
+Cosmetics/*administration & dosage/chemistry
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Plant Extracts/*administration & dosage/chemistry
+Quality of Life
+Surveys and Questionnaires
+Vitiligo/*drug therapy/psychology
+Young Adult

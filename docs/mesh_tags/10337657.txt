@@ -1,0 +1,20 @@
+Adenocarcinoma/*drug therapy/*pathology/surgery
+Aged
+Androgen Antagonists/*administration & dosage
+Anilides/administration & dosage
+Antineoplastic Agents, Hormonal/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage
+Chemotherapy, Adjuvant
+Goserelin/administration & dosage
+Humans
+Male
+Middle Aged
+Neoadjuvant Therapy
+Neoplasm Staging
+Nitriles
+Prospective Studies
+Prostatectomy
+Prostatic Neoplasms/*drug therapy/*pathology/surgery
+Time Factors
+Tosyl Compounds
+Treatment Outcome

@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Carboplatin/*administration & dosage/adverse effects
+Chemotherapy, Adjuvant
+Cystadenocarcinoma, Serous/drug therapy/epidemiology
+Doxorubicin/administration & dosage/adverse effects/*analogs & derivatives
+Drug Resistance, Neoplasm/drug effects
+Drug-Related Side Effects and Adverse Reactions/epidemiology
+Female
+Humans
+Middle Aged
+Ovarian Neoplasms/*drug therapy/epidemiology
+Paclitaxel/*administration & dosage/adverse effects
+Platinum Compounds/therapeutic use
+Polyethylene Glycols/administration & dosage/adverse effects
+Recurrence

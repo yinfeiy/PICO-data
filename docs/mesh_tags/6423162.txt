@@ -1,0 +1,8 @@
+Adult
+Blood Flow Velocity
+Endoscopy
+Humans
+Intubation, Intratracheal/adverse effects/*instrumentation
+Mucous Membrane/blood supply
+Pressure
+Trachea/*blood supply

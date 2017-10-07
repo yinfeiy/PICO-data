@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Analgesia, Patient-Controlled/*psychology
+Anesthesia, Dental/*methods
+Chi-Square Distribution
+Conscious Sedation/*methods
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Female
+Humans
+Male
+Midazolam/*administration & dosage
+Molar, Third/surgery
+Patient Satisfaction
+Time Factors
+Tooth Extraction

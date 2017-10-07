@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Age Factors
+Aggression/drug effects/psychology
+Antipsychotic Agents/adverse effects/*therapeutic use
+Autistic Disorder/diagnosis/*drug therapy/psychology
+Child Development Disorders, Pervasive/diagnosis/*drug therapy/psychology
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Placebos
+Psychiatric Status Rating Scales
+Risperidone/adverse effects/*therapeutic use
+Severity of Illness Index
+Treatment Outcome
+Weight Gain/drug effects

@@ -1,0 +1,19 @@
+Aged
+Anticholesteremic Agents/*therapeutic use
+Azetidines/*therapeutic use
+Catheterization
+Cholesterol, LDL/*blood
+Device Removal
+Drug Therapy, Combination
+Ezetimibe
+Female
+Humans
+Male
+Middle Aged
+Renal Dialysis
+Renal Insufficiency, Chronic/blood/*therapy
+Reoperation
+Simvastatin/*therapeutic use
+Thrombosis/prevention & control
+Vascular Access Devices
+Vascular Patency/*drug effects

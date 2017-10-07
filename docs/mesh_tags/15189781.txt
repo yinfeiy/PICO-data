@@ -1,0 +1,28 @@
+Acetylglucosaminidase/blood/drug effects
+Adult
+Aged
+Ascorbic Acid/blood
+Cholesterol/blood/classification
+Czech Republic
+Diabetes Mellitus, Type 2/complications/diagnosis/*drug therapy
+Drug Administration Schedule
+E-Selectin/blood
+Endothelium/*drug effects/*physiopathology
+Female
+Fenofibrate/administration & dosage/pharmacokinetics/*therapeutic use
+Fibrinolysis/drug effects
+Glutathione/blood
+Humans
+Hyperlipidemias/complications/diagnosis/drug therapy
+Male
+Malondialdehyde/blood
+Middle Aged
+Oxidative Stress/drug effects
+Plasminogen Activator Inhibitor 1/blood
+Simvastatin/administration & dosage/pharmacokinetics/*therapeutic use
+Superoxide Dismutase/blood/drug effects
+Time Factors
+Triglycerides/blood
+Vascular Endothelial Growth Factor A/blood
+alpha-Tocopherol/blood
+von Willebrand Factor/metabolism

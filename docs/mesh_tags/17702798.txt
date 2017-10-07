@@ -1,0 +1,14 @@
+Adolescent
+Bicuspid/physiopathology
+Dental Arch/*diagnostic imaging
+Female
+Humans
+Male
+Malocclusion/diagnostic imaging/therapy
+Maxilla/diagnostic imaging
+Molar/physiopathology
+*Orthodontic Appliance Design
+*Orthodontic Appliances
+Palatal Expansion Technique/*instrumentation
+Prospective Studies
+Tomography, X-Ray

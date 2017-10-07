@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Aged
+Calcium Phosphates/therapeutic use
+Dentifrices/*therapeutic use
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Peroxides/therapeutic use
+Prospective Studies
+Safety
+Silicon Dioxide/therapeutic use
+Single-Blind Method
+Sodium Bicarbonate/therapeutic use
+Sodium Fluoride/therapeutic use
+Tooth Bleaching Agents/*therapeutic use
+Tooth Discoloration/classification/*drug therapy
+Toothbrushing/*instrumentation
+Toothpastes/*therapeutic use
+Treatment Outcome
+Young Adult

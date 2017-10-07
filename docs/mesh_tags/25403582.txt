@@ -1,0 +1,18 @@
+Adult
+Antineoplastic Agents, Hormonal/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bone Density Conservation Agents/*administration & dosage
+Breast Neoplasms/*drug therapy/mortality
+Diphosphonates/administration & dosage
+Disease-Free Survival
+Female
+Follow-Up Studies
+Goserelin/administration & dosage
+Humans
+Imidazoles/administration & dosage
+Kaplan-Meier Estimate
+Middle Aged
+Nitriles/administration & dosage
+Premenopause
+Tamoxifen/administration & dosage
+Triazoles/administration & dosage

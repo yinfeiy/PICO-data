@@ -1,0 +1,15 @@
+Aged
+Analysis of Variance
+Blood Glucose/analysis
+Cholesterol/blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Clinical Protocols
+Diabetes Mellitus, Type 2/blood/*drug therapy
+Humans
+Lipids/*blood
+Lipoproteins/blood
+Male
+Middle Aged
+Niacin/adverse effects/*therapeutic use
+Triglycerides/blood

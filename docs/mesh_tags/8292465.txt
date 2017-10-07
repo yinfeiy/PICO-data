@@ -1,0 +1,13 @@
+Adult
+Aged
+Angiotensin-Converting Enzyme Inhibitors/*adverse effects
+Antihypertensive Agents/*adverse effects
+Double-Blind Method
+Female
+Humans
+Hypertension/drug therapy
+Hypotension/*chemically induced
+Isoquinolines/*adverse effects
+Male
+Middle Aged
+*Tetrahydroisoquinolines

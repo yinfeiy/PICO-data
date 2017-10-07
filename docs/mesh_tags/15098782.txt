@@ -1,0 +1,21 @@
+Adult
+Aged
+Anastomosis, Surgical/adverse effects
+Angiography
+Aortic Aneurysm/pathology/*surgery
+Blood Loss, Surgical/*prevention & control
+Blood Vessel Prosthesis/*adverse effects
+Female
+Follow-Up Studies
+Hemostasis, Surgical/*methods
+Humans
+Male
+Middle Aged
+Polyethylene Glycols/therapeutic use
+Polyethylene Terephthalates/*therapeutic use
+Probability
+Risk Assessment
+Sensitivity and Specificity
+Severity of Illness Index
+Survival Rate
+Treatment Outcome

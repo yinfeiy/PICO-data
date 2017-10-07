@@ -1,0 +1,13 @@
+Adult
+Aged
+Argentina
+Community Health Services
+Female
+House Calls
+Humans
+Mass Screening/methods/*utilization
+Middle Aged
+Papillomavirus Infections/*diagnosis
+*Self Care
+Uterine Cervical Neoplasms/*diagnosis
+Vaginal Smears/*utilization

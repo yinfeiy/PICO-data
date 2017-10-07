@@ -1,0 +1,13 @@
+Adult
+Aged
+Blood Gas Analysis
+Cross-Over Studies
+Electric Impedance
+Female
+Humans
+Lung Volume Measurements
+Male
+Middle Aged
+Respiration, Artificial/*methods
+Suction/*methods
+Tidal Volume

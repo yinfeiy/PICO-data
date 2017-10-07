@@ -1,0 +1,18 @@
+Biomarkers, Tumor/*blood
+Carcinoembryonic Antigen/*blood
+Female
+Follow-Up Studies
+Humans
+Lymphatic Metastasis
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*blood/surgery
+Neoplasm Staging
+Postoperative Period
+Preoperative Care
+Prognosis
+Prospective Studies
+Rectal Neoplasms/*blood/*surgery
+Retrospective Studies
+Survival Rate
+Treatment Outcome

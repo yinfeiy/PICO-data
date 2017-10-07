@@ -1,0 +1,14 @@
+Adult
+Aged
+Antibodies, Monoclonal/administration & dosage/*therapeutic use
+Antibodies, Monoclonal, Humanized
+Antirheumatic Agents/administration & dosage/therapeutic use
+Arthritis, Rheumatoid/*therapy
+Female
+Humans
+Male
+Middle Aged
+Receptors, Interleukin-6/*antagonists & inhibitors
+Remission Induction
+Severity of Illness Index
+Treatment Outcome

@@ -1,0 +1,27 @@
+Abdominal Injuries/complications/mortality/surgery
+Abscess/etiology
+Adolescent
+Adult
+Aged
+Arteriovenous Fistula/etiology
+Central Nervous System/injuries
+Child
+Colon/*injuries
+*Colostomy
+Female
+Heart Arrest/mortality
+Hemorrhage/mortality
+Humans
+Intestinal Obstruction/etiology
+Male
+Methods
+Middle Aged
+Pancreatic Fistula/etiology
+Peptic Ulcer Perforation/etiology
+Pneumothorax/etiology
+Prospective Studies
+Respiratory Insufficiency/etiology
+Surgical Wound Dehiscence
+Time Factors
+Wound Infection/mortality
+Wounds, Gunshot/complications/mortality/surgery

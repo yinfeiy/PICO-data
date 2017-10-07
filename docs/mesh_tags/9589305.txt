@@ -1,0 +1,7 @@
+Antibodies, Monoclonal/*therapeutic use
+Crohn Disease/diagnosis/*drug therapy
+Drug Administration Schedule
+Humans
+Infusions, Intravenous
+Treatment Outcome
+Tumor Necrosis Factor-alpha/*therapeutic use

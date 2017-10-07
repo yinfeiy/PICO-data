@@ -1,0 +1,22 @@
+Analgesia/*methods
+*Anesthesia, Intravenous
+Anesthetics, Intravenous/*administration & dosage/adverse effects
+*Conscious Sedation
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Hemodynamics/drug effects
+Humans
+Hypotension/epidemiology/etiology
+Hypoxia/epidemiology/etiology
+Incidence
+Infusions, Intravenous
+*Lithotripsy
+Male
+Middle Aged
+Pain, Postoperative/drug therapy/epidemiology/prevention & control
+Patient Satisfaction
+Piperidines/*administration & dosage/adverse effects
+Postoperative Complications/epidemiology/etiology
+Postoperative Nausea and Vomiting/epidemiology
+Urolithiasis/therapy

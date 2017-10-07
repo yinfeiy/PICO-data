@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Alleles
+Case-Control Studies
+Endometrial Neoplasms/*genetics/pathology
+Female
+*Gene Expression Regulation, Neoplastic
+Genetic Predisposition to Disease
+Humans
+Lymphatic Metastasis/genetics
+MicroRNAs/*genetics/metabolism
+Middle Aged
+Mutation/*genetics
+Proto-Oncogene Proteins/*genetics
+Proto-Oncogene Proteins p21(ras)
+Risk Factors
+ras Proteins/*genetics

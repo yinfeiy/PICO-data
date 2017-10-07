@@ -1,0 +1,13 @@
+Adult
+Aged
+Angina Pectoris/complications/*drug therapy
+Blood Pressure/drug effects
+Coronary Disease/complications/*drug therapy
+Diltiazem/administration & dosage/adverse effects/*therapeutic use
+Double-Blind Method
+Exercise Test
+Female
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged

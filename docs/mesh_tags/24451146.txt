@@ -1,0 +1,11 @@
+Antineoplastic Agents, Hormonal/therapeutic use
+Biomarkers, Tumor/*blood
+Breast Neoplasms/*blood/drug therapy/surgery
+Disease-Free Survival
+Female
+Humans
+Middle Aged
+Neoplasm Recurrence, Local/*blood
+Octreotide/therapeutic use
+Osteopontin/*blood
+Tamoxifen/therapeutic use

@@ -1,0 +1,16 @@
+Coronary Disease/diagnosis/pathology
+Coronary Vessels/*pathology
+Electrocardiography/*methods/statistics & numerical data
+Female
+Forecasting
+Humans
+Logistic Models
+Male
+Middle Aged
+Multivariate Analysis
+Myocardial Infarction/drug therapy/*pathology
+ROC Curve
+Reproducibility of Results
+Sensitivity and Specificity
+Thrombolytic Therapy
+Treatment Outcome

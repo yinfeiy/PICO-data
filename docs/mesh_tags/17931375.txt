@@ -1,0 +1,21 @@
+Abdomen
+Adult
+Anticoagulants/*administration & dosage/adverse effects
+Chi-Square Distribution
+Clinical Nursing Research
+Contusions/chemically induced/diagnosis/*prevention & control
+Female
+Heparin/*administration & dosage/adverse effects
+Humans
+Injections, Subcutaneous/adverse effects/*methods/nursing
+Male
+Middle Aged
+Nursing Assessment
+Nursing Evaluation Research
+Pain/chemically induced/diagnosis/*prevention & control
+Pain Measurement
+Pressure
+Risk Factors
+Severity of Illness Index
+Statistics, Nonparametric
+Time Factors

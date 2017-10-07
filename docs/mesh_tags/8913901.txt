@@ -1,0 +1,12 @@
+Algorithms
+*Angioplasty, Balloon, Coronary
+Canada
+Coronary Disease/classification/diagnosis/therapy
+Electrocardiography/classification/instrumentation/*methods/statistics & numerical data
+Follow-Up Studies
+Humans
+Myocardial Infarction/*classification/diagnosis
+Observer Variation
+Signal Processing, Computer-Assisted/instrumentation
+*Software/statistics & numerical data
+United States

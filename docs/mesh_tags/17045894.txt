@@ -1,0 +1,15 @@
+Baroreflex/drug effects
+Blood Pressure/drug effects
+Cardiovascular System/*physiopathology
+*Dietary Supplements
+Fatty Acids, Unsaturated/blood/*pharmacology
+Female
+Heart Failure/blood/etiology/*physiopathology
+Heart Rate/drug effects
+Humans
+Male
+Myocardial Infarction/complications
+Neck
+Physical Stimulation
+Pressoreceptors/*drug effects/*physiopathology
+Suction

@@ -1,0 +1,14 @@
+Adult
+Aged
+Antimetabolites, Antineoplastic/*therapeutic use
+Capecitabine
+Combined Modality Therapy
+Deoxycytidine/adverse effects/*analogs & derivatives/*therapeutic use
+Female
+Fluorouracil/analogs & derivatives
+Humans
+Male
+Middle Aged
+Postoperative Complications/etiology
+Radiotherapy/adverse effects
+Rectal Neoplasms/*therapy

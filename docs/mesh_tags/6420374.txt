@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Ammonia/urine
+Blood Glucose/metabolism
+Creatinine/urine
+Female
+Glucagon/blood
+Humans
+Insulin/*administration & dosage/blood
+Intestines/surgery
+Male
+Methylhistidines/urine
+Middle Aged
+Nitrogen/urine
+Nutrition Disorders/*metabolism
+*Parenteral Nutrition
+Proteins/*metabolism
+*Surgical Procedures, Operative
+Urea/metabolism

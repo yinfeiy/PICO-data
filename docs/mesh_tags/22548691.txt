@@ -1,0 +1,15 @@
+Adult
+Aged
+*Blood Pressure
+Blood Pressure Determination
+Cardiovascular Diseases/*drug therapy
+Cholesterol/*blood
+Community Pharmacy Services/*organization & administration
+Female
+Humans
+Hypertension/drug therapy
+Male
+Middle Aged
+*Outpatients
+Risk Factors
+Spain

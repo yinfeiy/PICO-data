@@ -1,0 +1,20 @@
+Adult
+Aged
+Arrhythmias, Cardiac/prevention & control
+Brain Diseases/chemically induced
+Cardiovascular Diseases/chemically induced
+Clinical Trials as Topic
+Creatine Kinase/blood
+Double-Blind Method
+Electrocardiography
+Female
+Humans
+Injections, Intramuscular
+Lidocaine/adverse effects/blood/*therapeutic use
+Male
+Middle Aged
+Myocardial Infarction/complications/*drug therapy
+Random Allocation
+Tachycardia/prevention & control
+Time Factors
+Ventricular Fibrillation/etiology/*prevention & control

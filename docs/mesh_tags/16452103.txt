@@ -1,0 +1,19 @@
+Acupuncture Analgesia
+Administration, Oral
+Adult
+Aged
+Amitriptyline/*administration & dosage
+Analgesics, Non-Narcotic/*administration & dosage
+Arm
+Female
+Hand Strength
+Humans
+Injections, Intradermal
+Male
+Middle Aged
+Pain/*prevention & control
+*Placebos
+Regression Analysis
+Single-Blind Method
+Tablets
+Treatment Outcome

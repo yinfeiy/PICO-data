@@ -1,0 +1,16 @@
+Adult
+Aged
+Antirheumatic Agents/*administration & dosage
+Arthritis, Rheumatoid/*drug therapy
+Arthrography
+Cyclosporine/*administration & dosage
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Therapy, Combination
+Feasibility Studies
+Female
+Humans
+Joints/pathology/physiopathology
+Male
+Methotrexate/*administration & dosage
+Middle Aged

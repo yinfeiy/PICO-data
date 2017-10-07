@@ -1,0 +1,10 @@
+Adult
+Arm/*physiology
+Female
+Functional Laterality/physiology
+H-Reflex/*physiology
+Humans
+Male
+Movement/*physiology
+Muscle, Skeletal/*physiology
+Walking/physiology

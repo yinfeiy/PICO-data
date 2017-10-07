@@ -1,0 +1,16 @@
+Aged
+Anti-Arrhythmia Agents/adverse effects/*therapeutic use
+Arrhythmias, Cardiac/mortality
+Atrial Fibrillation/*drug therapy/*physiopathology
+Female
+Heart Rate/*drug effects
+Humans
+Hydantoins
+Imidazolidines/adverse effects/*therapeutic use
+Long QT Syndrome/chemically induced
+Male
+Middle Aged
+Piperazines/adverse effects/*therapeutic use
+Syncope/chemically induced
+Torsades de Pointes/chemically induced
+Treatment Outcome

@@ -1,0 +1,14 @@
+Early Detection of Cancer/methods
+Female
+Follow-Up Studies
+Humans
+Lung/diagnostic imaging/pathology
+Lung Neoplasms/*diagnostic imaging/*pathology
+Male
+Middle Aged
+Multiple Pulmonary Nodules/diagnostic imaging/pathology
+Reproducibility of Results
+*Software
+Solitary Pulmonary Nodule/diagnostic imaging/pathology
+Tomography, X-Ray Computed/*methods
+*Tumor Burden

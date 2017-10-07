@@ -1,0 +1,11 @@
+Adolescent
+Asperger Syndrome/diagnosis/*physiopathology
+Child
+Female
+Humans
+Magnetoencephalography/*methods
+Male
+Motor Cortex/*physiology
+Photic Stimulation/*methods
+Psychomotor Performance/physiology
+*Social Behavior

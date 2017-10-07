@@ -1,0 +1,15 @@
+Aggression/drug effects
+Antipsychotic Agents/adverse effects/pharmacology/*therapeutic use
+Autistic Disorder/drug therapy
+Child
+Child Development Disorders, Pervasive/*drug therapy
+Child, Preschool
+Dopamine Antagonists/therapeutic use
+Double-Blind Method
+Female
+Humans
+Irritable Mood/drug effects
+Male
+Risperidone/adverse effects/pharmacology/*therapeutic use
+Serotonin Antagonists/therapeutic use
+Treatment Outcome

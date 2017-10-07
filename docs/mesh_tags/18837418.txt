@@ -1,0 +1,8 @@
+Biopsy/*instrumentation
+*Bronchoscopy
+Female
+Humans
+Lung Diseases, Interstitial/*pathology
+Male
+Middle Aged
+Predictive Value of Tests

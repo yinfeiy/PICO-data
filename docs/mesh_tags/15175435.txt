@@ -1,0 +1,16 @@
+Antibodies, Monoclonal/*administration & dosage/adverse effects
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Bevacizumab
+Camptothecin/administration & dosage/*analogs & derivatives
+Colorectal Neoplasms/*drug therapy/pathology
+Disease-Free Survival
+Female
+Fluorouracil/administration & dosage
+Humans
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Neoplasm Metastasis/drug therapy
+Quality of Life
+Survival Analysis

@@ -1,0 +1,14 @@
+Absorptiometry, Photon
+Aged
+Bone Density/*drug effects
+Bone Remodeling/drug effects
+Calcium/administration & dosage/therapeutic use
+Clodronic Acid/*administration & dosage/therapeutic use
+Drug Administration Schedule
+Female
+Femur/diagnostic imaging
+Humans
+Lumbar Vertebrae/diagnostic imaging
+Middle Aged
+Osteoporosis, Postmenopausal/diagnosis/*drug therapy
+Time Factors

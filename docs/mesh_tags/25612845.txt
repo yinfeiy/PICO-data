@@ -1,0 +1,13 @@
+Administration, Cutaneous
+Adolescent
+Adult
+Analgesics, Opioid/*administration & dosage/blood/*pharmacokinetics
+Biological Availability
+Cross-Over Studies
+Fentanyl/*administration & dosage/blood/*pharmacokinetics
+Healthy Volunteers
+Humans
+Male
+Middle Aged
+*Transdermal Patch
+Young Adult

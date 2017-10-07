@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Carpal Bones/diagnostic imaging/*injuries
+*Casts, Surgical
+Fractures, Bone/diagnostic imaging/*therapy
+Humans
+*Immobilization
+Middle Aged
+Prognosis
+Prospective Studies
+Radiography
+*Thumb

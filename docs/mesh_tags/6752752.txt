@@ -1,0 +1,16 @@
+Adult
+Aged
+Amiodarone/*therapeutic use
+Benzofurans/*therapeutic use
+Clinical Trials as Topic
+*Exercise Test
+Hemodynamics/drug effects
+Humans
+Male
+Metoprolol/*therapeutic use
+Middle Aged
+Myocardial Infarction/*drug therapy
+Propanolamines/*therapeutic use
+Propranolol/*therapeutic use
+Random Allocation
+Verapamil/*therapeutic use

@@ -1,0 +1,15 @@
+Adult
+Aged
+Arterial Occlusive Diseases/*drug therapy
+Clinical Trials as Topic
+Drug Evaluation
+Female
+Humans
+Intermittent Claudication/drug therapy
+Leg/*blood supply
+Male
+Middle Aged
+Piperazines/*therapeutic use
+Piribedil/adverse effects/*therapeutic use
+Placebos
+Sympathectomy

@@ -1,0 +1,14 @@
+Acetates/*therapeutic use
+Androstadienes/*therapeutic use
+Anti-Asthmatic Agents/*therapeutic use
+Anti-Inflammatory Agents/*therapeutic use
+Child, Preschool
+Female
+Fluticasone
+Humans
+Infant
+Male
+Quinolines/*therapeutic use
+Respiratory Sounds/*drug effects
+Severity of Illness Index
+Treatment Outcome

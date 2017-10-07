@@ -1,0 +1,18 @@
+Adenocarcinoma/*drug therapy/metabolism
+Administration, Oral
+Adult
+Aged
+Aged, 80 and over
+Androgens/*metabolism
+Antineoplastic Agents, Hormonal/administration & dosage/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Disease-Free Survival
+Drug Administration Schedule
+Humans
+Male
+Middle Aged
+Organoplatinum Compounds/administration & dosage
+Prednisone/administration & dosage/*therapeutic use
+Prostatic Neoplasms/*drug therapy/metabolism
+Survival Analysis
+Treatment Outcome

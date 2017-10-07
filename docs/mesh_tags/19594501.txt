@@ -1,0 +1,16 @@
+Adult
+Antimanic Agents/adverse effects/*therapeutic use
+Antipsychotic Agents/adverse effects/therapeutic use
+Bipolar Disorder/*drug therapy/psychology
+Calcium Channel Blockers/adverse effects/*therapeutic use
+Double-Blind Method
+Drug Resistance
+Drug Therapy, Combination
+Female
+Humans
+Lithium Carbonate/adverse effects/*therapeutic use
+Male
+Middle Aged
+Perphenazine/adverse effects/therapeutic use
+Psychiatric Status Rating Scales
+Verapamil/adverse effects/*therapeutic use

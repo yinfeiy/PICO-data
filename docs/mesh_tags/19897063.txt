@@ -1,0 +1,12 @@
+Aged
+Biomarkers/analysis/metabolism
+Bone Density/drug effects/physiology
+Bone Density Conservation Agents/administration & dosage
+Bone Diseases, Metabolic/drug therapy/metabolism
+Bone Remodeling/*drug effects/*physiology
+Female
+Humans
+Middle Aged
+Postmenopause/*drug effects/*metabolism
+Raloxifene Hydrochloride/*administration & dosage
+Treatment Outcome

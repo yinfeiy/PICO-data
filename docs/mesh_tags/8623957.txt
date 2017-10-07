@@ -1,0 +1,27 @@
+Adolescent
+Adult
+*Ambulatory Surgical Procedures
+Analgesics/administration & dosage
+*Anesthesia Recovery Period
+Anesthetics, Inhalation/*administration & dosage
+Anesthetics, Intravenous/*administration & dosage
+Antiemetics/therapeutic use
+Chemoprevention
+Double-Blind Method
+Female
+Genitalia, Female/*surgery
+Humans
+Injections, Intravenous
+Isoflurane/administration & dosage/*analogs & derivatives
+*Laparoscopy
+Middle Aged
+Nausea/prevention & control
+Ondansetron/*therapeutic use
+Orientation/drug effects
+Patient Discharge
+Postoperative Complications/prevention & control
+Propofol/*administration & dosage
+Psychomotor Performance/drug effects
+Single-Blind Method
+Vomiting/prevention & control
+Wakefulness/drug effects

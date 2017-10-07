@@ -1,0 +1,20 @@
+Adult
+Aged
+Analysis of Variance
+Anti-Inflammatory Agents/*therapeutic use
+Azathioprine/*therapeutic use
+Biomarkers/blood
+Cholagogues and Choleretics/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Immunosuppressive Agents/*therapeutic use
+Intercellular Adhesion Molecule-1/*blood
+Liver Cirrhosis, Biliary/*drug therapy/*immunology
+Liver Function Tests
+Male
+Middle Aged
+Prednisone/*therapeutic use
+Receptors, Interleukin-2/blood
+Ursodeoxycholic Acid/*therapeutic use

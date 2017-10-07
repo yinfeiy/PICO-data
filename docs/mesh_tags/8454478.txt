@@ -1,0 +1,20 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Squamous Cell/drug therapy/pathology/radiotherapy/*therapy
+Combined Modality Therapy
+Female
+Fluorouracil/administration & dosage
+Follow-Up Studies
+Humans
+Hypopharyngeal Neoplasms/drug therapy/pathology/radiotherapy/*therapy
+Laryngeal Neoplasms/drug therapy/pathology/radiotherapy/*therapy
+Lymphatic Metastasis
+Male
+Middle Aged
+Mitomycin/administration & dosage
+Neoplasm Staging
+Radiotherapy/methods
+Radiotherapy Dosage
+Recurrence
+Survival Analysis
+Time Factors
+Tracheostomy

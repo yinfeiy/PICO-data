@@ -1,0 +1,24 @@
+Adolescent
+Adult
+Aged
+Brazil
+Chagas Cardiomyopathy/diagnosis/*drug therapy/physiopathology
+Clinical Protocols
+*Dietary Supplements/adverse effects
+Disease Progression
+Double-Blind Method
+Feeding Behavior
+Female
+Hospitalization
+Humans
+Male
+Middle Aged
+Nutritional Status
+Quality of Life
+*Research Design
+Sodium Selenite/adverse effects/*therapeutic use
+Stroke Volume/drug effects
+Time Factors
+Treatment Outcome
+Ventricular Function, Left/drug effects
+Young Adult

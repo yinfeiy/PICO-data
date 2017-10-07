@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Arrhythmias, Cardiac/*chemically induced
+Benzofurans/*adverse effects/pharmacokinetics/pharmacology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Electrocardiography/*drug effects
+Female
+Heart Rate/drug effects
+Humans
+Indoles/*adverse effects/pharmacokinetics/pharmacology
+Male
+Middle Aged
+Models, Biological
+Piperazines/*adverse effects/pharmacokinetics/pharmacology
+Serotonin 5-HT1 Receptor Agonists/*adverse effects/pharmacokinetics/pharmacology
+Serotonin Uptake Inhibitors/*adverse effects/pharmacokinetics/pharmacology
+Vilazodone Hydrochloride
+Young Adult

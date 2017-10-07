@@ -1,0 +1,20 @@
+Aged
+Aged, 80 and over
+Antipsychotic Agents/adverse effects/blood/*pharmacokinetics
+Area Under Curve
+Biological Availability
+Cholinesterase Inhibitors/adverse effects/blood/*pharmacokinetics
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Drug Interactions
+Female
+Galantamine/adverse effects/blood/*pharmacokinetics
+Gas Chromatography-Mass Spectrometry
+Humans
+Isoxazoles/blood
+Male
+Middle Aged
+Paliperidone Palmitate
+Pyrimidines/blood
+Risperidone/adverse effects/blood/*pharmacokinetics
+Time Factors

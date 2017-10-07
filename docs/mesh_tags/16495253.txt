@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Carbamates
+Clinical Trials as Topic
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+HIV Protease Inhibitors/adverse effects/blood/*pharmacokinetics
+HIV Seronegativity
+Humans
+Male
+Middle Aged
+Organophosphates/adverse effects/blood/*pharmacokinetics
+Ritonavir/adverse effects/blood/*pharmacokinetics
+Sulfonamides/adverse effects/blood/*pharmacokinetics

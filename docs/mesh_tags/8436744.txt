@@ -1,0 +1,14 @@
+Aged
+Double-Blind Method
+Female
+Heart Failure/*blood/drug therapy/mortality
+Humans
+Magnesium/*blood
+Male
+Middle Aged
+Milrinone
+Phosphodiesterase Inhibitors/*therapeutic use
+Prospective Studies
+Pyridones/*therapeutic use
+Risk Factors
+Survival Analysis

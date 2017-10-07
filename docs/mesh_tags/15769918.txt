@@ -1,0 +1,14 @@
+Acute Disease
+Adolescent
+Adult
+Antirheumatic Agents/adverse effects/*therapeutic use
+Cyclophosphamide/adverse effects/*therapeutic use
+Drug Administration Schedule
+Follow-Up Studies
+Humans
+Immunosuppressive Agents/adverse effects/*therapeutic use
+Lupus Vasculitis, Central Nervous System/*drug therapy
+Methylprednisolone/adverse effects/*therapeutic use
+Middle Aged
+Severity of Illness Index
+Treatment Outcome

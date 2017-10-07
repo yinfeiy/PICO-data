@@ -1,0 +1,19 @@
+Azathioprine/pharmacology/therapeutic use
+B-Lymphocytes/drug effects/immunology
+Cyclosporine/pharmacology/therapeutic use
+Drug Therapy, Combination
+Female
+Graft Survival/*drug effects/immunology
+Humans
+Immunity, Humoral/*drug effects
+Immunoglobulin A/blood
+Immunoglobulin G/blood
+Immunoglobulin M/blood
+Immunosuppressive Agents/pharmacology/*therapeutic use
+Kidney Transplantation/*methods
+Male
+Middle Aged
+Mycophenolic Acid/analogs & derivatives/pharmacology/therapeutic use
+Prospective Studies
+Tacrolimus/pharmacology/therapeutic use
+Treatment Outcome

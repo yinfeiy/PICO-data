@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Arrhythmias, Cardiac/*etiology
+Cardiotonic Agents/*therapeutic use
+Deoxyepinephrine/*analogs & derivatives/pharmacology/therapeutic use
+Dopamine/*analogs & derivatives
+Double-Blind Method
+Female
+Heart Failure/complications/*drug therapy/physiopathology
+Heart Rate/*drug effects
+Humans
+Male
+Middle Aged
+Multicenter Studies as Topic

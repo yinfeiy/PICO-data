@@ -1,0 +1,6 @@
+Gastrointestinal Hemorrhage/etiology/therapy
+Humans
+Pentoxifylline/*therapeutic use
+Platelet Aggregation Inhibitors/therapeutic use
+Proctitis/*drug therapy/etiology
+Radiation Injuries/*therapy

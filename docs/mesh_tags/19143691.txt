@@ -1,0 +1,11 @@
+Adult
+Anesthesia, General
+Antiemetics/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Ondansetron/*therapeutic use
+Postoperative Nausea and Vomiting/etiology/*prevention & control
+Postoperative Period
+Risk Factors

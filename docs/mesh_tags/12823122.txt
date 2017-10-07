@@ -1,0 +1,16 @@
+Adult
+Anti-Asthmatic Agents/therapeutic use
+Asthma/drug therapy/physiopathology/*psychology
+Female
+Forced Expiratory Volume/physiology
+*Health Knowledge, Attitudes, Practice
+Humans
+Hungary/epidemiology
+Male
+Nebulizers and Vaporizers/utilization
+Pain Measurement
+Quality of Life/*psychology
+Severity of Illness Index
+Sickness Impact Profile
+Statistics as Topic
+Treatment Outcome

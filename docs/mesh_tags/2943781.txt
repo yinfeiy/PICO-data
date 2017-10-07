@@ -1,0 +1,16 @@
+Adult
+Aged
+*Angioplasty, Balloon
+Coronary Disease/*prevention & control
+Female
+Heart/diagnostic imaging
+Humans
+Male
+Middle Aged
+Myocardial Infarction/*therapy
+Physical Exertion
+Radioisotopes
+Streptokinase/*therapeutic use
+Thallium
+Time Factors
+Tomography, Emission-Computed

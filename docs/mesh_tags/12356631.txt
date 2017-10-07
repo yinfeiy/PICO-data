@@ -1,0 +1,16 @@
+Blood Vessel Prosthesis Implantation
+Bridged-Ring Compounds/*administration & dosage
+Coronary Artery Disease/*drug therapy/surgery
+Coronary Restenosis/diagnostic imaging/prevention & control
+Coronary Vessels/diagnostic imaging/*drug effects/surgery
+Drug Implants/administration & dosage/adverse effects
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+*Stents/adverse effects
+Time
+Treatment Outcome
+Tunica Intima/*drug effects
+Ultrasonography, Interventional

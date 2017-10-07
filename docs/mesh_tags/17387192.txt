@@ -1,0 +1,17 @@
+Administration, Oral
+Adolescent
+Antihypertensive Agents/*administration & dosage
+Cardiac Surgical Procedures/*adverse effects
+Child
+Child, Preschool
+Female
+Heart Defects, Congenital/complications/surgery
+Humans
+Hypertension, Pulmonary/*drug therapy/etiology
+Infant
+Male
+Piperazines/*administration & dosage
+Purines/administration & dosage
+Sildenafil Citrate
+Sulfones/*administration & dosage
+Vasodilator Agents/administration & dosage

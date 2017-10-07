@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Aluminum Hydroxide/adverse effects/economics/*therapeutic use
+Antacids/adverse effects/economics/therapeutic use
+Anti-Ulcer Agents/adverse effects/economics/therapeutic use
+Cost-Benefit Analysis
+Drug Costs/statistics & numerical data
+Drug Therapy, Combination
+Esomeprazole/adverse effects/economics/*therapeutic use
+Female
+Gastroesophageal Reflux/*drug therapy/economics
+Humans
+Magnesium Hydroxide/adverse effects/economics/*therapeutic use
+Male
+Middle Aged
+Proton Pump Inhibitors/adverse effects/economics/*therapeutic use
+Treatment Outcome
+Young Adult

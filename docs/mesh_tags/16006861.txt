@@ -1,0 +1,10 @@
+Adrenal Gland Neoplasms/*surgery
+Adrenalectomy/*methods
+Aged
+Female
+Humans
+Laparoscopy/*methods
+Male
+Middle Aged
+Prospective Studies
+Treatment Outcome

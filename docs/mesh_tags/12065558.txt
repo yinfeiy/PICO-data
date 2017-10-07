@@ -1,0 +1,21 @@
+Administration, Oral
+Adult
+Aged
+Antineoplastic Agents, Phytogenic/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/pathology
+Capecitabine
+Deoxycytidine/administration & dosage/*analogs & derivatives
+Disease-Free Survival
+Female
+Fluorouracil/analogs & derivatives
+Gastrointestinal Diseases/chemically induced
+Humans
+Infusions, Intravenous
+Middle Aged
+Neoplasm Metastasis
+Paclitaxel/administration & dosage/*analogs & derivatives
+Peripheral Nervous System Diseases/chemically induced
+Survival Analysis
+*Taxoids
+Treatment Outcome

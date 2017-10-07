@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Case-Control Studies
+Exercise Therapy/*methods
+Female
+Follow-Up Studies
+Head and Neck Neoplasms/complications/*radiotherapy
+Humans
+Male
+Middle Aged
+Pilot Projects
+Prognosis
+Prospective Studies
+*Quality of Life
+Radiotherapy, Conformal/*adverse effects
+Sweden
+Trismus/etiology/*prevention & control/rehabilitation
+Young Adult

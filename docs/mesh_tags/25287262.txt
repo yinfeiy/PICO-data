@@ -1,0 +1,8 @@
+*Automation
+Diagnosis, Computer-Assisted/*methods
+Humans
+Lung Neoplasms/*diagnostic imaging
+Multiple Pulmonary Nodules/*diagnostic imaging
+Reproducibility of Results
+Solitary Pulmonary Nodule/*diagnostic imaging
+Tomography, X-Ray Computed/*methods

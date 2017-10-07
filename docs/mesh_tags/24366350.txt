@@ -1,0 +1,23 @@
+Adult
+Child
+Child, Preschool
+*Family Characteristics
+Female
+Humans
+Infant
+Insecticide-Treated Bednets/*utilization
+*Insecticides
+Interviews as Topic
+Madagascar
+Malaria/*prevention & control
+Male
+Odds Ratio
+Outcome Assessment (Health Care)
+Pregnancy
+Principal Component Analysis
+*Program Evaluation
+Public Health
+Regression Analysis
+Rural Population
+Socioeconomic Factors
+Surveys and Questionnaires

@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Breast Neoplasms/*drug therapy/*surgery
+Cyclophosphamide/*administration & dosage
+Disease-Free Survival
+Doxorubicin/*administration & dosage
+Female
+Humans
+Lymphatic Metastasis
+Middle Aged
+Neoplasm Metastasis
+Proportional Hazards Models
+Taxoids/*administration & dosage

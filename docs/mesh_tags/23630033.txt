@@ -1,0 +1,22 @@
+Biomarkers/blood
+Blood Glucose/*drug effects/metabolism
+Clinical Protocols
+Diabetes Mellitus, Type 2/blood/diagnosis/*drug therapy
+Double-Blind Method
+Female
+Gastrointestinal Diseases/chemically induced
+Glycosides/*administration & dosage/adverse effects
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hypoglycemia/chemically induced
+Hypoglycemic Agents/*administration & dosage/adverse effects
+Male
+Metformin/*administration & dosage
+Middle Aged
+*Research Design
+Sodium-Glucose Transporter 1/*antagonists & inhibitors/metabolism
+Sodium-Glucose Transporter 2/*antagonists & inhibitors/metabolism
+Time Factors
+Treatment Failure
+United States
+Urinary Tract Infections/chemically induced

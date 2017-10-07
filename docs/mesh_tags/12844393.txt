@@ -1,0 +1,18 @@
+Adult
+Body Composition/drug effects
+Body Mass Index
+Body Weight/drug effects
+Calorimetry
+Colipases/*pharmacology
+Cross-Over Studies
+Dietary Fats/*administration & dosage
+Double-Blind Method
+Eating/*drug effects
+Energy Metabolism/*drug effects
+Enzyme Precursors
+Female
+Food Preferences
+Humans
+Male
+Protein Precursors/*pharmacology
+Satiation

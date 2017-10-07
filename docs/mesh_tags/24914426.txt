@@ -1,0 +1,30 @@
+Adolescent
+Anti-Bacterial Agents/*therapeutic use
+Anti-Infective Agents, Local/*therapeutic use
+Bacterial Load/drug effects
+Cariostatic Agents/*therapeutic use
+Child
+Child, Preschool
+Chlorhexidine/*therapeutic use
+Dental Care for Disabled
+Dental Caries/prevention & control
+Dental Plaque/prevention & control
+Dental Plaque Index
+Dentifrices/therapeutic use
+*Disabled Children
+Drug Combinations
+Female
+Fluorides, Topical/*therapeutic use
+Follow-Up Studies
+Gingivitis/prevention & control
+Humans
+Lactobacillus/drug effects
+Male
+Oral Hygiene
+Periodontal Index
+Polyurethanes/*therapeutic use
+Saliva/microbiology
+Silanes/*therapeutic use
+Streptococcus mutans/drug effects
+Thymol/*therapeutic use
+Toothbrushing/methods

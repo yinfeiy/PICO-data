@@ -1,0 +1,13 @@
+Adult
+Aged
+Bacterial Infections/*drug therapy
+Cefoperazone/*therapeutic use
+Ceftriaxone/*therapeutic use
+Female
+Hospitalization
+Humans
+Male
+Middle Aged
+Pneumonia/drug therapy
+Sepsis/drug therapy
+Urinary Tract Infections/drug therapy

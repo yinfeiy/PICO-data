@@ -1,0 +1,24 @@
+Autistic Disorder/blood/rehabilitation
+Bipolar Disorder/blood/rehabilitation
+Blood Glucose/metabolism
+Blood Pressure
+Body Mass Index
+Cholesterol, HDL/blood
+Exercise Test
+Group Homes
+Health Education
+*Health Status
+Hemoglobin A, Glycosylated/metabolism
+Humans
+*Life Style
+Mental Disorders/blood/psychology/*rehabilitation
+Metabolic Syndrome X/blood/*rehabilitation
+*Patient Care Team
+Patient Satisfaction
+Personality Disorders/blood/rehabilitation
+Psychotic Disorders/blood/rehabilitation
+Risk Factors
+Schizophrenia/blood/rehabilitation
+Sweden
+Triglycerides/blood
+Waist-Hip Ratio

@@ -1,0 +1,12 @@
+Blood Pressure/physiology
+*Continuous Positive Airway Pressure
+Female
+Heart Failure/complications/*physiopathology
+Humans
+Male
+Middle Aged
+Peroneal Nerve/*physiopathology
+Sleep Apnea, Obstructive/complications/*physiopathology/therapy
+Stroke Volume/physiology
+Sympathetic Nervous System/*physiopathology
+Wakefulness/*physiology

@@ -1,0 +1,13 @@
+Adult
+Aged
+Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+Antihypertensive Agents/*therapeutic use
+Blood Pressure/drug effects
+Double-Blind Method
+Enalapril/*therapeutic use
+Female
+Humans
+Hypertension/drug therapy/*physiopathology
+Indapamide/*therapeutic use
+Male
+Middle Aged

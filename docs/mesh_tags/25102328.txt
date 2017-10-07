@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Antipsychotic Agents/*adverse effects
+Cholesterol/blood
+Double-Blind Method
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Middle Aged
+Naltrexone/*therapeutic use
+Narcotic Antagonists/*therapeutic use
+Pilot Projects
+Psychotic Disorders/*drug therapy
+Quality of Life
+Schizophrenia/blood/drug therapy/metabolism
+Triglycerides/blood
+Weight Gain/*drug effects
+Young Adult

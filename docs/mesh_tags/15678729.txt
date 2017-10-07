@@ -1,0 +1,13 @@
+Adult
+Analgesics/*administration & dosage
+Analgesics, Opioid/therapeutic use
+*Anesthesia, Spinal
+Female
+Humans
+Infusions, Intravenous
+Magnesium Sulfate/*administration & dosage
+Male
+Meperidine/therapeutic use
+Middle Aged
+Pain Measurement
+Pain, Postoperative/drug therapy/*prevention & control

@@ -1,0 +1,16 @@
+Animal Nutritional Physiological Phenomena
+Animals
+Calcium/*metabolism
+Cattle/*metabolism
+Cattle Diseases/metabolism
+Chlorides/pharmacology
+Female
+Hydrogen-Ion Concentration
+Hypocalcemia/metabolism/veterinary
+Labor, Obstetric/*metabolism
+Minerals/blood/*pharmacology/urine
+Potassium/pharmacology
+Pregnancy
+Puerperal Disorders/metabolism/veterinary
+Sodium/pharmacology
+Sulfates/pharmacology

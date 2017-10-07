@@ -1,0 +1,15 @@
+Adult
+Aged
+Cardiovascular Diseases/*blood/*drug therapy/etiology
+Double-Blind Method
+Female
+Folic Acid/*therapeutic use
+Follow-Up Studies
+Homocysteine/blood
+Humans
+Kidney Failure, Chronic/*blood/complications/*drug therapy
+*Kidney Transplantation/adverse effects
+Male
+Middle Aged
+Recurrence
+Vitamins/therapeutic use

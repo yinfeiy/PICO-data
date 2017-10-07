@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antibiotics, Antineoplastic/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/mortality/secondary
+Doxorubicin/adverse effects/*therapeutic use
+Female
+Heart Diseases/chemically induced/*prevention & control
+Humans
+Liposomes
+Middle Aged
+Polyethylene Glycols
+Prognosis
+Survival Rate
+Treatment Outcome

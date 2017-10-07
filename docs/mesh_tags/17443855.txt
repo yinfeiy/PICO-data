@@ -1,0 +1,15 @@
+Adult
+Aged
+Clinical Competence
+Digestive System Surgical Procedures/*methods
+Follow-Up Studies
+Hernia, Inguinal/*surgery
+Humans
+Laparoscopy
+Male
+Middle Aged
+Patient Satisfaction
+Postoperative Complications/*etiology/prevention & control
+Prospective Studies
+*Surgical Mesh
+Treatment Outcome

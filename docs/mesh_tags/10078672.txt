@@ -1,0 +1,11 @@
+Adult
+Alfentanil/*administration & dosage
+Analgesics, Opioid/*administration & dosage
+Behavior/*drug effects
+Double-Blind Method
+Female
+Humans
+Infusions, Intravenous
+Male
+Motor Activity/drug effects
+Piperidines/*administration & dosage

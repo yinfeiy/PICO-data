@@ -1,0 +1,16 @@
+*Body Mass Index
+Breast Neoplasms/prevention & control
+Colorectal Neoplasms/prevention & control
+Diet/*statistics & numerical data
+Feeding Behavior/physiology
+Female
+Humans
+Linear Models
+Male
+Neoplasm Recurrence, Local/prevention & control
+Overweight/complications/*prevention & control
+Principal Component Analysis
+Prostatic Neoplasms/prevention & control
+Rural Population/*statistics & numerical data
+*Survivors
+Urban Population/*statistics & numerical data

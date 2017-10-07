@@ -1,0 +1,15 @@
+Adult
+Antibodies/immunology
+Antibodies, Monoclonal/*administration & dosage/blood/*pharmacokinetics
+Antirheumatic Agents/administration & dosage/blood/pharmacokinetics
+Area Under Curve
+Drug Therapy, Combination
+Female
+Humans
+Infliximab
+Male
+Methotrexate/*administration & dosage/blood/*pharmacokinetics
+Middle Aged
+Prospective Studies
+Spondylitis, Ankylosing/*drug therapy/immunology
+Treatment Outcome

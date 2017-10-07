@@ -1,0 +1,21 @@
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Biomarkers, Tumor/*genetics
+DNA-Binding Proteins/genetics
+Etoposide/administration & dosage
+Female
+Follow-Up Studies
+Guanine Nucleotide Exchange Factors/genetics
+Humans
+Leukemia, Myeloid, Acute/*drug therapy/*genetics/mortality
+Male
+Nuclear Proteins/genetics
+*Pharmacogenetics
+Prognosis
+Quinolones/administration & dosage
+RNA, Messenger/genetics
+Remission Induction
+Retrospective Studies
+Reverse Transcriptase Polymerase Chain Reaction
+Survival Rate

@@ -1,0 +1,11 @@
+Adult
+Depressive Disorder, Major/*psychology/*therapy
+Female
+Humans
+Male
+*Memory
+Middle Aged
+Outpatients
+Psychotherapy/*methods
+*Self Concept
+Treatment Outcome

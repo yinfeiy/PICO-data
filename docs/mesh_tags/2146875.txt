@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Double-Blind Method
+Drug Administration Schedule
+Fatigue Syndrome, Chronic/immunology/physiopathology/psychology/*therapy
+Female
+Humans
+Immunoglobulin G/administration & dosage/*therapeutic use
+Infusions, Intravenous
+Lymphocyte Activation
+Lymphopenia/pathology
+Male
+Middle Aged
+Placebos
+Quality of Life
+Social Adjustment
+T-Lymphocyte Subsets/pathology
+T-Lymphocytes/immunology
+T-Lymphocytes, Helper-Inducer/pathology

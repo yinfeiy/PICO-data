@@ -1,0 +1,13 @@
+Anti-Arrhythmia Agents/*therapeutic use
+Antiemetics/*therapeutic use
+Atropine/*therapeutic use
+Bradycardia/etiology/*prevention & control
+Child
+Child, Preschool
+Double-Blind Method
+Ear, External/*surgery
+Humans
+Postoperative Complications/*prevention & control
+Postoperative Nausea and Vomiting/*prevention & control
+*Reconstructive Surgical Procedures
+Scopolamine Hydrobromide/*therapeutic use

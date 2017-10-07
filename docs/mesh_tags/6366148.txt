@@ -1,0 +1,16 @@
+Adolescent
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Child
+Child, Preschool
+Clinical Trials as Topic
+Cyclophosphamide/administration & dosage/adverse effects
+Daunorubicin/administration & dosage/adverse effects
+Female
+Humans
+Infant
+Infant, Newborn
+Lymphoma/*drug therapy/mortality/pathology/radiotherapy
+Male
+Methotrexate/administration & dosage/adverse effects
+Prednisone/administration & dosage/adverse effects
+Vincristine/administration & dosage/adverse effects

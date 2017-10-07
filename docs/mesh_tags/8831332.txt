@@ -1,0 +1,21 @@
+Adrenergic alpha-Agonists/administration & dosage/blood/*pharmacology
+Adult
+Anesthetics, Inhalation/pharmacology
+Anesthetics, Intravenous/pharmacology
+Body Temperature/drug effects
+Body Temperature Regulation/*drug effects
+Clonidine/administration & dosage/blood/*pharmacology
+Dose-Response Relationship, Drug
+Humans
+Hypnotics and Sedatives/administration & dosage/pharmacology
+Infusions, Intravenous
+Injections, Intravenous
+Male
+Muscle, Skeletal/drug effects
+Narcotics/pharmacology
+Propofol/pharmacology
+Shivering/drug effects
+Skin Temperature/drug effects
+Sodium Chloride
+Sweating/*drug effects/physiology
+Tympanic Membrane

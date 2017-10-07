@@ -1,0 +1,14 @@
+Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Cholecystectomy/*methods
+Cholecystectomy, Laparoscopic
+Cholecystitis/mortality/*pathology/*surgery
+Female
+Gangrene
+Humans
+Male
+Middle Aged
+Prospective Studies
+Treatment Outcome

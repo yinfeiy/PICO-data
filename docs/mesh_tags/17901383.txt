@@ -1,0 +1,26 @@
+Activities of Daily Living
+Afferent Pathways/physiology
+Aged
+Ankle Joint/physiology
+Chronic Disease
+Electric Stimulation Therapy/*methods
+Exercise Therapy/*methods
+Female
+Gait Disorders, Neurologic/etiology/physiopathology/rehabilitation
+Home Care Services
+Humans
+Lower Extremity/innervation/*physiopathology
+Male
+Middle Aged
+Movement/physiology
+Muscle Spasticity/etiology/physiopathology/rehabilitation
+Paresis/etiology/physiopathology/*rehabilitation
+Peripheral Nerves/*physiopathology
+Range of Motion, Articular/physiology
+Recovery of Function/physiology
+Reflex, Stretch/physiology
+Single-Blind Method
+Stroke/complications/physiopathology
+*Stroke Rehabilitation
+Transcutaneous Electric Nerve Stimulation/*methods
+Treatment Outcome

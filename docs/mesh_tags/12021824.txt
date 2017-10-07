@@ -1,0 +1,15 @@
+Affect/drug effects
+Analysis of Variance
+Blood Pressure/drug effects
+Caffeine/pharmacokinetics/*pharmacology
+Central Nervous System Stimulants/pharmacokinetics/*pharmacology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Hand/physiology
+Humans
+Male
+Placebos/*administration & dosage
+Psychomotor Performance/drug effects
+Reaction Time
+Saliva/drug effects/metabolism

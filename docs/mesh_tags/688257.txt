@@ -1,0 +1,8 @@
+Carcinoma/*drug therapy
+Chlorambucil/administration & dosage/adverse effects/*therapeutic use
+Doxorubicin/administration & dosage/adverse effects/*therapeutic use
+Drug Therapy, Combination
+Humans
+Lung Neoplasms/*drug therapy
+Pilot Projects
+Thiabendazole/administration & dosage/adverse effects/*therapeutic use

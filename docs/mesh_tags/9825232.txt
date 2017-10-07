@@ -1,0 +1,13 @@
+Adult
+Blood Pressure/*drug effects
+Double-Blind Method
+Drug Evaluation
+*Echocardiography, Doppler
+Female
+Heart Rate/*drug effects
+Humans
+Infusions, Parenteral
+Male
+Migraine Disorders/*drug therapy
+Sumatriptan/adverse effects/*therapeutic use
+Vasoconstrictor Agents/*therapeutic use

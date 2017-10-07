@@ -1,0 +1,12 @@
+Acidosis/*metabolism
+Adult
+Brain/*metabolism
+Energy Metabolism/*physiology
+Ergometry
+Humans
+Hydrogen-Ion Concentration
+Lactic Acid/blood
+Male
+Muscle, Skeletal/metabolism
+Oxygen/blood
+Physical Exertion/*physiology

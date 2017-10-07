@@ -1,0 +1,17 @@
+Adult
+Aged
+Anesthetics/*pharmacology
+*Blood Flow Velocity/drug effects
+*Cardiac Surgical Procedures
+Cardiopulmonary Bypass
+Coronary Artery Bypass
+Female
+Hemodynamics/*drug effects
+Humans
+Isoflurane/pharmacology
+Male
+Methyl Ethers/pharmacology
+Middle Aged
+Middle Cerebral Artery/diagnostic imaging/*physiology
+Propofol/pharmacology
+Ultrasonography

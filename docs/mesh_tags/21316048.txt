@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Anovulation/complications/*drug therapy
+Clomiphene/administration & dosage/adverse effects
+Dose-Response Relationship, Drug
+Female
+Fertility Agents, Female/administration & dosage/adverse effects
+Humans
+Infertility, Female/*drug therapy/etiology
+Nitriles/*administration & dosage/adverse effects
+Ovulation Induction/adverse effects/methods
+Pregnancy
+Pregnancy Rate
+Single-Blind Method
+Triazoles/*administration & dosage/adverse effects
+Young Adult

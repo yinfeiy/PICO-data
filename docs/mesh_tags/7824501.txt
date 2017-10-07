@@ -1,0 +1,9 @@
+Aerosols
+Airway Resistance/drug effects
+Asthma/diagnosis/*drug therapy
+Bronchial Hyperreactivity/diagnosis/*drug therapy
+Bronchial Provocation Tests/*methods
+Dose-Response Relationship, Drug
+Double-Blind Method
+Humans
+*Methacholine Chloride

@@ -1,0 +1,15 @@
+Aged
+Blood Glucose/drug effects
+Carotid Arteries/*drug effects/pathology
+Coronary Artery Disease/drug therapy
+Cyclohexanes/*pharmacology
+Diabetes Mellitus, Type 2/*drug therapy
+Female
+Hemoglobin A, Glycosylated/drug effects
+Humans
+Hypoglycemic Agents/*pharmacology
+Male
+Middle Aged
+Phenylalanine/*analogs & derivatives/pharmacology
+Tunica Intima/anatomy & histology/*drug effects
+Tunica Media/anatomy & histology/*drug effects

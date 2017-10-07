@@ -1,0 +1,14 @@
+Abdominal Muscles/*drug effects/physiology
+Adult
+Anesthesia, Local/*instrumentation/*methods
+Anesthetics, Local/*administration & dosage
+*Cholecystectomy, Laparoscopic
+Female
+Humans
+Male
+Middle Aged
+Nerve Block/instrumentation/methods
+Pain Measurement/drug effects/methods
+Pain, Postoperative/etiology/*prevention & control
+Prospective Studies
+Surgical Instruments

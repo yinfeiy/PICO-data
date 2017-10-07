@@ -1,0 +1,13 @@
+Acute Coronary Syndrome/diagnosis/*drug therapy
+Angina, Unstable/diagnosis/drug therapy
+Disease-Free Survival
+Electrocardiography
+Female
+Folic Acid/*administration & dosage/adverse effects
+Humans
+Hyperhomocysteinemia/*drug therapy
+Male
+Medication Adherence
+Middle Aged
+Myocardial Infarction/diagnosis/drug therapy
+Vitamin B Complex/*administration & dosage/adverse effects

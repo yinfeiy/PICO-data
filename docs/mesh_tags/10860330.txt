@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Air
+Chi-Square Distribution
+Composite Resins
+Dental Bonding
+Dental Caries/therapy
+Dental Cavity Preparation/*instrumentation
+Dental Restoration, Permanent/methods
+Facial Pain/prevention & control
+Female
+Humans
+*Lasers
+Male
+Middle Aged
+Outcome and Process Assessment (Health Care)
+Pain Measurement
+Single-Blind Method
+Water

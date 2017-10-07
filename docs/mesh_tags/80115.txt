@@ -1,0 +1,9 @@
+Adult
+Anaphylaxis/*chemically induced
+Animals
+Dogs
+Female
+Histamine Release/*drug effects
+Humans
+Male
+Plasma Substitutes/*adverse effects/pharmacology

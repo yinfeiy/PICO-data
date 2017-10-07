@@ -1,0 +1,20 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/adverse effects/*therapeutic use
+Breast Neoplasms/*drug therapy/pathology/surgery
+Chemotherapy, Adjuvant
+Epirubicin/administration & dosage/adverse effects
+Female
+Follow-Up Studies
+Granulocyte Colony-Stimulating Factor/administration & dosage/therapeutic use
+Humans
+Lymphatic Metastasis
+Mastectomy/methods
+Middle Aged
+Nausea/chemically induced
+Neoplasm Recurrence, Local
+Neoplastic Cells, Circulating
+Neutropenia/chemically induced
+Paclitaxel/administration & dosage/adverse effects
+Survival Rate
+Vomiting/chemically induced
+Young Adult

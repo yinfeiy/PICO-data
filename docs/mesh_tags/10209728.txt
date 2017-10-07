@@ -1,0 +1,16 @@
+Administration, Oral
+Chronic Disease
+Disease Progression
+Female
+Follow-Up Studies
+Glaucoma, Open-Angle/drug therapy/pathology/*physiopathology
+Humans
+Intraocular Pressure/*drug effects
+Male
+Middle Aged
+Optic Disk/drug effects/pathology
+Prospective Studies
+Treatment Outcome
+Vasodilator Agents/*administration & dosage
+Vincamine/administration & dosage/*analogs & derivatives
+Visual Fields/*drug effects

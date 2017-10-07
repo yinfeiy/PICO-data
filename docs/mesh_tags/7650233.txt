@@ -1,0 +1,14 @@
+Adult
+Antibodies, Bacterial/blood
+Diphtheria/immunology
+Diphtheria Toxoid/administration & dosage/*immunology
+Diphtheria-Tetanus Vaccine
+Female
+Humans
+Immunoglobulins/*adverse effects
+Injections, Intramuscular
+Male
+Tetanus/*immunology
+Tetanus Antitoxin/blood
+Tetanus Toxoid/administration & dosage/*immunology
+Vaccines, Combined/administration & dosage/immunology

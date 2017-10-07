@@ -1,0 +1,14 @@
+Amlodipine/pharmacology/*therapeutic use
+Angiotensin-Converting Enzyme Inhibitors/pharmacology/*therapeutic use
+Calcium Channel Blockers/pharmacology/*therapeutic use
+Double-Blind Method
+Enalapril/pharmacology/*therapeutic use
+Female
+Humans
+Hypertension/drug therapy
+Male
+Malondialdehyde/metabolism
+Middle Aged
+Platelet Aggregation/*drug effects
+Platelet Aggregation Inhibitors/pharmacology/*therapeutic use
+Platelet Function Tests

@@ -1,0 +1,17 @@
+Acute Disease
+Adolescent
+Adult
+Disability Evaluation
+Female
+Hot Temperature/adverse effects/*therapeutic use
+Humans
+Low Back Pain/diagnosis/physiopathology/*therapy
+Male
+Middle Aged
+Muscle, Skeletal/physiopathology
+Pain Measurement
+Physical Therapy Modalities/adverse effects/*methods
+Prospective Studies
+Range of Motion, Articular
+Single-Blind Method
+Treatment Outcome

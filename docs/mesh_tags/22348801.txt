@@ -1,0 +1,14 @@
+Acute Pain/etiology/*prevention & control
+Adolescent
+Analgesia/methods
+*Bandages
+Burns/complications/*therapy
+Child
+Female
+Humans
+Male
+*Pain Management
+Pain Measurement
+Prospective Studies
+*User-Computer Interface
+*Video Games

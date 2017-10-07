@@ -1,0 +1,11 @@
+Adolescent
+Adult
+Body Temperature/drug effects
+Consciousness/drug effects
+Humans
+Hypothermia, Induced/*adverse effects
+Magnesium Sulfate/blood/*pharmacology
+Male
+Muscle Contraction/drug effects
+Oxygen Consumption/drug effects
+Shivering/*drug effects

@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Chronic Pain/psychology/*therapy
+Cognitive Therapy/*methods
+Depression/psychology/therapy
+Depressive Disorder/psychology/therapy
+Female
+Humans
+Internet
+Male
+*Mental Health
+Middle Aged
+Pain Measurement
+Remote Consultation/*methods
+Surveys and Questionnaires
+Therapy, Computer-Assisted/*methods
+Treatment Outcome

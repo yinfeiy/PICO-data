@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Anxiety/psychology/therapy
+Caregivers/*psychology
+Depression/psychology/therapy
+Female
+*Home Care Services
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Neoplasms/*nursing
+Palliative Care/*psychology
+Stress, Psychological/psychology/*therapy
+Young Adult

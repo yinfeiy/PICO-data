@@ -1,0 +1,12 @@
+Adult
+Analysis of Variance
+Diuretics/*pharmacology
+Echocardiography, Doppler
+Electrolytes/blood
+Furosemide/*pharmacology
+Hemodynamics/drug effects/physiology
+Humans
+Hypoxia/*physiopathology
+Male
+Pulmonary Circulation/*drug effects/physiology
+Renin/blood

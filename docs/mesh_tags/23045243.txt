@@ -1,0 +1,14 @@
+*Activities of Daily Living
+Aged
+Female
+Humans
+Knee Joint/diagnostic imaging/*physiopathology
+Male
+Middle Aged
+Osteoarthritis/complications/diagnostic imaging/physiopathology
+Osteoarthritis, Knee/*complications/diagnostic imaging/physiopathology
+Patellofemoral Joint/diagnostic imaging/*physiopathology
+Radiography
+*Range of Motion, Articular
+Severity of Illness Index
+Surveys and Questionnaires

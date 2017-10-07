@@ -1,0 +1,15 @@
+Absorptiometry, Photon
+Adult
+Anti-Retroviral Agents/*therapeutic use
+Body Composition/*drug effects
+Body Weight/*drug effects
+Bone Density/*drug effects
+Female
+HIV Infections/*drug therapy/virology
+HIV-1/isolation & purification
+Humans
+Male
+Middle Aged
+Prospective Studies
+Radiography, Abdominal
+Tomography, X-Ray Computed

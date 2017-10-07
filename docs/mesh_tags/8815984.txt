@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Bandages
+Burns/*drug therapy/therapy
+Child
+Female
+Humans
+Male
+Middle Aged
+*Phytotherapy
+Plant Extracts/*therapeutic use
+Time Factors
+Trees
+Vietnam
+Wound Healing
+Wound Infection/epidemiology

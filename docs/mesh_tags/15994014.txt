@@ -1,0 +1,13 @@
+Adult
+Burns/*complications
+Cicatrix/etiology/pathology/*therapy
+Cicatrix, Hypertrophic/etiology/prevention & control
+Erythema/etiology/*therapy
+Female
+Humans
+Male
+Middle Aged
+*Occlusive Dressings
+Pressure
+Prognosis
+Prospective Studies

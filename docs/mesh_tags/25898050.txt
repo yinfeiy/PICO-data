@@ -1,0 +1,10 @@
+Behavior Therapy
+Child
+Child Behavior Disorders/etiology/*therapy
+Child Development Disorders, Pervasive/complications/*therapy
+Female
+*Health Education
+Humans
+Male
+Parents/*education
+Single-Blind Method

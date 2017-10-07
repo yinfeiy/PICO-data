@@ -1,0 +1,26 @@
+Adenoidectomy
+Adult
+Air Pollutants, Occupational/*adverse effects/analysis
+Air Pollution, Indoor/*prevention & control
+Anesthesia, Inhalation/*instrumentation/methods
+*Anesthesiology
+Anesthetics, Inhalation/*adverse effects/analysis
+Child
+Child, Preschool
+Equipment Design
+Female
+*General Surgery
+Headache/chemically induced/prevention & control
+Humans
+Male
+Methyl Ethers/*adverse effects/analysis
+Nausea/chemically induced/prevention & control
+Nitrous Oxide/*adverse effects/analysis
+Occupational Diseases/chemically induced/prevention & control
+*Occupational Exposure
+Odorants
+*Operating Room Nursing
+Operating Rooms
+Prospective Studies
+Time Factors
+Tonsillectomy

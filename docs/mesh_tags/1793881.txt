@@ -1,0 +1,9 @@
+Adams-Stokes Syndrome/surgery
+*Adjuvants, Anesthesia
+Adult
+Diazepam
+Female
+Humans
+Male
+*Midazolam
+Thiopental

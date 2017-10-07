@@ -1,0 +1,14 @@
+Activities of Daily Living
+Adult
+Aged
+Breast Neoplasms/drug therapy/radiotherapy/*rehabilitation
+Chemotherapy, Adjuvant
+*Exercise Therapy
+Fatigue
+Female
+Humans
+Middle Aged
+*Patient Compliance
+Radiotherapy, Adjuvant
+Treatment Outcome
+Walking

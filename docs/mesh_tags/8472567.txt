@@ -1,0 +1,19 @@
+Adult
+Aged
+Blood Pressure
+Blood Pressure Monitors
+Blood Specimen Collection/*instrumentation/methods
+Blood Transfusion
+Catheters, Indwelling
+Critical Care/methods
+Equipment Design
+Evaluation Studies as Topic
+Female
+Hemoglobins/analysis
+Humans
+Intensive Care Units
+Linear Models
+Male
+Middle Aged
+Needlestick Injuries/prevention & control
+Prospective Studies

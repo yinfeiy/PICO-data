@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage/*therapeutic use
+Bleomycin/administration & dosage
+Chemoradiotherapy
+Cyclophosphamide/administration & dosage
+Dacarbazine/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Etoposide/administration & dosage
+Female
+Hodgkin Disease/diagnostic imaging/*drug therapy/pathology/*radiotherapy
+Humans
+Male
+Middle Aged
+Neoplasm Recurrence, Local/pathology
+Neoplasm Staging
+Positron-Emission Tomography/methods
+Prednisone/administration & dosage
+Procarbazine/administration & dosage
+Prospective Studies
+Vinblastine/administration & dosage
+Vincristine/administration & dosage
+Young Adult

@@ -1,0 +1,14 @@
+Adult
+Aged
+Anticholesteremic Agents/*therapeutic use
+Carotid Artery Diseases/blood/*drug therapy
+Cholesterol, HDL/*blood
+Diabetes Mellitus, Type 2/*complications
+Female
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+Hypercholesterolemia/complications/*drug therapy
+Male
+Middle Aged
+Prospective Studies
+Young Adult

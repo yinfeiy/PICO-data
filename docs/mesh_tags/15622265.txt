@@ -1,0 +1,21 @@
+Adult
+Aged
+Animals
+Biocompatible Materials/administration & dosage/adverse effects/*therapeutic use
+Cattle
+Collagen/administration & dosage/adverse effects/*therapeutic use
+*Cosmetic Techniques
+Double-Blind Method
+Erythema/chemically induced
+Esthetics
+Female
+Gels
+Humans
+Hyaluronic Acid/administration & dosage/adverse effects/*therapeutic use
+Injections, Intradermal
+Male
+Middle Aged
+Pruritus/chemically induced
+Recurrence
+*Skin Aging
+Time Factors

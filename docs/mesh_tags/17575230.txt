@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Antimetabolites, Antineoplastic/*administration & dosage/adverse effects
+Biomarkers, Tumor/*analysis
+Breast Neoplasms/*drug therapy
+Dietary Supplements
+Double-Blind Method
+Female
+Folic Acid
+Gene Expression/drug effects
+Glutamates/*administration & dosage/adverse effects
+Guanine/administration & dosage/adverse effects/*analogs & derivatives
+Humans
+Middle Aged
+Pemetrexed
+RNA, Messenger/analysis
+Reverse Transcriptase Polymerase Chain Reaction
+Vitamin B 12

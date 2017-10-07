@@ -1,0 +1,26 @@
+Adolescent
+Amlodipine/*administration & dosage
+Calcium Channel Blockers/administration & dosage
+Calcium Channels, L-Type/*drug effects/metabolism
+Cardiomyopathies/drug therapy/etiology/*metabolism
+Chelating Agents/administration & dosage
+Child
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Electrocardiography
+Female
+Follow-Up Studies
+Heart/drug effects/physiopathology
+Humans
+Iron/*metabolism
+Iron Overload/complications/*drug therapy/metabolism
+Magnetic Resonance Imaging, Cine
+Male
+Myocardium/*metabolism/pathology
+Prospective Studies
+Severity of Illness Index
+Stroke Volume
+Thalassemia/complications/*drug therapy/metabolism
+Time Factors
+Treatment Outcome
+Young Adult

@@ -1,0 +1,10 @@
+Arthritis, Rheumatoid/physiopathology/*therapy
+Female
+Hand Strength/physiology
+Humans
+Male
+Middle Aged
+Pain Measurement
+*Splints
+Treatment Outcome
+*Wrist Joint

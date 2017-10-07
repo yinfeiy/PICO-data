@@ -1,0 +1,20 @@
+Adult
+Analgesia/methods
+Analgesics, Opioid/administration & dosage/adverse effects/therapeutic use
+Anesthesia Recovery Period
+Brain/*drug effects
+Canada
+*Craniotomy
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Fentanyl/*therapeutic use
+Hemodynamics/drug effects
+Humans
+Male
+Middle Aged
+Morphine/administration & dosage/adverse effects/*therapeutic use
+Piperidines/administration & dosage/adverse effects/*therapeutic use
+Prospective Studies
+Supratentorial Neoplasms/*surgery
+Treatment Outcome

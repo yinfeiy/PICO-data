@@ -1,0 +1,15 @@
+Adult
+Aged
+*Angioplasty, Balloon
+Clinical Trials as Topic
+Coronary Disease/*prevention & control/therapy
+Drug Therapy, Combination
+Female
+Humans
+Male
+Middle Aged
+Prospective Studies
+Random Allocation
+Recurrence
+Verapamil/therapeutic use
+Warfarin/*therapeutic use

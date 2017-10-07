@@ -1,0 +1,18 @@
+Adult
+Anti-Bacterial Agents/therapeutic use
+Collagen/*metabolism
+Corneal Stroma/metabolism
+Corneal Ulcer/*drug therapy/metabolism/microbiology
+Cross-Linking Reagents/*therapeutic use
+Eye Infections/*drug therapy/metabolism/microbiology
+Female
+Humans
+Male
+Middle Aged
+Photosensitizing Agents/*therapeutic use
+Prospective Studies
+Riboflavin/*therapeutic use
+Time Factors
+Treatment Outcome
+Ultraviolet Rays
+Visual Acuity/physiology

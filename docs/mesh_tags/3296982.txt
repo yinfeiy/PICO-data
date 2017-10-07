@@ -1,0 +1,16 @@
+Adult
+Aged
+Blood Glucose/metabolism
+Clinical Trials as Topic
+Diabetes Mellitus, Type 2/blood/complications/diet therapy/*drug therapy
+Diet, Diabetic
+Female
+Humans
+Hyperglycemia/etiology
+Insulin/*therapeutic use
+Ketone Bodies/blood
+Male
+Middle Aged
+Obesity/complications/diet therapy
+Patient Education as Topic
+Random Allocation

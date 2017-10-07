@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anesthesia, Intravenous/*adverse effects
+Double-Blind Method
+Female
+Humans
+Lidocaine/*administration & dosage
+Male
+Middle Aged
+Pain/chemically induced/*prevention & control
+Propofol/*adverse effects
+Prospective Studies

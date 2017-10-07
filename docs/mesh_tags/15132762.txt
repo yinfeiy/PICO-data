@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Asperger Syndrome/blood/psychology
+Autistic Disorder/blood/*psychology
+Behavior/*drug effects
+Double-Blind Method
+Female
+Humans
+Male
+Piperazines/*pharmacology
+Prolactin/*blood
+Serotonin Receptor Agonists/*pharmacology
+Social Behavior

@@ -1,0 +1,22 @@
+Aged
+Aged, 80 and over
+Anticoagulants/therapeutic use
+Atrial Fibrillation/complications/*drug therapy/epidemiology
+Body Mass Index
+Cardiovascular Diseases/*mortality
+Case-Control Studies
+Comorbidity
+Embolism/etiology/*prevention & control
+Factor Xa Inhibitors/*therapeutic use
+Female
+Humans
+Logistic Models
+Male
+Multivariate Analysis
+Obesity/*epidemiology
+Oligosaccharides/*therapeutic use
+Overweight/epidemiology
+Proportional Hazards Models
+Risk Factors
+Stroke/epidemiology/etiology/*prevention & control
+Warfarin/*therapeutic use

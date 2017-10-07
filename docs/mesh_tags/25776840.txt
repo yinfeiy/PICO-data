@@ -1,0 +1,19 @@
+Aged
+Antigens, CD/metabolism
+Antigens, CD3/metabolism
+Antigens, Differentiation, Myelomonocytic/metabolism
+CD40 Ligand/metabolism
+Carotid Arteries/metabolism/pathology
+Carotid Stenosis/blood/*complications/*drug therapy
+Collagen/metabolism
+Drugs, Chinese Herbal/pharmacology/*therapeutic use
+Female
+Humans
+Immunohistochemistry
+Inflammation/complications/pathology
+Intercellular Adhesion Molecule-1/metabolism
+Lipids/blood
+Male
+Matrix Metalloproteinase 9/metabolism
+Plaque, Atherosclerotic/blood/*complications/*drug therapy
+Tenascin/*metabolism

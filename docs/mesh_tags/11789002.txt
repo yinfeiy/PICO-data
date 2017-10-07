@@ -1,0 +1,14 @@
+Adult
+Aged
+Arteriosclerosis Obliterans/complications/*drug therapy/physiopathology
+Blood Pressure
+Female
+Humans
+Hyperlipidemias/blood/complications/diet therapy/drug therapy
+Hypolipidemic Agents/*therapeutic use
+Intermittent Claudication/etiology
+Leg/*blood supply
+Lipids/blood
+Male
+Middle Aged
+Simvastatin/*therapeutic use

@@ -1,0 +1,20 @@
+Adult
+Arousal/drug effects
+Auditory Perception/drug effects
+Brain/*drug effects
+Brain Mapping
+Dominance, Cerebral/drug effects
+Double-Blind Method
+Fatigue/*physiopathology
+Female
+Humans
+*Image Processing, Computer-Assisted
+*Magnetic Resonance Imaging
+Male
+Melatonin/*pharmacology
+Mental Recall/drug effects
+Oxygen/blood
+Psychomotor Performance/drug effects
+Sleep/*drug effects
+Visual Perception/drug effects
+Wakefulness/drug effects

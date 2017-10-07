@@ -1,0 +1,10 @@
+Adult
+Aged
+Electric Stimulation Therapy/*instrumentation/*methods
+Female
+Humans
+Magnetic Field Therapy/*instrumentation/*methods
+Mandelic Acids/*administration & dosage
+Middle Aged
+Parasympatholytics/*administration & dosage
+Urinary Bladder, Overactive/*therapy

@@ -1,0 +1,28 @@
+Aged
+Aorta/physiopathology
+Arterial Pressure
+*Balloon Occlusion/instrumentation
+*Cardiac Catheterization/instrumentation
+Cardiac Catheters
+Central Venous Pressure
+Chi-Square Distribution
+Chronic Disease
+*Collateral Circulation
+Coronary Angiography
+Coronary Artery Disease/complications/diagnosis/physiopathology/*therapy
+*Coronary Circulation
+Coronary Sinus/*physiopathology
+Electrocardiography
+Equipment Design
+Female
+Hospitals, University
+Humans
+Ischemic Preconditioning, Myocardial/instrumentation/*methods
+Linear Models
+Male
+Middle Aged
+Myocardial Ischemia/diagnosis/etiology/physiopathology/*prevention & control
+Predictive Value of Tests
+Prospective Studies
+Time Factors
+Treatment Outcome

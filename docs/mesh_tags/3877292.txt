@@ -1,0 +1,13 @@
+Adult
+Aged
+*Anesthesia, Intravenous
+Blood Pressure/drug effects
+Female
+Heart Rate/drug effects
+Humans
+Intraocular Pressure/*drug effects
+Male
+Middle Aged
+Phenols/adverse effects/*pharmacology
+Propofol
+Thiopental/adverse effects/*pharmacology

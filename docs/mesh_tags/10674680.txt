@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Animals
+Antimalarials/pharmacology/*therapeutic use
+Child
+Child, Preschool
+Chloroquine/pharmacology/*therapeutic use
+Colombia
+Disease Transmission, Infectious
+Drug Combinations
+Drug Resistance
+Female
+Humans
+Infant
+Malaria, Falciparum/*drug therapy/transmission
+Male
+Middle Aged
+Plasmodium falciparum/*drug effects/isolation & purification
+Pyrimethamine/pharmacology/*therapeutic use
+Sulfadoxine/pharmacology/*therapeutic use
+Treatment Failure

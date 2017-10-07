@@ -1,0 +1,14 @@
+Abdomen/*surgery
+Adrenocorticotropic Hormone/blood
+*Analgesia, Epidural
+Anesthesia, General
+Blood Glucose/analysis
+Bupivacaine/blood
+Child, Preschool
+Epinephrine/blood
+Fentanyl
+Humans
+Hydrocortisone/blood
+Infant
+Norepinephrine/blood
+Stress, Physiological/*blood

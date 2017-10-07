@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage
+Benzamides
+Dose-Response Relationship, Drug
+Female
+Humans
+Imatinib Mesylate
+Leukemia, Myeloid, Chronic-Phase/diagnosis/*drug therapy
+Male
+Middle Aged
+Piperazines/*administration & dosage
+Protein Kinase Inhibitors/*administration & dosage
+Protein-Tyrosine Kinases/*antagonists & inhibitors
+Pyrimidines/*administration & dosage
+Treatment Outcome
+Young Adult

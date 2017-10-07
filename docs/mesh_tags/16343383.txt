@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Aged
+Female
+Hepatitis A/immunology/*prevention & control
+Hepatitis A Vaccines/*administration & dosage/adverse effects/immunology
+Humans
+Immunization Schedule
+*Immunization, Secondary
+Male
+Middle Aged
+Typhoid Fever/immunology/*prevention & control
+Typhoid-Paratyphoid Vaccines/*administration & dosage/adverse effects/immunology
+Vaccines, Combined/*administration & dosage/adverse effects/immunology

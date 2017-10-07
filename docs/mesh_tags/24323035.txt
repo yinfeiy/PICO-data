@@ -1,0 +1,25 @@
+Adult
+Aged
+Aged, 80 and over
+Anemia/chemically induced
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Asthenia/chemically induced
+Disease Progression
+Disease-Free Survival
+Double-Blind Method
+Drug Administration Schedule
+Drug Resistance, Neoplasm
+Fatigue/chemically induced
+Humans
+Indoles/administration & dosage/adverse effects
+Kaplan-Meier Estimate
+Lymphopenia/chemically induced
+Male
+Middle Aged
+Neoplasm Metastasis
+Orchiectomy
+Prednisone/administration & dosage/adverse effects/*therapeutic use
+Prostatic Neoplasms/*drug therapy/pathology
+Pyrroles/administration & dosage/adverse effects
+Taxoids/therapeutic use
+Treatment Outcome

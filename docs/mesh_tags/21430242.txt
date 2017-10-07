@@ -1,0 +1,20 @@
+Adult
+Aged
+Ammonia/analysis
+Body Mass Index
+Butyrates/*analysis
+Cross-Over Studies
+*Diet
+Fatty Acids, Volatile/analysis
+Feces/*chemistry
+Female
+Fermentation
+Humans
+Male
+Middle Aged
+Patient Compliance
+Polysaccharides/administration & dosage
+Reproducibility of Results
+Sex Characteristics
+Starch/*administration & dosage/metabolism
+Water/analysis

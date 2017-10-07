@@ -1,0 +1,23 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects
+Bleomycin/adverse effects
+Combined Modality Therapy
+Cyclophosphamide/adverse effects
+Dacarbazine/adverse effects
+Doxorubicin/adverse effects
+*Echocardiography, Doppler/instrumentation/methods/statistics & numerical data
+Female
+Follow-Up Studies
+Heart/*drug effects
+Hodgkin Disease/*complications/diagnostic imaging/drug therapy/epidemiology
+Humans
+Male
+Middle Aged
+Prednisone/adverse effects
+Procarbazine/adverse effects
+Radiotherapy Dosage
+Remission Induction
+Time Factors
+Vinblastine
+Vincristine/adverse effects

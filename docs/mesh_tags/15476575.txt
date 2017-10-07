@@ -1,0 +1,18 @@
+Absorptiometry, Photon
+Aged
+Alkaline Phosphatase/metabolism
+Amino Acids/therapeutic use
+Androgen Antagonists/pharmacology
+Androgens/*metabolism
+Antineoplastic Agents, Hormonal/therapeutic use
+Bone Density
+Bone and Bones/drug effects
+Calcium/blood/therapeutic use
+Cholecalciferol/therapeutic use
+Diphosphonates/*pharmacology
+Humans
+Male
+Osteoporosis/drug therapy
+Prostatic Neoplasms/*drug therapy
+Time Factors
+Triptorelin Pamoate/therapeutic use

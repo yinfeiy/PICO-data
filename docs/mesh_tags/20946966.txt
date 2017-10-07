@@ -1,0 +1,27 @@
+Adenine Nucleotides/*administration & dosage
+Animals
+Antilymphocyte Serum
+Antineoplastic Agents/administration & dosage
+Arabinonucleosides/*administration & dosage
+Busulfan/*administration & dosage
+Cell Line, Tumor
+Drug Administration Schedule
+Drug Resistance, Neoplasm
+Drug Synergism
+Female
+Graft vs Host Disease/mortality/*prevention & control
+*Hematopoietic Stem Cell Transplantation
+Humans
+Immunosuppressive Agents/administration & dosage
+Injections, Intravenous
+Leukemia, Myeloid, Acute/immunology/mortality/pathology/*therapy
+Male
+Middle Aged
+Myeloablative Agonists/administration & dosage
+Rabbits
+Remission Induction
+Survival Analysis
+Tacrolimus
+*Transplantation Conditioning
+Transplantation, Homologous
+Vidarabine/administration & dosage/*analogs & derivatives

@@ -1,0 +1,16 @@
+Adult
+Aged
+Coronary Disease/*complications
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Heart Failure/*drug therapy/etiology
+Humans
+Male
+Middle Aged
+Panax/therapeutic use
+Phytotherapy
+Plants, Medicinal
+Pulmonary Heart Disease/complications
+Qi
+Rheumatic Heart Disease/complications
+Yang Deficiency/drug therapy

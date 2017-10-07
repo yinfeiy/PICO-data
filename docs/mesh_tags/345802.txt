@@ -1,0 +1,21 @@
+Adult
+Aged
+Anticoagulants/*therapeutic use
+Blood Platelets/drug effects
+Cell Survival/drug effects
+Clinical Trials as Topic
+Ethylestrenol/pharmacology/therapeutic use
+Female
+Fibrinogen
+Fibrinolysis
+Fibrinolytic Agents/*therapeutic use
+Heparin/pharmacology/therapeutic use
+Humans
+Male
+Middle Aged
+Phenformin/pharmacology/therapeutic use
+Placebos
+Recurrence
+Sulfinpyrazone/pharmacology/therapeutic use
+Thrombophlebitis/blood/*drug therapy
+Warfarin/pharmacology/therapeutic use

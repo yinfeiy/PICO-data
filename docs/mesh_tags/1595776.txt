@@ -1,0 +1,15 @@
+Adult
+Blood Glucose/metabolism
+C-Peptide/blood
+Cholesterol/blood
+Diabetes Mellitus/blood/*drug therapy
+Diabetes Mellitus, Type 2/blood/*drug therapy
+Drug Administration Schedule
+Drug Therapy, Combination
+Glyburide/administration & dosage/*therapeutic use
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Insulin/administration & dosage/*therapeutic use
+Lipoproteins/blood
+*Obesity
+Triglycerides/blood

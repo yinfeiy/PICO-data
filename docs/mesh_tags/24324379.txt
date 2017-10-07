@@ -1,0 +1,13 @@
+Autistic Disorder/complications/physiopathology/*rehabilitation
+Child
+Child, Preschool
+Cognition Disorders/etiology/physiopathology/*rehabilitation
+Cognitive Therapy/*methods
+Female
+Humans
+Male
+*Perceptual Closure
+Pilot Projects
+Therapy, Computer-Assisted/*methods
+Treatment Outcome
+*User-Computer Interface

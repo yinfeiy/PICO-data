@@ -1,0 +1,13 @@
+Adult
+Aged
+Anti-Inflammatory Agents/therapeutic use
+Fasciitis/etiology/physiopathology/*therapy
+Foot Diseases/etiology/physiopathology/*therapy
+Heel
+Humans
+Middle Aged
+*Orthotic Devices
+Pain/etiology
+Pain Management
+Prospective Studies
+Treatment Outcome

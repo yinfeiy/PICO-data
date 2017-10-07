@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Androstanols/*administration & dosage/pharmacokinetics
+*Anesthesia, General
+*Anesthetics, Combined
+Anesthetics, Inhalation/*administration & dosage
+Anesthetics, Intravenous/*administration & dosage
+Dose-Response Relationship, Drug
+Electromyography
+Female
+Humans
+Infusions, Intravenous
+Isoflurane/*administration & dosage
+Male
+Middle Aged
+Neuromuscular Blockade
+Neuromuscular Nondepolarizing Agents/*administration & dosage/pharmacokinetics
+Nitrous Oxide/*administration & dosage
+Propofol/*administration & dosage

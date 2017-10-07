@@ -1,0 +1,14 @@
+Adult
+Age Factors
+Alprazolam/*therapeutic use
+Anxiety Disorders/diagnosis/*drug therapy/psychology
+Arousal/drug effects
+Drug Administration Schedule
+Female
+Humans
+Imipramine/*therapeutic use
+Male
+Middle Aged
+Panic/*drug effects
+Personality Tests
+Prognosis

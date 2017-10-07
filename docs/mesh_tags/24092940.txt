@@ -1,0 +1,15 @@
+Antibodies, Monoclonal, Humanized/administration & dosage/therapeutic use
+Antineoplastic Combined Chemotherapy Protocols
+Biomarkers, Tumor/metabolism
+Breast Neoplasms/*diagnosis/*drug therapy/metabolism
+Female
+*Fluorodeoxyglucose F18
+Humans
+*Neoadjuvant Therapy
+*Positron-Emission Tomography
+Quinazolines/administration & dosage/therapeutic use
+Receptor, ErbB-2/*metabolism
+Time Factors
+*Tomography, X-Ray Computed
+Trastuzumab
+Treatment Outcome

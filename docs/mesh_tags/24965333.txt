@@ -1,0 +1,12 @@
+Animals
+Diabetes Mellitus, Experimental/*drug therapy/etiology
+Dietary Supplements/analysis
+Glucose/*metabolism
+Hyperglycemia/*drug therapy/etiology
+Lipid Metabolism/*radiation effects
+*Magnetic Fields
+Male
+Rats
+Rats, Wistar
+Vitamin D/administration & dosage/*therapeutic use
+Vitamins/administration & dosage/*therapeutic use

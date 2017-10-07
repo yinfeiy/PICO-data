@@ -1,0 +1,9 @@
+Aged
+Anticoagulants/*therapeutic use
+Atrial Fibrillation/complications/*drug therapy
+Cerebrovascular Disorders/etiology/*prevention & control
+Humans
+Middle Aged
+Risk
+Severity of Illness Index
+Warfarin/*therapeutic use

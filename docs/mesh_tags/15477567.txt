@@ -1,0 +1,14 @@
+Aged
+Alzheimer Disease/complications/*drug therapy/metabolism/physiopathology
+Angiotensin-Converting Enzyme Inhibitors/pharmacokinetics/*therapeutic use
+Antihypertensive Agents/therapeutic use
+Brain/*metabolism
+Calcium Channel Blockers/therapeutic use
+Cognition/drug effects
+Disease Progression
+Female
+Humans
+Hypertension/complications/drug therapy
+Male
+Neuropsychological Tests
+Psychiatric Status Rating Scales

@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Carcinoma, Hepatocellular/etiology/mortality/*pathology
+Female
+France
+Humans
+Liver Cirrhosis, Alcoholic/complications
+Liver Neoplasms/etiology/mortality/*pathology
+Male
+Middle Aged
+Neoplasm Staging/*methods/mortality
+Palliative Care
+Prognosis
+Survival Analysis

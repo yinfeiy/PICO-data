@@ -1,0 +1,18 @@
+Adult
+Aged
+Angioplasty, Balloon, Coronary/*instrumentation
+*Coated Materials, Biocompatible
+Coronary Artery Bypass
+Coronary Artery Disease/diagnostic imaging/*therapy
+Coronary Restenosis/diagnostic imaging/prevention & control
+Equipment Design
+Female
+Follow-Up Studies
+Graft Occlusion, Vascular/diagnostic imaging/prevention & control
+Humans
+*Iridium
+Male
+Middle Aged
+Prospective Studies
+Radiography
+*Stents

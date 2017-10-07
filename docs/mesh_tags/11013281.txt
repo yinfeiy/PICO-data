@@ -1,0 +1,15 @@
+Adult
+Aged
+Analysis of Variance
+Antineoplastic Agents/adverse effects/*therapeutic use
+Brain Neoplasms/drug therapy/*radiotherapy/*secondary
+Carcinoma, Small Cell/drug therapy/*radiotherapy/*secondary
+Combined Modality Therapy
+Cranial Irradiation
+Disease-Free Survival
+Female
+Humans
+Lung Neoplasms/drug therapy/*pathology/radiotherapy
+Male
+Middle Aged
+Teniposide/adverse effects/*therapeutic use

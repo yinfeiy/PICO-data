@@ -1,0 +1,14 @@
+6-Mercaptopurine/*administration & dosage/*adverse effects
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/*adverse effects
+Child
+Child, Preschool
+Female
+Hepatic Veno-Occlusive Disease/*chemically induced
+Humans
+Hypertension, Portal/chemically induced
+Infant
+Injections, Spinal
+Male
+Methotrexate/administration & dosage
+Precursor Cell Lymphoblastic Leukemia-Lymphoma/*drug therapy
+Thioguanine/*administration & dosage/*adverse effects

@@ -1,0 +1,14 @@
+Adolescent
+Apolipoprotein A-I/*biosynthesis/metabolism
+Cardiotonic Agents/*metabolism
+Cholesterol, HDL/metabolism
+Coronary Angiography/methods
+Coronary Artery Disease/diagnostic imaging/*drug therapy
+Coronary Vessels/*drug effects/metabolism
+Female
+Follow-Up Studies
+Humans
+Male
+Plaque, Atherosclerotic/drug therapy/metabolism
+Quinazolines/*therapeutic use
+Ultrasonography

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+*Carrier State/physiopathology
+Cyclosporine/*administration & dosage/adverse effects/*pharmacology
+Drug-Related Side Effects and Adverse Reactions
+Female
+Graft Rejection
+Hepatitis B Surface Antigens/metabolism
+*Hepatitis B virus
+Humans
+*Kidney Transplantation/adverse effects
+Liver/drug effects/physiology
+Male
+Middle Aged
+Tacrolimus/*administration & dosage/adverse effects/*pharmacology
+Young Adult

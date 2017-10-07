@@ -1,0 +1,13 @@
+Aged
+Blood Transfusion/adverse effects/*methods/mortality
+Disease-Free Survival
+Female
+Gastrointestinal Neoplasms/mortality/*therapy
+Humans
+Intraoperative Care/mortality
+Leukapheresis/*methods
+*Leukocytes
+Male
+Middle Aged
+Neoplasm Recurrence, Local/mortality/*prevention & control
+Prognosis

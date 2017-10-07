@@ -1,0 +1,9 @@
+Carbenicillin/therapeutic use
+Child
+Cloxacillin/therapeutic use
+Cystic Fibrosis/*complications
+Drug Therapy, Combination
+Gentamicins/therapeutic use
+Humans
+Pseudomonas Infections/complications/*prevention & control
+Respiratory Tract Infections/complications/*prevention & control

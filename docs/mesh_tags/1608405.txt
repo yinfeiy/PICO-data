@@ -1,0 +1,14 @@
+Acute Disease
+Angina, Unstable/*drug therapy
+Aspirin/administration & dosage/therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Heparin/administration & dosage/*adverse effects/therapeutic use
+Humans
+Male
+Middle Aged
+Myocardial Infarction/drug therapy
+Recurrence
+Risk Factors
+*Substance Withdrawal Syndrome

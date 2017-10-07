@@ -1,0 +1,24 @@
+Administration, Oral
+Adolescent
+Adult
+Animals
+Antibodies, Bacterial/analysis/blood
+Antigens, Bacterial/immunology
+Disease Models, Animal
+Dysentery, Bacillary/immunology/prevention & control
+Enzyme-Linked Immunosorbent Assay
+Feces/chemistry
+Fixatives
+Formaldehyde
+Guinea Pigs
+Humans
+Immunoglobulin A/analysis/blood
+Immunoglobulin G/analysis/blood
+Keratoconjunctivitis/immunology/prevention & control
+Lipopolysaccharides/immunology
+Male
+Middle Aged
+Placebos
+Shigella Vaccines/administration & dosage/*adverse effects/*immunology
+Shigella sonnei/*immunology
+Vaccines, Inactivated/administration & dosage/adverse effects/immunology

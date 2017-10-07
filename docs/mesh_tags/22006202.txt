@@ -1,0 +1,16 @@
+Adult
+Aged
+Antirheumatic Agents/*administration & dosage/therapeutic use
+Arthritis, Rheumatoid/*drug therapy
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Male
+Methotrexate/administration & dosage/*therapeutic use
+Middle Aged
+Piperidines
+Pyrimidines/*administration & dosage/therapeutic use
+Pyrroles/*administration & dosage/therapeutic use
+Treatment Outcome

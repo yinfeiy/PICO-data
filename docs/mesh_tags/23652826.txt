@@ -1,0 +1,17 @@
+Adult
+Anticholesteremic Agents/*pharmacology/therapeutic use
+Azetidines/*pharmacology/therapeutic use
+Biomarkers/blood
+C-Reactive Protein/analysis
+Cross-Over Studies
+Double-Blind Method
+Drug Combinations
+Ezetimibe, Simvastatin Drug Combination
+Humans
+Intercellular Adhesion Molecule-1/blood
+Interleukin-6/blood
+Lipids/*blood
+Metabolic Syndrome X/*drug therapy/metabolism
+Middle Aged
+Platelet Aggregation/*drug effects
+Simvastatin/*pharmacology/therapeutic use

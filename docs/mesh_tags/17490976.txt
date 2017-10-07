@@ -1,0 +1,20 @@
+Adaptation, Physiological
+Adult
+Anemia, Iron-Deficiency/*drug therapy/epidemiology
+Dark Adaptation/drug effects
+Dietary Supplements
+Female
+Food, Fortified
+Humans
+Iron/deficiency
+Iron, Dietary/pharmacology/*therapeutic use
+Nepal
+Night Blindness/blood/*drug therapy/epidemiology
+Oryza
+Pregnancy
+Pregnancy Complications/blood/*drug therapy/epidemiology
+Riboflavin/pharmacology/*therapeutic use
+Riboflavin Deficiency/blood/*drug therapy/epidemiology
+Treatment Outcome
+Vitamin A/pharmacokinetics/*therapeutic use
+Vitamin B Complex/pharmacology/therapeutic use

@@ -1,0 +1,16 @@
+Abatacept
+Adult
+Cyclosporine/*therapeutic use
+Female
+Glomerular Filtration Rate
+Humans
+Immunoconjugates/*therapeutic use
+Immunosuppression
+Immunosuppressive Agents/*therapeutic use
+Incidence
+Kidney Transplantation/*methods
+Lymphoproliferative Disorders/etiology/prevention & control
+Male
+Middle Aged
+Risk Factors
+Time Factors

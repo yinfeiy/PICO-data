@@ -1,0 +1,12 @@
+Aged
+Brachytherapy/*methods
+Early Diagnosis
+Germany
+Humans
+Male
+*National Health Programs
+Neoplasm Staging
+Prostatectomy/*methods
+Prostatic Neoplasms/diagnosis/mortality/pathology/*therapy
+Survival Rate
+Treatment Outcome

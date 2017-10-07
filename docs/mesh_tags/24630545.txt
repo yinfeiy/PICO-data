@@ -1,0 +1,12 @@
+Adult
+Aged
+Bursitis/*therapy
+*Exercise Therapy
+Female
+Humans
+Male
+Middle Aged
+Physical Therapy Modalities
+Range of Motion, Articular
+Single-Blind Method
+Treatment Outcome

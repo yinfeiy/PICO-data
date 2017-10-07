@@ -1,0 +1,16 @@
+Adult
+Aged
+Cold Temperature
+Female
+Follow-Up Studies
+Hemodialysis Solutions/*therapeutic use
+Hot Temperature/*therapeutic use
+Humans
+Kidney Failure, Chronic/diagnosis/*therapy
+Male
+Middle Aged
+Prospective Studies
+Renal Dialysis/*methods
+Risk Assessment
+Toxins, Biological/*blood
+Treatment Outcome

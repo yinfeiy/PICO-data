@@ -1,0 +1,25 @@
+Age Factors
+Aged
+Aged, 80 and over
+Coronary Artery Bypass/*methods/mortality
+Coronary Disease/diagnosis/mortality/*surgery
+Female
+Follow-Up Studies
+Graft Occlusion, Vascular/*epidemiology
+Graft Rejection
+Graft Survival
+Humans
+Male
+Multivariate Analysis
+Myocardial Revascularization/methods
+Postoperative Complications
+Proportional Hazards Models
+Prospective Studies
+Radial Artery/*transplantation
+Risk Assessment
+Risk Factors
+Severity of Illness Index
+Statistics, Nonparametric
+Survival Analysis
+Thoracic Arteries/*transplantation
+Treatment Outcome

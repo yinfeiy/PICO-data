@@ -1,0 +1,16 @@
+Adult
+Analgesics, Opioid/*therapeutic use
+Cyclooxygenase 2 Inhibitors/*therapeutic use
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Genital Neoplasms, Female/*surgery
+Humans
+Isoxazoles/*therapeutic use
+Middle Aged
+Morphine/*therapeutic use
+Pain Management/methods
+Pain Measurement
+Pain, Postoperative/*drug therapy/prevention & control
+Patient Satisfaction
+Treatment Outcome

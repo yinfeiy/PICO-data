@@ -1,0 +1,15 @@
+Age Factors
+Aged
+Blood Glucose/metabolism
+C-Reactive Protein/metabolism
+*Dietary Supplements
+Electrolytes/blood
+Female
+Hematocrit
+Hospitalization
+Humans
+Male
+Malnutrition/blood/*drug therapy
+Prostate-Specific Antigen/blood
+Quality of Life
+Testosterone/*administration & dosage

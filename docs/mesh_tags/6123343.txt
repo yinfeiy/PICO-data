@@ -1,0 +1,13 @@
+Adrenergic beta-Antagonists/*pharmacology
+Adult
+Blood Pressure/drug effects
+Dose-Response Relationship, Drug
+Female
+Heart Rate/drug effects
+Humans
+Hydralazine/pharmacology
+Isoproterenol/pharmacology
+Male
+Propranolol/pharmacology
+Pyridazines/*pharmacology
+Vasodilator Agents/*pharmacology

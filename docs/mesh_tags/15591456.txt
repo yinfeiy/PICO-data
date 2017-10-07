@@ -1,0 +1,19 @@
+Antigens, CD15/*biosynthesis
+Antigens, Tumor-Associated, Carbohydrate/*biosynthesis
+Biomarkers, Tumor/blood
+Chemotherapy, Adjuvant
+Colonic Neoplasms/*metabolism/mortality/pathology/therapy
+Female
+Humans
+Immunochemistry
+Lewis Blood-Group System
+Lymph Nodes/pathology
+Lymphatic Metastasis
+Male
+Middle Aged
+Multivariate Analysis
+Predictive Value of Tests
+Prognosis
+Proportional Hazards Models
+Prospective Studies
+Survival Rate

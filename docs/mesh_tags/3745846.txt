@@ -1,0 +1,13 @@
+Adult
+Aged
+Domperidone/adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Gastric Emptying
+Gastroesophageal Reflux/*drug therapy/physiopathology
+Humans
+Male
+Metoclopramide/adverse effects/*therapeutic use
+Middle Aged
+Placebos
+Regression Analysis

@@ -1,0 +1,10 @@
+*Adjuvants, Immunologic
+Antibodies, Monoclonal/pharmacology
+Double-Blind Method
+Female
+Flow Cytometry
+Humans
+Immunity, Cellular/*drug effects
+Male
+Plant Extracts/*pharmacology
+T-Lymphocytes, Helper-Inducer/drug effects

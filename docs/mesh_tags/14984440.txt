@@ -1,0 +1,17 @@
+Allergens/immunology
+Anti-Inflammatory Agents/*therapeutic use
+Betamethasone/therapeutic use
+Bronchial Provocation Tests/methods
+Cross-Over Studies
+Double-Blind Method
+Female
+Glucocorticoids/*therapeutic use
+Humans
+Male
+Methylprednisolone/therapeutic use
+Nasal Obstruction/drug therapy
+Nose/drug effects
+Pruritus/drug therapy
+Pulmonary Ventilation/drug effects
+Rhinitis, Allergic, Seasonal/*drug therapy/immunology
+Rhinomanometry/methods

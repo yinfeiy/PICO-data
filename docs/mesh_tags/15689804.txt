@@ -1,0 +1,18 @@
+Administration, Oral
+Choroid Diseases/complications/drug therapy/surgery/*therapy
+Combined Modality Therapy
+Drainage/methods
+Female
+Fluorocarbons/therapeutic use
+Glucocorticoids/*therapeutic use
+Humans
+Male
+Middle Aged
+Pilot Projects
+Prednisolone/*therapeutic use
+Prospective Studies
+Retinal Detachment/complications/drug therapy/surgery/*therapy
+Sulfur Hexafluoride/therapeutic use
+Treatment Outcome
+Visual Acuity
+*Vitrectomy

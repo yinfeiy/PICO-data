@@ -1,0 +1,16 @@
+Abdomen/*surgery
+Blood Loss, Surgical
+Case-Control Studies
+Endometrial Neoplasms/diagnosis/*surgery
+Female
+Hospitalization
+Humans
+Hysterectomy, Vaginal/adverse effects/*methods
+Laparoscopy
+Laparotomy
+Length of Stay
+Lymph Node Excision
+Lymph Nodes
+Middle Aged
+Neoplasm Staging
+Postoperative Complications

@@ -1,0 +1,19 @@
+Adult
+Area Under Curve
+Body Temperature
+Creatine Kinase/blood
+Exercise/*physiology
+Heart Rate
+Hip/physiology
+Humans
+Isometric Contraction
+Knee/physiology
+Male
+Muscle Stretching Exercises/*methods
+Muscle, Skeletal/*injuries/physiology
+Myalgia/etiology
+Myoglobin/blood
+Range of Motion, Articular
+Thigh
+Torque
+Young Adult

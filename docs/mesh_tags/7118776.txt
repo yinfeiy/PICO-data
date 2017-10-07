@@ -1,0 +1,17 @@
+Administration, Oral
+Adolescent
+Adult
+Aerobiosis
+Aged
+Anaerobiosis
+Bacterial Infections/*metabolism
+Chromatography, High Pressure Liquid/methods
+Female
+Humans
+Intestinal Absorption
+Kinetics
+Male
+Metronidazole/*metabolism
+Middle Aged
+Nitroimidazoles/*metabolism
+Tinidazole/*metabolism

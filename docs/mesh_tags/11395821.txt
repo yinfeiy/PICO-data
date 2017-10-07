@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+Appendectomy/*methods/statistics & numerical data
+Appendicitis/epidemiology/*surgery
+Body Mass Index
+*Body Weight
+Comorbidity
+Female
+Humans
+Laparoscopy/*methods/statistics & numerical data
+Male
+Middle Aged
+Obesity/epidemiology
+Pain, Postoperative/epidemiology
+Postoperative Complications/epidemiology
+Prospective Studies
+Time Factors
+Treatment Outcome

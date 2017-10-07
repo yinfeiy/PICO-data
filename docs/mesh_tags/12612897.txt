@@ -1,0 +1,16 @@
+Adult
+Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*pharmacology
+Aspirin/adverse effects/*analogs & derivatives/*pharmacology
+Cardiotonic Agents/adverse effects/*pharmacology
+Digestive System/*drug effects/pathology
+Double-Blind Method
+Endoscopy, Gastrointestinal
+Female
+Gastric Mucosa/drug effects
+Humans
+Intestinal Mucosa/drug effects
+Male
+Pilot Projects
+Placebos/adverse effects/pharmacology
+Platelet Aggregation/drug effects
+Thromboxane B2/metabolism

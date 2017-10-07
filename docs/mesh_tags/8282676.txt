@@ -1,0 +1,15 @@
+Attention/*drug effects
+Autistic Disorder/complications/diagnosis/*drug therapy
+Child
+Child, Preschool
+Discrimination Learning/*drug effects
+Female
+Humans
+Male
+Naltrexone/administration & dosage/blood/*therapeutic use
+Psychiatric Status Rating Scales
+Self-Injurious Behavior/complications/*drug therapy
+Severity of Illness Index
+Stereotyped Behavior/drug effects
+Treatment Outcome
+Weight Loss

@@ -1,0 +1,12 @@
+Adult
+Aged
+Blood Pressure/drug effects
+Clopamide/*therapeutic use
+Female
+Humans
+Hypertension/blood/*drug therapy
+Lipids/*blood
+Male
+Middle Aged
+Pindolol/*therapeutic use
+Prospective Studies

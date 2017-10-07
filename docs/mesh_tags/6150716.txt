@@ -1,0 +1,11 @@
+Adult
+Bezafibrate/*therapeutic use
+Blood Glucose/*metabolism
+C-Peptide/blood
+Diabetes Mellitus, Type 2/drug therapy/*physiopathology
+Glucagon/blood
+Humans
+Insulin/blood
+*Insulin Resistance
+*Somatostatin
+Time Factors

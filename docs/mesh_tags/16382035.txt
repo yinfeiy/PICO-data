@@ -1,0 +1,16 @@
+Adult
+Albendazole/*administration & dosage/adverse effects/therapeutic use
+Anticestodal Agents/*administration & dosage/adverse effects/therapeutic use
+Cerebral Ventricles/*parasitology
+Dexamethasone/*administration & dosage/therapeutic use
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Headache/chemically induced
+Humans
+Male
+Middle Aged
+Neurocysticercosis/*drug therapy
+Subarachnoid Space/*parasitology
+Treatment Outcome

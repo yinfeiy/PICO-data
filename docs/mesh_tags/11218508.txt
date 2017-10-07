@@ -1,0 +1,21 @@
+Alveolar Bone Loss/classification/surgery
+Analysis of Variance
+Animals
+Bone Substitutes/*therapeutic use
+Calcium Carbonate/*therapeutic use
+Cnidaria
+Confidence Intervals
+Debridement
+Follow-Up Studies
+Humans
+Middle Aged
+Periodontal Attachment Loss/classification/surgery
+Periodontal Diseases/classification/*surgery
+Periodontal Pocket/classification/surgery
+*Periodontal Splints
+Periodontics/instrumentation
+Reconstructive Surgical Procedures
+Suture Techniques
+Tooth Mobility/classification/surgery
+Treatment Outcome
+Wound Healing

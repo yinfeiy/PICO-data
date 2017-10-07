@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Emergencies
+*Emergency Service, Hospital
+Female
+Humans
+*Intubation, Intratracheal/adverse effects/standards
+Male
+Middle Aged
+Pilot Projects
+Program Evaluation
+Telemedicine/*methods
+Time Factors
+Treatment Outcome

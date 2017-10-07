@@ -1,0 +1,10 @@
+Aged
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction/*therapy
+Percutaneous Coronary Intervention
+Platelet Aggregation Inhibitors/adverse effects/*therapeutic use
+Treatment Outcome
+Tyrosine/adverse effects/*analogs & derivatives/therapeutic use

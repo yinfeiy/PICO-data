@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Animals
+Antimalarials/pharmacology/*therapeutic use
+*Artemisinins
+Drug Combinations
+Drug Resistance
+Female
+Humans
+Malaria, Vivax/*drug therapy
+Male
+Middle Aged
+Parasitemia/drug therapy
+Plasmodium vivax/*drug effects/isolation & purification
+Primaquine/*pharmacology/therapeutic use
+Pyrimethamine/*therapeutic use
+Sesquiterpenes/*therapeutic use
+Sulfadoxine/*therapeutic use
+Treatment Outcome

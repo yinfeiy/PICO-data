@@ -1,0 +1,11 @@
+Adult
+Analysis of Variance
+Biomechanical Phenomena
+Electromyography
+Female
+Gait/*physiology
+Humans
+Joints/physiology
+Male
+Muscle, Skeletal/physiology
+Postural Balance/*physiology

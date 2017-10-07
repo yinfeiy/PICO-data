@@ -1,0 +1,10 @@
+Atrial Fibrillation/*diagnosis/physiopathology/*surgery
+Catheter Ablation/*methods
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Minimally Invasive Surgical Procedures/*methods
+Prospective Studies
+Treatment Outcome

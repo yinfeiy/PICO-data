@@ -1,0 +1,13 @@
+Adult
+Age Factors
+Aged
+Antihypertensive Agents/therapeutic use
+Blood Pressure/drug effects/physiology
+Female
+Humans
+Hypertension/*drug therapy/physiopathology
+Male
+Middle Aged
+Risk Factors
+Sweden/epidemiology
+Treatment Outcome

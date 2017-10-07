@@ -1,0 +1,20 @@
+Aged
+Biopsy/methods
+Bronchoscopy/*methods
+Carcinoma, Non-Small-Cell Lung/diagnosis/*pathology
+Clinical Decision-Making
+Endoscopic Ultrasound-Guided Fine Needle Aspiration/*methods
+Female
+Humans
+Lung/diagnostic imaging/*pathology
+Lung Neoplasms/diagnosis/*pathology
+Lymph Nodes/*pathology
+Male
+Mediastinoscopy
+Middle Aged
+Multimodal Imaging
+Neoplasm Staging
+Positron-Emission Tomography
+Proportional Hazards Models
+Time Factors
+Tomography, X-Ray Computed

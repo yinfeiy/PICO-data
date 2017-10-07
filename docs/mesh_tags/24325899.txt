@@ -1,0 +1,16 @@
+Adult
+Aged
+Carcinoma, Endometrioid/surgery
+Electrosurgery/*instrumentation/statistics & numerical data
+Endometrial Neoplasms/surgery
+Female
+Genital Neoplasms, Female/*surgery
+Humans
+Hysterectomy/*instrumentation/methods/statistics & numerical data
+Italy/epidemiology
+Laparoscopy
+Lymph Node Excision/*instrumentation/methods/statistics & numerical data
+Middle Aged
+Operative Time
+Pain, Postoperative/epidemiology
+Uterine Cervical Neoplasms/surgery

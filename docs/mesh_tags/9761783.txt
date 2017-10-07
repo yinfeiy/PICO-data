@@ -1,0 +1,23 @@
+Adult
+Antioxidants/*analysis
+Ascorbic Acid/*blood
+Carotenoids/administration & dosage/*blood
+Chemoprevention
+*DNA Damage
+Deoxyguanosine/*analogs & derivatives/blood
+Ethnic Groups/*genetics
+Europe/epidemiology
+Female
+Heart Diseases/ethnology/genetics/metabolism/*mortality
+Humans
+Lutein/administration & dosage
+Lymphocytes/*chemistry
+Male
+Middle Aged
+Neoplasms/mortality
+Oxidation-Reduction
+Plant Oils/administration & dosage
+Reactive Oxygen Species
+Sex Factors
+Single-Blind Method
+Vitamin E/administration & dosage/*blood

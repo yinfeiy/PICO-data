@@ -1,0 +1,23 @@
+Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+Cross-Sectional Studies
+Female
+Follow-Up Studies
+Humans
+Infant
+Infant, Newborn
+Iran/epidemiology
+Male
+Middle Aged
+Monte Carlo Method
+Neoplasms/*epidemiology
+Population Surveillance/*methods
+Prevalence
+Registries/*statistics & numerical data
+Regression Analysis
+*Statistics as Topic
+Surveys and Questionnaires
+Young Adult

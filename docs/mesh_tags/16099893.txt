@@ -1,0 +1,11 @@
+Adaptation, Physiological/physiology
+Adult
+Exercise/*physiology
+Gene Expression Regulation/physiology
+Glycogen/*metabolism
+Humans
+Male
+Muscle, Skeletal/*physiology
+Physical Exertion/*physiology
+Physical Fitness/*physiology
+Receptors, Interleukin-6/*metabolism

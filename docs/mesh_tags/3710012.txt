@@ -1,0 +1,11 @@
+Adult
+Albuminuria/etiology/*prevention & control
+Blood Pressure/*drug effects
+Clonidine/*therapeutic use
+Diabetes Mellitus, Type 1/*therapy
+Diabetic Nephropathies/etiology/*prevention & control
+Female
+Glomerular Filtration Rate
+Humans
+Male
+Middle Aged

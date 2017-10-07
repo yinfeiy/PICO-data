@@ -1,0 +1,21 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Brain Ischemia/*drug therapy/metabolism/physiopathology
+Cardiovascular Physiological Phenomena/drug effects
+Dose-Response Relationship, Drug
+Drug Tolerance/*physiology
+Excitatory Amino Acid Antagonists/*administration & dosage/adverse effects/pharmacokinetics
+Female
+Humans
+Male
+Middle Aged
+Mortality
+Neuroprotective Agents/*administration & dosage/adverse effects/pharmacokinetics
+Pyridines/*administration & dosage/adverse effects/pharmacokinetics
+Receptors, N-Methyl-D-Aspartate/*antagonists & inhibitors/metabolism
+Software Design
+Stroke/*drug therapy/metabolism/physiopathology
+Treatment Outcome

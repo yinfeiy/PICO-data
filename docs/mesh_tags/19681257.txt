@@ -1,0 +1,25 @@
+Adult
+Belgium
+Cariostatic Agents/administration & dosage/therapeutic use
+Cuspid/pathology
+Dentifrices/administration & dosage/*therapeutic use
+Double-Blind Method
+Female
+Fluorides/administration & dosage/therapeutic use
+Follow-Up Studies
+Humans
+Hydrogen Peroxide/*administration & dosage
+Image Processing, Computer-Assisted/methods
+Incisor/pathology
+Male
+Maxilla
+Oxidants/*administration & dosage
+Phosphates/administration & dosage/therapeutic use
+Photography, Dental/methods
+Placebos
+Safety
+Sodium Fluoride/administration & dosage/therapeutic use
+Tooth Bleaching/instrumentation/*methods
+Toothpastes/administration & dosage/therapeutic use
+Treatment Outcome
+Young Adult

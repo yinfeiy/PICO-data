@@ -1,0 +1,10 @@
+Adult
+Aminopyridines/blood/*pharmacokinetics
+Anti-Anxiety Agents/blood/*pharmacokinetics
+Benzamides/blood/*pharmacokinetics
+Cyclopropanes/blood/pharmacokinetics
+*Drug Interactions
+Humans
+Male
+Midazolam/blood/*pharmacokinetics
+Phosphodiesterase Inhibitors/blood/*pharmacokinetics

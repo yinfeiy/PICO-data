@@ -1,0 +1,12 @@
+Biomarkers/*metabolism
+Biomarkers, Tumor/metabolism
+Carcinoma, Hepatocellular/genetics/*metabolism
+Cell Line, Tumor
+Dose-Response Relationship, Drug
+Gene Expression Regulation, Neoplastic/*drug effects
+Humans
+Liver Neoplasms/genetics/*metabolism
+Protein Precursors/*metabolism
+Prothrombin/*metabolism
+Vitamin K 1/administration & dosage/*pharmacology
+alpha-Fetoproteins/genetics/*metabolism

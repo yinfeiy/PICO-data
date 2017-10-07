@@ -1,0 +1,12 @@
+Adult
+Female
+Humans
+Male
+Middle Aged
+*Motor Activity
+Multiple Sclerosis, Chronic Progressive/physiopathology/*rehabilitation
+Multiple Sclerosis, Relapsing-Remitting/physiopathology/*rehabilitation
+Physical Therapy Modalities/*instrumentation
+*Postural Balance
+Treatment Outcome
+Walking

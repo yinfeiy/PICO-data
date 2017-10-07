@@ -1,0 +1,7 @@
+Aged
+Atrial Fibrillation/complications/physiopathology/*therapy
+*Cardiac Pacing, Artificial
+*Catheter Ablation
+Female
+Humans
+Male

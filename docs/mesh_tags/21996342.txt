@@ -1,0 +1,13 @@
+Administration, Cutaneous
+Adult
+Allergens/*immunology
+Conjunctivitis, Allergic/immunology/*therapy
+*Desensitization, Immunologic/adverse effects
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Poaceae/*immunology
+Pollen/*immunology
+Treatment Outcome

@@ -1,0 +1,13 @@
+Adolescent
+Asperger Syndrome/drug therapy
+Child
+Child Development Disorders, Pervasive/*drug therapy
+Child, Preschool
+Citalopram/*therapeutic use
+Female
+Humans
+Male
+Placebo Effect
+Principal Component Analysis
+Serotonin Uptake Inhibitors/*therapeutic use
+Treatment Outcome

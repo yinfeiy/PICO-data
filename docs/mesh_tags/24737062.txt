@@ -1,0 +1,19 @@
+Adult
+Algorithms
+Brain-Computer Interfaces
+Electroencephalography/*methods
+Evoked Potentials, Motor
+Female
+Humans
+*Imagination
+Male
+Middle Aged
+Motor Cortex/physiopathology
+*Movement
+Neurofeedback/*methods
+Pattern Recognition, Automated/methods
+*Psychomotor Performance
+Reproducibility of Results
+Sensitivity and Specificity
+Stroke/*physiopathology
+*Stroke Rehabilitation

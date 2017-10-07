@@ -1,0 +1,11 @@
+Animal Feed/analysis
+Animal Nutritional Physiological Phenomena
+Animals
+Diet/*veterinary
+Dietary Supplements
+Female
+Intestinal Mucosa/drug effects
+Jejunum/anatomy & histology/*drug effects/immunology
+Male
+Swine/*anatomy & histology/immunology
+Zinc Oxide/*pharmacology

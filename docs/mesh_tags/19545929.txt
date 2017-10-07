@@ -1,0 +1,22 @@
+Adult
+Aged
+Alopecia/etiology
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/adverse effects
+Carcinoma, Non-Small-Cell Lung/*drug therapy/mortality/pathology/physiopathology
+Deoxycytidine/administration & dosage/adverse effects/*analogs & derivatives
+Disease Progression
+Disease-Free Survival
+Female
+Follow-Up Studies
+Glutamates/*administration & dosage/adverse effects
+Guanine/administration & dosage/adverse effects/*analogs & derivatives
+Humans
+Lung Neoplasms/*drug therapy/mortality/pathology/physiopathology
+Male
+Middle Aged
+Neoplasm Staging
+Neutropenia/etiology
+Paclitaxel/administration & dosage/adverse effects
+Pemetrexed
+Peripheral Nervous System Diseases/etiology
+Survival Analysis

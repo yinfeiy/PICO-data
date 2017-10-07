@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Counseling/*methods
+Female
+Humans
+Malaysia
+Male
+Middle Aged
+Odds Ratio
+Recurrence
+Smoking/*therapy
+Smoking Cessation/*methods
+Telephone
+Tobacco Use Disorder/*therapy
+Young Adult

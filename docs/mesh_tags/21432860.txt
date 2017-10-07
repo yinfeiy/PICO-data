@@ -1,0 +1,23 @@
+Adult
+Advanced Glycosylation End Product-Specific Receptor
+Amlodipine/*therapeutic use
+Analysis of Variance
+Angiotensin II Type 1 Receptor Blockers/therapeutic use
+Antihypertensive Agents/*therapeutic use
+Azetidinecarboxylic Acid/*analogs & derivatives/therapeutic use
+Calcium Channel Blockers/*therapeutic use
+Chronic Disease
+Dihydropyridines/*therapeutic use
+Female
+Glycosylation End Products, Advanced/*antagonists & inhibitors/blood
+Humans
+Hypertension/blood/*drug therapy/pathology
+Japan
+Kidney/*drug effects/metabolism/pathology
+Kidney Diseases/blood/*drug therapy/pathology
+Male
+Middle Aged
+Proteinuria/blood/drug therapy
+Receptors, Immunologic/*antagonists & inhibitors/blood
+Time Factors
+Treatment Outcome

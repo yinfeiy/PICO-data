@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Electric Stimulation Therapy/*methods
+Female
+Humans
+Lactoferrin/blood
+Male
+Middle Aged
+Severity of Illness Index
+Stomach Ulcer/blood/diagnosis/*therapy
+Treatment Outcome
+Tumor Necrosis Factor-alpha/blood
+Young Adult

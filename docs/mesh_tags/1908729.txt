@@ -1,0 +1,16 @@
+Bone Marrow Transplantation/*adverse effects
+Double-Blind Method
+Europe/epidemiology
+Graft Survival/drug effects
+Granulocyte-Macrophage Colony-Stimulating Factor/pharmacology/*therapeutic use
+Hematopoiesis/drug effects
+Humans
+Immunologic Factors/pharmacology/*therapeutic use
+Infection/etiology/mortality
+*Infection Control
+Leukocyte Count/drug effects
+Lymphocyte Depletion
+Neutropenia/complications/therapy
+Prospective Studies
+Recombinant Proteins/pharmacology/therapeutic use
+T-Lymphocytes/immunology

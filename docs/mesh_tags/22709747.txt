@@ -1,0 +1,10 @@
+Electrophysiologic Techniques, Cardiac
+Heart/innervation
+Heart Failure/etiology/mortality/*physiopathology/*therapy
+Humans
+Patient Selection
+Research Design
+Treatment Outcome
+Vagus Nerve/*physiopathology
+Vagus Nerve Stimulation/*instrumentation
+Ventricular Dysfunction, Left/complications

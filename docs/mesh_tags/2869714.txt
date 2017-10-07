@@ -1,0 +1,18 @@
+Adult
+Ampicillin/analogs & derivatives/therapeutic use
+*Anesthesia, General
+Azlocillin/therapeutic use
+Drug Synergism
+Electromyography
+Female
+Humans
+Male
+Mezlocillin/therapeutic use
+Neuromuscular Blocking Agents/*administration & dosage
+Neuromuscular Junction/drug effects
+Pancuronium/administration & dosage/*analogs & derivatives
+Penicillins/*therapeutic use
+Piperacillin/therapeutic use
+*Premedication
+Synaptic Transmission/drug effects
+Vecuronium Bromide

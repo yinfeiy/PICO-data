@@ -1,0 +1,18 @@
+Acute Disease
+Adult
+Aged
+Akathisia, Drug-Induced/etiology
+Antipsychotic Agents/administration & dosage/adverse effects/*therapeutic use
+Bipolar Disorder/*drug therapy
+Double-Blind Method
+Drug Administration Schedule
+Dyspepsia/chemically induced
+Female
+Humans
+Male
+Middle Aged
+Piperazines/administration & dosage/adverse effects/*therapeutic use
+Severity of Illness Index
+Treatment Outcome
+Tremor/chemically induced
+Vomiting/chemically induced

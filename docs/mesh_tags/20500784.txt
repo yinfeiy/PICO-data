@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Child
+Child Development Disorders, Pervasive/*psychology/*therapy
+Female
+Humans
+Leisure Activities/*psychology
+Male
+Patient Satisfaction
+Quality of Life/*psychology
+Recreation Therapy/*organization & administration
+Social Behavior
+Stress, Psychological/*psychology
+Young Adult

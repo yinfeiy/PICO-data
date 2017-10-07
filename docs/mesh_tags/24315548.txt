@@ -1,0 +1,24 @@
+Adolescent
+Adult
+Aged
+Angioplasty, Balloon/adverse effects/*methods/mortality
+Arteriovenous Shunt, Surgical/*adverse effects/mortality
+Blood Vessel Prosthesis Implantation/*adverse effects/mortality
+Child
+Child, Preschool
+Constriction, Pathologic
+Female
+Graft Occlusion, Vascular/diagnosis/etiology/mortality/physiopathology/*therapy
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Pressure
+Prospective Studies
+Recurrence
+*Renal Dialysis
+Singapore
+Time Factors
+Treatment Outcome
+Vascular Patency
+Young Adult

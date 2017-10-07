@@ -1,0 +1,16 @@
+Adult
+Alabama
+Analysis of Variance
+Cocaine-Related Disorders/psychology/*rehabilitation
+Day Care, Medical
+Employment, Supported
+Female
+*Homeless Persons/psychology
+Housing
+Humans
+Male
+Patient Compliance/*psychology
+Recurrence
+*Reinforcement (Psychology)
+Substance Abuse Detection
+Survival Analysis

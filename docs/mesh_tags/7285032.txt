@@ -1,0 +1,14 @@
+Adult
+Blood Urea Nitrogen
+Creatinine/blood
+Glomerular Filtration Rate/drug effects
+Hemodynamics/drug effects
+Humans
+Hypertension/drug therapy/*physiopathology
+Kidney/*blood supply
+Male
+Middle Aged
+Prazosin/*pharmacology/therapeutic use
+Propranolol/*pharmacology/therapeutic use
+Quinazolines/*pharmacology
+Renal Circulation/*drug effects

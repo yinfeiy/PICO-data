@@ -1,0 +1,24 @@
+Aged
+Analysis of Variance
+Arterial Occlusive Diseases/blood/complications/physiopathology/*therapy
+Biomarkers/blood
+Cholesterol/blood
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Exercise Test
+*Exercise Therapy
+Exercise Tolerance
+Female
+Fibrinogen/*metabolism
+*Hematocrit
+Humans
+Intermittent Claudication/blood/etiology/physiopathology/*therapy
+Lipids/*blood
+Male
+Middle Aged
+Poland
+Recovery of Function
+Time Factors
+Treatment Outcome
+Triglycerides/blood
+*Walking

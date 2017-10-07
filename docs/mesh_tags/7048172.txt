@@ -1,0 +1,10 @@
+Adult
+Antineoplastic Agents/*therapeutic use
+BCG Vaccine/*therapeutic use
+Clinical Trials as Topic
+Female
+Humans
+Lymphoma/drug therapy/radiotherapy/*therapy
+Male
+Middle Aged
+Random Allocation

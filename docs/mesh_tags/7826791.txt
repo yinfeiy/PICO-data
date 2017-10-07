@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+*Anesthesia, Spinal
+Blood Pressure/drug effects
+Bupivacaine/administration & dosage
+Clonidine/*administration & dosage
+Female
+*Hip Prosthesis
+Humans
+Male
+Meperidine/*administration & dosage
+Middle Aged
+Morphine/administration & dosage
+Pain Measurement
+Pain, Postoperative/prevention & control

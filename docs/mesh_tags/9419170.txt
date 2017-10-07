@@ -1,0 +1,17 @@
+AIDS-Related Opportunistic Infections/diagnosis/*drug therapy/virology
+Acyclovir/administration & dosage/*analogs & derivatives/therapeutic use
+Adult
+Antiviral Agents/administration & dosage/*therapeutic use
+CD4 Lymphocyte Count
+Cytomegalovirus/*drug effects/*isolation & purification
+Cytomegalovirus Infections/diagnosis/*drug therapy/urine
+DNA, Viral/isolation & purification
+Double-Blind Method
+Female
+Humans
+Male
+Multivariate Analysis
+Polymerase Chain Reaction
+Prognosis
+Valine/administration & dosage/*analogs & derivatives/therapeutic use
+Viremia/diagnosis/drug therapy

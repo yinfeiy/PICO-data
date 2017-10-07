@@ -1,0 +1,14 @@
+Adult
+Anticonvulsants/administration & dosage/adverse effects/*therapeutic use
+Dose-Response Relationship, Drug
+Eclampsia/*drug therapy
+Female
+Humans
+India
+Injections, Intravenous
+Magnesium Sulfate/administration & dosage/adverse effects/*therapeutic use
+Pre-Eclampsia/*drug therapy
+Pregnancy
+Pregnancy Outcome
+Treatment Outcome
+Young Adult

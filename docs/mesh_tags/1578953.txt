@@ -1,0 +1,20 @@
+6-Mercaptopurine/administration & dosage
+Adolescent
+Adult
+Amsacrine/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Cytarabine/administration & dosage
+DNA/*therapeutic use
+*DNA Adducts
+Daunorubicin/administration & dosage
+Doxorubicin/*therapeutic use
+Drug Administration Schedule
+Humans
+Leukemia, Myeloid, Acute/*drug therapy/mortality
+Methotrexate/administration & dosage
+Middle Aged
+Prednisolone/administration & dosage
+Prednisone/administration & dosage
+Survival Analysis
+Thioguanine/administration & dosage
+Vincristine/administration & dosage

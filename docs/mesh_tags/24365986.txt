@@ -1,0 +1,14 @@
+Adult
+Aged
+Area Under Curve
+Cross-Over Studies
+Delayed-Action Preparations
+Drug Therapy, Combination
+Female
+Humans
+Immunosuppressive Agents/administration & dosage/*pharmacokinetics/*pharmacology
+*Kidney Transplantation
+Male
+Middle Aged
+Mycophenolic Acid/*analogs & derivatives/pharmacokinetics
+Tacrolimus/*administration & dosage/*pharmacology

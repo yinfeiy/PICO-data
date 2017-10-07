@@ -1,0 +1,10 @@
+Adult
+Drugs, Chinese Herbal/*therapeutic use
+Endometriosis/complications/*therapy
+Female
+Humans
+Infertility, Female/etiology/*therapy
+Integrative Medicine
+Laparoscopy
+*Phytotherapy
+Treatment Outcome

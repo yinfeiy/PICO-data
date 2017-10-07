@@ -1,0 +1,16 @@
+Adjuvants, Immunologic/*therapeutic use
+Adult
+Aged
+Aged, 80 and over
+BCG Vaccine/*therapeutic use
+Cancer Vaccines/*therapeutic use
+Colonic Neoplasms/immunology/pathology/surgery/*therapy
+Disease-Free Survival
+Female
+Humans
+*Immunotherapy/methods
+*Immunotherapy, Active
+Male
+Middle Aged
+Neoplasm Staging
+Prospective Studies

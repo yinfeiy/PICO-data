@@ -1,0 +1,17 @@
+Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+Adult
+Aged
+Atrial Fibrillation/*drug therapy/physiopathology
+Atrial Flutter/*drug therapy/physiopathology
+Blood Pressure/drug effects
+Clinical Trials as Topic
+Digoxin/therapeutic use
+Female
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Multicenter Studies as Topic
+Propanolamines/adverse effects/*therapeutic use
+Random Allocation
+Verapamil/adverse effects/*therapeutic use

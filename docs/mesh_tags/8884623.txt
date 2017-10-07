@@ -1,0 +1,25 @@
+Adult
+Aged
+Anti-Inflammatory Agents, Non-Steroidal/administration & dosage/*therapeutic use
+Brain/*drug effects/metabolism
+Brain Ischemia/prevention & control
+Cerebrovascular Circulation/*drug effects
+*Craniotomy
+Dura Mater/drug effects
+Female
+Humans
+Hypocapnia/physiopathology
+Indomethacin/administration & dosage/*therapeutic use
+Injections, Intravenous
+Intracranial Pressure/*drug effects
+*Intraoperative Care
+Lactates/blood
+Male
+Mannitol/therapeutic use
+Middle Aged
+Oxygen/blood
+Oxygen Consumption/drug effects
+Placebos
+Pseudotumor Cerebri/drug therapy
+Supratentorial Neoplasms/*surgery
+Transducers, Pressure

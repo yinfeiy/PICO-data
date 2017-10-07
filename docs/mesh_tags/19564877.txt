@@ -1,0 +1,13 @@
+Adult
+Appetite Depressants/*therapeutic use
+Body Weight
+Diet, Reducing
+Diethylpropion/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Obesity/diet therapy/*drug therapy/physiopathology
+Placebos/therapeutic use
+Treatment Outcome
+Weight Loss/*drug effects/physiology

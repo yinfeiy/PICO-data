@@ -1,0 +1,14 @@
+Adult
+Aged
+Angina Pectoris/*drug therapy
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Hemodynamics/drug effects
+Humans
+Male
+Middle Aged
+Nitroglycerin/administration & dosage
+Physical Exertion
+Random Allocation
+Verapamil/blood/*therapeutic use

@@ -1,0 +1,13 @@
+Adult
+Aged
+Anti-Ulcer Agents/*administration & dosage
+Chronic Disease
+Double-Blind Method
+Esomeprazole/*administration & dosage
+Esophagitis/*drug therapy
+Female
+Heartburn/*drug therapy
+Humans
+Male
+Middle Aged
+Treatment Outcome

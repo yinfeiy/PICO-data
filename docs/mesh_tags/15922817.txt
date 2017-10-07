@@ -1,0 +1,13 @@
+Adult
+Aged
+Amlodipine/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Calcium Channel Blockers/adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Hypertension/classification/*drug therapy
+Korea
+Male
+Middle Aged
+Severity of Illness Index

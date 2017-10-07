@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Drug Administration Schedule
+Factor VIII/chemistry/*therapeutic use
+Hemophilia A/*drug therapy
+Hemorrhage/drug therapy
+Humans
+International Cooperation
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Quality of Life
+Sucrose/chemistry/*therapeutic use
+Treatment Outcome
+Young Adult

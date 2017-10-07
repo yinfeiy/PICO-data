@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Clinical Trials as Topic
+Diclofenac/*therapeutic use
+Double-Blind Method
+Female
+Glomerulonephritis/*drug therapy
+Glomerulonephritis, IGA/*drug therapy
+Humans
+Male
+Middle Aged
+Proteinuria/*drug therapy
+Time Factors

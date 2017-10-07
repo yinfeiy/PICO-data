@@ -1,0 +1,14 @@
+Adult
+Analgesics/*administration & dosage/pharmacology
+Blood Proteins/metabolism
+Double-Blind Method
+Drug Interactions
+Factor VII/analysis
+Humans
+Isomerism
+Ketorolac
+Male
+Metabolic Clearance Rate
+Prothrombin Time
+Tolmetin/administration & dosage/*analogs & derivatives/pharmacology
+Warfarin/administration & dosage/blood/*pharmacokinetics/*pharmacology

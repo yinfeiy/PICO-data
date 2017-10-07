@@ -1,0 +1,15 @@
+Adult
+Brain/*diagnostic imaging/*drug effects
+Carbon Radioisotopes/pharmacokinetics
+Double-Blind Method
+Fluoxetine/pharmacology
+Follow-Up Studies
+Humans
+Magnetic Resonance Imaging
+Male
+Piperidines/*pharmacokinetics
+*Positron-Emission Tomography
+Protein Binding/drug effects
+Receptors, Serotonin, 5-HT4/*metabolism
+Serotonin Uptake Inhibitors/pharmacology
+Young Adult

@@ -1,0 +1,12 @@
+Animals
+Anti-Inflammatory Agents, Non-Steroidal/therapeutic use
+Cat Diseases/*drug therapy
+Cats
+Chondroitin/administration & dosage/*therapeutic use
+Dietary Supplements
+Female
+Glucosamine/administration & dosage/*therapeutic use
+Male
+Osteoarthritis/drug therapy/*veterinary
+Thiazines/*therapeutic use
+Thiazoles/*therapeutic use

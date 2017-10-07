@@ -1,0 +1,20 @@
+Adult
+Amoxicillin/adverse effects/therapeutic use
+Anti-Bacterial Agents/adverse effects/*therapeutic use
+Anti-Ulcer Agents/adverse effects/therapeutic use
+Clarithromycin/adverse effects/therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Esomeprazole/adverse effects/*therapeutic use
+Female
+Gastroscopy
+Helicobacter Infections/complications/*drug therapy
+Helicobacter pylori/*drug effects/isolation & purification
+Humans
+Male
+Middle Aged
+Secondary Prevention
+Severity of Illness Index
+Stomach Ulcer/*drug therapy/microbiology/prevention & control
+Treatment Outcome
+Young Adult

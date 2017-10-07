@@ -1,0 +1,12 @@
+Adult
+Aged
+Amino Acids, Branched-Chain/*therapeutic use
+Digestive System Surgical Procedures/adverse effects
+Fatigue/etiology/*therapy
+Female
+Humans
+Male
+Middle Aged
+*Nutritional Status
+*Parenteral Nutrition
+Postoperative Period

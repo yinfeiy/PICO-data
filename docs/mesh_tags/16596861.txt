@@ -1,0 +1,9 @@
+Adult
+Coronary Disease/drug therapy/*nursing/therapy
+Evidence-Based Medicine
+Humans
+Medical Audit
+Mental Recall
+*Nurses
+Patient Education as Topic
+Self Care

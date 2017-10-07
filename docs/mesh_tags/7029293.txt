@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Bone Neoplasms/mortality/radiotherapy/*therapy
+Child
+Clinical Trials as Topic
+Cyclophosphamide/administration & dosage
+Dactinomycin/administration & dosage
+Doxorubicin/administration & dosage
+Drug Therapy, Combination
+Female
+Humans
+Male
+Neoplasm Metastasis
+Prognosis
+Sarcoma, Ewing/mortality/radiotherapy/*therapy
+Time Factors
+Vincristine/administration & dosage

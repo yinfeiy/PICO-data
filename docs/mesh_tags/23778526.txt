@@ -1,0 +1,21 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/therapeutic use
+Biomarkers, Tumor/blood
+Carcinoma, Renal Cell/drug therapy/immunology/*mortality
+Female
+Humans
+*Inflammation
+Kaplan-Meier Estimate
+Kidney Neoplasms/drug therapy/immunology/*mortality
+Leukocyte Count
+Male
+Megestrol Acetate/therapeutic use
+Middle Aged
+Platelet Count
+Prognosis
+Quinazolines/therapeutic use
+Serum Albumin/analysis
+Tamoxifen/therapeutic use
+Young Adult

@@ -1,0 +1,23 @@
+Adult
+Braces/*statistics & numerical data
+Cost of Illness
+Female
+Health Services/statistics & numerical data/utilization
+Health Status Indicators
+Humans
+Industry/*statistics & numerical data
+Low Back Pain/epidemiology/physiopathology/*therapy
+Male
+Middle Aged
+Occupational Diseases/epidemiology/physiopathology/*therapy
+Odds Ratio
+Pain Measurement
+Patient Education as Topic/*statistics & numerical data
+Proportional Hazards Models
+Recovery of Function
+Risk Assessment
+Secondary Prevention
+Sick Leave/statistics & numerical data
+Time Factors
+Treatment Outcome
+United States/epidemiology

@@ -1,0 +1,11 @@
+Aged
+*Arthroplasty, Replacement, Knee
+Blood Loss, Surgical
+*Blood Transfusion, Autologous
+Female
+Humans
+Male
+Operative Blood Salvage/*instrumentation
+Osteoarthritis, Knee/*surgery
+Prospective Studies
+Treatment Outcome

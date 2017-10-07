@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents, Hormonal/administration & dosage/adverse effects/therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Biomarkers, Tumor
+Breast Neoplasms/*drug therapy/metabolism
+Drug-Related Side Effects and Adverse Reactions
+Female
+Humans
+Middle Aged
+Neoplasms, Hormone-Dependent/*drug therapy
+Placebos
+Quinazolines/*administration & dosage/adverse effects/pharmacokinetics
+Receptor, Epidermal Growth Factor/antagonists & inhibitors
+Receptor, ErbB-2/analysis
+Receptors, Estrogen/antagonists & inhibitors
+Signal Transduction/drug effects
+Tamoxifen/*administration & dosage/adverse effects/pharmacokinetics
+Treatment Outcome

@@ -1,0 +1,11 @@
+Aged
+Bendroflumethiazide/*pharmacology
+Blood Pressure/*drug effects
+Bumetanide/*pharmacology
+Diuretics/*pharmacology
+Female
+Humans
+Male
+Middle Aged
+Random Allocation
+Xipamide/*pharmacology

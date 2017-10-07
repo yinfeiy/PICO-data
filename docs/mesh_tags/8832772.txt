@@ -1,0 +1,17 @@
+Adolescent
+Adrenocorticotropic Hormone/administration & dosage/*analogs & derivatives
+Anticonvulsants/*administration & dosage
+Arousal/*drug effects/physiology
+Attention/*drug effects/physiology
+Autistic Disorder/*drug therapy/physiopathology
+Brain Mapping
+Cerebral Cortex/*drug effects/physiopathology
+Child
+Double-Blind Method
+Electroencephalography/*drug effects
+Evoked Potentials/drug effects/physiology
+Female
+Humans
+Male
+Occipital Lobe/drug effects/physiopathology
+Peptide Fragments/*administration & dosage

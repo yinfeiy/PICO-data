@@ -1,0 +1,12 @@
+Adult
+Diuretics/*pharmacology
+Excitatory Postsynaptic Potentials
+Female
+Furosemide/*pharmacology
+Humans
+*Inhibitory Postsynaptic Potentials
+Interneurons/*drug effects/physiology
+Male
+Middle Aged
+Motor Neurons/*drug effects/physiology
+Spinal Cord/cytology/drug effects/*physiology

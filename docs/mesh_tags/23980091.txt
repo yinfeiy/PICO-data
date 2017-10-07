@@ -1,0 +1,16 @@
+Aged
+Antineoplastic Agents/adverse effects/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology/surgery
+Chemotherapy, Adjuvant
+Disease-Free Survival
+Double-Blind Method
+Female
+Humans
+Lung Neoplasms/*drug therapy/pathology/surgery
+Male
+Neoplasm Staging
+Placebos
+Prospective Studies
+Quinazolines/adverse effects/*therapeutic use
+Survival Rate
+Treatment Outcome

@@ -1,0 +1,14 @@
+Aged
+Albuminuria/complications/*drug therapy/*etiology
+Angiotensin II Type 1 Receptor Blockers/therapeutic use
+Arteriosclerosis Obliterans/complications/drug therapy
+Aspirin/therapeutic use
+Chemokine CCL2/*blood/*urine
+Diabetes Mellitus, Type 2/*complications
+Diabetic Nephropathies/*complications/*drug therapy
+Female
+Humans
+Male
+Platelet Aggregation Inhibitors/*therapeutic use
+Succinates/*therapeutic use
+Thiazolidinediones/therapeutic use

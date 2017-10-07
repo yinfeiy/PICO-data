@@ -1,0 +1,11 @@
+Adult
+DNA, Viral/blood
+Female
+Hepatitis B Vaccines/*immunology
+Hepatitis B, Chronic/*immunology
+Humans
+Interferon-gamma/biosynthesis
+Male
+Recombinant Proteins/immunology
+T-Lymphocytes/*immunology
+Vaccines, Synthetic/*immunology

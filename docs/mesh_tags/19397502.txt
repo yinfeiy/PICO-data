@@ -1,0 +1,21 @@
+Adult
+Aged
+Algorithms
+*Anesthesia, Epidural
+Blood Pressure/drug effects
+Endpoint Determination
+Female
+Humans
+Male
+Middle Aged
+Oximetry/*methods
+Perfusion
+Photoplethysmography
+Prospective Studies
+Regional Blood Flow/drug effects
+Sample Size
+Skin Temperature/drug effects
+*Sympathectomy
+Toes/blood supply
+Vasodilation/physiology
+Young Adult

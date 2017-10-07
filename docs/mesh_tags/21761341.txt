@@ -1,0 +1,19 @@
+17-Hydroxysteroid Dehydrogenases/biosynthesis
+3-Oxo-5-alpha-Steroid 4-Dehydrogenase/*biosynthesis
+Androstadienes/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Aromatase Inhibitors/*therapeutic use
+Breast Neoplasms/*drug therapy/*metabolism
+Carcinoma, Ductal, Breast/drug therapy/*metabolism
+Celecoxib
+Cell Proliferation/*drug effects
+Female
+Humans
+Immunohistochemistry
+Neoadjuvant Therapy
+Nitriles/administration & dosage
+Pyrazoles/administration & dosage
+Receptors, Androgen/biosynthesis
+Sulfonamides/administration & dosage
+Treatment Outcome
+Triazoles/administration & dosage

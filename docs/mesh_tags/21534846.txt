@@ -1,0 +1,13 @@
+Behavior Therapy/methods
+Bupropion/therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Neoplasms/*complications/diagnosis/epidemiology
+Nicotine/therapeutic use
+Placebos
+Prognosis
+Smoking/epidemiology/*therapy
+*Smoking Cessation/methods/statistics & numerical data
+Treatment Outcome

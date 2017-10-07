@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Blood Proteins/*drug effects
+Cholesterol/blood
+Cholesterol, HDL/blood/drug effects
+Cholesterol, LDL/blood/drug effects
+Contraceptive Agents, Female/administration & dosage/pharmacology
+*Contraceptive Devices, Female
+Contraceptives, Oral, Combined/administration & dosage/*pharmacology
+Ethinyl Estradiol/administration & dosage/pharmacology
+Female
+Humans
+Levonorgestrel/administration & dosage/pharmacology
+Menstrual Cycle
+Norprogesterones/administration & dosage/pharmacology
+Sex Hormone-Binding Globulin/drug effects
+Triglycerides/blood

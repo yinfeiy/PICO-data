@@ -1,0 +1,15 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bleomycin/administration & dosage
+Chlorambucil/administration & dosage
+Cisplatin/administration & dosage
+Cyclophosphamide/administration & dosage
+Dactinomycin/administration & dosage
+Doxorubicin/administration & dosage
+Drug Administration Schedule
+Etoposide/administration & dosage
+Humans
+Male
+Prognosis
+Survival Rate
+Testicular Neoplasms/*drug therapy/mortality/pathology
+Vinblastine/administration & dosage

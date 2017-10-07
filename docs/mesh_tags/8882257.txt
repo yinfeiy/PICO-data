@@ -1,0 +1,11 @@
+Adult
+Anesthetics, Intravenous/administration & dosage/*adverse effects
+Female
+Humans
+Injections, Intravenous
+Lidocaine/therapeutic use
+Male
+Pain/chemically induced/*prevention & control
+*Phlebotomy
+Propofol/administration & dosage/*adverse effects
+Single-Blind Method

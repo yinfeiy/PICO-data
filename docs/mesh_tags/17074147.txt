@@ -1,0 +1,15 @@
+Aged
+Antidepressive Agents/*therapeutic use
+Antidepressive Agents, Second-Generation/therapeutic use
+Antihypertensive Agents/*therapeutic use
+Blood Pressure Monitoring, Ambulatory
+Depressive Disorder/complications/*drug therapy
+Female
+Fluoxetine/therapeutic use
+Humans
+Hydrochlorothiazide/therapeutic use
+Hypertension/complications/*drug therapy
+Male
+Middle Aged
+Nifedipine/therapeutic use
+Treatment Outcome

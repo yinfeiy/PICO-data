@@ -1,0 +1,22 @@
+Adrenal Gland Neoplasms/pathology/*surgery
+Adrenalectomy/*methods
+Adult
+Aged
+Electrocoagulation/instrumentation
+Equipment Design
+Equipment Safety
+Female
+Follow-Up Studies
+Hemostasis, Surgical/*instrumentation/methods
+Humans
+Intraoperative Complications/prevention & control
+Laparoscopy/*methods
+Length of Stay
+Male
+Middle Aged
+Minimally Invasive Surgical Procedures
+Neoplasm Staging
+Pain, Postoperative/physiopathology
+Probability
+Prospective Studies
+Treatment Outcome

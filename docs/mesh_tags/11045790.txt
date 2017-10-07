@@ -1,0 +1,15 @@
+Aged
+Antineoplastic Agents/adverse effects/*therapeutic use
+Biomarkers, Tumor/*analysis
+DNA, Neoplasm/analysis/*genetics
+Disease-Free Survival
+Female
+Fenretinide/adverse effects/*therapeutic use
+Flow Cytometry
+Humans
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+Treatment Outcome
+Urinary Bladder/pathology
+Urinary Bladder Neoplasms/*drug therapy/*genetics

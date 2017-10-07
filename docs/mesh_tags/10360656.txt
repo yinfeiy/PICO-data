@@ -1,0 +1,17 @@
+Aged
+Antimetabolites, Antineoplastic/administration & dosage/adverse effects/*therapeutic use
+Antineoplastic Agents/administration & dosage/adverse effects/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Colorectal Neoplasms/*drug therapy/*therapy
+Combined Modality Therapy
+Disease Progression
+Drug Administration Schedule
+Drug Synergism
+Female
+Fluorouracil/administration & dosage/adverse effects/*therapeutic use
+Humans
+Infusions, Intravenous
+Interferon-beta/administration & dosage/adverse effects/*therapeutic use
+Male
+Middle Aged
+Survival Analysis

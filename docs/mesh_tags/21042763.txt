@@ -1,0 +1,20 @@
+Adenocarcinoma/*blood/*diagnosis/drug therapy
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Biomarkers, Pharmacological/analysis/blood
+Biomarkers, Tumor/*analysis/*blood
+Blood Chemical Analysis/methods
+Camptothecin/administration & dosage/analogs & derivatives
+Disease Progression
+Female
+Fluorouracil/administration & dosage
+Gastrointestinal Neoplasms/*blood/*diagnosis/drug therapy
+Humans
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Predictive Value of Tests
+Prognosis
+Taxoids/administration & dosage
+Upper Gastrointestinal Tract/pathology

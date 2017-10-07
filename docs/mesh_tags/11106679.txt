@@ -1,0 +1,24 @@
+Adult
+Aged
+Anti-Bacterial Agents/*therapeutic use
+Antioxidants/*therapeutic use
+Ascorbic Acid/*therapeutic use
+Biopsy
+Cell Transformation, Neoplastic
+Disease Progression
+Drug Therapy, Combination
+Female
+Gastritis, Atrophic/blood/*drug therapy/microbiology/pathology
+Helicobacter Infections/blood/*drug therapy/microbiology/pathology
+Helicobacter pylori/*drug effects
+Humans
+Logistic Models
+Male
+Middle Aged
+Precancerous Conditions/blood/*drug therapy/pathology
+Remission, Spontaneous
+Risk
+Stomach/microbiology/*pathology
+Stomach Neoplasms/blood/*microbiology/pathology/*prevention & control
+Treatment Outcome
+beta Carotene/*therapeutic use

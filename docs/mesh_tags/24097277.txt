@@ -1,0 +1,13 @@
+Aged
+Disease Progression
+Humans
+*Laser Therapy/adverse effects/methods
+Lower Urinary Tract Symptoms/etiology/physiopathology/*surgery
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*prevention & control
+Prospective Studies
+Prostatic Hyperplasia/complications/*surgery
+Urinary Bladder Neck Obstruction/etiology/physiopathology/*surgery
+Urinary Bladder Neoplasms/complications/*surgery
+Urodynamics

@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use/toxicity
+Carcinoma/drug therapy/*secondary
+Cisplatin/*administration & dosage/toxicity
+Colonic Neoplasms/drug therapy/*secondary
+Female
+Fluorouracil/*administration & dosage/toxicity
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Prospective Studies
+Rectal Neoplasms/drug therapy/*secondary
+Remission Induction

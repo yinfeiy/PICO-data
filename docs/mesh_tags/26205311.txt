@@ -1,0 +1,22 @@
+Acute Kidney Injury/etiology/prevention & control
+Acute Lung Injury/etiology/prevention & control
+Adult
+Aged
+Biomarkers/metabolism
+Coronary Vessels/physiology
+Double-Blind Method
+Female
+Heart Valve Diseases/*surgery
+*Heart Valve Prosthesis Implantation
+Humans
+Ischemic Preconditioning/*methods
+Kidney/blood supply/metabolism
+Liver/blood supply/metabolism
+Lung/blood supply/metabolism
+Male
+Middle Aged
+Myocardium/metabolism
+Prospective Studies
+Reperfusion Injury/*prevention & control
+Rheumatic Heart Disease/*surgery
+Treatment Outcome

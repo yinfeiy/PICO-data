@@ -1,0 +1,18 @@
+Adolescent
+Cariostatic Agents/administration & dosage/chemistry/*therapeutic use
+Caseins/administration & dosage/*therapeutic use
+Child
+Dental Caries/diagnosis/*drug therapy/etiology
+Dental Caries Activity Tests
+Dentifrices/chemistry/*therapeutic use
+Female
+Fluorescence
+Humans
+Lasers
+Male
+Mouthwashes/chemistry/therapeutic use
+Orthodontic Brackets/adverse effects
+Single-Blind Method
+Sodium Fluoride/administration & dosage/therapeutic use
+Statistics, Nonparametric
+Tooth Remineralization/*methods

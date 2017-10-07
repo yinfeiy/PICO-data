@@ -1,0 +1,8 @@
+Adult
+Analysis of Variance
+Bilirubin/*blood
+Cross-Over Studies
+Fasting/*blood
+Humans
+Hyperbilirubinemia/blood/*physiopathology
+Male

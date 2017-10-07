@@ -1,0 +1,10 @@
+Analgesia/*psychology
+Blood Pressure/physiology
+Female
+Heart Rate/physiology
+Humans
+Male
+Pain/physiopathology/*psychology
+Pain Measurement/*psychology
+*Placebo Effect
+Young Adult

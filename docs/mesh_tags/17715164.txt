@@ -1,0 +1,18 @@
+Administration, Inhalation
+Adult
+Aged
+Aged, 80 and over
+Carbon Monoxide/*administration & dosage/adverse effects/*therapeutic use
+Eosinophils/cytology
+Female
+Forced Expiratory Volume
+Health Status
+Humans
+Inflammation/*drug therapy
+Lung/pathology
+Male
+Methacholine Chloride/metabolism
+Middle Aged
+Pilot Projects
+Pulmonary Disease, Chronic Obstructive/*drug therapy
+Sputum/cytology

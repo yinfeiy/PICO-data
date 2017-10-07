@@ -1,0 +1,13 @@
+Adult
+Blood Flow Velocity/physiology
+Computer Simulation
+Female
+Humans
+Hypotension/*blood
+Kidney Failure, Chronic/*blood/*therapy
+*Kidneys, Artificial
+Male
+Middle Aged
+Sodium/*blood
+Software
+Water-Electrolyte Balance/*physiology

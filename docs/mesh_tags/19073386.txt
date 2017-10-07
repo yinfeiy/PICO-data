@@ -1,0 +1,19 @@
+Administration, Topical
+Adolescent
+Adult
+Aged
+Anti-Infective Agents, Local/*administration & dosage
+Bandages
+Burns/*drug therapy
+Female
+Humans
+Male
+Middle Aged
+Ointments/*administration & dosage
+Pain Threshold/drug effects
+Severity of Illness Index
+Silver Sulfadiazine/*administration & dosage
+Treatment Outcome
+Water/metabolism
+Wound Healing/drug effects
+Young Adult

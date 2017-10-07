@@ -1,0 +1,15 @@
+Administration, Oral
+Calcium/metabolism
+Coronary Circulation/drug effects
+Coronary Disease/*drug therapy/physiopathology
+Cyclic AMP/metabolism
+Dose-Response Relationship, Drug
+Electrocardiography, Ambulatory/drug effects
+Enoximone/*administration & dosage/adverse effects
+Exercise Test/drug effects
+Gallopamil/administration & dosage/adverse effects
+Hemodynamics/drug effects/physiology
+Humans
+Infusions, Intravenous
+Myocardial Contraction/drug effects/physiology
+Myocardial Ischemia/*drug therapy/physiopathology

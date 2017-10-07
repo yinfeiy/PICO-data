@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Chemotherapy, Adjuvant
+Female
+Follow-Up Studies
+Humans
+Lymphoma, B-Cell/*drug therapy/*radiotherapy
+Male
+Middle Aged
+Parotid Neoplasms/*drug therapy/*radiotherapy
+Prospective Studies
+Radiotherapy, High-Energy
+Survival Rate

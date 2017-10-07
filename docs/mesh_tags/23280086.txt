@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Disease-Free Survival
+Female
+Humans
+Male
+Middle Aged
+Precursor Cell Lymphoblastic Leukemia-Lymphoma/*drug therapy/mortality
+Prospective Studies
+Remission Induction
+Young Adult

@@ -1,0 +1,20 @@
+Adult
+Aged
+Amino Acids, Branched-Chain/*therapeutic use
+Blood Glucose/analysis
+Caseins/therapeutic use
+Chronic Disease
+Double-Blind Method
+Female
+Glucagon/blood
+Hepatic Encephalopathy/*drug therapy/epidemiology/metabolism
+Humans
+Insulin/blood
+Liver Cirrhosis/metabolism/physiopathology
+Male
+Middle Aged
+Multicenter Studies as Topic
+Nitrogen/metabolism
+Placebos
+Randomized Controlled Trials as Topic
+Thyroid Hormones/blood

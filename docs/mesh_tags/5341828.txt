@@ -1,0 +1,17 @@
+Adult
+Aged
+Aging
+Aspartate Aminotransferases/blood
+Blood Coagulation Tests
+Body Weight
+Cholesterol
+Clinical Trials as Topic
+Coronary Disease/*drug therapy
+Female
+Heparin/*therapeutic use
+Humans
+Injections, Subcutaneous
+Lipoprotein Lipase/blood
+Male
+Middle Aged
+Placebos

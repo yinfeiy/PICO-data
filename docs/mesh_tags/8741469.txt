@@ -1,0 +1,13 @@
+Abdomen/*physiology
+Adult
+*Analgesia, Epidural
+Female
+Humans
+Intraoperative Period
+Male
+Middle Aged
+*Movement
+Postoperative Period
+*Respiration
+Stomach Neoplasms/surgery
+Thorax/*physiology

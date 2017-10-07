@@ -1,0 +1,12 @@
+Adult
+Aged
+Female
+Humans
+*Laser Therapy
+Male
+Middle Aged
+Palate, Soft/*surgery
+Pharynx/*surgery
+Postoperative Complications
+Snoring/*surgery
+Uvula/*surgery

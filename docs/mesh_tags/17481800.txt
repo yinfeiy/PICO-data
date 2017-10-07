@@ -1,0 +1,17 @@
+Adult
+Arousal/drug effects/physiology
+Cerebral Cortex/blood supply/*drug effects/physiopathology
+Cognition/*drug effects/physiology
+Contingent Negative Variation/drug effects/physiology
+Double-Blind Method
+Electroencephalography/*drug effects
+Etilefrine/*therapeutic use
+Female
+Humans
+Hypotension/*drug therapy/physiopathology
+Male
+Pressoreceptors/drug effects/physiopathology
+Psychomotor Performance/drug effects/physiology
+Reaction Time/drug effects/physiology
+Regional Blood Flow/drug effects/physiology
+Sympathomimetics/*therapeutic use

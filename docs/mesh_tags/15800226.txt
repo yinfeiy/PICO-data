@@ -1,0 +1,18 @@
+Adult
+Aged
+Anticoagulants/adverse effects/*therapeutic use
+Aspirin/adverse effects/*therapeutic use
+Cardiovascular Diseases/mortality
+Double-Blind Method
+Female
+Fibrinolytic Agents/adverse effects/*therapeutic use
+Hemorrhage/chemically induced
+Humans
+Intracranial Arteriosclerosis/complications/*drug therapy
+Ischemic Attack, Transient/etiology/prevention & control
+Male
+Middle Aged
+Mortality
+Secondary Prevention
+Stroke/etiology/*prevention & control
+Warfarin/adverse effects/*therapeutic use

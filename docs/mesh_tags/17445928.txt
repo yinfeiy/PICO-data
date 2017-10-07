@@ -1,0 +1,18 @@
+Adult
+Aged
+Analysis of Variance
+Antineoplastic Agents/*therapeutic use
+Brachytherapy/methods
+Carcinoma, Squamous Cell/*drug therapy/*radiotherapy
+Chi-Square Distribution
+Cisplatin/*therapeutic use
+Combined Modality Therapy
+Esophageal Neoplasms/*drug therapy/*radiotherapy
+Female
+Humans
+Male
+Middle Aged
+Proportional Hazards Models
+Radiotherapy Dosage
+Survival Analysis
+Treatment Outcome

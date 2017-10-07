@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Glaucoma/*drug therapy
+Hemodynamics
+Humans
+Intraocular Pressure
+Male
+Middle Aged
+Ocular Hypertension/drug therapy
+Ophthalmic Solutions
+Pilocarpine/adverse effects/*therapeutic use
+Timolol/adverse effects/*therapeutic use
+Visual Acuity
+Visual Fields

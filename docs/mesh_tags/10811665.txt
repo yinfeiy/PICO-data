@@ -1,0 +1,21 @@
+Adolescent
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Central Nervous System Neoplasms/mortality/*pathology/therapy
+Child
+Child, Preschool
+Combined Modality Therapy
+Cyclophosphamide/therapeutic use
+Disease-Free Survival
+Doxorubicin/therapeutic use
+Female
+Humans
+Infant
+Leukemia, B-Cell/drug therapy/mortality/*pathology
+Lymphoma, Non-Hodgkin/drug therapy/mortality/*pathology
+Male
+Methotrexate/therapeutic use
+Prednisone/therapeutic use
+Proportional Hazards Models
+Survival Analysis
+Treatment Outcome
+Vincristine/therapeutic use

@@ -1,0 +1,15 @@
+Adult
+Aged
+Analgesia, Patient-Controlled/*methods
+Combined Modality Therapy
+Double-Blind Method
+Female
+Humans
+Isoxazoles/*administration & dosage
+Male
+Middle Aged
+Morphine/*administration & dosage
+Pain, Postoperative/*drug therapy
+*Thoracoscopy
+Thoracotomy/*methods
+Young Adult

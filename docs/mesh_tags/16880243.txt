@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Bone Density Conservation Agents/adverse effects/*therapeutic use
+Bone Neoplasms/*drug therapy/secondary
+Breast Neoplasms/*drug therapy/pathology
+Diphosphonates/adverse effects/*therapeutic use
+Dose-Response Relationship, Drug
+Female
+Humans
+Imidazoles/adverse effects/*therapeutic use
+Infusions, Intravenous
+Middle Aged
+Neoplasm Staging
+Prognosis
+Survival Rate
+Treatment Outcome

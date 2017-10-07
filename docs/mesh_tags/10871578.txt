@@ -1,0 +1,18 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Antioxidants/*metabolism
+Ascorbic Acid/blood
+Bone Marrow Neoplasms/drug therapy/*therapy
+*Bone Marrow Transplantation
+Busulfan/administration & dosage
+Cyclophosphamide/administration & dosage
+Etoposide/administration & dosage
+Female
+Glutathione/blood
+Glutathione Peroxidase/blood
+Humans
+Male
+Middle Aged
+*Parenteral Nutrition, Total
+Vitamin E/blood
+Zinc/blood

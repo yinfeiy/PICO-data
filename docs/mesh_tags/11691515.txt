@@ -1,0 +1,24 @@
+Adult
+Analysis of Variance
+Angiotensin-Converting Enzyme Inhibitors/*pharmacology
+Blood Flow Velocity/*drug effects/*physiology
+Brachial Artery/*drug effects/*physiology
+Bradykinin/*pharmacology
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Synergism
+Endothelium, Vascular/*drug effects/*physiology
+Fibrinolysis/*drug effects/*physiology
+Forearm/blood supply
+Humans
+Infusions, Intravenous
+Isoquinolines/*pharmacology
+Losartan/*pharmacology
+Male
+Nitroprusside/*pharmacology
+Plethysmography, Impedance
+Substance P/*pharmacology
+*Tetrahydroisoquinolines
+Tissue Plasminogen Activator/*drug effects/*physiology
+Vasodilator Agents/*pharmacology

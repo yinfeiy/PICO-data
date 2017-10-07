@@ -1,0 +1,15 @@
+Adjuvants, Anesthesia/*administration & dosage
+Adrenergic alpha-Agonists/*administration & dosage
+Amides/*administration & dosage
+*Anesthesia, Caudal
+Anesthetics, Local/*administration & dosage
+Child
+Child, Preschool
+Clonidine/*administration & dosage
+Double-Blind Method
+Female
+Humans
+Infant
+Male
+Pain, Postoperative
+Prospective Studies

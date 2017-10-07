@@ -1,0 +1,15 @@
+Adult
+Aged
+Blood Pressure/*drug effects
+Dose-Response Relationship, Drug
+Female
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasms/*drug therapy/pathology/physiopathology
+Niacinamide/administration & dosage/*analogs & derivatives/pharmacokinetics
+Phenylurea Compounds/*administration & dosage/pharmacokinetics
+Prospective Studies
+Receptors, Vascular Endothelial Growth Factor/*antagonists & inhibitors
+Young Adult

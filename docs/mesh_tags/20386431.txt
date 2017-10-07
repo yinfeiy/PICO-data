@@ -1,0 +1,12 @@
+Aged
+Dalteparin/chemistry/*pharmacology
+Disease Progression
+Female
+Humans
+Male
+Middle Aged
+Molecular Weight
+Neoplasm Invasiveness/*prevention & control
+Pancreatic Neoplasms/blood/*complications/drug therapy/*pathology
+Thromboplastin/*drug effects/metabolism
+Venous Thromboembolism/blood/*complications/drug therapy/*prevention & control

@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Blood Transfusion
+Cardiopulmonary Bypass/*adverse effects
+Deamino Arginine Vasopressin/*therapeutic use
+Double-Blind Method
+Female
+Hemorrhage/*drug therapy/etiology
+Hemostasis/drug effects
+Humans
+Male
+Middle Aged
+Postoperative Complications/*drug therapy/etiology

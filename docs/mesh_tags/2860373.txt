@@ -1,0 +1,9 @@
+Adult
+Breast Neoplasms/*therapy
+Female
+Humans
+Hypothyroidism/*etiology
+Interferon Type I/*adverse effects/therapeutic use
+Middle Aged
+Thyroxine/blood
+Time Factors

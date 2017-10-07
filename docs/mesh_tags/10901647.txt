@@ -1,0 +1,11 @@
+Adolescent
+Adult
+*Echocardiography, Transesophageal
+Embolism, Fat/diagnostic imaging/etiology
+Female
+Femoral Fractures/*surgery
+Fracture Fixation, Intramedullary/adverse effects/*methods
+Humans
+*Intraoperative Complications/diagnostic imaging
+Male
+Pulmonary Embolism/*diagnostic imaging/etiology

@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/administration & dosage
+Cisplatin/*administration & dosage
+Deoxycytidine/administration & dosage/*analogs & derivatives
+Disease Progression
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Humans
+Male
+Middle Aged
+Prognosis
+Treatment Outcome
+Urinary Bladder Neoplasms/*drug therapy

@@ -1,0 +1,14 @@
+Adult
+Aged
+Bifidobacterium
+Cytokines/blood
+*Enteral Nutrition
+Female
+Humans
+Male
+Middle Aged
+Pancreatitis, Acute Necrotizing/diagnosis/*therapy
+Probiotics/*therapeutic use
+Prognosis
+Treatment Outcome
+Young Adult

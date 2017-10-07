@@ -1,0 +1,25 @@
+Adult
+Aged
+Antirheumatic Agents/*therapeutic use
+Arthritis, Rheumatoid/diagnosis/*drug therapy
+Australia
+Chi-Square Distribution
+Drug Therapy, Combination
+Etanercept
+Europe
+Female
+Humans
+Immunoglobulin G/*therapeutic use
+Israel
+Kaplan-Meier Estimate
+Male
+Methotrexate/therapeutic use
+Middle Aged
+Prospective Studies
+Receptors, Tumor Necrosis Factor/*therapeutic use
+Registries
+Remission Induction
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+United States

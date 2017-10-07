@@ -1,0 +1,20 @@
+2-Pyridinylmethylsulfinylbenzimidazoles/administration & dosage/*pharmacokinetics
+Adolescent
+Adult
+Aged
+Amoxicillin/administration & dosage/pharmacokinetics
+Anti-Bacterial Agents/*therapeutic use
+Aryl Hydrocarbon Hydroxylases/*genetics/*pharmacokinetics/pharmacology
+Clarithromycin/administration & dosage/pharmacokinetics
+Cytochrome P-450 CYP2C19
+Female
+Genotype
+Helicobacter Infections/*drug therapy
+Helicobacter pylori/*drug effects
+Humans
+Male
+Metabolic Clearance Rate
+Middle Aged
+Rabeprazole
+Treatment Outcome
+Young Adult

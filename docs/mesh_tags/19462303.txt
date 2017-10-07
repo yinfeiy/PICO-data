@@ -1,0 +1,16 @@
+Adult
+Alcoholism/*drug therapy
+Chlormethiazole/adverse effects/*therapeutic use
+Comorbidity
+Female
+GABA Modulators/adverse effects/therapeutic use
+Humans
+Hydroxybutyrates/adverse effects/*therapeutic use
+Intensive Care Units
+Length of Stay
+Male
+Middle Aged
+Severity of Illness Index
+Substance Withdrawal Syndrome/*drug therapy
+Time Factors
+Treatment Outcome

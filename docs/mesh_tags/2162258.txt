@@ -1,0 +1,10 @@
+Adult
+Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+Blood Pressure/drug effects
+Enalapril/adverse effects/*analogs & derivatives/*therapeutic use
+Female
+Humans
+Hypertension/*drug therapy/physiopathology
+Lisinopril
+Male
+Random Allocation

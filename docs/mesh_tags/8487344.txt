@@ -1,0 +1,16 @@
+Abdomen/surgery
+Adolescent
+Adult
+Ampicillin/administration & dosage/*therapeutic use
+Bacteroides Infections/*prevention & control
+Cefoxitin/administration & dosage/*therapeutic use
+Drug Combinations
+*Enterococcus
+Gram-Positive Bacterial Infections/*prevention & control
+Humans
+Incidence
+Middle Aged
+Multivariate Analysis
+Premedication
+Sulbactam/administration & dosage/*therapeutic use
+Surgical Wound Infection/microbiology/*prevention & control

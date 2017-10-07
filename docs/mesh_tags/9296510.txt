@@ -1,0 +1,17 @@
+Aged
+Anastomosis, Surgical
+Carcinoma, Squamous Cell/*surgery
+Constriction, Pathologic/epidemiology
+Esophageal Diseases/epidemiology
+Esophageal Neoplasms/*surgery
+*Esophagectomy
+Esophagus/*surgery
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Postoperative Complications/epidemiology
+Prospective Studies
+Stomach/*surgery
+*Suture Techniques/adverse effects

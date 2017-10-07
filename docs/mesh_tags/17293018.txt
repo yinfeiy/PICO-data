@@ -1,0 +1,19 @@
+Aged
+Animals
+Bacterial Proteins/*immunology
+Bacterial Toxins/*immunology
+Cattle
+Clostridium Infections/immunology/prevention & control/*therapy
+Clostridium difficile/*immunology
+Consumer Product Safety
+Enterotoxins/*immunology
+Female
+Humans
+Immunization
+Immunoglobulin A/analysis/immunology
+Immunoglobulin G/analysis/immunology
+Immunotherapy
+Male
+Milk
+Milk Proteins/analysis/*therapeutic use
+Whey Proteins

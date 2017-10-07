@@ -1,0 +1,20 @@
+Administration, Cutaneous
+Aged
+Aminoquinolines/administration & dosage/*therapeutic use
+Antineoplastic Agents/administration & dosage/*therapeutic use
+Boston
+California
+Carcinoma, Basal Cell/*drug therapy/pathology/*surgery
+Chemotherapy, Adjuvant
+Combined Modality Therapy
+Double-Blind Method
+Female
+Hospitals, University
+Humans
+Male
+Microscopy, Confocal
+Middle Aged
+Mohs Surgery/instrumentation/methods
+Predictive Value of Tests
+Skin Neoplasms/*drug therapy/pathology/*surgery
+Treatment Outcome

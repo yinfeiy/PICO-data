@@ -1,0 +1,13 @@
+Aged
+Aging/*physiology
+Angiotensin-Converting Enzyme Inhibitors/pharmacology
+Blood Glucose/metabolism
+Cross-Over Studies
+Electrolytes/blood
+Female
+Humans
+Hypertension/*drug therapy/*physiopathology
+Insulin/blood/*pharmacology
+Lisinopril/adverse effects/*therapeutic use
+Male
+Single-Blind Method

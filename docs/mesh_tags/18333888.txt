@@ -1,0 +1,22 @@
+Administration, Oral
+Adult
+Aged
+Area Under Curve
+Biomarkers/blood
+Blood Glucose/analysis
+Diabetes Mellitus, Type 2/blood/*drug therapy
+Dipeptidyl-Peptidase IV Inhibitors/*administration & dosage/therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Hemoglobin A, Glycosylated/analysis
+Humans
+Hypoglycemic Agents/*therapeutic use
+Male
+Metformin/*therapeutic use
+Middle Aged
+Postprandial Period
+Thiazolidinediones/*therapeutic use
+Treatment Outcome

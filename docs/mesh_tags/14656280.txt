@@ -1,0 +1,14 @@
+Adult
+Aged
+Antineoplastic Agents/*administration & dosage
+Cisplatin/*administration & dosage
+Disease-Free Survival
+Europe
+Female
+Humans
+Infusions, Intravenous
+Injections, Intraperitoneal
+Middle Aged
+Ovarian Neoplasms/*drug therapy/mortality/pathology/surgery
+Survival Analysis
+Treatment Outcome

@@ -1,0 +1,18 @@
+APACHE
+Craniocerebral Trauma/mortality/*therapy
+Dextrans/*therapeutic use
+Double-Blind Method
+Emergency Medical Services
+Feasibility Studies
+Female
+Glasgow Coma Scale
+Glasgow Outcome Scale
+Humans
+Injury Severity Score
+Male
+Middle Aged
+Multiple Organ Failure/mortality/*therapy
+Ontario
+Resuscitation/*methods
+Saline Solution, Hypertonic/*therapeutic use
+Treatment Outcome

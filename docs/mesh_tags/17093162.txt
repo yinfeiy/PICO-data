@@ -1,0 +1,21 @@
+Adult
+Aged
+Arsenic/administration & dosage/*metabolism/urine
+Arsenicals/urine
+Bangladesh
+Creatine/biosynthesis
+Creatinine/urine
+Dietary Supplements
+Double-Blind Method
+*Environmental Exposure
+Female
+Folic Acid/*administration & dosage/blood/*metabolism
+Homocysteine/blood/urine
+Humans
+Male
+Methylation/drug effects
+Middle Aged
+Skin Neoplasms/chemically induced
+Urinary Bladder Neoplasms/chemically induced
+Vitamin B Complex/administration & dosage/blood/metabolism
+Water Pollutants, Chemical/administration & dosage/*metabolism

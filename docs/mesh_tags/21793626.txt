@@ -1,0 +1,19 @@
+Acid Phosphatase/metabolism
+Alkaline Phosphatase/metabolism
+Animals
+Diabetes Mellitus, Experimental/*drug therapy/physiopathology
+Estradiol/metabolism
+Fertility/drug effects/physiology
+Histocytochemistry
+L-Lactate Dehydrogenase/metabolism
+Male
+Organ Size/drug effects
+*Panax
+Plant Extracts/*pharmacology
+Random Allocation
+Rats
+Rats, Sprague-Dawley
+Sperm Count
+Testis/*drug effects/physiopathology
+Testosterone/metabolism
+gamma-Glutamyltransferase/metabolism

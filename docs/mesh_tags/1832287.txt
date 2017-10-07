@@ -1,0 +1,12 @@
+Adult
+Aldosterone/blood/*secretion
+Atrial Natriuretic Factor/administration & dosage/blood/*pharmacology
+Dose-Response Relationship, Drug
+Drug Interactions
+Electrolytes/blood
+Humans
+Hydrocortisone/blood
+Infusions, Intravenous
+Male
+Metoclopramide/*pharmacology
+Prolactin/blood

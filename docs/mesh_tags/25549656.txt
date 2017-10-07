@@ -1,0 +1,23 @@
+Brain Ischemia/complications/physiopathology/rehabilitation
+Cerebral Hemorrhage/complications/physiopathology/rehabilitation
+Chronic Disease
+Elbow/physiopathology
+Electric Stimulation Therapy/instrumentation/*methods
+Electromyography/instrumentation/*methods
+Female
+Follow-Up Studies
+Hand/physiopathology
+Humans
+Male
+Middle Aged
+Movement Disorders/etiology/physiopathology/rehabilitation
+Muscle Contraction/physiology
+Recovery of Function/physiology
+Robotics/*instrumentation
+Severity of Illness Index
+Shoulder/physiopathology
+Single-Blind Method
+Stroke/complications/physiopathology
+*Stroke Rehabilitation
+Treatment Outcome
+Wrist/*physiopathology

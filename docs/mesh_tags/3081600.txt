@@ -1,0 +1,17 @@
+Adult
+Aged
+Antidepressive Agents/adverse effects/*therapeutic use
+Body Weight/drug effects
+Bupropion
+Clinical Trials as Topic
+Depressive Disorder/*drug therapy
+Double-Blind Method
+Doxepin/adverse effects/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Propiophenones/adverse effects/*therapeutic use
+Psychiatric Status Rating Scales
+Random Allocation
+Time Factors

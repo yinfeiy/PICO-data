@@ -1,0 +1,15 @@
+Conjunctiva/drug effects
+Diabetic Retinopathy/*drug therapy/physiopathology
+Female
+Humans
+Immunosuppressive Agents/*administration & dosage/adverse effects/chemistry
+Intravitreal Injections
+Macular Edema/*drug therapy/physiopathology
+Male
+Middle Aged
+Ophthalmic Solutions/*administration & dosage/adverse effects/chemistry
+Prospective Studies
+Sirolimus/*administration & dosage/adverse effects/chemistry
+Tomography, Optical Coherence
+Treatment Outcome
+Visual Acuity/physiology

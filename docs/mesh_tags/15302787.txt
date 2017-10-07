@@ -1,0 +1,27 @@
+Administration, Oral
+Aged
+Angioplasty, Balloon, Coronary
+Biomarkers
+Comorbidity
+Coronary Angiography
+Coronary Restenosis/blood/diagnostic imaging/*prevention & control
+Coronary Stenosis/therapy
+Coronary Vessels/pathology
+Creatine Kinase/blood
+Creatine Kinase, MB Form
+Diabetes Mellitus/epidemiology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Hypertension/epidemiology
+Isoenzymes/blood
+Male
+Middle Aged
+Myocardial Infarction/epidemiology
+Retreatment
+Sirolimus/administration & dosage/*therapeutic use
+*Stents
+Treatment Outcome
+Tunica Intima/ultrastructure

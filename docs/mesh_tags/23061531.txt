@@ -1,0 +1,23 @@
+Aged
+Anterior Wall Myocardial Infarction/complications/diagnosis/*drug therapy/mortality/physiopathology
+Arrhythmias, Cardiac/etiology
+Chi-Square Distribution
+Cyclosporine/*administration & dosage
+Double-Blind Method
+Drug Administration Schedule
+Female
+Fibrinolytic Agents/adverse effects/*therapeutic use
+Heart Failure/etiology
+Humans
+Injections, Intravenous
+Iran
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardium/pathology
+Pilot Projects
+Stroke Volume/drug effects
+*Thrombolytic Therapy/adverse effects/mortality
+Time Factors
+Treatment Outcome
+Ventricular Function, Left/drug effects

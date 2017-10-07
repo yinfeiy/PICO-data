@@ -1,0 +1,13 @@
+Adult
+Analysis of Variance
+Chronic Disease
+Debridement/*methods
+*Dental Cementum
+Female
+Humans
+Male
+Middle Aged
+Periodontal Pocket/surgery
+Periodontitis/*surgery
+Surgical Flaps
+Time Factors

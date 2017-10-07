@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Aged
+China/epidemiology
+Family/*psychology
+Female
+Health Education/*methods
+Health Knowledge, Attitudes, Practice
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Patient Compliance
+Patient Education as Topic/methods
+Psychiatric Status Rating Scales
+Psychology, Social
+Recurrence
+Schizophrenia/drug therapy/epidemiology/*therapy
+Schizophrenic Psychology

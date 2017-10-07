@@ -1,0 +1,20 @@
+Adult
+Aged
+Aged, 80 and over
+Anastomosis, Surgical
+Cellulose, Oxidized/*therapeutic use
+Colostomy
+Female
+Humans
+Ileostomy
+Male
+Middle Aged
+*Occlusive Dressings
+Povidone-Iodine/administration & dosage/therapeutic use
+Prospective Studies
+Skin/microbiology
+Subcutaneous Tissue/microbiology
+Surgical Sponges
+Surgical Stomas/*microbiology
+Surgical Wound Infection/microbiology/*prevention & control
+Young Adult

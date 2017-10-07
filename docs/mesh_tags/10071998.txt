@@ -1,0 +1,12 @@
+Adult
+Anesthesia, Spinal/*methods
+*Anesthetics, Intravenous
+Anesthetics, Local
+Double-Blind Method
+Drug Synergism
+Drug Therapy, Combination
+*Fentanyl
+Fertilization in Vitro/*methods
+Humans
+*Lidocaine
+Pain Measurement

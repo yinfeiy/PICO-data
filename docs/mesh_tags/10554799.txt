@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Antifungal Agents/*therapeutic use
+Antineoplastic Agents, Phytogenic/therapeutic use
+Drug Interactions
+Female
+Fluconazole/*therapeutic use
+Hematologic Neoplasms/*complications
+Humans
+Itraconazole/*therapeutic use
+Male
+Middle Aged
+Mycoses/complications/*prevention & control
+Opportunistic Infections/complications
+Vincristine/therapeutic use

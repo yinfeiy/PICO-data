@@ -1,0 +1,10 @@
+Adult
+Aspirin/*adverse effects
+Double-Blind Method
+Duodenum/*drug effects
+Female
+Gastric Mucosa/*drug effects
+Humans
+Male
+Omeprazole/administration & dosage/*pharmacology/therapeutic use
+Peptic Ulcer/*chemically induced/*prevention & control

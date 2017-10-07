@@ -1,0 +1,12 @@
+Echocardiography, Doppler
+Female
+Heart Diseases/diagnostic imaging/etiology/physiopathology
+Humans
+Male
+Middle Aged
+Mitral Valve Insufficiency/diagnostic imaging/physiopathology
+Myocardial Infarction/*complications/diagnostic imaging/physiopathology
+Stroke Volume/physiology
+Thrombosis/diagnostic imaging/*etiology/physiopathology
+Ventricular Dysfunction, Left/diagnostic imaging/*etiology/physiopathology
+Ventricular Remodeling/physiology

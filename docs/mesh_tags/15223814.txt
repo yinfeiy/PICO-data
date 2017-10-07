@@ -1,0 +1,16 @@
+Adult
+Blood Flow Velocity/drug effects
+Blood Pressure/drug effects
+Choroid/*blood supply
+Cross-Over Studies
+Dose-Response Relationship, Drug
+Double-Blind Method
+Histamine/*administration & dosage
+Humans
+Infusions, Intravenous
+Interferometry
+Intraocular Pressure/drug effects
+Laser-Doppler Flowmetry
+Male
+Regional Blood Flow/drug effects
+Retinal Vessels/*physiology

@@ -1,0 +1,21 @@
+Aged
+Aged, 80 and over
+Antineoplastic Agents, Hormonal/*administration & dosage
+Aromatase Inhibitors/*administration & dosage
+Breast Neoplasms/*drug therapy/mortality/surgery
+Double-Blind Method
+Female
+Humans
+Immunohistochemistry
+Mastectomy, Segmental/methods
+Middle Aged
+Neoadjuvant Therapy
+Neoplasms, Hormone-Dependent/*drug therapy/mortality/surgery
+Nitriles/*administration & dosage
+Postmenopause
+Prognosis
+Receptor, ErbB-2/drug effects
+Receptors, Estrogen/drug effects
+Survival Analysis
+Tamoxifen/*administration & dosage
+Triazoles/*administration & dosage

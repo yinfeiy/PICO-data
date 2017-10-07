@@ -1,0 +1,21 @@
+Adult
+Aged
+Allostasis/*physiology
+Blood Glucose/metabolism
+Blood Pressure/physiology
+Catecholamines/blood
+Diabetes Mellitus, Type 2/epidemiology/*physiopathology/therapy
+Female
+Follow-Up Studies
+*Health Status
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hydrocortisone/blood
+Hypertension/epidemiology/*physiopathology/therapy
+Insulin/blood
+Male
+Massage/methods
+Middle Aged
+Risk Factors
+Self Report
+Surveys and Questionnaires

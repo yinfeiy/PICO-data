@@ -1,0 +1,11 @@
+Aged
+Esophageal Neoplasms/*immunology/*surgery
+Esophagectomy/*methods
+Female
+Humans
+*Laparoscopy
+*Laparotomy
+Male
+Middle Aged
+*Thoracoscopy
+*Thoracotomy

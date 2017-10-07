@@ -1,0 +1,12 @@
+Adult
+Aged
+*Anesthesia Recovery Period
+*Anesthesia, Epidural
+*Anesthesia, General
+Colon/*surgery
+*Fentanyl
+*Halothane
+Humans
+*Midazolam
+Middle Aged
+*Propofol

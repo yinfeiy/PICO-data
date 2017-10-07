@@ -1,0 +1,21 @@
+Administration, Intravaginal
+Administration, Oral
+Adult
+Ambulatory Care
+Cervical Ripening/*drug effects
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Hysteroscopy/*methods
+Misoprostol/*administration & dosage
+Oxytocics/*administration & dosage
+Patient Satisfaction
+Postmenopause
+Postoperative Complications/*prevention & control
+Pregnancy
+Premenopause
+Preoperative Care/methods
+Self Administration
+Treatment Outcome
+Uterine Diseases/*surgery

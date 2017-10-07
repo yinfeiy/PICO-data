@@ -1,0 +1,16 @@
+Adult
+Aged
+Aspirin/*therapeutic use
+C-Reactive Protein/drug effects/metabolism
+Coronary Disease/*blood/*drug therapy/urine
+Double-Blind Method
+Female
+Humans
+Macrophage Colony-Stimulating Factor/blood/drug effects
+Male
+Middle Aged
+Peptide Fragments/blood
+Prospective Studies
+Prothrombin
+Smoking/*adverse effects
+Thromboxane B2/analogs & derivatives/urine

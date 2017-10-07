@@ -1,0 +1,13 @@
+Aged
+Cerebrovascular Circulation/drug effects
+Female
+Hemodynamics/drug effects
+Humans
+Isoflurane/*analogs & derivatives/pharmacology/*therapeutic use
+Male
+Methyl Ethers/pharmacology/*therapeutic use
+Middle Aged
+Neuroprotective Agents/pharmacology/*therapeutic use
+Reperfusion Injury/drug therapy/*prevention & control
+Retrospective Studies
+Treatment Outcome

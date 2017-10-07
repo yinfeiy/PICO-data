@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Amphetamine-Related Disorders/*therapy
+Exercise Therapy/*methods
+Female
+Humans
+Male
+*Methamphetamine
+Middle Aged
+Residential Facilities
+Resistance Training/methods
+Substance Abuse Treatment Centers
+Young Adult

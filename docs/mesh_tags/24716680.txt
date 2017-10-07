@@ -1,0 +1,17 @@
+Aged
+Aged, 80 and over
+Cardiovascular Diseases/mortality
+Double-Blind Method
+Female
+Follow-Up Studies
+Heart Failure/*drug therapy/mortality/physiopathology
+Hospitalization/statistics & numerical data
+Humans
+Incidence
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Mineralocorticoid Receptor Antagonists/adverse effects/*therapeutic use
+Spironolactone/adverse effects/*therapeutic use
+Stroke Volume
+Treatment Failure

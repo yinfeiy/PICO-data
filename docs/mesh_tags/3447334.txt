@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Aged
+Child
+Female
+Fluorouracil/*therapeutic use
+Glaucoma/pathology/*surgery
+Humans
+Intraocular Pressure/drug effects
+Male
+Middle Aged
+Postoperative Care
+Postoperative Complications/*prevention & control
+Prospective Studies
+Random Allocation

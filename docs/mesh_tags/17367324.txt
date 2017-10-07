@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Biomarkers, Tumor/*analysis
+Cervical Intraepithelial Neoplasia/*diagnosis/pathology
+Cyclin-Dependent Kinase Inhibitor p16/*analysis
+Female
+Humans
+Immunohistochemistry
+Middle Aged
+*Neoplasm Regression, Spontaneous
+Neoplasm Staging
+Prognosis
+Uterine Cervical Neoplasms/*diagnosis/pathology

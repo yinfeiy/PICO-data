@@ -1,0 +1,9 @@
+Adult
+Aged
+Endometrial Neoplasms/*surgery
+Female
+Humans
+*Laparoscopy
+Lymph Node Excision/*methods
+Middle Aged
+Prospective Studies

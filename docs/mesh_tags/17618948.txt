@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Amino Acids/metabolism
+Anesthesia
+Calorimetry, Indirect
+Carbon Dioxide/metabolism
+Female
+Glucose/*metabolism/pharmacokinetics/*therapeutic use
+Glucose Oxidase/metabolism
+Humans
+Keto Acids/blood
+Leucine/pharmacokinetics
+Male
+Middle Aged
+Oxygen Consumption/drug effects
+*Parenteral Nutrition
+*Postoperative Period
+Proteins/*metabolism

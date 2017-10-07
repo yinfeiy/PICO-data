@@ -1,0 +1,13 @@
+Adult
+Carcinoma, Squamous Cell/drug therapy/radiotherapy
+Combined Modality Therapy
+Drugs, Chinese Herbal/therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Nasopharyngeal Neoplasms/*drug therapy/*radiotherapy
+*Phytotherapy
+Radiation-Sensitizing Agents/*therapeutic use
+Selaginellaceae/*chemistry
+Treatment Outcome

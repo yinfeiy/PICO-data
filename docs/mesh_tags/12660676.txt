@@ -1,0 +1,21 @@
+Acute Disease
+Aged
+Aspirin/administration & dosage
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Heparin/administration & dosage
+Hospital Mortality
+Hospitalization
+Humans
+Male
+Middle Aged
+Myocardial Infarction/*complications/*drug therapy
+Plasminogen Activators/therapeutic use
+Recombinant Proteins/therapeutic use
+Streptokinase/*therapeutic use
+Tachycardia, Ventricular/etiology/*mortality
+*Thrombolytic Therapy
+Tissue Plasminogen Activator/*therapeutic use
+Treatment Outcome
+Ventricular Fibrillation/etiology/*mortality

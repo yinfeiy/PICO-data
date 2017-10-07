@@ -1,0 +1,18 @@
+Adult
+Alanine Transaminase/blood
+Antiviral Agents/*administration & dosage
+Drug Administration Schedule
+Female
+Hepatitis B Antibodies/*analysis
+Hepatitis B e Antigens/*immunology
+Hepatitis B, Chronic/diagnosis/immunology/*therapy
+Humans
+Interferon Type I/administration & dosage
+Interferon-alpha/administration & dosage
+Interferons/*administration & dosage
+Liver/pathology
+Male
+Middle Aged
+Recombinant Proteins
+Recurrence
+Treatment Outcome

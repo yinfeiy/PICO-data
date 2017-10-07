@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Antibodies, Viral/analysis
+Child
+Cornea/pathology/virology
+DNA, Viral/analysis
+Female
+Follow-Up Studies
+Herpesvirus 1, Human/*immunology
+Humans
+Keratitis, Herpetic/immunology/*prevention & control
+Male
+Middle Aged
+Prospective Studies
+Recurrence
+Treatment Outcome
+Uveitis, Anterior/immunology/prevention & control
+Vaccination
+Viral Vaccines/*administration & dosage

@@ -1,0 +1,10 @@
+Adult
+Anxiety/diagnosis/*psychology
+*Biofeedback, Psychology
+*Choice Behavior
+Female
+Heart Rate/*physiology
+Humans
+Male
+Phobic Disorders/diagnosis/*psychology
+Severity of Illness Index

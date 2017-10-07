@@ -1,0 +1,19 @@
+Aged
+Basement Membrane/metabolism/*surgery
+Biomarkers/metabolism
+Diabetes Mellitus, Type 2/complications
+Diabetic Retinopathy/physiopathology/*surgery
+Female
+Fluorescein Angiography
+Humans
+Immunoenzyme Techniques
+Indocyanine Green
+Macular Edema/physiopathology/*surgery
+Male
+Middle Aged
+Prospective Studies
+Tomography, Optical Coherence
+Treatment Outcome
+Visual Acuity/physiology
+*Vitrectomy
+Vitreous Body/*surgery

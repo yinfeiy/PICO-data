@@ -1,0 +1,12 @@
+Adult
+Aged
+Aged, 80 and over
+Amputation
+Female
+Humans
+Iloprost/adverse effects/*therapeutic use
+Ischemia/complications/*drug therapy/surgery
+Leg/*blood supply/surgery
+Leg Ulcer/*drug therapy/etiology
+Male
+Middle Aged

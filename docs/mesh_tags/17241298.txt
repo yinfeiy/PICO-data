@@ -1,0 +1,20 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Amoxicillin/therapeutic use
+Anti-Bacterial Agents/*therapeutic use
+Clarithromycin/therapeutic use
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Helicobacter Infections/*drug therapy
+*Helicobacter pylori
+Humans
+Korea
+Male
+Middle Aged
+Omeprazole
+Proton Pump Inhibitors
+Proton Pumps/*therapeutic use
+Treatment Outcome

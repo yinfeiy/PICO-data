@@ -1,0 +1,10 @@
+Adult
+Aged
+Antineoplastic Agents, Hormonal/*therapeutic use
+Breast Neoplasms/*prevention & control
+Female
+Hormone Replacement Therapy
+Humans
+Italy
+Middle Aged
+Tamoxifen/*therapeutic use

@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Cohort Studies
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Humans
+Interferon-alpha/*therapeutic use
+Leukemia, Hairy Cell/epidemiology/*therapy
+Male
+Middle Aged
+Recombinant Proteins

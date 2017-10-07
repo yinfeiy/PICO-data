@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/adverse effects/*therapeutic use
+Benzamides
+Disease-Free Survival
+Drug Approval
+Female
+Gastrointestinal Stromal Tumors/*drug therapy
+Humans
+Imatinib Mesylate
+Male
+Middle Aged
+Piperazines/adverse effects/*therapeutic use
+Pyrimidines/adverse effects/*therapeutic use
+Treatment Outcome
+Young Adult

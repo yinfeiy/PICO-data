@@ -1,0 +1,11 @@
+Adult
+Benzopyrans/*metabolism
+Biological Availability
+Catechin/analysis/*metabolism
+Female
+Half-Life
+Humans
+Kinetics
+Male
+Middle Aged
+Time Factors

@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Anticonvulsants/*administration & dosage/adverse effects
+Child
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Therapy, Combination
+Epilepsies, Partial/*drug therapy
+Female
+Humans
+Male
+Middle Aged
+Pyridones/*administration & dosage/adverse effects
+Seizures/*drug therapy
+Young Adult

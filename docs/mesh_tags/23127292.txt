@@ -1,0 +1,18 @@
+Antineoplastic Agents, Hormonal/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Biomarkers, Tumor/biosynthesis
+Breast Neoplasms/*drug therapy/genetics/mortality
+Cyclophosphamide/therapeutic use
+Disease-Free Survival
+Female
+Fluorouracil/therapeutic use
+Goserelin/therapeutic use
+Humans
+Lymph Nodes
+Methotrexate/therapeutic use
+Middle Aged
+Receptors, Estrogen/*biosynthesis
+Tamoxifen/*therapeutic use
+Tissue Array Analysis
+Treatment Outcome
+Tumor Suppressor Protein p53/*biosynthesis

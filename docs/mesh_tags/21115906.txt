@@ -1,0 +1,13 @@
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Biomarkers, Tumor/*blood
+Breast Neoplasms/*blood/*drug therapy
+Chemotherapy, Adjuvant
+Cyclophosphamide/therapeutic use
+Down-Regulation
+Enzyme-Linked Immunosorbent Assay
+Epirubicin/therapeutic use
+Female
+Fluorouracil/therapeutic use
+Humans
+Inhibins/*blood
+Prospective Studies

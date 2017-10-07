@@ -1,0 +1,19 @@
+Adult
+Alkaline Phosphatase/metabolism
+Bone Density/*drug effects/physiology
+Bone and Bones/drug effects/metabolism/physiology
+Contraceptive Agents, Female/administration & dosage/pharmacology
+Contraceptives, Oral/*pharmacology
+Delayed-Action Preparations
+Drug Implants
+Female
+Forearm
+Humans
+Levonorgestrel/administration & dosage/pharmacology
+Medroxyprogesterone/administration & dosage/pharmacology
+Middle Aged
+Osteocalcin/metabolism
+Premenopause/*physiology
+Progestins/administration & dosage/*pharmacology
+Prospective Studies
+Time Factors

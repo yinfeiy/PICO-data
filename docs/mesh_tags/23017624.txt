@@ -1,0 +1,18 @@
+Activities of Daily Living
+Aged
+Colorectal Neoplasms/complications/pathology/*rehabilitation
+Exercise Therapy/*methods
+Fatigue/etiology/*rehabilitation
+Female
+Home Care Services
+Humans
+Liver Neoplasms/complications/pathology/*rehabilitation
+Male
+Middle Aged
+Neoplasm Staging
+Palliative Care/*methods
+Quality of Life
+Recovery of Function
+Sleep Wake Disorders/etiology/*rehabilitation
+Terminal Care/methods
+Treatment Outcome

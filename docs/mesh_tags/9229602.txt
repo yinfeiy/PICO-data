@@ -1,0 +1,21 @@
+Acute Disease
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antazoline/*administration & dosage/adverse effects
+Anti-Allergic Agents/*administration & dosage/adverse effects
+Conjunctivitis, Allergic/*drug therapy
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Drug Combinations
+Female
+Histamine H1 Antagonists/*administration & dosage/adverse effects
+Humans
+Imidazoles/*administration & dosage/adverse effects
+Male
+Middle Aged
+Nasal Decongestants/*administration & dosage/adverse effects
+Ophthalmic Solutions
+Piperidines/*administration & dosage/adverse effects

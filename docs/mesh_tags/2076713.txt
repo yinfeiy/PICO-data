@@ -1,0 +1,15 @@
+Adult
+Aged
+Angiotensin-Converting Enzyme Inhibitors/*pharmacology
+Blood Pressure/*drug effects
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Hydrochlorothiazide/administration & dosage/*pharmacology
+Hypertension/*drug therapy
+Indoles/administration & dosage/blood/pharmacokinetics/*pharmacology/urine
+Male
+Middle Aged
+Perindopril
+Renin-Angiotensin System/*drug effects

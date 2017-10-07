@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Cranial Sinuses/drug effects/physiopathology
+Cross-Over Studies
+Dizziness/chemically induced
+Drug Interactions
+Drug Tolerance
+Female
+Fluoxetine/adverse effects/blood/*pharmacology
+Humans
+Intracranial Pressure/drug effects/physiology
+Male
+Middle Aged
+Nausea/chemically induced
+Oxazoles/adverse effects/pharmacokinetics/*pharmacology
+*Oxazolidinones
+Patient Compliance
+Pharyngitis/chemically induced
+Serotonin Receptor Agonists/adverse effects/pharmacokinetics/*pharmacology
+Serotonin Uptake Inhibitors/adverse effects/blood/*pharmacology
+Tryptamines

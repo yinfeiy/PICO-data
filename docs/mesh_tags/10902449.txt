@@ -1,0 +1,20 @@
+Aged
+Aged, 80 and over
+*Anesthesia, Spinal/adverse effects
+Anesthetics, Local/*administration & dosage/adverse effects
+*Autonomic Nerve Block/adverse effects
+Bradycardia/chemically induced/etiology
+Humans
+Hypotension/chemically induced/etiology
+Intraoperative Complications/chemically induced/*etiology
+Male
+Mepivacaine/*administration & dosage/adverse effects
+Middle Aged
+Patient Satisfaction
+Prilocaine/*administration & dosage/adverse effects
+Prospective Studies
+Single-Blind Method
+Subarachnoid Space
+Supine Position
+Time Factors
+*Transurethral Resection of Prostate

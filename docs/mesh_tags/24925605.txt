@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Autistic Disorder/diagnosis/*therapy
+Cacao
+Child, Preschool
+Cooperative Behavior
+Data Collection
+Humans
+Infant
+*Motivation
+Parents/*psychology
+Patient Compliance/*statistics & numerical data
+*Surveys and Questionnaires

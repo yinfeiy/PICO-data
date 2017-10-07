@@ -1,0 +1,14 @@
+Adult
+Basal Metabolism
+Diabetes Mellitus, Type 2/*metabolism
+*Exercise
+Female
+Glucose/metabolism
+Glucose Tolerance Test
+Humans
+*Insulin Resistance
+Liver/*metabolism
+Male
+Middle Aged
+Obesity/*metabolism
+Oxygen Consumption

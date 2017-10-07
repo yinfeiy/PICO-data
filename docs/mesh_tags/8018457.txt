@@ -1,0 +1,15 @@
+Adult
+Angiotensin II/administration & dosage/pharmacology/*physiology
+Drug Interactions
+Furosemide/administration & dosage/*pharmacology
+Glomerular Filtration Rate/drug effects
+Hemodynamics/*drug effects
+Humans
+Indomethacin/administration & dosage/*pharmacology
+Infusions, Intravenous
+Injections, Intravenous
+Kidney/*drug effects/physiology
+Male
+Natriuresis/*drug effects
+Single-Blind Method
+Tablets

@@ -1,0 +1,10 @@
+Aged
+Aged, 80 and over
+Female
+Humans
+Lung Neoplasms/radiotherapy/*surgery
+Male
+Middle Aged
+Proton Therapy
+*Radiosurgery
+Radiotherapy Planning, Computer-Assisted

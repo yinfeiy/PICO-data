@@ -1,0 +1,11 @@
+Aged
+Female
+Glomerular Filtration Rate
+Heart Failure/*complications/drug therapy/mortality/physiopathology
+Hospitalization
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Prognosis
+Renal Insufficiency, Chronic/*complications/mortality/physiopathology

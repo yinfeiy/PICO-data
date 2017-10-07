@@ -1,0 +1,15 @@
+Adult
+Analysis of Variance
+Blood Glucose/drug effects
+C-Peptide/blood
+Double-Blind Method
+Female
+Humans
+Hypertension/complications/*drug therapy/metabolism
+Insulin/blood/*secretion
+Male
+Middle Aged
+Nifedipine/*therapeutic use
+Nitrendipine/*therapeutic use
+Obesity/complications/*metabolism
+Time Factors

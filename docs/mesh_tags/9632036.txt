@@ -1,0 +1,18 @@
+Adult
+Age of Onset
+Analysis of Variance
+Antidepressive Agents, Second-Generation/adverse effects/*therapeutic use
+Depressive Disorder/*drug therapy/psychology
+Double-Blind Method
+Female
+Headache/chemically induced
+*Hospitalization
+Humans
+Linear Models
+Male
+Nausea/chemically induced
+Placebos
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Treatment Outcome
+Triazoles/adverse effects/*therapeutic use

@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Azithromycin
+Doxycycline/*therapeutic use
+Erythema Chronicum Migrans/*drug therapy
+Erythromycin/*analogs & derivatives/therapeutic use
+Humans
+Male
+Middle Aged
+Penicillin V/*therapeutic use
+Prospective Studies
+Random Allocation

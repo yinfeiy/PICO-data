@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal, Humanized/adverse effects/*therapeutic use
+Antineoplastic Agents/adverse effects/*therapeutic use
+Carcinoma, Squamous Cell/*drug therapy
+Cetuximab
+Female
+Head and Neck Neoplasms/*drug therapy
+Humans
+Male
+Middle Aged
+Quinazolines/adverse effects/*therapeutic use
+Receptor, Epidermal Growth Factor/antagonists & inhibitors
+Receptor, ErbB-2/antagonists & inhibitors
+Treatment Outcome
+Young Adult

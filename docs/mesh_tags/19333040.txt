@@ -1,0 +1,12 @@
+Adult
+Aged
+Anastomosis, Surgical/*adverse effects
+*Colectomy
+Female
+Humans
+*Ileostomy
+Male
+Middle Aged
+Pilot Projects
+Postoperative Complications/prevention & control
+Rectal Neoplasms/*surgery

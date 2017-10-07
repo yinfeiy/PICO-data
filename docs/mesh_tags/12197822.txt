@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Aged
+Counseling/*methods
+Female
+Humans
+Male
+Middle Aged
+Stress, Psychological/etiology/*therapy
+Treatment Failure

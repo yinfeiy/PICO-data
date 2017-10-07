@@ -1,0 +1,24 @@
+Adhesins, Bacterial/immunology
+Antibodies, Bacterial/*blood
+Antigens, Bacterial/immunology
+Bacterial Outer Membrane Proteins/immunology
+Bacterial Proteins/immunology
+Biomarkers/blood
+Cohort Studies
+Diphtheria-Tetanus-Pertussis Vaccine/*immunology
+Diphtheria-Tetanus-acellular Pertussis Vaccines
+Double-Blind Method
+Female
+*Fimbriae Proteins
+Fimbriae, Bacterial/immunology
+Hemagglutinins/immunology
+Humans
+Immunoglobulin G/analysis
+Infant
+Male
+Multivariate Analysis
+Pertussis Toxin
+Pertussis Vaccine/*immunology
+Prospective Studies
+Virulence Factors, Bordetella/immunology
+Whooping Cough/immunology/prevention & control

@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Betahistine/*administration & dosage
+Drugs, Chinese Herbal/*administration & dosage
+Female
+Hemorheology
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Treatment Outcome
+Ultrasonography, Doppler, Transcranial
+Vasodilator Agents/*administration & dosage
+Vertebrobasilar Insufficiency/complications/diagnosis/*drug therapy
+Vertigo/*drug therapy/etiology

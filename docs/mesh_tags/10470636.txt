@@ -1,0 +1,23 @@
+Abdomen/*physiology
+Aged
+Aged, 80 and over
+*Anesthesia, General
+*Anesthesia, Spinal
+Anesthetics, Inhalation/administration & dosage
+Anesthetics, Intravenous/administration & dosage
+Anesthetics, Local/administration & dosage
+Elective Surgical Procedures
+Fentanyl/administration & dosage
+Humans
+Isoflurane/administration & dosage
+Laryngeal Masks
+Male
+Middle Aged
+Nitrous Oxide/administration & dosage
+Pressure
+Propofol/administration & dosage
+Prospective Studies
+Prostatectomy/*methods
+Tetracaine/administration & dosage
+Urinary Bladder/drug effects/*physiology
+Urodynamics/drug effects/*physiology

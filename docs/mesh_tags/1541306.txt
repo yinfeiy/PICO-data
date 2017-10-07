@@ -1,0 +1,10 @@
+Absorption
+Child
+Child, Preschool
+Humans
+Infant
+Injections, Intramuscular
+Malaria, Falciparum/complications/*metabolism
+Phenobarbital/administration & dosage/*pharmacokinetics
+Prospective Studies
+Seizures/etiology/prevention & control

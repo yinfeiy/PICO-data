@@ -1,0 +1,13 @@
+Aged
+Biopsy/standards/statistics & numerical data
+Cancer Care Facilities/statistics & numerical data
+Early Detection of Cancer/methods/standards
+Europe/epidemiology
+Humans
+Incidence
+Male
+Middle Aged
+Prostate-Specific Antigen/blood
+Prostatic Intraepithelial Neoplasia/*diagnosis/epidemiology
+Prostatic Neoplasms/*diagnosis/epidemiology
+Sensitivity and Specificity

@@ -1,0 +1,19 @@
+Adolescent
+Aggression/drug effects/psychology
+Antipsychotic Agents/adverse effects/*therapeutic use
+Autistic Disorder/diagnosis/*drug therapy/psychology
+Child
+Child Behavior Disorders/diagnosis/drug therapy/psychology
+Child, Preschool
+Drug Administration Schedule
+Female
+Humans
+Longitudinal Studies
+Male
+Personality Inventory
+Placebos
+Psychiatric Status Rating Scales
+Risperidone/adverse effects/*therapeutic use
+Self-Injurious Behavior/diagnosis/drug therapy/psychology
+Substance Withdrawal Syndrome/diagnosis/psychology
+Treatment Outcome

@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Communicable Diseases/complications
+Female
+Granulocyte Colony-Stimulating Factor/*therapeutic use
+Hematologic Neoplasms/complications/drug therapy
+Humans
+Incidence
+Leukocyte Count/drug effects
+Lung Diseases/complications
+Male
+Middle Aged
+Neutrophils/drug effects
+Respiratory Distress Syndrome, Adult/blood/epidemiology/etiology/*prevention & control

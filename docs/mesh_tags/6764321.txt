@@ -1,0 +1,15 @@
+Aged
+Clinical Trials as Topic
+Drug Combinations
+Drug Therapy, Combination
+Epinephrine/adverse effects/*therapeutic use
+Female
+Glaucoma, Open-Angle/*drug therapy/physiopathology
+Guanethidine/adverse effects/*therapeutic use
+Humans
+Intraocular Pressure/drug effects
+Male
+Middle Aged
+Propanolamines/*therapeutic use
+Random Allocation
+Timolol/adverse effects/*therapeutic use

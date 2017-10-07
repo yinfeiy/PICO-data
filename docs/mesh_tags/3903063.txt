@@ -1,0 +1,18 @@
+Actuarial Analysis
+Adolescent
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Child
+Clinical Trials as Topic
+Female
+Hodgkin Disease/*drug therapy/mortality/radiotherapy
+Humans
+Laparotomy
+Lomustine/administration & dosage
+Male
+Mechlorethamine/administration & dosage
+Neoplasm Staging
+Prednisone/administration & dosage
+Procarbazine/administration & dosage
+Prognosis
+Vinblastine/administration & dosage
+Vincristine/administration & dosage

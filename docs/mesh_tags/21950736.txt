@@ -1,0 +1,20 @@
+Adult
+Aged
+Attention/drug effects
+Benzhydryl Compounds/pharmacology
+Caffeine/*pharmacology
+Central Nervous System Stimulants/*pharmacology
+Cross-Over Studies
+Double-Blind Method
+Electroencephalography
+Female
+Humans
+Male
+Middle Aged
+Polymorphism, Single Nucleotide
+Psychomotor Performance/drug effects
+Purinergic P1 Receptor Antagonists/*pharmacology
+Receptor, Adenosine A2A/*genetics
+Sleep Deprivation/*genetics/physiopathology
+Wakefulness/drug effects
+Young Adult

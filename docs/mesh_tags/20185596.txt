@@ -1,0 +1,17 @@
+Adult
+Cross-Over Studies
+Cysts/diagnostic imaging/*drug therapy/etiology
+Double-Blind Method
+Female
+Humans
+Kidney/diagnostic imaging/*drug effects
+Liver/diagnostic imaging/*drug effects
+Liver Diseases/diagnostic imaging/*drug therapy/etiology
+Male
+Middle Aged
+Octreotide/adverse effects/*therapeutic use
+Polycystic Kidney Diseases/complications/diagnostic imaging/*drug therapy
+Prospective Studies
+Time Factors
+Tomography, Spiral Computed
+Treatment Outcome

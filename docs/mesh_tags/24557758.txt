@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Pressure/drug effects
+Diabetic Retinopathy/diagnosis
+Drug Combinations
+Female
+*Fluorescein Angiography
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Mydriatics/*administration & dosage/adverse effects
+Ophthalmic Solutions
+Phenylephrine/*administration & dosage/adverse effects
+Prospective Studies
+Pupil/*drug effects
+Treatment Outcome
+Tropicamide/*administration & dosage/adverse effects

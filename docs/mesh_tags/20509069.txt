@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Female
+Humans
+*Hypnosis, Anesthetic
+Male
+Middle Aged
+*Pain Management
+Pain Measurement
+Treatment Outcome
+User-Computer Interface
+Wounds and Injuries/*rehabilitation
+Young Adult

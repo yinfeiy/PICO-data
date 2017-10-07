@@ -1,0 +1,19 @@
+Adult
+Aged
+Antihypertensive Agents/therapeutic use
+Blood Pressure/physiology
+Counseling
+Female
+Follow-Up Studies
+Humans
+Hypertension/*drug therapy
+Japan
+Life Style
+Male
+Middle Aged
+Patient Care Team
+Patient Selection
+*Pharmacists
+*Physicians
+Risk Factors
+Treatment Outcome

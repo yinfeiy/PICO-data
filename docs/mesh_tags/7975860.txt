@@ -1,0 +1,18 @@
+Adult
+Cells, Cultured
+Female
+Hepatitis B Antibodies/*biosynthesis
+Hepatitis B Surface Antigens/genetics/*immunology
+Hepatitis B Vaccines/*immunology
+Humans
+Immunity, Cellular
+Immunization Schedule
+Kinetics
+Lymphocyte Activation
+Male
+Middle Aged
+T-Lymphocytes/immunology
+Vaccination
+Vaccines, Attenuated/immunology
+Vaccines, Synthetic/immunology
+Viral Envelope Proteins/immunology/metabolism

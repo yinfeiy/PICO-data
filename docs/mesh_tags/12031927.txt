@@ -1,0 +1,11 @@
+Adult
+Double-Blind Method
+Female
+Hematologic Diseases/*complications/drug therapy
+Humans
+Immunocompromised Host
+Male
+Middle Aged
+Strongyloidiasis/drug therapy/*prevention & control
+Thiabendazole/*therapeutic use
+Treatment Outcome

@@ -1,0 +1,17 @@
+*Adaptation, Psychological
+Adult
+Aged
+Aged, 80 and over
+Alzheimer Disease/nursing
+Anxiety/diagnosis/etiology
+Caregivers/*psychology
+Dementia/*nursing
+Depression/diagnosis/etiology
+*Emotions
+Female
+Humans
+Male
+Middle Aged
+Morbidity
+Severity of Illness Index
+Stress, Psychological/*diagnosis/etiology

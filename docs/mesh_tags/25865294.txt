@@ -1,0 +1,17 @@
+Administration, Intranasal
+Adolescent
+Adult
+Appetite/*drug effects
+Appetite Depressants/administration & dosage/adverse effects/*pharmacology
+Blood Glucose/metabolism
+Calorimetry, Indirect
+Cholecystokinin/blood
+Cross-Over Studies
+Energy Intake/*drug effects
+Energy Metabolism/*drug effects
+Humans
+Insulin/blood
+Male
+Middle Aged
+Oxytocin/administration & dosage/adverse effects/*pharmacology
+Young Adult

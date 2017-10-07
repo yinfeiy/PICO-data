@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Drugs, Chinese Herbal/*therapeutic use
+Humans
+Male
+Middle Aged
+*Phytotherapy
+Prostatitis/*drug therapy
+Treatment Outcome
+Young Adult

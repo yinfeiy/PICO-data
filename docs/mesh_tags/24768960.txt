@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Canada
+Double-Blind Method
+Dyspareunia/etiology/physiopathology
+*Endometrial Ablation Techniques
+Endometriosis/complications/physiopathology/*surgery
+Female
+Follow-Up Studies
+Humans
+*Laparoscopy
+Middle Aged
+Pain Measurement
+Pelvic Pain/etiology/physiopathology/*surgery
+Pregnancy
+Prospective Studies
+Reoperation
+Surveys and Questionnaires
+Young Adult

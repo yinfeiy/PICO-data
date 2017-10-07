@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Contrast Media/*administration & dosage
+Female
+Humans
+Image Processing, Computer-Assisted
+*Injections, Intravenous
+Male
+Middle Aged
+Neoplasms/diagnosis/diagnostic imaging
+Observer Variation
+Phlebography/*methods
+Prospective Studies
+Radiography, Abdominal/methods
+Time Factors
+*Tomography, X-Ray Computed
+Veins/pathology
+*Whole Body Imaging

@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Age Factors
+Child
+*Child Development Disorders, Pervasive/physiopathology/psychology
+Evoked Potentials/*physiology
+Face
+Female
+Humans
+Male
+Pattern Recognition, Visual/*physiology
+Photic Stimulation/*methods
+Reaction Time/*physiology
+Recognition (Psychology)/*physiology
+Young Adult

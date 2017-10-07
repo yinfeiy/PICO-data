@@ -1,0 +1,17 @@
+Acute Disease
+Blood Transfusion
+Child
+*Endoscopy, Gastrointestinal
+Esophageal and Gastric Varices/etiology/*surgery/therapy
+Female
+Follow-Up Studies
+Gastrointestinal Hemorrhage/etiology/*surgery/therapy
+Humans
+Hypertension, Portal/*complications
+Ligation
+Male
+Portal Vein/pathology
+Postoperative Complications
+Recurrence
+*Sclerotherapy
+Treatment Failure

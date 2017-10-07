@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Anesthetics, Local/*therapeutic use
+Chronic Disease
+Double-Blind Method
+Female
+Fissure in Ano/*drug therapy
+Humans
+Lidocaine/*therapeutic use
+Male
+Middle Aged
+Minoxidil/*therapeutic use
+Prospective Studies
+Treatment Outcome
+Vasodilator Agents/*therapeutic use

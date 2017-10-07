@@ -1,0 +1,22 @@
+Adult
+Aged
+Aged, 80 and over
+Blood Pressure/*drug effects
+Cross-Over Studies
+Diet, Sodium-Restricted
+Dietary Supplements
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Hypertension/*diet therapy/physiopathology/urine
+Male
+Middle Aged
+Potassium/urine
+Potassium, Dietary/*administration & dosage
+Pulse Wave Analysis
+Retrospective Studies
+Sodium/urine
+Sodium, Dietary/*administration & dosage
+Vascular Stiffness/*drug effects

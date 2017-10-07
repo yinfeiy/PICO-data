@@ -1,0 +1,14 @@
+Age Factors
+Anti-Inflammatory Agents/administration & dosage/adverse effects/*therapeutic use
+Arthritis, Rheumatoid/*drug therapy/mortality
+Cardiovascular Diseases/*chemically induced/mortality
+Coronary Disease/chemically induced/mortality
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Prednisolone/administration & dosage/adverse effects/*therapeutic use
+Proportional Hazards Models
+Risk Factors
+Sweden/epidemiology

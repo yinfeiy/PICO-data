@@ -1,0 +1,18 @@
+Adult
+Aged
+Aged, 80 and over
+Clinical Trials as Topic
+Female
+Fibrinolytic Agents/*therapeutic use
+Hemorrhage/epidemiology
+Heparin/*therapeutic use
+*Hip Prosthesis
+Humans
+Male
+Middle Aged
+Polydeoxyribonucleotides/*therapeutic use
+Postoperative Complications/epidemiology/*prevention & control
+*Premedication
+Random Allocation
+Thromboembolism/*prevention & control
+Wound Healing

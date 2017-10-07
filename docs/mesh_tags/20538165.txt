@@ -1,0 +1,18 @@
+Acute Coronary Syndrome/blood/diagnosis/*therapy
+Adult
+Aged
+Blood Component Transfusion/*methods
+Blood Transfusion, Autologous
+Electrophoresis, Gel, Two-Dimensional
+Enzyme-Linked Immunosorbent Assay
+Female
+Follow-Up Studies
+Humans
+Infusions, Intravenous
+Lipoproteins, HDL/*administration & dosage
+Male
+Middle Aged
+Retrospective Studies
+Single-Blind Method
+Treatment Outcome
+Ultrasonography, Interventional

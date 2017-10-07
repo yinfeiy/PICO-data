@@ -1,0 +1,19 @@
+Activities of Daily Living
+Adult
+Aged
+Angina Pectoris/complications/diagnosis/*drug therapy/physiopathology
+Blood Pressure/*drug effects
+Circadian Rhythm
+Echocardiography
+Electrocardiography, Ambulatory
+Epinephrine/blood
+Female
+Heart Rate
+Humans
+Hypertension/complications/diagnosis/*drug therapy/physiopathology
+Male
+Middle Aged
+Myocardial Ischemia/complications/diagnosis/*drug therapy/physiopathology
+Nifedipine/pharmacology/*therapeutic use
+Norepinephrine/blood
+Sympathetic Nervous System/physiopathology

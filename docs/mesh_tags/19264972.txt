@@ -1,0 +1,14 @@
+Adult
+Biomarkers/blood
+Cotinine/blood/urine
+Cross-Over Studies
+Cytokines/*blood
+Environmental Monitoring
+Female
+Humans
+Male
+Respiratory Function Tests
+Sex Distribution
+Single-Blind Method
+Tobacco Smoke Pollution/*adverse effects
+Young Adult

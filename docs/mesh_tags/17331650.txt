@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Animals
+*Biological Dressings
+Burns/blood/*therapy
+C-Reactive Protein/metabolism
+Child
+Child, Preschool
+Dermis/*transplantation
+Humans
+Infant
+Middle Aged
+Skin, Artificial
+Swine
+Systemic Inflammatory Response Syndrome/blood/*prevention & control
+Transplantation, Heterologous

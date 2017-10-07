@@ -1,0 +1,14 @@
+Adult
+Anti-Infective Agents/*therapeutic use
+Chronic Disease
+Ciprofloxacin/*therapeutic use
+Female
+*Fluoroquinolones
+Follow-Up Studies
+Humans
+*Levofloxacin
+Male
+Middle Aged
+Ofloxacin/*therapeutic use
+Osteomyelitis/*drug therapy
+Quinolones/*therapeutic use

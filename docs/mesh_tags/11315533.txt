@@ -1,0 +1,15 @@
+Adolescent
+Adult
+Child
+Child Behavior Disorders/diagnosis/psychology/*therapy
+Cognitive Therapy
+Community Mental Health Centers
+Consumer Behavior
+Family Therapy
+Female
+Humans
+Male
+Parents/psychology
+Patient Dropouts/*psychology
+Psychotherapy
+Treatment Outcome

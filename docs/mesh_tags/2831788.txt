@@ -1,0 +1,17 @@
+Adult
+Aged
+Amiloride/therapeutic use
+Antihypertensive Agents/adverse effects/*therapeutic use
+Clinical Trials as Topic
+Drug Therapy, Combination
+Enalapril/therapeutic use
+Female
+Hemodynamics/drug effects
+Humans
+Hydrochlorothiazide/therapeutic use
+Hypertension/blood/*drug therapy
+Magnesium/blood
+Male
+Middle Aged
+Potassium/blood
+Timolol/therapeutic use

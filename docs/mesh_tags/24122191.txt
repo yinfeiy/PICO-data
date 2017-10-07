@@ -1,0 +1,14 @@
+Adult
+Blood Cell Count
+Body Surface Area
+Burns/blood/pathology/*therapy
+Female
+Humans
+Hyperbaric Oxygenation/*methods
+Interferon-gamma/blood
+Interleukins/blood
+Male
+Middle Aged
+Pilot Projects
+Prospective Studies
+Young Adult

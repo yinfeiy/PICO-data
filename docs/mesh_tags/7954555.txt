@@ -1,0 +1,18 @@
+Adult
+Aged
+*Angioplasty, Balloon, Coronary
+Circadian Rhythm
+Double-Blind Method
+*Electrocardiography, Ambulatory
+Female
+Heart/diagnostic imaging
+Humans
+Infusions, Intravenous
+Isosorbide Dinitrate/*administration & dosage/therapeutic use
+Male
+Middle Aged
+Myocardial Ischemia/diagnosis/diagnostic imaging/drug therapy/*therapy
+Prospective Studies
+Radionuclide Imaging
+Recurrence
+Thallium Radioisotopes

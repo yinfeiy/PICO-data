@@ -1,0 +1,22 @@
+Adipose Tissue/*physiology
+Adrenergic alpha-Agonists/pharmacology
+Adrenergic beta-Agonists/pharmacology
+Adult
+Blood Glucose/metabolism
+Catecholamines/pharmacology
+*Diet
+Dietary Carbohydrates/pharmacology
+Dietary Fats/pharmacology
+Epinephrine/pharmacology
+Exercise/*physiology
+Extracellular Space/drug effects/metabolism
+Fatty Acids, Nonesterified/blood
+Glycerol/metabolism
+Hormones/blood
+Humans
+Isoproterenol/pharmacology
+Lipolysis/*physiology
+Male
+Microdialysis
+Oxygen Consumption/drug effects/physiology
+Rest/*physiology

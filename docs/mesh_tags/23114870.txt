@@ -1,0 +1,21 @@
+Aged
+Aged, 80 and over
+Arthroplasty, Replacement, Knee/instrumentation/*methods
+Blood Loss, Surgical/*prevention & control/statistics & numerical data
+Blood Transfusion/statistics & numerical data
+Bone Nails
+Female
+Humans
+Imaging, Three-Dimensional
+Knee Prosthesis
+*Magnetic Resonance Imaging
+Male
+Middle Aged
+Minimally Invasive Surgical Procedures/instrumentation/*methods
+Models, Anatomic
+Operative Time
+Osteoarthritis, Knee/*surgery
+Preoperative Care/*methods
+Prospective Studies
+Surgery, Computer-Assisted/instrumentation/*methods
+Treatment Outcome

@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Coronary Angiography
+Coronary Artery Bypass
+Female
+Humans
+Male
+Mammary Arteries/*physiology
+Middle Aged
+Prospective Studies
+Radial Artery/*physiology
+Saphenous Vein/*physiology
+*Vascular Patency

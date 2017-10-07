@@ -1,0 +1,12 @@
+11-beta-Hydroxysteroid Dehydrogenase Type 1/blood
+11-beta-Hydroxysteroid Dehydrogenase Type 2/blood
+11-beta-Hydroxysteroid Dehydrogenases/*blood/drug effects
+Abdominal Fat/drug effects
+Human Growth Hormone/administration & dosage/*therapeutic use
+Humans
+Hydrocortisone/blood
+Insulin Resistance/physiology
+Male
+Middle Aged
+Obesity/*drug therapy/*enzymology
+Time Factors

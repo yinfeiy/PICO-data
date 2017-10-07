@@ -1,0 +1,17 @@
+Adenocarcinoma/*drug therapy/pathology
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology
+Carcinoma, Squamous Cell/*drug therapy/pathology
+Deoxycytidine/administration & dosage/analogs & derivatives
+Drug Combinations
+Female
+Humans
+Lung Neoplasms/*drug therapy/pathology
+Male
+Neoplasm Staging
+Oxonic Acid/administration & dosage
+Safety
+Survival Rate
+Tegafur/administration & dosage
+Treatment Outcome

@@ -1,0 +1,17 @@
+Aged
+Biomedical Research
+Endometrial Neoplasms/mortality/pathology/*surgery
+Female
+Follow-Up Studies
+Humans
+*Hysterectomy
+*Laparoscopy
+Laparotomy
+Lymph Node Excision
+Lymph Nodes/pathology/*surgery
+Middle Aged
+Neoplasm Grading
+Neoplasm Recurrence, Local/diagnosis/mortality/surgery
+Prognosis
+Prospective Studies
+Survival Rate

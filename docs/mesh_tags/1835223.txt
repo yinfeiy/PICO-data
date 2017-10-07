@@ -1,0 +1,14 @@
+Anti-Bacterial Agents/*administration & dosage/adverse effects/therapeutic use
+Cellulitis/*drug therapy
+Drug Administration Schedule
+Female
+Glycopeptides/administration & dosage/adverse effects/therapeutic use
+Gram-Positive Bacterial Infections/*drug therapy
+Humans
+Injections, Intramuscular
+Injections, Intravenous
+Male
+Skin Diseases, Infectious/*drug therapy
+Staphylococcal Infections/drug therapy
+Teicoplanin
+Wound Infection/*drug therapy

@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bleomycin/administration & dosage
+*Bone Marrow Transplantation
+Carmustine/administration & dosage
+Confidence Intervals
+Cyclophosphamide/administration & dosage
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Etoposide/administration & dosage
+Follow-Up Studies
+Humans
+Lymphoma, Non-Hodgkin/*therapy
+Middle Aged
+Prednisolone/administration & dosage
+Prospective Studies
+Remission Induction
+Risk Factors
+Transplantation, Autologous
+Vindesine/administration & dosage

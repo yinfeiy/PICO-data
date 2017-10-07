@@ -1,0 +1,20 @@
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carcinoma, Small Cell/*drug therapy/mortality
+Disease-Free Survival
+Doxorubicin/administration & dosage
+Epirubicin/administration & dosage
+Etoposide/administration & dosage
+Europe
+Female
+Humans
+Ifosfamide/administration & dosage
+Karnofsky Performance Status
+Lung Neoplasms/*drug therapy/mortality
+Male
+Middle Aged
+Multivariate Analysis
+Remission Induction
+Survival Rate
+Vindesine/administration & dosage

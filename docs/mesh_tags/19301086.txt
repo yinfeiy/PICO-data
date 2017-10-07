@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Anti-Inflammatory Agents/*therapeutic use
+Cyclooxygenase 2 Inhibitors/*therapeutic use
+Female
+Hernia, Inguinal/*surgery
+Humans
+Lactones/*therapeutic use
+Male
+Middle Aged
+Pain, Postoperative/*drug therapy
+Prospective Studies
+Single-Blind Method
+Sulfones/*therapeutic use
+Young Adult

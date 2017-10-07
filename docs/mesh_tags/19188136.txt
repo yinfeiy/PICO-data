@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal/administration & dosage
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Carboplatin/administration & dosage
+Carcinoma, Non-Small-Cell Lung/*drug therapy/pathology
+Cetuximab
+Dose-Response Relationship, Drug
+Female
+Humans
+Lung Neoplasms/*drug therapy/pathology
+Male
+Middle Aged
+Paclitaxel/administration & dosage

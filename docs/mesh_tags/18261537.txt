@@ -1,0 +1,16 @@
+Adult
+Antihypertensive Agents/therapeutic use
+Antioxidants/*therapeutic use
+C-Reactive Protein/drug effects/*metabolism
+Creatinine/blood
+Enalapril/*therapeutic use
+Female
+Humans
+Kidney Transplantation/*immunology
+Losartan/*therapeutic use
+Male
+Middle Aged
+Oxidative Stress
+Polymerase Chain Reaction
+*Polymorphism, Genetic
+Renin-Angiotensin System/drug effects/*genetics

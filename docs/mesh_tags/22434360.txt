@@ -1,0 +1,18 @@
+Adult
+Aged
+Antimetabolites, Antineoplastic/administration & dosage
+Antineoplastic Agents/*therapeutic use
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Carcinoma, Squamous Cell/*drug therapy/*pathology
+Cisplatin/*therapeutic use
+Double-Blind Method
+Female
+Glutamates/administration & dosage
+Guanine/administration & dosage/analogs & derivatives
+Head and Neck Neoplasms/*drug therapy/*pathology
+Humans
+Male
+Middle Aged
+Neoplasm Recurrence, Local/*drug therapy
+Pemetrexed
+Treatment Outcome

@@ -1,0 +1,21 @@
+Administration, Oral
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antiemetics/*administration & dosage/adverse effects
+Antineoplastic Agents/*adverse effects
+Carboplatin/adverse effects
+Cyclophosphamide/adverse effects
+Dexamethasone/therapeutic use
+Double-Blind Method
+Female
+Granisetron/*administration & dosage/adverse effects
+Humans
+Injections, Intravenous
+Male
+Methylprednisolone/administration & dosage
+Middle Aged
+Nausea/chemically induced/*prevention & control
+Ondansetron/*administration & dosage/adverse effects
+Vomiting/chemically induced/*prevention & control

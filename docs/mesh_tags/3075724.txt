@@ -1,0 +1,17 @@
+Adult
+Aged
+Aged, 80 and over
+Antidepressive Agents, Tricyclic/therapeutic use
+Brain/*metabolism
+Clinical Trials as Topic
+Depressive Disorder/*blood/drug therapy
+Desipramine/therapeutic use
+Dibenzazepines/therapeutic use
+Female
+Glycols/*blood
+Humans
+Male
+Methoxyhydroxyphenylglycol/analogs & derivatives/*blood
+Middle Aged
+Norepinephrine/*blood
+Random Allocation

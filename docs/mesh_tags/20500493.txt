@@ -1,0 +1,17 @@
+Adult
+Aged
+Cyclosporine/*therapeutic use
+Everolimus
+Female
+Glomerular Filtration Rate
+Graft Survival
+Humans
+Immunosuppressive Agents/therapeutic use
+Kidney Transplantation/methods
+Male
+Middle Aged
+Prospective Studies
+Risk
+Sirolimus/*analogs & derivatives/therapeutic use
+Treatment Outcome
+Wound Healing

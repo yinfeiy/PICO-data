@@ -1,0 +1,19 @@
+Abdominal Pain/*drug therapy/etiology
+Anesthetics, Local/administration & dosage/adverse effects/therapeutic use
+Autonomic Nerve Block/adverse effects/*methods
+Bupivacaine/administration & dosage/adverse effects/therapeutic use
+Celiac Plexus/*diagnostic imaging/drug effects
+Female
+Gallbladder Neoplasms/*physiopathology
+Humans
+Male
+Middle Aged
+Needles
+Pain Management/*methods
+Pain Measurement
+Pancreatic Neoplasms/*physiopathology
+*Point-of-Care Systems
+Single-Blind Method
+Time Factors
+Treatment Outcome
+Ultrasonography

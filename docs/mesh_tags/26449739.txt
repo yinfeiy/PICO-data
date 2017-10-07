@@ -1,0 +1,13 @@
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Agents/*administration & dosage/adverse effects
+Drug Administration Schedule
+Female
+Humans
+Lymphoma, Large B-Cell, Diffuse/*drug therapy/mortality
+Male
+Middle Aged
+Prospective Studies
+Rituximab/*administration & dosage/adverse effects
+Treatment Outcome

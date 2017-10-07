@@ -1,0 +1,12 @@
+Aged
+*Analgesia, Patient-Controlled
+Analgesics, Opioid/administration & dosage
+*Arthroplasty, Replacement, Knee
+Female
+Humans
+Male
+Morphine/administration & dosage
+Pain Measurement
+Pain, Postoperative/*therapy
+Prospective Studies
+*Transcutaneous Electric Nerve Stimulation

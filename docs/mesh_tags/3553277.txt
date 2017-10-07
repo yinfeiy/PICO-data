@@ -1,0 +1,17 @@
+Administration, Inhalation
+Adolescent
+Adult
+Aerosols/adverse effects
+Aged
+Albuterol/*administration & dosage
+Asthma/*drug therapy
+Child
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Lung Diseases, Obstructive/drug therapy
+Male
+Middle Aged
+Powders/adverse effects
+Respiratory Function Tests

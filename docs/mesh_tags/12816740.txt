@@ -1,0 +1,28 @@
+3',5'-Cyclic-AMP Phosphodiesterases/*antagonists & inhibitors
+Adult
+Aged
+Aged, 80 and over
+Anti-Inflammatory Agents/immunology/*therapeutic use
+Antigens, CD/analysis/drug effects
+Antigens, Differentiation, Myelomonocytic/analysis/drug effects
+Biopsy
+Bronchodilator Agents/immunology/*therapeutic use
+CD4-Positive T-Lymphocytes/drug effects/immunology
+CD8-Positive T-Lymphocytes/drug effects/immunology
+Carboxylic Acids
+Cyclic Nucleotide Phosphodiesterases, Type 4
+Cyclohexanecarboxylic Acids
+Double-Blind Method
+Female
+Forced Expiratory Volume/drug effects
+Humans
+Interleukin-8/analysis/immunology
+Leukocyte Count
+Leukocyte Elastase/analysis/drug effects
+Male
+Middle Aged
+Nitriles
+Phosphodiesterase Inhibitors/immunology/*therapeutic use
+Pulmonary Disease, Chronic Obstructive/*drug therapy/immunology/physiopathology
+Sputum/chemistry/cytology
+Treatment Outcome

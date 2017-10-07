@@ -1,0 +1,15 @@
+Adolescent
+Adsorption
+Adult
+Anticoagulants/*administration & dosage
+Disseminated Intravascular Coagulation/prevention & control
+Female
+Heparin/*administration & dosage
+Humans
+Liver Failure/*therapy
+*Liver, Artificial
+Male
+Middle Aged
+Prothrombin Time
+Sorption Detoxification/*methods
+Young Adult

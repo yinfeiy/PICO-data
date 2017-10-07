@@ -1,0 +1,11 @@
+Adult
+Antibodies/*analysis
+Carbimazole/therapeutic use
+Female
+Graves Disease/drug therapy/*immunology
+Humans
+Immunoglobulins, Thyroid-Stimulating
+Male
+Prognosis
+Prospective Studies
+Thyroid Gland/*immunology

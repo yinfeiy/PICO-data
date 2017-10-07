@@ -1,0 +1,14 @@
+Adult
+Analysis of Variance
+Boston
+Curriculum
+Education, Nursing, Continuing/*methods
+Female
+Health Knowledge, Attitudes, Practice
+Humans
+Male
+Middle Aged
+Neoplasms/*nursing
+Oncology Nursing/*education
+Pain/*nursing
+*Preceptorship

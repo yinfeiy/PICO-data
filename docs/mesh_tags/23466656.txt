@@ -1,0 +1,12 @@
+Adolescent
+Attention/*physiology
+Attention Deficit Disorder with Hyperactivity/diagnosis/*physiopathology/psychology
+Child
+Child Development Disorders, Pervasive/diagnosis/*physiopathology/psychology
+*Face
+Fixation, Ocular/*physiology
+Humans
+Male
+Pattern Recognition, Visual/physiology
+Photic Stimulation/*methods
+Reaction Time/physiology

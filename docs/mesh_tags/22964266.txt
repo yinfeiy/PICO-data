@@ -1,0 +1,16 @@
+Adult
+Affect
+Anxiety Disorders/psychology/*rehabilitation
+Asperger Syndrome/psychology/rehabilitation
+Autistic Disorder/psychology/rehabilitation
+Child
+Child Development Disorders, Pervasive/psychology/*rehabilitation
+Cognitive Therapy/*methods
+Depressive Disorder/psychology/*rehabilitation
+Female
+Humans
+Male
+Middle Aged
+Negotiating/*methods
+Surveys and Questionnaires
+Treatment Outcome

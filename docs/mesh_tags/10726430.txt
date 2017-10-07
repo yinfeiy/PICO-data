@@ -1,0 +1,10 @@
+Adult
+Exercise/*physiology
+Female
+Heart Rate
+Humans
+Lactic Acid/*blood
+Oxygen Consumption
+Physical Fitness
+Reproducibility of Results
+Running/*physiology

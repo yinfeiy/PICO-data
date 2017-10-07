@@ -1,0 +1,24 @@
+Absorptiometry, Photon
+Adult
+Amino Acids, Essential/*pharmacology
+Blotting, Western
+Cross-Sectional Studies
+Dietary Carbohydrates/*pharmacology
+Electrophoresis, Polyacrylamide Gel
+Exercise/*physiology
+Glucose/metabolism
+Humans
+Lactic Acid/metabolism
+Leucine/*pharmacology
+Male
+Muscle Proteins/*biosynthesis
+Muscle, Skeletal/drug effects/*metabolism
+Oncogene Protein v-akt/biosynthesis
+Phenylalanine/metabolism
+Physical Fitness/physiology
+Protein Kinases/*physiology
+Regional Blood Flow/physiology
+Ribosomal Protein S6 Kinases/biosynthesis/genetics
+Signal Transduction/*drug effects
+TOR Serine-Threonine Kinases
+Tumor Suppressor Proteins/biosynthesis/genetics

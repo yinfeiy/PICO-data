@@ -1,0 +1,14 @@
+Carcinoma, Squamous Cell/metabolism/pathology/*radiotherapy
+*Cell Proliferation
+Female
+Head and Neck Neoplasms/metabolism/*pathology/*radiotherapy
+Humans
+Immunohistochemistry
+Ki-67 Antigen/*metabolism
+Male
+Middle Aged
+Neoplasm Recurrence, Local/pathology/radiotherapy
+Radiotherapy/methods
+Retrospective Studies
+Survival Analysis
+Treatment Outcome

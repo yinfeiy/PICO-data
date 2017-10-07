@@ -1,0 +1,20 @@
+Antibodies, Monoclonal/*therapeutic use
+Antibodies, Monoclonal, Murine-Derived/*therapeutic use
+Antirheumatic Agents/*therapeutic use
+Arthritis, Rheumatoid/diagnosis/*drug therapy/physiopathology
+Disability Evaluation
+Double-Blind Method
+Drug Substitution
+Drug Therapy, Combination
+Female
+Health Status
+Humans
+Joints/drug effects/pathology/physiopathology
+Male
+Methotrexate/therapeutic use
+Middle Aged
+Rituximab
+Surveys and Questionnaires
+Treatment Failure
+Treatment Outcome
+Tumor Necrosis Factor-alpha/*antagonists & inhibitors

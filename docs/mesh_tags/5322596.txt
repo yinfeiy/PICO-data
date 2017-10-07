@@ -1,0 +1,15 @@
+Adult
+Aged
+Candida/*drug effects
+Candidiasis/*epidemiology
+Candidiasis, Cutaneous/drug therapy
+Candidiasis, Oral/*drug therapy
+Clinical Trials as Topic
+Female
+Humans
+Male
+Middle Aged
+Nystatin/*therapeutic use
+Penicillin G/*therapeutic use
+Rectal Diseases/*drug therapy
+Tetracycline/*therapeutic use

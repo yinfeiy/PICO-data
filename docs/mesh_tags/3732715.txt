@@ -1,0 +1,17 @@
+Adult
+Angina Pectoris/*physiopathology
+Benzazepines/*pharmacology
+Blood Pressure/drug effects
+Cardiac Pacing, Artificial
+Coronary Vessels/drug effects
+Diltiazem/*pharmacology
+Electrocardiography
+Exercise Test
+Female
+Heart Rate/drug effects
+Humans
+Male
+Middle Aged
+Propranolol/*pharmacology
+Random Allocation
+Syndrome

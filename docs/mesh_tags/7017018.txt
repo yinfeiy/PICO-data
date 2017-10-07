@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Antilymphocyte Serum/therapeutic use
+Appendectomy/*adverse effects
+*Bacteroides Infections/blood
+Bacteroides fragilis
+Blood Cell Count
+Child
+Child, Preschool
+Graft Survival
+Humans
+*Kidney Transplantation
+Lymphocytes
+Male
+Postoperative Complications/etiology
+Sepsis/*etiology
+T-Lymphocytes/immunology

@@ -1,0 +1,11 @@
+Adult
+Aged
+Anticholesteremic Agents/*therapeutic use
+Coronary Disease/complications
+Humans
+Hypercholesterolemia/blood/*drug therapy/etiology
+Lipoproteins, HDL/*blood/chemistry
+Middle Aged
+Phosphatidylcholines/*therapeutic use
+Phospholipids/analysis/*blood
+Simvastatin/*therapeutic use

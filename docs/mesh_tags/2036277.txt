@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Analysis of Variance
+Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage
+Aspirin/administration & dosage
+Chi-Square Distribution
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Molar, Third/*surgery
+Pain Measurement
+Pain, Postoperative/*drug therapy
+Piroxicam/administration & dosage/*analogs & derivatives
+Tooth Extraction

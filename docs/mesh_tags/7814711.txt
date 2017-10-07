@@ -1,0 +1,10 @@
+Animals
+Cattle
+Cephapirin/therapeutic use
+Female
+Infusions, Parenteral/veterinary
+Injections, Intramuscular/veterinary
+Mammary Glands, Animal
+Mastitis, Bovine/*drug therapy
+Oxytetracycline/economics/pharmacokinetics/*therapeutic use
+Staphylococcal Infections/drug therapy/*veterinary

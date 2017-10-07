@@ -1,0 +1,15 @@
+Adult
+Aged
+Axilla/pathology/*surgery
+Breast Neoplasms/*drug therapy/*pathology/surgery
+Carcinoma, Ductal, Breast/*drug therapy/*pathology/surgery
+*Chemotherapy, Adjuvant/statistics & numerical data
+Female
+Guideline Adherence/statistics & numerical data
+Humans
+Hungary
+Lymphatic Metastasis
+Mastectomy
+Middle Aged
+*Sentinel Lymph Node Biopsy
+Treatment Outcome

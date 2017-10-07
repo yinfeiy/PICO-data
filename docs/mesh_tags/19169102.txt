@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Clavicle/*injuries/surgery
+Disability Evaluation
+Female
+Fracture Fixation, Intramedullary/adverse effects/*methods
+Fracture Healing
+Fractures, Bone/*surgery
+Fractures, Ununited
+Humans
+Male
+Middle Aged
+*Orthotic Devices/adverse effects
+Patient Satisfaction
+Postoperative Complications
+Treatment Outcome
+Young Adult

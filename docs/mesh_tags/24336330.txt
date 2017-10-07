@@ -1,0 +1,27 @@
+Animals
+Biomarkers, Tumor
+Breast Neoplasms/*metabolism
+Cell Differentiation
+Cell Proliferation
+Cell Survival
+Disease-Free Survival
+Female
+Fibroblasts/*metabolism
+*Gene Expression Regulation, Neoplastic
+HEK293 Cells
+Humans
+MCF-7 Cells
+Mice
+Mice, Nude
+Neoplasm Transplantation
+Phosphorylation
+Predictive Value of Tests
+Premenopause
+Prognosis
+Proportional Hazards Models
+Protein-Serine-Threonine Kinases/*metabolism
+Receptors, Transforming Growth Factor beta/*metabolism
+Signal Transduction
+Tamoxifen/therapeutic use
+Transforming Growth Factor beta/metabolism
+Transforming Growth Factor beta1/metabolism

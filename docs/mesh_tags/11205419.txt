@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Cognition/*drug effects
+Double-Blind Method
+Hallucinogens/*pharmacology
+Humans
+Male
+Middle Aged
+N-Methyl-3,4-methylenedioxyamphetamine/*pharmacology
+Neuropsychological Tests
+Reaction Time/drug effects
+Serotonin/*physiology
+Serotonin Agents/*pharmacology

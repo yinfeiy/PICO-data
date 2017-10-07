@@ -1,0 +1,16 @@
+Administration, Oral
+Adolescent
+Adult
+Aminocaproates/*therapeutic use
+Child
+Child, Preschool
+Double-Blind Method
+Eye Injuries/complications/*drug therapy
+Female
+Humans
+Hyphema/*drug therapy/etiology
+Infant
+Male
+Middle Aged
+Prednisone/*therapeutic use
+Prospective Studies

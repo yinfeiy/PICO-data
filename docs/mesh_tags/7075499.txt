@@ -1,0 +1,9 @@
+Adult
+Angina Pectoris/diagnosis/*drug therapy
+Dose-Response Relationship, Drug
+Exercise Test
+Humans
+Isosorbide Dinitrate/administration & dosage/blood/*therapeutic use
+Male
+Middle Aged
+Placebos

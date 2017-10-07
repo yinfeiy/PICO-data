@@ -1,0 +1,14 @@
+Adult
+Analysis of Variance
+Chronic Disease
+Female
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Outcome Assessment (Health Care)/methods
+Psychiatric Status Rating Scales
+Schizophrenia/*physiopathology/*therapy
+*Schizophrenic Psychology
+Statistics as Topic
+Transcranial Magnetic Stimulation/*methods

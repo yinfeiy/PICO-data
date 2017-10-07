@@ -1,0 +1,16 @@
+Adolescent
+Adult
+*Blood Glucose
+Blood Pressure/drug effects
+Diabetes Mellitus, Type 1/metabolism/physiopathology/*prevention & control
+Diabetic Retinopathy/metabolism/physiopathology/*prevention & control
+Electroretinography
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Insulin/*therapeutic use
+Intraocular Pressure/drug effects
+Longitudinal Studies
+Male
+Oscillometry
+Prospective Studies

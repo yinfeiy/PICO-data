@@ -1,0 +1,13 @@
+Adult
+Analgesia, Obstetrical
+Birth Weight
+Delivery, Obstetric/adverse effects/*methods
+Female
+Gestational Age
+Humans
+*Obstetrical Forceps/adverse effects
+Organizational Policy
+Pregnancy
+Risk Factors
+Time Factors
+Vacuum Extraction, Obstetrical/adverse effects/*methods

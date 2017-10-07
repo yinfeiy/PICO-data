@@ -1,0 +1,13 @@
+Adult
+Female
+Fetal Growth Retardation/*complications
+Gestational Age
+Heart Rate, Fetal
+Hot Temperature
+Humans
+Labor, Obstetric
+Oligohydramnios/*complications/*therapy
+Pregnancy
+*Pregnancy, Prolonged
+Prospective Studies
+Sodium Chloride/*administration & dosage

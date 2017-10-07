@@ -1,0 +1,14 @@
+Adult
+Age Factors
+Amylases/blood/urine
+Diabetes Mellitus, Type 1/therapy
+Female
+*Graft Survival
+Humans
+Male
+Octreotide/*therapeutic use
+Organ Preservation/*adverse effects
+*Pancreas
+Pancreas Transplantation/*physiology
+Sex Factors
+Tissue Donors

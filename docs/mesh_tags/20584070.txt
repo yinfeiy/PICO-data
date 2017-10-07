@@ -1,0 +1,16 @@
+Adult
+Angiotensin II Type 1 Receptor Blockers/*pharmacology/therapeutic use
+Angiotensin-Converting Enzyme Inhibitors/*pharmacology/therapeutic use
+Benzimidazoles/*pharmacology/therapeutic use
+Benzoates/*pharmacology/therapeutic use
+Blood Pressure/drug effects
+Creatinine/blood
+Enalapril/*pharmacology/therapeutic use
+Endothelin-1/urine
+Fatty Acid-Binding Proteins/urine
+Female
+Glomerular Filtration Rate/drug effects
+Humans
+Kidney Failure, Chronic/*drug therapy
+Male
+Proteinuria/drug therapy

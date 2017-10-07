@@ -1,0 +1,11 @@
+Adult
+Alcohol-Related Disorders/*complications
+Cocaine-Related Disorders/*drug therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Methadone/*therapeutic use
+Middle Aged
+*Substance Withdrawal Syndrome
+Treatment Outcome

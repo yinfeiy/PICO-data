@@ -1,0 +1,16 @@
+Adult
+Aged
+Body Height/drug effects
+Body Mass Index
+Body Weight/drug effects
+Double-Blind Method
+Female
+Growth Disorders/*drug therapy/pathology
+Growth Hormone/deficiency/*therapeutic use
+Humans
+Insulin-Like Growth Factor I/analysis
+Isometric Contraction/drug effects
+Male
+Middle Aged
+Muscles/drug effects/pathology/physiology
+Time Factors

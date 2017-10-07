@@ -1,0 +1,14 @@
+Adult
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Double-Blind Method
+Female
+Granulocyte Colony-Stimulating Factor/*pharmacology
+Granulocyte-Macrophage Colony-Stimulating Factor/*pharmacology
+*Hematopoietic Stem Cell Mobilization
+*Hematopoietic Stem Cell Transplantation
+Hodgkin Disease/pathology/*therapy
+Humans
+Male
+Middle Aged
+Recombinant Proteins/pharmacology
+Transplantation, Autologous

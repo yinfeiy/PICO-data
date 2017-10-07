@@ -1,0 +1,20 @@
+Adult
+Anesthesia, Dental/*psychology
+Anesthesia, Local/psychology
+Anti-Anxiety Agents/therapeutic use
+Anxiety/drug therapy/*psychology
+Clinical Competence
+Fear
+Female
+Hospitalization
+Humans
+Hypnotics and Sedatives/therapeutic use
+Interviews as Topic
+Male
+Middle Aged
+Oral Surgical Procedures/psychology
+Pain, Postoperative/drug therapy
+*Patient Education as Topic
+*Patient Satisfaction
+Preoperative Care/*psychology
+Surveys and Questionnaires

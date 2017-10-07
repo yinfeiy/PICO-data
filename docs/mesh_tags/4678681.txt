@@ -1,0 +1,21 @@
+Adult
+African Continental Ancestry Group
+Age Factors
+Aged
+Arterial Occlusive Diseases/epidemiology
+Blood Pressure
+Carotid Artery Diseases/diagnostic imaging/epidemiology/surgery
+Cerebrovascular Disorders/diagnostic imaging/*epidemiology/surgery
+Continental Population Groups
+European Continental Ancestry Group
+Female
+Humans
+Hypertension/epidemiology
+Ischemic Attack, Transient/epidemiology
+Male
+Middle Aged
+Neurologic Manifestations
+North Carolina
+Radiography
+Sex Factors
+Vascular Diseases/epidemiology

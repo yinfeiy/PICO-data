@@ -1,0 +1,11 @@
+Adult
+Amiodarone/*therapeutic use
+Atrial Fibrillation/*therapy
+Benzofurans/*therapeutic use
+Drug Evaluation
+*Electric Countershock
+Female
+Heart Conduction System/drug effects
+Humans
+Male
+Quinidine/*therapeutic use

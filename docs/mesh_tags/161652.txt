@@ -1,0 +1,20 @@
+Adult
+Aged
+Aortic Valve/diagnostic imaging/*surgery
+Aortic Valve Insufficiency/physiopathology/*surgery
+Aortic Valve Stenosis/physiopathology/*surgery
+Blood Pressure
+Cardiac Catheterization
+Cardiac Volume
+Cardiomegaly/therapy
+Cineangiography
+Female
+Follow-Up Studies
+Heart Function Tests
+Heart Valve Prosthesis/*adverse effects
+*Hemodynamics
+Humans
+Male
+Middle Aged
+Prosthesis Design
+Random Allocation

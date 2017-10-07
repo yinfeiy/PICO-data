@@ -1,0 +1,13 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Agents, Hormonal/administration & dosage
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Gastrointestinal Neoplasms/*pathology
+Humans
+Interferon-alpha/administration & dosage
+Middle Aged
+Neoplasms, Hormone-Dependent/*drug therapy/secondary
+Octreotide/administration & dosage
+Pancreatic Neoplasms/*pathology
+Recombinant Proteins

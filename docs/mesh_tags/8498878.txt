@@ -1,0 +1,17 @@
+Adolescent
+Adult
+Ambulatory Care
+Autistic Disorder/diagnosis/*drug therapy/psychology
+Child
+Clomipramine/*therapeutic use
+Desipramine/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Obsessive-Compulsive Disorder/diagnosis/*drug therapy/psychology
+Placebos
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Stereotyped Behavior/drug effects
+Treatment Outcome

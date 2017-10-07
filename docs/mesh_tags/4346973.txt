@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Alkanesulfonates/adverse effects/therapeutic use
+Analgesics/adverse effects/*therapeutic use
+Antipyrine/*therapeutic use
+Clinical Trials as Topic
+Female
+Humans
+Injections, Intravenous
+Male
+Meperidine/adverse effects/therapeutic use
+Middle Aged
+Placebos
+Postoperative Complications/*drug therapy

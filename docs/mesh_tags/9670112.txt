@@ -1,0 +1,11 @@
+Adult
+Blood Glucose
+Exercise
+*Exercise Therapy
+Glucosamine/*blood
+Humans
+Insulin/blood
+Lactic Acid/blood
+Male
+Middle Aged
+Myocardial Infarction/*blood/*rehabilitation

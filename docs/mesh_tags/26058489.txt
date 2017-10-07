@@ -1,0 +1,21 @@
+Absorptiometry, Photon
+Age Factors
+Aged
+*Bone Density
+China
+Clinical Protocols
+*Electromagnetic Fields/adverse effects
+Endpoint Determination
+Female
+Femur/diagnostic imaging/*physiopathology
+Humans
+Lumbar Vertebrae/diagnostic imaging/*physiopathology
+Magnetic Field Therapy/adverse effects/*methods
+Middle Aged
+Osteoarthritis/complications/diagnosis/physiopathology/*therapy
+Osteoporosis, Postmenopausal/complications/diagnosis/physiopathology/*therapy
+Prospective Studies
+Research Design
+Single-Blind Method
+Time Factors
+Treatment Outcome

@@ -1,0 +1,16 @@
+Abdomen/surgery
+Aged
+Drainage/*methods
+Female
+Humans
+Male
+Middle Aged
+Perineum/*surgery
+Postoperative Period
+Prospective Studies
+Rectal Neoplasms/surgery
+Rectum/*surgery
+Surgical Wound Dehiscence/prevention & control
+Surgical Wound Infection/prevention & control
+Therapeutic Irrigation/*methods
+Wound Healing

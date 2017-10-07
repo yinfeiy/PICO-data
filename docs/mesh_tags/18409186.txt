@@ -1,0 +1,10 @@
+Aged
+*Digital Rectal Examination
+Humans
+Logistic Models
+Male
+Middle Aged
+*Observer Variation
+Prostate-Specific Antigen/*blood
+Prostatic Neoplasms/blood/*diagnosis/diagnostic imaging
+Ultrasonography

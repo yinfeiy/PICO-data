@@ -1,0 +1,18 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Breast Neoplasms/*therapy
+Chemotherapy, Adjuvant/methods
+Cyclophosphamide/therapeutic use
+Dose-Response Relationship, Drug
+Epirubicin/therapeutic use
+Female
+Filgrastim
+Fluorouracil/therapeutic use
+Granulocyte Colony-Stimulating Factor/administration & dosage/metabolism
+Humans
+Medical Oncology/methods
+Middle Aged
+Recombinant Proteins
+Treatment Outcome

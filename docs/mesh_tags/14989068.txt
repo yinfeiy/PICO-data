@@ -1,0 +1,14 @@
+Adjuvants, Immunologic/therapeutic use
+Adolescent
+Adult
+Drug Therapy, Combination
+Drugs, Chinese Herbal/*therapeutic use
+Female
+Glomerulonephritis, IGA/*drug therapy/pathology
+Hemoglobins/analysis
+Humans
+Kidney Function Tests
+Male
+Middle Aged
+*Phytotherapy
+Yin Deficiency/*drug therapy

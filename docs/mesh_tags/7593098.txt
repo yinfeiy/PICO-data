@@ -1,0 +1,16 @@
+Femur Head/diagnostic imaging/pathology/surgery
+Femur Head Necrosis/classification/*diagnosis/therapy
+Follow-Up Studies
+Fractures, Spontaneous/etiology/prevention & control
+Hip Fractures/etiology/prevention & control
+Humans
+Magnetic Resonance Imaging/*methods
+Observer Variation
+Pilot Projects
+Prognosis
+Proportional Hazards Models
+Radiography
+Reproducibility of Results
+Risk Factors
+Severity of Illness Index
+Survival Analysis

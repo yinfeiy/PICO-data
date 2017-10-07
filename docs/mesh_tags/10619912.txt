@@ -1,0 +1,13 @@
+Adenocarcinoma/genetics/*metabolism/*pathology
+Aged
+Cathepsin D/*biosynthesis
+Female
+Gene Expression Regulation, Neoplastic
+Glycoproteins/*biosynthesis
+Humans
+Male
+Prospective Studies
+Receptor, Epidermal Growth Factor/*biosynthesis
+Receptor, ErbB-2/*biosynthesis
+Receptors, Progesterone/*biosynthesis
+Stomach Neoplasms/genetics/*metabolism/*pathology

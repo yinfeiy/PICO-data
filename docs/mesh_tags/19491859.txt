@@ -1,0 +1,22 @@
+Adult
+Aged
+Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage
+Colitis, Ulcerative/complications/diagnosis/*drug therapy
+Disease Progression
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Gastrointestinal Hemorrhage/etiology/pathology/prevention & control
+Humans
+Male
+Mesalamine/*administration & dosage
+Middle Aged
+Phenylhydrazines/*administration & dosage
+Prospective Studies
+Rectum
+Severity of Illness Index
+Sigmoidoscopy
+Tablets
+Treatment Outcome

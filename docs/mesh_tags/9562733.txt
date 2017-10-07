@@ -1,0 +1,12 @@
+Adult
+Aged
+Anticoagulants/administration & dosage
+Antifibrinolytic Agents/administration & dosage/*therapeutic use
+Aspirin/administration & dosage
+Brain Ischemia/*complications/drug therapy
+Cerebrovascular Disorders/etiology/*prevention & control
+Dipyridamole/administration & dosage
+Drug Therapy, Combination
+Humans
+Middle Aged
+Platelet Aggregation Inhibitors/administration & dosage

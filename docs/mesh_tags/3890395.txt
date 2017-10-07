@@ -1,0 +1,16 @@
+Aldosterone/blood
+Blood Glucose/metabolism
+Blood Pressure/drug effects
+Carbohydrate Metabolism
+Chlorthalidone/*adverse effects/therapeutic use
+Clinical Trials as Topic
+Diabetes Mellitus, Type 2/*complications/metabolism
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hypertension/complications/*drug therapy/metabolism
+Male
+Middle Aged
+Muzolimine/*adverse effects/therapeutic use
+Pyrazoles/*adverse effects
+Random Allocation

@@ -1,0 +1,11 @@
+Alcoholism/diagnosis/*therapy
+Correspondence as Topic
+Counseling/*utilization
+Female
+Health Knowledge, Attitudes, Practice
+Humans
+Logistic Models
+Male
+*Practice Patterns, Physicians'
+Severity of Illness Index
+Sex Factors

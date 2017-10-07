@@ -1,0 +1,11 @@
+AIDS-Related Opportunistic Infections/*drug therapy/mortality
+Adult
+Double-Blind Method
+Female
+HIV Infections/*complications
+Humans
+Male
+Middle Aged
+Pneumonia, Pneumocystis/complications/mortality
+Pyrimethamine/*adverse effects
+Toxoplasmosis, Cerebral/*prevention & control

@@ -1,0 +1,14 @@
+Adolescent
+Antipsychotic Agents/adverse effects/*therapeutic use
+Asperger Syndrome/diagnosis/*drug therapy
+Autistic Disorder/diagnosis/*drug therapy
+Benzodiazepines/adverse effects/therapeutic use
+Child
+Child Development Disorders, Pervasive/diagnosis/*drug therapy
+Double-Blind Method
+Female
+Humans
+Male
+Pilot Projects
+Treatment Outcome
+Weight Gain/drug effects

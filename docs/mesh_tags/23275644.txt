@@ -1,0 +1,10 @@
+Adenocarcinoma/*surgery
+*Clinical Protocols
+Female
+Gastrectomy/*methods
+Humans
+*Laparoscopy
+Lymph Node Excision
+Male
+Stomach Neoplasms/pathology/*surgery
+Survival Analysis

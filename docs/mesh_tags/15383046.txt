@@ -1,0 +1,11 @@
+Aged
+Atrial Fibrillation/complications/*physiopathology
+Cardiac Surgical Procedures/*methods
+Female
+Heart Atria/*physiopathology
+Heart Valve Diseases/complications/physiopathology/*surgery
+Humans
+Male
+Middle Aged
+Mitral Valve/physiopathology/*surgery
+Prospective Studies

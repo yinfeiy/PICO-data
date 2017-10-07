@@ -1,0 +1,23 @@
+Adenoviridae/genetics
+Adult
+Aged
+Antineoplastic Agents/*adverse effects
+Antineoplastic Combined Chemotherapy Protocols/*adverse effects
+Carcinoma, Squamous Cell/pathology/*therapy/virology
+Cisplatin/*adverse effects
+Combined Modality Therapy
+Endostatins/*adverse effects
+Genetic Therapy
+Genetic Vectors/administration & dosage
+Head and Neck Neoplasms/pathology/*therapy/virology
+Humans
+Male
+Middle Aged
+Nasopharyngeal Neoplasms/pathology/*therapy/virology
+Neoplasm Metastasis/pathology/*therapy
+Neoplasm Recurrence, Local
+Paclitaxel/adverse effects
+Recombinant Proteins/adverse effects
+Survival Analysis
+Treatment Outcome
+Young Adult

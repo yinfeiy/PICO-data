@@ -1,0 +1,11 @@
+Adult
+Amino Acids/administration & dosage/*pharmacology
+Blood Glucose/metabolism
+Body Mass Index
+Humans
+Insulin/blood
+Keto Acids/administration & dosage/blood/*pharmacology
+Kinetics
+Leucine/administration & dosage/blood
+Oxidation-Reduction
+Proteins/*metabolism

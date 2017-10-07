@@ -1,0 +1,26 @@
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+Bleomycin/administration & dosage/therapeutic use
+DNA, Viral/*blood
+Dacarbazine/administration & dosage
+Doxorubicin/administration & dosage/therapeutic use
+Epstein-Barr Virus Infections/blood/complications/*diagnosis
+Etoposide/therapeutic use
+Female
+Herpesvirus 4, Human/*genetics/physiology
+Hodgkin Disease/blood/complications/*diagnosis/*drug therapy
+Humans
+Male
+Mechlorethamine/therapeutic use
+Middle Aged
+Neoadjuvant Therapy
+North America
+Prednisone/therapeutic use
+Prognosis
+Sensitivity and Specificity
+Vinblastine/administration & dosage/therapeutic use
+Vincristine/therapeutic use
+Young Adult

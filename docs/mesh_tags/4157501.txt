@@ -1,0 +1,11 @@
+Death, Sudden
+Female
+Glucose/*therapeutic use
+Heart Arrest
+Humans
+Insulin/*therapeutic use
+Male
+Mortality
+Myocardial Infarction/*drug therapy
+Potassium/*therapeutic use
+Prognosis

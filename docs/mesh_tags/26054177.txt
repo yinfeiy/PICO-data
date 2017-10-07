@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Aged
+Dentifrices/therapeutic use
+Dentin Sensitivity/chemically induced
+Double-Blind Method
+Female
+Humans
+Hydrogen Peroxide/adverse effects/*therapeutic use
+Male
+Middle Aged
+Placebos
+Tooth Bleaching/adverse effects/*methods
+Tooth Discoloration/*prevention & control
+Toothbrushing
+Treatment Outcome

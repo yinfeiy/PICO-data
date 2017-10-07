@@ -1,0 +1,15 @@
+Aged
+Cholesterol, HDL/blood
+Confounding Factors (Epidemiology)
+Coronary Disease/blood/*drug therapy
+Double-Blind Method
+Female
+Gemfibrozil/adverse effects/*therapeutic use
+Glomerular Filtration Rate/drug effects/physiology
+Humans
+Hyperlipidemias/drug therapy
+Kidney Failure, Chronic/blood/*drug therapy
+Male
+Prospective Studies
+United States
+United States Department of Veterans Affairs

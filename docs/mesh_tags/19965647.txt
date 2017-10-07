@@ -1,0 +1,25 @@
+Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+CCAAT-Enhancer-Binding Proteins/*genetics
+Child
+Child, Preschool
+Cytarabine/administration & dosage
+Daunorubicin/administration & dosage
+Female
+Gene Expression Regulation, Leukemic
+Genotype
+Humans
+Infant
+Infant, Newborn
+Leukemia, Promyelocytic, Acute/*drug therapy/genetics/pathology
+Male
+Middle Aged
+*Mutation
+Nuclear Proteins/*genetics
+Reverse Transcriptase Polymerase Chain Reaction
+Thioguanine/administration & dosage
+Treatment Outcome
+Tretinoin/administration & dosage
+Young Adult
+fms-Like Tyrosine Kinase 3/*genetics

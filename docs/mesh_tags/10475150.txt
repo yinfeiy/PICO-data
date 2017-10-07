@@ -1,0 +1,13 @@
+Adult
+Blood Glucose/metabolism
+Double-Blind Method
+Female
+Hormones
+Human Growth Hormone/blood/secretion
+Humans
+Hypothyroidism/*physiopathology
+Male
+Melatonin/blood/*secretion/urine
+Octreotide
+Somatostatin/*physiology
+Thyrotropin/blood

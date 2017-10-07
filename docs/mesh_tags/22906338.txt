@@ -1,0 +1,14 @@
+Adolescent
+Adult
+Anesthetics, Local/*administration & dosage
+Anti-Inflammatory Agents, Non-Steroidal/therapeutic use
+Bupivacaine/*administration & dosage
+*Cholecystectomy, Laparoscopic
+Female
+Humans
+Male
+Middle Aged
+Pain Measurement
+Pain, Postoperative/*prevention & control
+Therapeutic Irrigation
+Young Adult

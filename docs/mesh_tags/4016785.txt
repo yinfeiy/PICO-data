@@ -1,0 +1,16 @@
+Adult
+Aged
+Central Nervous System Diseases/etiology
+Drug Evaluation
+Fatigue/etiology
+Female
+Fever/etiology
+Gastrointestinal Diseases/etiology
+Hematologic Diseases/etiology
+Humans
+Hypotension/etiology
+Interferon Type I/*administration & dosage/adverse effects/blood
+Male
+Middle Aged
+Neoplasms/*therapy
+Random Allocation

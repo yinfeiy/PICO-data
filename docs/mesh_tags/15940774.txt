@@ -1,0 +1,20 @@
+Acetaminophen/*therapeutic use
+Adult
+Analgesics, Non-Narcotic/*therapeutic use
+Celecoxib
+Cyclooxygenase Inhibitors/*therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Lactones/*therapeutic use
+Male
+Middle Aged
+Osteoarthritis, Knee/complications/*drug therapy/physiopathology
+Pain/drug therapy/etiology/physiopathology
+Pain Measurement
+Pyrazoles/*therapeutic use
+Severity of Illness Index
+Sulfonamides/*therapeutic use
+Sulfones/*therapeutic use
+Treatment Outcome

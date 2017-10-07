@@ -1,0 +1,14 @@
+Adult
+Aged
+Cisplatin/*adverse effects
+Clinical Trials as Topic
+Female
+Humans
+Infusions, Parenteral
+Male
+Metoclopramide/*administration & dosage
+Middle Aged
+Nausea/*drug therapy/prevention & control
+Neoplasms/drug therapy
+Random Allocation
+Vomiting/*drug therapy/prevention & control

@@ -1,0 +1,16 @@
+Adult
+Astrocytoma/complications/*drug therapy/genetics
+Double-Blind Method
+Everolimus
+Female
+Follow-Up Studies
+Humans
+Immunosuppressive Agents/*therapeutic use
+Male
+Mutation/genetics
+Prognosis
+Prospective Studies
+Sirolimus/*analogs & derivatives/therapeutic use
+Tuberous Sclerosis/complications/*drug therapy/genetics
+Tumor Suppressor Proteins/genetics
+Young Adult

@@ -1,0 +1,15 @@
+Adult
+Aged
+Carbon Monoxide/*metabolism
+Female
+Forced Expiratory Volume/physiology
+Humans
+Lung Diseases/*physiopathology
+Male
+Middle Aged
+Models, Biological
+Pulmonary Diffusing Capacity/*physiology
+Respiration/physiology
+Respiratory Function Tests/methods
+Time Factors
+Vital Capacity/physiology

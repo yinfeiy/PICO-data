@@ -1,0 +1,24 @@
+Administration, Cutaneous
+Adult
+Aged
+Aged, 80 and over
+Analgesics, Non-Narcotic/*administration & dosage
+Arthralgia/*drug therapy/etiology
+Arthritis, Rheumatoid/*complications
+Double-Blind Method
+Drug Delivery Systems
+Elbow Joint
+Female
+Follow-Up Studies
+Humans
+Iontophoresis/*methods
+Ketorolac
+Knee Joint
+Male
+Metatarsophalangeal Joint
+Middle Aged
+Pain Measurement
+Periarthritis/complications
+Tennis Elbow/complications
+Tolmetin/administration & dosage/*analogs & derivatives
+Treatment Outcome

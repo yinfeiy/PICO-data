@@ -1,0 +1,16 @@
+Administration, Inhalation
+Adult
+Aged
+Colectomy
+Colonic Diseases/*surgery
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Oxygen/*administration & dosage/metabolism
+Oxygen Consumption
+*Perioperative Care
+Rectal Diseases/*surgery
+Risk
+Surgical Wound Infection/epidemiology/*prevention & control

@@ -1,0 +1,11 @@
+Adult
+Cell Adhesion Molecules/drug effects
+Coenzymes/blood/therapeutic use
+Diabetes Mellitus, Type 2/drug therapy/*physiopathology
+Endothelium, Vascular/drug effects
+Female
+Humans
+Male
+Microcirculation/*drug effects
+Middle Aged
+Ubiquinone/*analogs & derivatives/blood/therapeutic use

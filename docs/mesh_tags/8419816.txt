@@ -1,0 +1,19 @@
+Adult
+Aged
+Amoxicillin/*administration & dosage/adverse effects/pharmacology
+Drug Administration Schedule
+Drug Therapy, Combination
+Duodenal Ulcer/etiology/*prevention & control
+Female
+Follow-Up Studies
+Gastric Mucosa/microbiology/pathology
+Helicobacter Infections/complications/*drug therapy
+Helicobacter pylori/*drug effects
+Humans
+Intestinal Mucosa/microbiology/pathology
+Male
+Metronidazole/*administration & dosage/adverse effects/pharmacology
+Middle Aged
+Prospective Studies
+Ranitidine/*administration & dosage/adverse effects/pharmacology
+Recurrence

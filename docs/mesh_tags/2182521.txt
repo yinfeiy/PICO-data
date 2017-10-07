@@ -1,0 +1,11 @@
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Cyclophosphamide/administration & dosage/adverse effects
+Doxorubicin/administration & dosage/adverse effects
+Drug Evaluation
+Humans
+Lymphoma, Large B-Cell, Diffuse/*drug therapy/mortality
+Multicenter Studies as Topic
+Prednisone/administration & dosage/adverse effects
+Prospective Studies
+Randomized Controlled Trials as Topic/methods
+Vincristine/administration & dosage/adverse effects

@@ -1,0 +1,11 @@
+Adult
+*Bandages
+Burns/*therapy
+Female
+Humans
+Male
+Middle Aged
+*Polyurethanes
+Prospective Studies
+Random Allocation
+Silver Sulfadiazine

@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Ankle/*physiology
+Cryotherapy/*methods
+Female
+H-Reflex/physiology
+Humans
+Male
+Motor Neurons/physiology
+Muscle, Skeletal/*physiology
+Recruitment, Neurophysiological/physiology
+Torque

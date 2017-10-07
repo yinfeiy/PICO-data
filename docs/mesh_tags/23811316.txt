@@ -1,0 +1,16 @@
+Adult
+Antioxidants/analysis
+Arm/*physiology
+Erythrocytes/metabolism
+Exercise/*physiology
+Glutathione Peroxidase/blood
+Hemoglobins/analysis
+Humans
+Lipid Peroxidation/physiology
+Male
+Malondialdehyde/blood
+Oxidative Stress/*physiology
+Oxygen Consumption/physiology
+Physical Fitness/physiology
+Protein Carbonylation/physiology
+Spinal Cord Injuries/physiopathology/*therapy

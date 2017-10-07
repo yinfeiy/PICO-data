@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+Antigens, CD34/*immunology/metabolism
+Biomarkers/metabolism
+Blood Component Removal
+Double-Blind Method
+Drug Combinations
+Female
+Granulocyte Colony-Stimulating Factor/*pharmacology
+Hematopoietic Stem Cell Mobilization/*methods
+*Hematopoietic Stem Cell Transplantation
+Heterocyclic Compounds/*pharmacology
+Humans
+Immunologic Factors/*pharmacology
+Lymphocyte Count
+Male
+Middle Aged
+Multiple Myeloma/immunology/pathology/therapy
+Placebos
+Receptors, CXCR4/antagonists & inhibitors/immunology
+Transplantation, Autologous

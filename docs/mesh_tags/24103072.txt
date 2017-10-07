@@ -1,0 +1,24 @@
+Abatacept
+Cohort Studies
+Cyclosporine/*therapeutic use
+Female
+Follow-Up Studies
+Glomerular Filtration Rate
+Graft Rejection/*prevention & control
+Humans
+Immunoconjugates/*therapeutic use
+Immunosuppressive Agents/*therapeutic use
+International Agencies
+Kidney Failure, Chronic/*surgery
+Kidney Function Tests
+*Kidney Transplantation
+Lipids/blood
+Lymphoproliferative Disorders/prevention & control
+Male
+Maximum Tolerated Dose
+Middle Aged
+Postoperative Complications/prevention & control
+Prognosis
+Safety
+Time Factors
+*Tissue Donors

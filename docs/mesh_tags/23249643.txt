@@ -1,0 +1,22 @@
+Adolescent
+Adult
+Aged
+Body Mass Index
+Exercise/*physiology
+Female
+Finland
+Health Education/*methods
+Humans
+Leisure Activities
+Male
+Metabolic Equivalent/physiology
+Middle Aged
+Patient Compliance
+Physical Fitness/*physiology/psychology
+Program Evaluation
+Sedentary Lifestyle
+*Self Efficacy
+Socioeconomic Factors
+Surveys and Questionnaires
+Time Factors
+Young Adult

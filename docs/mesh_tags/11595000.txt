@@ -1,0 +1,13 @@
+Acute Disease
+Adolescent
+Adult
+Chromans/*adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Migraine Disorders/*drug therapy
+Receptor, Serotonin, 5-HT1D
+*Receptors, Serotonin/physiology
+Serotonin Receptor Agonists/*adverse effects/*therapeutic use

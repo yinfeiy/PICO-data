@@ -1,0 +1,13 @@
+Adult
+Analysis of Variance
+Dental Calculus/*therapy
+*Dental Instruments
+Dental Scaling/*instrumentation
+Diamond
+Equipment Design
+Female
+Humans
+Male
+Root Planing/instrumentation
+Time Factors
+Ultrasonic Therapy/*instrumentation

@@ -1,0 +1,12 @@
+Administration, Oral
+Adolescent
+Adult
+Aged
+Drugs, Chinese Herbal/*administration & dosage
+Female
+Humans
+Male
+Middle Aged
+Psoriasis/*drug therapy
+Tablets
+Young Adult

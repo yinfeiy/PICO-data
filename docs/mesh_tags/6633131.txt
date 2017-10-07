@@ -1,0 +1,16 @@
+Adenocarcinoma/*chemically induced/surgery
+Adolescent
+Adult
+Child
+Child, Preschool
+Diethylstilbestrol/*adverse effects
+Female
+Follow-Up Studies
+Humans
+Infant
+Infant, Newborn
+*Laser Therapy
+Precancerous Conditions/*chemically induced/surgery
+Pregnancy
+Prenatal Exposure Delayed Effects
+Vaginal Neoplasms/*chemically induced/surgery

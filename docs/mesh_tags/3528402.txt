@@ -1,0 +1,12 @@
+Adult
+Breast Neoplasms/mortality/pathology/*therapy
+Clinical Trials as Topic
+Female
+Humans
+Middle Aged
+Neoplasm Metastasis
+Oligomenorrhea/chemically induced
+*Ovariectomy
+Random Allocation
+Receptors, Estrogen/analysis
+Tamoxifen/adverse effects/*therapeutic use

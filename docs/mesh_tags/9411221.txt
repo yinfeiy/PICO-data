@@ -1,0 +1,14 @@
+Aged
+Amiodarone/*therapeutic use
+Anti-Arrhythmia Agents/*therapeutic use
+*Defibrillators, Implantable
+Female
+Humans
+Male
+Middle Aged
+Resuscitation
+Sotalol/therapeutic use
+Statistics, Nonparametric
+Survival Analysis
+Tachycardia, Ventricular/drug therapy/mortality/*therapy
+Ventricular Fibrillation/drug therapy/mortality/*therapy

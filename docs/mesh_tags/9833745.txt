@@ -1,0 +1,12 @@
+Adult
+Analgesics/adverse effects/*therapeutic use
+Cross-Over Studies
+Double-Blind Method
+HIV Infections/complications/*physiopathology
+Humans
+Mexiletine/adverse effects/*therapeutic use
+Pain/*drug therapy
+Pain Measurement
+Peripheral Nervous System Diseases/etiology/*physiopathology
+Placebos
+Time Factors

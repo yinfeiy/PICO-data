@@ -1,0 +1,7 @@
+Adult
+Anesthesia, Spinal/*adverse effects
+Humans
+Hypotension/*prevention & control
+Middle Aged
+Saline Solution, Hypertonic/*pharmacology
+Sodium/metabolism

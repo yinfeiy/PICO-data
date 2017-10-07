@@ -1,0 +1,14 @@
+Adult
+Aged
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Indomethacin/*therapeutic use
+Kidney Failure, Chronic/complications
+Male
+Middle Aged
+Pericarditis/*drug therapy/etiology/physiopathology
+Prospective Studies
+Renal Dialysis
+Uremia/complications/*drug therapy

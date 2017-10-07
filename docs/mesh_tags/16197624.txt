@@ -1,0 +1,18 @@
+Adult
+Age Factors
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Camptothecin/administration & dosage/analogs & derivatives
+Colorectal Neoplasms/*drug therapy/*pathology
+Drug Administration Schedule
+Female
+Fluorouracil/administration & dosage
+Humans
+Injections, Intravenous
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Neoplasm Metastasis
+Treatment Outcome
+Weight Loss

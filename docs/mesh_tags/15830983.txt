@@ -1,0 +1,14 @@
+Adult
+Aged
+Anti-Inflammatory Agents/administration & dosage
+Back Pain/diagnosis/etiology/*prevention & control
+Catheter Ablation/*methods
+Cortisone/*administration & dosage
+Diskectomy/*methods
+Humans
+Injections, Epidural
+Intervertebral Disc Displacement/complications/*drug therapy/*surgery
+Middle Aged
+Minimally Invasive Surgical Procedures/*methods
+Pain Measurement
+Treatment Outcome

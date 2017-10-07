@@ -1,0 +1,17 @@
+Adult
+Aged
+Angiotensin-Converting Enzyme Inhibitors/therapeutic use
+Blood Pressure/*drug effects
+Double-Blind Method
+Enalapril/therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Myocardial Contraction/drug effects
+Prognosis
+Pulsatile Flow/drug effects
+*Sphygmomanometers
+Survival Rate
+Ventricular Dysfunction, Left/*diagnosis/drug therapy/mortality
+Ventricular Function, Left/drug effects

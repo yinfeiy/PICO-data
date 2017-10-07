@@ -1,0 +1,18 @@
+Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Anorexia/*prevention & control
+Antiemetics/*therapeutic use
+Antineoplastic Agents/adverse effects
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Granisetron/administration & dosage/*therapeutic use
+Humans
+Leukemia, Myeloid/*drug therapy
+Male
+Methylprednisolone/administration & dosage/*therapeutic use
+Middle Aged
+Nausea/*prevention & control
+Vomiting, Anticipatory/*prevention & control

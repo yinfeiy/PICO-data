@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Aged
+*Angiosperms
+Dental Plaque/*prevention & control
+Dental Plaque Index
+Dentifrices/therapeutic use
+Double-Blind Method
+Female
+Gingival Crevicular Fluid
+Gingival Hemorrhage/prevention & control
+Gingival Pocket/prevention & control
+Gingivitis/*prevention & control
+Humans
+Male
+Middle Aged
+Periodontal Index
+Plant Extracts/*therapeutic use
+*Plants, Medicinal
+Sodium Bicarbonate/*therapeutic use
+Toothpastes/*therapeutic use

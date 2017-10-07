@@ -1,0 +1,24 @@
+Adenocarcinoma/complications
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*therapeutic use
+BCG Vaccine/administration & dosage
+Bleomycin/administration & dosage
+Carcinoma, Squamous Cell/complications
+Cell Wall/immunology
+Doxorubicin/administration & dosage
+Drainage
+Female
+Humans
+Lung Neoplasms/*complications
+Male
+Middle Aged
+Mitomycin
+Mitomycins/administration & dosage
+Nimustine
+Nitrosourea Compounds/administration & dosage
+Nocardia/immunology
+*Pericardial Effusion
+Picibanil/administration & dosage
+*Pleural Effusion
+Random Allocation

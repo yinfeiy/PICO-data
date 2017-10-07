@@ -1,0 +1,12 @@
+Adult
+*Exercise Therapy
+Female
+Humans
+Low Back Pain/*therapy
+Pain Measurement
+Patient Compliance
+Pelvic Pain/therapy
+Pregnancy
+Pregnancy Complications/*therapy
+South Africa
+Treatment Outcome

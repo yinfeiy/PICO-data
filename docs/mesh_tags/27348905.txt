@@ -1,0 +1,15 @@
+Acupuncture Points
+*Acupuncture Therapy
+Adult
+Aged
+Combined Modality Therapy
+Constipation/drug therapy/etiology/physiopathology/*therapy
+Defecation
+Diabetes Complications/*complications/physiopathology
+Female
+Humans
+Laxatives/*administration & dosage
+Male
+Middle Aged
+Polyethylene Glycols/*administration & dosage
+Treatment Outcome

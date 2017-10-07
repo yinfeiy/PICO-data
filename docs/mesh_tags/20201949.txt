@@ -1,0 +1,26 @@
+Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols/*administration & dosage/*therapeutic use
+Carmustine/therapeutic use
+Cyclophosphamide/administration & dosage/therapeutic use
+Cytarabine/therapeutic use
+Doxorubicin/administration & dosage/therapeutic use
+Drug Administration Schedule
+Etoposide/therapeutic use
+Female
+*Hematopoietic Stem Cell Transplantation
+Humans
+Lymphoma, Large B-Cell, Diffuse/*drug therapy/pathology
+Male
+Melphalan/therapeutic use
+Middle Aged
+Neoplasm Staging
+Prednisolone/administration & dosage/therapeutic use
+Prognosis
+Recurrence
+Survival Analysis
+Transplantation Conditioning/methods
+Treatment Outcome
+Vincristine/administration & dosage/therapeutic use
+Young Adult

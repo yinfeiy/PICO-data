@@ -1,0 +1,18 @@
+Aged
+Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+Camptothecin/administration & dosage/analogs & derivatives
+Chemotherapy, Adjuvant
+Colonic Neoplasms/drug therapy/*genetics/*mortality/pathology
+Disease-Free Survival
+Female
+Fluorouracil/administration & dosage
+Humans
+Kaplan-Meier Estimate
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Mutation
+Neoplasm Staging
+Prognosis
+Proportional Hazards Models
+Proto-Oncogene Proteins B-raf/*genetics

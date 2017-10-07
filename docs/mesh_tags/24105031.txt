@@ -1,0 +1,11 @@
+Animal Feed/analysis
+Animals
+Blood Urea Nitrogen
+Body Weight
+Cattle/*blood/*metabolism
+Diet/veterinary
+*Dietary Supplements
+Digestion/drug effects
+Male
+Nitrogen/*metabolism
+Urea/administration & dosage/*pharmacology

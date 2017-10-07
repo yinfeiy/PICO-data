@@ -1,0 +1,21 @@
+Adolescent
+Adult
+Behavior Therapy/*economics/*methods
+Borderline Personality Disorder/diagnosis/*economics/psychology/*therapy
+Clinical Protocols
+*Cost-Benefit Analysis
+Female
+*Hospital Costs
+Humans
+Inpatients/*psychology
+Male
+Middle Aged
+Netherlands
+Prospective Studies
+Psychiatric Status Rating Scales
+*Research Design
+Suicidal Ideation
+Suicide/*prevention & control/psychology
+Time Factors
+Treatment Outcome
+Young Adult

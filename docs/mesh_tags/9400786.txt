@@ -1,0 +1,17 @@
+AIDS-Related Opportunistic Infections/mortality/physiopathology/*therapy
+Adult
+Antibodies, Monoclonal/administration & dosage/*therapeutic use
+Chemotherapy, Adjuvant
+Cytomegalovirus/immunology
+Cytomegalovirus Retinitis/mortality/physiopathology/*therapy
+Disease Progression
+Double-Blind Method
+Female
+Humans
+Infusions, Intravenous
+Male
+Quality of Life
+Safety
+Viral Envelope Proteins/immunology
+Visual Acuity/physiology
+Visual Fields/physiology

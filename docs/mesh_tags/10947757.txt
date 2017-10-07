@@ -1,0 +1,12 @@
+Adult
+Analysis of Variance
+Anesthetics, Inhalation/*pharmacology
+Cytokines/blood/*drug effects
+Female
+Halothane/*pharmacology
+Humans
+Interleukin-2/blood
+Isoflurane/*pharmacology
+Male
+Middle Aged
+Minor Surgical Procedures

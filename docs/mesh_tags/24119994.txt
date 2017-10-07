@@ -1,0 +1,17 @@
+Animals
+Anopheles/parasitology/*physiology
+Child
+Child, Preschool
+Feeding Behavior
+Female
+Humans
+Infant
+Infant, Newborn
+Insecticide-Treated Bednets/*utilization
+Malaria/epidemiology/*prevention & control
+Male
+Microscopy
+Mosquito Control/*methods
+Myanmar/epidemiology
+Plasmodium/isolation & purification
+Salivary Glands/parasitology

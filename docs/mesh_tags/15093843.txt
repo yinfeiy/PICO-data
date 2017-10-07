@@ -1,0 +1,16 @@
+Adult
+Aged
+Aged, 80 and over
+Atrial Fibrillation/*drug therapy
+Blood Pressure/drug effects
+Calcium Channel Blockers/*therapeutic use
+Calcium Chloride/pharmacology/*therapeutic use
+Diltiazem/*therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Hypotension/prevention & control
+Male
+Middle Aged
+Prospective Studies

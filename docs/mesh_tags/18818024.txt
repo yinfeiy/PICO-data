@@ -1,0 +1,12 @@
+Adolescent
+Adult
+Female
+Humans
+Menstrual Cycle/physiology/*psychology
+Mood Disorders/*complications
+Premenstrual Syndrome/*psychology
+Secondary Prevention
+Smoking/*prevention & control
+Smoking Cessation/methods/*psychology
+Substance Withdrawal Syndrome/*therapy
+Young Adult

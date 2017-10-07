@@ -1,0 +1,18 @@
+Adult
+Aged
+Androstadienes/administration & dosage/adverse effects/*therapeutic use
+Anti-Allergic Agents/administration & dosage/adverse effects/*therapeutic use
+Anti-Inflammatory Agents/administration & dosage/adverse effects/*therapeutic use
+Conjunctivitis, Allergic/*drug therapy/physiopathology
+Double-Blind Method
+Female
+Humans
+Intraocular Pressure/drug effects
+Loteprednol Etabonate
+Male
+Middle Aged
+Ophthalmic Solutions/administration & dosage/adverse effects/therapeutic use
+Prospective Studies
+Safety
+Seasons
+Treatment Outcome

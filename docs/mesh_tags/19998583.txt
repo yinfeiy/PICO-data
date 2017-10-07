@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Anti-HIV Agents/*pharmacokinetics
+Area Under Curve
+Capsules
+Chemistry, Pharmaceutical
+Cross-Over Studies
+Drug Combinations
+Female
+Humans
+Lamivudine/*pharmacokinetics
+Male
+Stavudine/*pharmacokinetics
+Tablets
+Therapeutic Equivalency
+Young Adult

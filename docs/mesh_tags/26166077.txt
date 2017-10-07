@@ -1,0 +1,11 @@
+Adult
+Carcinoma, Hepatocellular/*diagnosis/*etiology
+Choline/blood
+Hepatitis B, Chronic/complications
+Humans
+Lipids/blood
+Liver Cirrhosis/*complications/etiology/*metabolism
+Liver Function Tests
+Liver Neoplasms/*diagnosis/*etiology
+Middle Aged
+Proton Magnetic Resonance Spectroscopy

@@ -1,0 +1,15 @@
+Acute Disease
+Adolescent
+Adult
+Anti-Infective Agents, Urinary/*administration & dosage
+Cystitis/*drug therapy/microbiology/urine
+Drug Administration Schedule
+Drug Resistance, Microbial
+Female
+Humans
+Microbial Sensitivity Tests
+Middle Aged
+Nitrofurantoin/*administration & dosage
+Time Factors
+Treatment Outcome
+Trimethoprim, Sulfamethoxazole Drug Combination/*administration & dosage

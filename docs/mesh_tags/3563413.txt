@@ -1,0 +1,9 @@
+Adult
+Eating
+Fasting
+Female
+Humans
+*Jejunoileal Bypass
+Male
+Neurotensin/*blood
+Obesity/*blood/therapy

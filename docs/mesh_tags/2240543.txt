@@ -1,0 +1,10 @@
+Adolescent
+Adult
+Aged
+Female
+Humans
+Intubation, Intratracheal/*methods
+Laryngoscopy
+Male
+Middle Aged
+Rotation

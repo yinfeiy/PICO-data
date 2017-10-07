@@ -1,0 +1,16 @@
+Adult
+Aged
+Area Under Curve
+Bronchi/*drug effects
+Bronchodilator Agents/*therapeutic use
+Drug Therapy, Combination
+Ethanolamines/*therapeutic use
+Female
+Forced Expiratory Volume
+Formoterol Fumarate
+Humans
+Ipratropium/*therapeutic use
+Lung Diseases, Obstructive/*drug therapy/physiopathology
+Male
+Middle Aged
+Single-Blind Method

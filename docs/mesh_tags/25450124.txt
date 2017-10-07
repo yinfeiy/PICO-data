@@ -1,0 +1,16 @@
+Adolescent
+Adult
+Antidepressive Agents, Second-Generation/therapeutic use
+Cyclohexanols/therapeutic use
+Depressive Disorder, Major/drug therapy/*psychology
+Female
+*Health Status
+Humans
+Male
+Mental Health
+Middle Aged
+Psychiatric Status Rating Scales
+Quality of Life/*psychology
+Spinal Cord Injuries/*psychology
+Venlafaxine Hydrochloride
+Young Adult

@@ -1,0 +1,21 @@
+Administration, Oral
+Adult
+Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Colorectal Neoplasms/*drug therapy/mortality/pathology
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Europe/epidemiology
+Female
+Fluorouracil/administration & dosage
+Humans
+Infusions, Parenteral
+Leucovorin/administration & dosage
+Male
+Middle Aged
+Neoplasm Metastasis
+Quality of Life
+Survival Rate
+Tegafur/administration & dosage
+Uracil/administration & dosage

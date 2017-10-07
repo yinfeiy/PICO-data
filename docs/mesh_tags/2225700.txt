@@ -1,0 +1,12 @@
+Acute Disease
+Administration, Oral
+Adolescent
+Adult
+Animals
+Drug Tolerance
+Humans
+Malaria/blood/*drug therapy
+Male
+Mefloquine/administration & dosage/adverse effects/blood/*pharmacokinetics
+*Plasmodium falciparum
+Reference Values

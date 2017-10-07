@@ -1,0 +1,13 @@
+Adenocarcinoma/pathology
+Adult
+Biopsy
+Carcinoma, Squamous Cell/pathology
+Cytodiagnosis/*methods
+Esophageal Neoplasms/*pathology
+Esophagoscopy
+Gastroscopy
+Humans
+Middle Aged
+Prospective Studies
+Stomach Neoplasms/*pathology
+Time Factors

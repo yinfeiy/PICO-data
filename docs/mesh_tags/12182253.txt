@@ -1,0 +1,13 @@
+Adult
+Analgesics, Non-Narcotic/administration & dosage/adverse effects/*therapeutic use
+Arginine/administration & dosage/adverse effects/*therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Combinations
+Female
+Humans
+Ibuprofen/administration & dosage/adverse effects/*therapeutic use
+Male
+Pain Measurement/drug effects
+Pain, Postoperative/*drug therapy/etiology
+Tooth Extraction/adverse effects

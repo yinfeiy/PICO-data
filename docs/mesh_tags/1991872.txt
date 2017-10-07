@@ -1,0 +1,17 @@
+Actinomyces/drug effects
+Adult
+Analysis of Variance
+Chi-Square Distribution
+Chlorhexidine/pharmacology/*therapeutic use
+Colony Count, Microbial
+DMF Index
+Dental Caries/*microbiology/*prevention & control
+Dental Plaque/microbiology
+Double-Blind Method
+Fluorides, Topical/pharmacology/*therapeutic use
+Follow-Up Studies
+Humans
+Random Allocation
+Sodium Fluoride/pharmacology/*therapeutic use
+Streptococcus/drug effects
+Tooth Root/*microbiology/*pathology

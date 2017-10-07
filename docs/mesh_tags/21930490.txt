@@ -1,0 +1,24 @@
+Aged
+Angioplasty, Balloon, Coronary/*adverse effects/*instrumentation
+Cardiovascular Agents/*administration & dosage
+Coronary Angiography
+Coronary Artery Disease/diagnostic imaging/*therapy
+Coronary Restenosis/diagnostic imaging/etiology/*prevention & control
+*Drug-Eluting Stents
+Everolimus
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Infarction/etiology/prevention & control
+Paclitaxel/*administration & dosage
+Prospective Studies
+Prosthesis Design
+Risk Assessment
+Risk Factors
+Single-Blind Method
+Sirolimus/administration & dosage/*analogs & derivatives
+Time Factors
+Treatment Outcome
+United States

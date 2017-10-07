@@ -1,0 +1,14 @@
+Adult
+Aged
+Aged, 80 and over
+Female
+Humans
+Male
+Middle Aged
+Motor Cortex/*physiopathology
+*Neural Inhibition
+*Neuronal Plasticity
+Tinnitus/diagnosis/*physiopathology/*therapy
+Transcranial Magnetic Stimulation/*methods
+Treatment Outcome
+Young Adult

@@ -1,0 +1,14 @@
+Adolescent
+Cefaclor/pharmacology/*therapeutic use
+Child
+Child, Preschool
+Female
+Humans
+Infant
+Male
+Penicillins/pharmacology/*therapeutic use
+Pharyngitis/*drug therapy/microbiology
+Pharynx/microbiology
+Streptococcal Infections/*drug therapy
+*Streptococcus pyogenes/drug effects/enzymology
+beta-Lactamases/metabolism

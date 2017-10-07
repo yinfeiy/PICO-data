@@ -1,0 +1,11 @@
+*Enteral Nutrition
+Feces/*chemistry
+Female
+Humans
+Infant Formula
+Infant, Newborn
+*Infant, Very Low Birth Weight
+Male
+Milk, Human
+Pancreatic Elastase/*analysis
+Secretin/*blood

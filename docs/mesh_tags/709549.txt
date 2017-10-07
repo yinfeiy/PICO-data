@@ -1,0 +1,11 @@
+Carcinoma, Squamous Cell/*drug therapy
+Cyclophosphamide/administration & dosage/adverse effects/*therapeutic use
+Doxorubicin/administration & dosage/adverse effects/*therapeutic use
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Humans
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Uterine Cervical Neoplasms/*drug therapy
+Vincristine/administration & dosage/adverse effects/*therapeutic use

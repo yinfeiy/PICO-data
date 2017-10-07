@@ -1,0 +1,15 @@
+Aged
+Chronic Disease
+Exercise Test
+Exercise Therapy/*methods
+Exercise Tolerance
+Female
+Heart Failure/diagnosis/metabolism/physiopathology/*rehabilitation
+Humans
+Male
+Middle Aged
+Oxygen Consumption
+Program Evaluation
+Prospective Studies
+Single-Blind Method
+Stroke Volume

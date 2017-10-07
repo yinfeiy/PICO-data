@@ -1,0 +1,18 @@
+Carcinoma, Squamous Cell/*metabolism/pathology
+Cell Cycle Proteins/*metabolism
+Cyclin-Dependent Kinase Inhibitor p27
+Female
+Genes, Tumor Suppressor
+Humans
+Immunoenzyme Techniques
+Laryngeal Neoplasms/*metabolism/pathology
+Lymphatic Metastasis
+Male
+Middle Aged
+Neoplasm Staging
+Prognosis
+Retrospective Studies
+*S Phase
+S-Phase Kinase-Associated Proteins
+Survival Rate
+Tumor Suppressor Proteins/metabolism

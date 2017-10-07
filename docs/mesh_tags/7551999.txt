@@ -1,0 +1,15 @@
+Adult
+Aged
+Aged, 80 and over
+Colorectal Surgery/methods
+Female
+Humans
+Male
+Middle Aged
+Neoplasm Metastasis
+Neoplasm Recurrence, Local
+Preoperative Care
+Prospective Studies
+Radiotherapy, Adjuvant
+Rectal Neoplasms/radiotherapy/*surgery
+Survival Analysis

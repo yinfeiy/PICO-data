@@ -1,0 +1,19 @@
+Adult
+Aged
+Aged, 80 and over
+Cohort Studies
+Female
+Fluorocarbons/administration & dosage
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Prospective Studies
+Recurrence
+Retinal Detachment/*surgery
+Silicone Oils/*administration & dosage
+Sulfur Hexafluoride/*administration & dosage
+Treatment Outcome
+Visual Acuity
+Vitrectomy/*methods
+Vitreoretinopathy, Proliferative/*surgery

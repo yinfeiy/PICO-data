@@ -1,0 +1,18 @@
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal, Murine-Derived/*adverse effects
+Antigens, CD20/analysis
+Antineoplastic Agents/*adverse effects
+Antiviral Agents/*therapeutic use
+DNA, Viral/blood
+Female
+Guanine/*analogs & derivatives/therapeutic use
+Hepatitis B/*virology
+Hepatitis B Surface Antigens/blood
+Hepatitis B virus/*drug effects/physiology
+Humans
+Lymphoma/*drug therapy/virology
+Male
+Middle Aged
+Rituximab
+Virus Activation/*drug effects

@@ -1,0 +1,13 @@
+Adult
+Aged
+Bile/*microbiology
+Cholecystectomy/*methods
+Common Bile Duct/*surgery
+Female
+Humans
+Intraoperative Period
+Male
+Microscopy
+Middle Aged
+Risk
+Surgical Wound Infection/*prevention & control

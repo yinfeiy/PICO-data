@@ -1,0 +1,12 @@
+Adult
+Anti-Arrhythmia Agents/adverse effects/*therapeutic use
+Atropine/adverse effects/*therapeutic use
+Double-Blind Method
+Female
+Heart Rate/*drug effects
+Humans
+Male
+Neostigmine/adverse effects/*therapeutic use
+Parasympathomimetics/adverse effects/*therapeutic use
+Risk Factors
+Tachycardia/*drug therapy

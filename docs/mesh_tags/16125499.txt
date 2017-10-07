@@ -1,0 +1,21 @@
+Angiotensin II Type 1 Receptor Blockers/therapeutic use
+Angiotensin-Converting Enzyme Inhibitors/therapeutic use
+Benzimidazoles/*therapeutic use
+Biomarkers/blood
+Cardiac Output
+Chromatography, High Pressure Liquid
+Double-Blind Method
+Drug Therapy, Combination
+Enalapril/*therapeutic use
+Female
+*Heart Failure/blood/drug therapy/physiopathology
+Humans
+Male
+Middle Aged
+Neurotransmitter Agents/*blood
+Prognosis
+Systole
+Tetrazoles/*therapeutic use
+Treatment Outcome
+*Ventricular Dysfunction, Left/blood/drug therapy/physiopathology
+Ventricular Remodeling/*physiology

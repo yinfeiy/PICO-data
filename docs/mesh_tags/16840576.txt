@@ -1,0 +1,16 @@
+Aging/*physiology
+Blood Flow Velocity/physiology
+Blood Pressure/physiology
+Exercise/physiology
+Female
+Femoral Artery/diagnostic imaging/physiology
+Humans
+Leg/blood supply
+Male
+Middle Aged
+Muscle Strength/physiology
+*Physical Education and Training
+Regional Blood Flow/*physiology
+Ultrasonography
+Vascular Resistance/*physiology
+Weight Lifting/*physiology

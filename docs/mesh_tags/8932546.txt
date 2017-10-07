@@ -1,0 +1,14 @@
+Adult
+Benzimidazoles/adverse effects/pharmacokinetics/*therapeutic use
+Cross-Over Studies
+Dermatitis, Allergic Contact/etiology/*prevention & control
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Histamine/immunology
+Histamine H1 Antagonists/adverse effects/pharmacokinetics/*therapeutic use
+Humans
+Injections, Intradermal
+Male
+Placebos
+Skin Tests

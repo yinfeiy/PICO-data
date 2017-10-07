@@ -1,0 +1,11 @@
+Adult
+Anemia/*drug therapy
+Critical Illness
+Epoetin Alfa
+Erythropoietin/administration & dosage/pharmacokinetics/*pharmacology/therapeutic use
+Female
+Hematinics/administration & dosage/pharmacokinetics/*pharmacology/therapeutic use
+Humans
+Male
+Middle Aged
+Recombinant Proteins
