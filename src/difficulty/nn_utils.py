@@ -3,27 +3,27 @@ import tensorflow as tf
 import numpy as np
 import sklearn.metrics as metrics
 
-def output_preds(ofn, docids, dts, gts):
+def output_preds(ofn, ids, dts, gts):
     with open(ofn, 'w+') as fout:
-        for docid, gt, dt in zip(docids, dts, gts):
-            fout.write('{0} {1} {2}\n'.format(docid, dt, gt))
+        for id, gt, dt in zip(ids, dts, gts):
+            fout.write('{0} {1} {2}\n'.format(id, dt, gt))
 
 def train(model, document_reader, FLAGS):
     reverse_weights = True
 
     x_train_text, y_train, x_train_w = document_reader.get_text_and_y("train", reverse_weights=reverse_weights)
     x_train_bw_text = [ " ".join(t.split()[::-1]) for t in x_train_text ]
-    x_train_l = [ max(len(text.split()), FLAGS.max_document_length) for text in x_train_text ]
+    x_train_l = [ min(len(text.split()), FLAGS.max_document_length) for text in x_train_text ]
 
     dev_docids = document_reader.get_docids("dev")
     x_dev_text, y_dev, x_dev_w =  document_reader.get_text_and_y("dev", reverse_weights=reverse_weights)
     x_dev_bw_text = [ " ".join(t.split()[::-1]) for t in x_dev_text ]
-    x_dev_l = [ max(len(text.split()), FLAGS.max_document_length) for text in x_dev_text ]
+    x_dev_l = [ min(len(text.split()), FLAGS.max_document_length) for text in x_dev_text ]
 
     test_docids = document_reader.get_docids("test")
     x_test_text, y_test, x_test_w =  document_reader.get_text_and_y("test", reverse_weights=reverse_weights)
     x_test_bw_text = [ " ".join(t.split()[::-1]) for t in x_test_text ]
-    x_test_l = [ max(len(text.split()), FLAGS.max_document_length) for text in x_test_text ]
+    x_test_l = [ min(len(text.split()), FLAGS.max_document_length) for text in x_test_text ]
 
     with tf.Graph().as_default():
         model.Graph()

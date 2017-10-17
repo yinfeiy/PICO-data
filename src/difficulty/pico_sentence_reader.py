@@ -42,7 +42,7 @@ class PICOSentenceReader:
                     if self._annotype == "multitask":
                         ats=ANNOTYPES
                     else:
-                        ats = self._annotype
+                        ats = [self._annotype]
 
                     text= ' '.join(tokens).strip()
                     labels = []
@@ -51,7 +51,7 @@ class PICOSentenceReader:
                         if key not in sent:
                             label = 0
                         else:
-                            label = [sum(sent[key])]
+                            label = sum(sent[key])
                             label = 1 if label > 0 else 0
 
                         labels.append(label)
@@ -62,6 +62,18 @@ class PICOSentenceReader:
                     else:
                         self.test_texts.append(text)
                         self.test_labels.append(labels)
+        dev_portion = 0.1
+        num_train = len(self.train_labels)
+        th = int(dev_portion*num_train)
+        self.dev_texts = self.train_texts[:th]
+        self.dev_labels = self.train_labels[:th]
+
+        self.train_texts = self.train_texts[th:]
+        self.train_labels = self.train_labels[th:]
+
+        self.train_ids = ["train_{0}".format(x) for x in range(len(self.train_labels))]
+        self.dev_ids = ["dev_{0}".format(x) for x in range(len(self.dev_labels))]
+        self.test_ids = ["test_{0}".format(x) for x in range(len(self.test_labels))]
 
 
     def get_text_and_y(self, mode, binary=True, reverse_weights=False):
@@ -71,10 +83,11 @@ class PICOSentenceReader:
             ws = np.ones(y.shape)
 
         elif mode == 'dev':
-            text, y = self.train_texts, np.array(self.train_labels)
+            text, y = self.dev_texts, np.array(self.dev_labels)
             ws = np.ones(y.shape)
+
         elif mode == 'test':
-            text, y = self.train_texts, np.array(self.train_labels)
+            text, y = self.test_texts, np.array(self.test_labels)
             ws = np.ones(y.shape)
         else:
             raise "Error, mode %s is not supported", mode
@@ -83,3 +96,16 @@ class PICOSentenceReader:
         #ws = data_utils.imputation(ws, default_score=0.0)
 
         return text, y, ws
+
+    def get_docids(self, mode):
+        if mode == 'train':
+            return self.train_ids
+        elif mode == 'dev':
+            return self.dev_ids
+        elif mode == 'test':
+            return self.test_ids
+        else:
+            raise "Error, mode %s is not supported", mode
+
+if __name__ == "__main__":
+    reader = PICOSentenceReader("Outcome")

@@ -284,8 +284,8 @@ class NNModel:
 
 
 def main():
-    target = "PICO"
-    #target = "PICOSentence"
+    #target = "PICO"
+    target = "PICOSentence"
     #target = "NYT"
 
     if target == "PICO":
@@ -309,7 +309,7 @@ def main():
                 is_classifier=True,
                 encoder="CNN",
                 num_tasks=1,
-                task_names=["Intervention"],
+                task_names=["Outcome"],
                 max_document_length=FLAGS.max_document_length,
                 cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
                 cnn_num_filters=FLAGS.cnn_num_filters,
