@@ -61,8 +61,8 @@ class NNModel:
         self.loss = None
         self.eval_metrics = {}
         self.saver = None
-        self.checkpoint_dir = os.path.join(running_dir, "train")
-        self.eval_dir = os.path.join(running_dir, "test")
+        self.checkpoint_dir = os.path.join(running_dir, "train/")
+        self.eval_dir = os.path.join(running_dir, "test/")
 
 
     def Graph(self):
@@ -101,6 +101,8 @@ class NNModel:
         elif self._encoder == "RNN":
             input_encoded = self._RNNLayers(embeddings)
 
+        self.input_encoded = input_encoded
+
         with tf.variable_scope("dropout"):
             input_encoded = tf.nn.dropout(input_encoded, 1-self.dropout)
 
@@ -121,7 +123,8 @@ class NNModel:
 
     def _classifier(self, input_encoded, output, weights):
         total_loss = tf.constant(0.0)
-        pooled_logits = []
+        pooled_scores = []
+        pooled_predictions = []
 
         for idx in range(self._num_tasks):
             gts = tf.expand_dims(output[:, idx], -1)
@@ -133,9 +136,11 @@ class NNModel:
                         kernel_regularizer=tf.contrib.layers.l2_regularizer(
                             self._l2_reg_lambda))
 
-                predictions = tf.argmax(logits, 1, name="predictions")
                 scores = tf.reduce_max(tf.nn.softmax(logits), 1)
-                pooled_logits.append(tf.nn.softmax(logits))
+                predictions = tf.argmax(logits, 1, name="predictions")
+
+                pooled_predictions.append(predictions)
+                pooled_scores.append(scores)
 
                 losses = tf.nn.softmax_cross_entropy_with_logits(logits=logits, labels=labels)
 
@@ -148,7 +153,9 @@ class NNModel:
 
                 total_loss += tf.reduce_mean(losses * wts)
 
-        return predictions, scores, total_loss
+        pooled_predictions = tf.stack(pooled_predictions, axis=1)
+        pooled_scores = tf.stack(pooled_scores, axis=1)
+        return pooled_predictions, pooled_scores, total_loss
 
     def _regressor(self, input_encoded, output, weights):
         total_loss = tf.constant(0.0)
@@ -172,6 +179,7 @@ class NNModel:
                         tf.contrib.metrics.streaming_pearson_correlation(
                             logits, gts, weights=wts))
 
+        pooled_logits = tf.stack(pooled_logits, axis=1)
         return pooled_logits, total_loss
 
     def _LoadInitEmbeddings(self):
@@ -308,8 +316,8 @@ def main():
                 mode=FLAGS.mode,
                 is_classifier=True,
                 encoder="CNN",
-                num_tasks=1,
-                task_names=["Outcome"],
+                num_tasks=3,
+                task_names=["Participants", "Intervention", "Outcome"],
                 max_document_length=FLAGS.max_document_length,
                 cnn_filter_sizes=list(map(int, FLAGS.cnn_filter_sizes.split(","))),
                 cnn_num_filters=FLAGS.cnn_num_filters,
@@ -317,7 +325,7 @@ def main():
                 rnn_cell_type=FLAGS.rnn_cell_type,
                 rnn_num_layers=FLAGS.rnn_num_layers)
 
-        document_reader = pico_sentence_reader.PICOSentenceReader(annotype="Intervention")
+        document_reader = pico_sentence_reader.PICOSentenceReader(annotype="multitask")
     elif target == "NYT":
         model = NNModel(
                 mode=FLAGS.mode,
@@ -338,15 +346,18 @@ def main():
 
     if FLAGS.mode == MODE_TRAIN:
         nn_utils.train(model, document_reader, FLAGS)
+    elif FLAGS.mode == MODE_INFER:
+        checkpoint = "./test/train/model-1000"
+        nn_utils.inference(model, document_reader, checkpoint, FLAGS)
 
 
 if __name__ == "__main__":
     flags = tf.app.flags
-    flags.DEFINE_string("mode", "train", "Model mode")
+    flags.DEFINE_string("mode", "inference", "Model mode")
     flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 32)")
     flags.DEFINE_integer("max_steps", 5000, "Max steps of training (default: 5000)")
     flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 100)")
-    tf.flags.DEFINE_integer("evaluate_every", 50,
+    tf.flags.DEFINE_integer("evaluate_every", 100,
         "Evaluate model on dev set after this many steps (default: 100)")
     tf.flags.DEFINE_integer("checkpoint_every", 1000,
         "Save model after this many steps (default: 1000)")
