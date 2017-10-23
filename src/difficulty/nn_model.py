@@ -14,6 +14,7 @@ W2VModelFILE="/mnt/data/workspace/nlp/w2v_models/PubMed-w2v.bin"
 EMBEDDING_DIM=200
 
 MODE_TRAIN = "train"
+MODE_EVAL = "eval"
 MODE_INFER = "inference"
 
 class NNModel:
@@ -346,14 +347,14 @@ def main():
 
     if FLAGS.mode == MODE_TRAIN:
         nn_utils.train(model, document_reader, FLAGS)
-    elif FLAGS.mode == MODE_INFER:
+    elif FLAGS.mode == MODE_EVAL:
         checkpoint = "./test/train/model-1000"
-        nn_utils.inference(model, document_reader, checkpoint, FLAGS)
+        nn_utils.eval(model, document_reader, checkpoint, FLAGS)
 
 
 if __name__ == "__main__":
     flags = tf.app.flags
-    flags.DEFINE_string("mode", "inference", "Model mode")
+    flags.DEFINE_string("mode", "eval", "Model mode")
     flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 32)")
     flags.DEFINE_integer("max_steps", 5000, "Max steps of training (default: 5000)")
     flags.DEFINE_integer("num_epochs", 100, "Number of training epochs (default: 100)")
@@ -372,6 +373,7 @@ if __name__ == "__main__":
     flags.DEFINE_string("cnn_filter_sizes", "3,4,5", "Filter sizes in CNN encoder")
     flags.DEFINE_integer("cnn_num_filters", 32,
         "Number of filters per filter size in CNN encoder")
+    flags.DEFINE_string("output_fname", "./tmp/output.out", "Output file")
 
     FLAGS = tf.flags.FLAGS
     main()

@@ -181,9 +181,10 @@ def train(model, document_reader, FLAGS):
                     output_preds(ofn, test_docids, scores, y_test)
                     print "######################################"
 
-def inference(model, document_reader, checkpoint, FLAGS):
+def eval(model, document_reader, checkpoint, FLAGS):
     reverse_weights = False
 
+    train_docids = document_reader.get_docids("train")
     x_train_text, y_train, x_train_w = document_reader.get_text_and_y("train", reverse_weights=reverse_weights)
     x_train_bw_text = [ " ".join(t.split()[::-1]) for t in x_train_text ]
     x_train_l = [ min(len(text.split()), FLAGS.max_document_length) for text in x_train_text ]
@@ -216,33 +217,54 @@ def inference(model, document_reader, checkpoint, FLAGS):
         else:
             x_train_bw = x_dev_bw = x_test_bw = None
 
+        fout = open(FLAGS.output_fname, 'w+')
+
+        def output(ids, preds, scores, encoeded_vectors):
+            for id, pred, score, vec in zip(ids, preds, scores, encoeded_vectors):
+                fout.write('{0}\t{1}\t{2}\t'.format(id, pred, score))
+                ostr = ""
+                for fv in vec:
+                    ostr += '{0} '.format(fv)
+                fout.write('[{0}]\n'.format(ostr.strip()))
 
         with tf.Session() as sess:
             model.saver.restore(sess, checkpoint)
 
             ## Train Set
-            feed_dict = prepare_feed_dict(model, x_train, x_train_l, y_train, x_train_w,
-                    x_train_bw, 0.0, FLAGS.rnn_bidirectional)
+            batch_size = 100
+            for batch_idx, i in enumerate(range(0, len(train_docids), batch_size)):
+                x_ids_batch = train_docids[i:i+batch_size]
+                x_batch = x_train[i:i+batch_size]
+                x_l_batch = x_train_l[i:i+batch_size]
+                x_w_batch = x_train_w[i:i+batch_size]
+                y_batch = y_train[i:i+batch_size]
 
-            preds, scores, encoded = sess.run(
-                    [pred_op, score_op, model.input_encoded], feed_dict)
+                if FLAGS.rnn_bidirectional:
+                    x_bw_train = x_train_bw[i:i+batch_size]
 
-            classifier_eval(y_train, preds, "Dev")
+                feed_dict = prepare_feed_dict(model, x_batch, x_l_batch, y_batch, x_w_batch,
+                        x_bw_train, 0.0, FLAGS.rnn_bidirectional)
+
+                preds, scores, encoded_vector = sess.run(
+                        [pred_op, score_op, model.input_encoded], feed_dict)
+                classifier_eval(y_batch, preds, "Train_{0}".format(batch_idx))
+
+                output(x_ids_batch, preds, scores, encoded_vector)
 
             ## Dev set
             feed_dict = prepare_feed_dict(model, x_dev, x_dev_l, y_dev, x_dev_w, x_dev_bw, 0.0,
                     FLAGS.rnn_bidirectional)
-
-            preds, scores, encoded = sess.run(
+            preds, scores, encoded_vector = sess.run(
                     [pred_op, score_op, model.input_encoded], feed_dict)
-
             classifier_eval(y_dev, preds, "Dev")
+            output(dev_docids, preds, scores, encoded_vector)
 
             ## Eval set
             feed_dict = prepare_feed_dict(model, x_test, x_test_l, y_test, x_test_w, x_test_bw,
                     0.0, FLAGS.rnn_bidirectional)
-
-            preds, scores, encoded = sess.run(
+            preds, scores, encoded_vector = sess.run(
                     [pred_op, score_op, model.input_encoded], feed_dict)
-
             classifier_eval(y_test, preds, "Test")
+            output(test_docids, preds, scores, encoded_vector)
+
+        fout.close()

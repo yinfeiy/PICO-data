@@ -23,8 +23,10 @@ class PICOSentenceReader:
 
         self.train_texts = []
         self.train_labels = []
+        self.train_ids = []
         self.test_texts = []
         self.test_labels = []
+        self.test_ids = []
         with open(DATASET) as fin:
             for line in fin:
                 item = json.loads(line)
@@ -36,7 +38,7 @@ class PICOSentenceReader:
                         is_train = False
                         break
 
-                for sent in item['parsed_text']['sents']:
+                for sent_idx, sent in enumerate(item['parsed_text']['sents']):
                     tokens = [t[0] for t in sent['tokens']]
 
                     if self._annotype == "multitask":
@@ -56,24 +58,26 @@ class PICOSentenceReader:
 
                         labels.append(label)
 
+                    sent_id = '{0}_{1}'.format(docid, sent_idx)
+
                     if is_train:
                         self.train_texts.append(text)
                         self.train_labels.append(labels)
+                        self.train_ids.append(sent_id)
                     else:
                         self.test_texts.append(text)
                         self.test_labels.append(labels)
+                        self.test_ids.append(sent_id)
         dev_portion = 0.1
         num_train = len(self.train_labels)
         th = int(dev_portion*num_train)
         self.dev_texts = self.train_texts[:th]
         self.dev_labels = self.train_labels[:th]
+        self.dev_ids = self.train_ids[:th]
 
         self.train_texts = self.train_texts[th:]
         self.train_labels = self.train_labels[th:]
-
-        self.train_ids = ["train_{0}".format(x) for x in range(len(self.train_labels))]
-        self.dev_ids = ["dev_{0}".format(x) for x in range(len(self.dev_labels))]
-        self.test_ids = ["test_{0}".format(x) for x in range(len(self.test_labels))]
+        self.train_ids = self.train_ids[th:]
 
 
     def get_text_and_y(self, mode, binary=True, reverse_weights=False):
