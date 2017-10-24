@@ -1,4 +1,3 @@
-from cnn import CNN
 try:
     from difficulty import data_utils
     from difficulty import features
@@ -100,35 +99,6 @@ class DifficultyModel:
         #self.model = LinearSVC(C=10, loss='hinge', max_iter=10000, random_state=42)
         self.model = SVC(C=1.0, kernel='rbf')
 
-
-    def prepare_cnn_task(self):
-        # Text and y
-        train_text, y_train = data_utils.load_text_and_y(self.docs, self.train_docids)
-        dev_text, y_dev = data_utils.load_text_and_y(self.docs, self.dev_docids)
-        test_text, y_test = data_utils.load_text_and_y(self.docs, self.test_docids)
-
-        y_train = np.array(y_train)
-        y_dev = np.array(y_dev)
-        y_test = np.array(y_test)
-
-        max_document_length = max([len(x.split(" ")) for x in train_text])
-        max_document_length = int(max_document_length * 0.9);
-
-        self.vocab = learn.preprocessing.VocabularyProcessor(max_document_length)
-
-        self.x_train = np.array(list(self.vocab.transform(train_text)))
-        self.y_train = np.expand_dims(y_train, 1) if len(y_train.shape) == 1 else y_train
-        self.y_train = data_utils.imputation(y_train)
-
-        self.x_dev = np.array(list(self.vocab.transform(dev_text)))
-        self.y_dev = np.expand_dims(y_dev, 1) if len(y_dev.shape) == 1 else y_dev
-        self.x_test = np.array(list(self.vocab.transform(test_text)))
-        self.y_test = np.expand_dims(y_test, 1) if len(y_test.shape) == 1 else y_test
-        self.y_test = data_utils.imputation(y_test)
-
-        self.model = CNN(self.vocab)
-
-
     def train(self):
         if self.classifier == 'SVM':
             if self.annotype == 'multitask':
@@ -140,11 +110,6 @@ class DifficultyModel:
             self.eval(self.x_train, self.y_train, msg="Training metrics")
             self.eval(self.x_dev, self.y_dev, msg="Development metrics")
             self.eval(self.x_test, self.y_test, msg="Testing metrics")
-
-        elif self.classifier == 'CNN':
-            self.prepare_cnn_task()
-            self.model.run(self.x_train, self.y_train, self.x_test, self.y_test, self.vocab)
-
 
     def eval(self, x, y, msg=None):
         if self.classifier == 'SVM':
