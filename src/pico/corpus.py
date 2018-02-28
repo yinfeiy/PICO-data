@@ -1,10 +1,15 @@
 import os
 import json
 import random
-from spacy.en import English
+
+try:
+    from spacy.en import English
+    sp = English()
+except:
+    import spacy
+    sp = spacy.load("en")
 
 random.seed(1395)
-sp = English()
 
 class Doc:
 
@@ -60,7 +65,7 @@ class Doc:
             return self.markups[annotype]
 
 
-    def set_groundtruth(self, gt_markups_offset, gt_wids=None):
+    def set_groundtruth(self, gt_markups_offset, gt_wids=None, min_vote=1):
         self.groundtruth_offset = gt_markups_offset
         self.groundtruth = {}
 
@@ -77,8 +82,12 @@ class Doc:
 
                 for span in spans:
                     for i in range(span[0], span[1]):
-                        mask[i] = 1
-
+                        mask[i] += 1
+            for i in range(self.ntokens):
+                if mask[i] >= min_vote:
+                    mask[i] = 1
+                else:
+                    mask[i] = 0
             self.groundtruth[annotype] = self._mask2spans(mask)
 
 
@@ -252,7 +261,7 @@ class Corpus:
                 self.docs[docid] = Doc(docid, anno, spacydoc)
 
 
-    def load_groundtruth(self, gt_fn, gt_wids=None):
+    def load_groundtruth(self, gt_fn, gt_wids=None, min_vote=1):
         """
         Load groundtruth for corpus, has to been called after load annotation
         """
@@ -267,7 +276,7 @@ class Corpus:
                         print '[WARN] doc {0} is not loaded yet'.format(docid)
                     continue
 
-                self.docs[docid].set_groundtruth(anno, gt_wids)
+                self.docs[docid].set_groundtruth(anno, gt_wids, min_vote)
 
 
     def load_aggregation(self, agg_fn, agg_ids=None):

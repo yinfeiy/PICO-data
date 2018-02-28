@@ -6,4 +6,4 @@ This repo contains raw annotaions for PICO dataset. A SDK and sample codes are p
 
 - Python 2
 - [spaCy](http://spacy.io) for basic tokenization etc
-- Sample code in [examples/](./examples/) folder
+- Sample code in [examples/](./src/examples/) folder

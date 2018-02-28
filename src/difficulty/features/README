@@ -1,0 +1,9 @@
+1. MeSH terms. You did this early on but so much in the data and definitions has changed, I think it is worth doing it again and comparing with current results
+
+2. Standard Automated Readability Index. I do not expect this to be useful for our data, it should be all values > 16, most difficult, but again for completeness and in case people ask, we'd need to have these results.
+https://pypi.python.org/pypi/readability
+
+3. Lucia Specia and her collaborators have done much work on simplification. For this they first need to identify which words are difficult. One of the things they did that works well is to consider hard words that do not appear on a spoken corpus. We can use that as a feature, fraction of words not in the corpus.
+http://ghpaetzold.github.io/subimdb/
+
+4. Perplexity from language models (trained on news or medical abstracts). This one depends on the length of the abstract, so I'd something like the average of 5 blocks of fixed small length.
