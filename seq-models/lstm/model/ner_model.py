@@ -7,6 +7,38 @@ from .data_utils import minibatches, pad_sequences, get_chunks
 from .general_utils import Progbar
 from .base_model import BaseModel
 
+def mask2spans(mask):
+    spans = []
+    if mask[0] == 1:
+        sidx = 0
+    for idx, v in enumerate(mask[1:], 1):
+        if v==1 and mask[idx-1] == 0: # start of span
+            sidx = idx
+        elif v==0 and mask[idx-1] == 1 : # end of span
+            eidx = idx
+            spans.append( (sidx, eidx) )
+    return spans
+
+def precision(spans, ref_mask):
+    if len(spans) == 0: return 0
+    precision_arr = []
+    for span in spans:
+        length = span[1]-span[0]
+        poss = sum(ref_mask[span[0]:span[1]])
+        precision_arr.append(1.0*poss / length)
+    precision = np.mean(precision_arr)
+
+    return precision
+
+def recall(gold_spans, anno_mask):
+    recall_arr = []
+    for span in gold_spans:
+        length = span[1]-span[0]
+        poss = sum(anno_mask[span[0]:span[1]])
+        recall_arr.append(1.0*poss / length)
+    recall = np.mean(recall_arr)
+
+    return recall
 
 class NERModel(BaseModel):
     """Specialized class of Model for NER"""
@@ -366,6 +398,9 @@ class NERModel(BaseModel):
 
         """
         annotypes = ['Intervention', 'Participants', 'Outcome']
+        true_mask, pred_mask = [], []
+
+            
         pico_metrics = {'correct_preds': {}, 'total_preds': {}, 'total_correct': {}}
         for keys in pico_metrics:
             for annotype in annotypes:
@@ -386,9 +421,11 @@ class NERModel(BaseModel):
                 lab_chunks      = set(get_chunks(lab, self.config.vocab_tags))
                 lab_pred_chunks = set(get_chunks(lab_pred,
                                                  self.config.vocab_tags))
-                '''print lab
-                print lab_pred
-                print lab_chunks'''
+
+                true_mask.extend(lab)
+                pred_mask.extend(lab_pred)
+
+                
                 p_lab_chunks = set([item for item in lab_chunks if item[0] == 'P'])
                 p_lab_pred_chunks = set([item for item in lab_pred_chunks if item[0] == 'P'])
                 i_lab_chunks = set([item for item in lab_chunks if item[0] == 'I'])
@@ -421,46 +458,19 @@ class NERModel(BaseModel):
         f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
         acc = np.mean(accs)
 
-        annotype = 'Participants'
-        print annotype
-        correct_preds = pico_metrics['correct_preds'][annotype]
-        total_preds = pico_metrics['total_preds'][annotype]
-        total_correct = pico_metrics['total_correct'][annotype]
-        p   = correct_preds / total_preds if correct_preds > 0 else 0
-        r   = correct_preds / total_correct if correct_preds > 0 else 0
-        f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
-        acc = np.mean(p_accs)
-        print 100*p
-        print 100*r
-        print f1
-        print 100*acc
+        true_mask.append(0); pred_mask.append(0)
         
-        annotype = 'Intervention'
-        print '\n' + annotype
-        correct_preds = pico_metrics['correct_preds'][annotype]
-        total_preds = pico_metrics['total_preds'][annotype]
-        total_correct = pico_metrics['total_correct'][annotype]
-        p   = correct_preds / total_preds if correct_preds > 0 else 0
-        r   = correct_preds / total_correct if correct_preds > 0 else 0
-        f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
-        acc = np.mean(i_accs)
-        print 100*p
-        print 100*r
-        print f1
-        print 100*acc
+        true_spans = mask2spans(true_mask)
+        pred_spans = mask2spans(pred_mask)
+        
+        prec = precision(pred_spans, true_mask)
+        recl = recall(true_spans, true_mask)
+        acc = accuracy(true_mask, pred_mask)
+        fm = 2*prec*recl/(prec+recl)
 
-        annotype = 'Outcome'
-        print '\n' + annotype
-        correct_preds = pico_metrics['correct_preds'][annotype]
-        total_preds = pico_metrics['total_preds'][annotype]
-        total_correct = pico_metrics['total_correct'][annotype]
-        p   = correct_preds / total_preds if correct_preds > 0 else 0
-        r   = correct_preds / total_correct if correct_preds > 0 else 0
-        f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
-        acc = np.mean(o_accs)
-        print 100*p
-        print 100*r
-        print 100*f1
-        print 100*acc
+        print 'prec: ' + str(prec)
+        print 'recl: ' + str(recl)
+        print 'fm: ' + str(fm)
+        print 'acc: ' + str(acc)
         
-        return {"acc": 100*acc, "f1": 100*f1, "prec": 100*p, "recl": 100*r}
+        return {"acc": 100*acc, "f1": 100*f1, "prec": 100*prec, "recl": 100*recl}
