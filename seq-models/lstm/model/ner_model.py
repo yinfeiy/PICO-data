@@ -472,6 +472,7 @@ class NERModel(BaseModel):
         print 'acc: ' + str(acc)
 
         print 'Intervention:'
+        true_mask, pred_mask = true, pred
         true_mask = [1 if item == 0 else 0 for item in true_mask]
         pred_mask = [1 if item == 0 else 0 for item in pred_mask]
         true_mask.append(0); pred_mask.append(0)
@@ -490,6 +491,8 @@ class NERModel(BaseModel):
         print 'acc: ' + str(acc)
 
         print 'Outcome:'
+        true_mask, pred_mask = true, pred
+
         true_mask = [1 if item == 2 else 0 for item in true_mask]
         pred_mask = [1 if item == 2 else 0 for item in pred_mask]
         true_mask.append(0); pred_mask.append(0)
