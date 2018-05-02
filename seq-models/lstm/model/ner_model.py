@@ -30,6 +30,15 @@ def precision(spans, ref_mask):
 
     return precision
 
+def accuracy(gold_mask, ref_mask):
+    acc = 0.0
+
+    for i in range(len(gold_mask)):
+        if gold_mask[i] == ref_mask[i]:
+            acc += 1
+
+    return acc/len(gold_mask)
+
 def recall(gold_spans, anno_mask):
     recall_arr = []
     for span in gold_spans:
@@ -332,7 +341,7 @@ class NERModel(BaseModel):
         return metrics["f1"]
 
 
-    def run_evaluate(self, test):
+    def run_evaluate_2(self, test):
         """Evaluates performance on test set
 
         Args:
@@ -387,7 +396,7 @@ class NERModel(BaseModel):
 
         return preds
 
-    def run_evaluate_2(self, test):
+    def run_evaluate(self, test):
         """Evaluates performance on test set
 
         Args:
@@ -458,6 +467,8 @@ class NERModel(BaseModel):
         f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
         acc = np.mean(accs)
 
+        true_mask = [1 if item == 0 else 0 for item in true_mask]
+        pred_mask = [1 if item == 0 else 0 for item in pred_mask]
         true_mask.append(0); pred_mask.append(0)
         
         true_spans = mask2spans(true_mask)
