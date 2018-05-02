@@ -450,23 +450,28 @@ class NERModel(BaseModel):
                 i_accs += [a==b for (a, b) in zip(lab, lab_pred) if a == 0]
                 o_accs += [a==b for (a, b) in zip(lab, lab_pred) if a == 2]
                 
-                pico_metrics['correct_preds']['Participants'] += len(p_lab_chunks & p_lab_pred_chunks)
-                pico_metrics['total_preds']['Participants'] += len(p_lab_pred_chunks)
-                pico_metrics['total_correct']['Participants'] += len(p_lab_chunks)
+        #Int = 0, Part = 1, Out = 2, None = 3
+        true, pred = [item for item in true_mask], [item for item in pred_mask]
+        #Part
+        print 'Participants:'
+        true_mask = [1 if item == 1 else 0 for item in true_mask]
+        pred_mask = [1 if item == 1 else 0 for item in pred_mask]
+        true_mask.append(0); pred_mask.append(0)
+        
+        true_spans = mask2spans(true_mask)
+        pred_spans = mask2spans(pred_mask)
+        
+        prec = precision(pred_spans, true_mask)
+        recl = recall(true_spans, true_mask)
+        acc = accuracy(true_mask, pred_mask)
+        fm = 2*prec*recl/(prec+recl)
 
-                pico_metrics['correct_preds']['Intervention'] += len(i_lab_chunks & i_lab_pred_chunks)
-                pico_metrics['total_preds']['Intervention'] += len(i_lab_pred_chunks)
-                pico_metrics['total_correct']['Intervention'] += len(i_lab_chunks)
+        print 'prec: ' + str(prec)
+        print 'recl: ' + str(recl)
+        print 'fm: ' + str(fm)
+        print 'acc: ' + str(acc)
 
-                pico_metrics['correct_preds']['Outcome'] += len(o_lab_chunks & o_lab_pred_chunks)
-                pico_metrics['total_preds']['Outcome'] += len(o_lab_pred_chunks)
-                pico_metrics['total_correct']['Outcome'] += len(o_lab_chunks)
-
-        p   = correct_preds / total_preds if correct_preds > 0 else 0
-        r   = correct_preds / total_correct if correct_preds > 0 else 0
-        f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
-        acc = np.mean(accs)
-
+        print 'Intervention:'
         true_mask = [1 if item == 0 else 0 for item in true_mask]
         pred_mask = [1 if item == 0 else 0 for item in pred_mask]
         true_mask.append(0); pred_mask.append(0)
@@ -483,5 +488,23 @@ class NERModel(BaseModel):
         print 'recl: ' + str(recl)
         print 'fm: ' + str(fm)
         print 'acc: ' + str(acc)
+
+        print 'Outcome:'
+        true_mask = [1 if item == 2 else 0 for item in true_mask]
+        pred_mask = [1 if item == 2 else 0 for item in pred_mask]
+        true_mask.append(0); pred_mask.append(0)
         
-        return {"acc": 100*acc, "f1": 100*f1, "prec": 100*prec, "recl": 100*recl}
+        true_spans = mask2spans(true_mask)
+        pred_spans = mask2spans(pred_mask)
+        
+        prec = precision(pred_spans, true_mask)
+        recl = recall(true_spans, true_mask)
+        acc = accuracy(true_mask, pred_mask)
+        fm = 2*prec*recl/(prec+recl)
+
+        print 'prec: ' + str(prec)
+        print 'recl: ' + str(recl)
+        print 'fm: ' + str(fm)
+        print 'acc: ' + str(acc)
+        
+        return {"acc": 100*acc, "f1": 100*fm, "prec": 100*prec, "recl": 100*recl}
